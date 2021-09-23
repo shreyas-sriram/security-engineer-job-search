@@ -1,3 +1,223 @@
+## Security Engineer, CSC
+> 20 Sep 2021
+
+<details><summary>How would I empty an airplane filled with jelly beans.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Information Security Engineer, GeniusRx
+> 9 Sep 2021
+
+<details><summary>The 2 ladies in HR kept talking about the company history and "personalities" but had no questions. The only question was "do you have any question for me" to which I asked a couple of questions and both ladies were completely clueless.</summary>
+<p>
+
+- IT showed up to the interview with their beds in the background (zoom call) . Sheets unmade and dirty clothes on the floor. Seemed like a bunch of unprofessional and lazy individuals out to accomplish nothing. I dont think this company is going places.
+
+</p>
+</details>
+
+## Information Security Engineer, Safelite AutoGlass
+> 8 Sep 2021
+
+<details><summary>Mostly typical interview question for a position like this.</summary>
+<p>
+
+- I thin I answered them well.
+
+</p>
+</details>
+
+## Network Security Engineer, Infosys
+> 7 Sep 2021
+
+<details><summary>Technology related questions and domain related questions</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Vehicle Security Engineer, Nuro
+> 28 Aug 2021
+
+<details><summary>What do you hope to gain out of this position?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Information Security Engineer, Citizens
+> 27 Aug 2021
+
+<details><summary>Take me through your career from the start to present day and how you got to where you are today.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Security Engineer, Check Point Software Technologies
+> 25 Aug 2021
+
+<details><summary>They were very interested in my cloud background given the focus on their cloud family of products, CloudGuard.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Cyber Security Engineer, AT&T
+> 24 Aug 2021
+
+<details><summary>What is your experience in configuring log collection?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Applications Security Engineer, Allstate
+> 19 Aug 2021
+
+<details><summary>Describe the difference in Hashing and Cryptography.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Entry Level Cyber Security Engineer, General Atomics
+> 4 Aug 2021
+
+<details><summary>Cookie cutter interview. Tell me about yourself.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Security Engineer, Apple
+> 4 Aug 2021
+
+<details><summary>What is SQL injection? How do you mitigate it?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Cyber Security Engineer, Lindsay Corporation
+> 4 Aug 2021
+
+<details><summary>Can you describe what your ideal incident response process would entail?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Concierge Security Engineer, Arctic Wolf
+> 30 Jul 2021
+
+<details><summary>We expect you to “fail” when you’re new. Describe a time when you failed and what you did after.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Concierge Security Engineer, Arctic Wolf
+> 30 Jul 2021
+
+<details><summary>You’re the brand new CISO of a small company and want to secure your endpoints. What is your first step?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Concierge Security Engineer, Arctic Wolf
+> 30 Jul 2021
+
+<details><summary>Describe the difference between an IPS, IDS and Firewall; how would you use them?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Senior Information Security Engineer, Skedulo
+> 28 Jul 2021
+
+<details><summary>Describe your experience with risk assessment and compliance frameworks.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Pre Sales Security Engineer, Tanium
+> 27 Jul 2021
+
+<details><summary>Very basic cybersecurity knowledge and overall depth.</summary>
+<p>
+
+- They were standard stuff.
+
+</p>
+</details>
+
+## Security Operations Engineer, Blend
+> 23 Jul 2021
+
+<details><summary>Security, Python, Automation, Detection, Networking.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Application Security Engineer, Red Ventures
+> 20 Jul 2021
+
+<details><summary>How would you automate security scanning? Describe a role that involved that automation?</summary>
+<p>
+
+- Provided about 4 different examples how I was currently conducting automation via Burp, zap, qualys and snyk
+
+</p>
+</details>
+
+## Security Software Engineer, SpaceX
+> 20 Jul 2021
+
+<details><summary>How much do you know about different encryption schemes?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
 ## Offensive Security Engineer, Zoom Video Communications
 > 8 Jul 2021
 
@@ -31,10 +251,21 @@
 </p>
 </details>
 
-## Endpoint Security Engineer, Microsoft
-> 17 Jun 2021
+## IT Security Engineer, Socure
+> 24 Jun 2021
 
-<details><summary>How would you deal with a machine which has been infected with a Virus? What would your first steps be and how would you resolved the dammages.</summary>
+<details><summary>basic cyber security questions and self introduction.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## IT Security Engineer, Socure
+> 24 Jun 2021
+
+<details><summary>basic cyber security questions and self introduction.</summary>
 <p>
 
 - No answers
@@ -119,7 +350,7 @@
 </p>
 </details>
 
-## Cyber Security Engineer, Faith Technologies
+## Cyber Security Engineer, Faith Technologies Incorporated
 > 17 May 2021
 
 <details><summary>How do you set up the devscops model? What are your recommendations to mature the security posture of the organization? How do you fit into the team?</summary>
@@ -661,10 +892,10 @@
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 Jan 2021
 
-<details><summary>Tell me about yourself ?</summary>
+<details><summary>Industry standard questions that every candidate expect to be asked</summary>
 <p>
 
-- I told them about my self
+- No answers
 
 </p>
 </details>
@@ -672,10 +903,10 @@
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 Jan 2021
 
-<details><summary>Industry standard questions that every candidate expect to be asked</summary>
+<details><summary>Tell me about yourself ?</summary>
 <p>
 
-- No answers
+- I told them about my self
 
 </p>
 </details>
@@ -927,7 +1158,7 @@
 ## Security Engineer, iCIMS
 > 16 Nov 2020
 
-<details><summary>Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?</summary>
+<details><summary>How do you stay up to date with the latest in Security Trends?</summary>
 <p>
 
 - No answers
@@ -938,7 +1169,7 @@
 ## Security Engineer, iCIMS
 > 16 Nov 2020
 
-<details><summary>How do you stay up to date with the latest in Security Trends?</summary>
+<details><summary>Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?</summary>
 <p>
 
 - No answers
@@ -1081,7 +1312,7 @@
 ## Principal Security Engineer, Zipwhip
 > 12 Oct 2020
 
-<details><summary>Conducting Threat Modeling on a given scenario</summary>
+<details><summary>How to secure multiple AWS accounts</summary>
 <p>
 
 - No answers
@@ -1092,7 +1323,7 @@
 ## Principal Security Engineer, Zipwhip
 > 12 Oct 2020
 
-<details><summary>How to secure multiple AWS accounts</summary>
+<details><summary>Conducting Threat Modeling on a given scenario</summary>
 <p>
 
 - No answers
@@ -1125,7 +1356,7 @@
 ## Systems Software Security Engineer, NVIDIA
 > 6 Oct 2020
 
-<details><summary>With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code</summary>
+<details><summary>Find security bugs in given code</summary>
 <p>
 
 - No answers
@@ -1136,7 +1367,7 @@
 ## Systems Software Security Engineer, NVIDIA
 > 6 Oct 2020
 
-<details><summary>Find security bugs in given code</summary>
+<details><summary>With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code</summary>
 <p>
 
 - No answers
@@ -1202,10 +1433,10 @@
 ## Information Security Engineer, Snap
 > 3 Sep 2020
 
-<details><summary>Do you have any questions for me - Right off the cuff</summary>
+<details><summary>Explain ssl or ssh and break it down in as much detail as you can.</summary>
 <p>
 
-- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore. There's a lot of Information Security Engineer experts who've worked at Snap, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully. prepfully.com/practice-interviews
+- In these sorts of interviews you really need to drill down and understand what the interviewer is looking for. A good way to simulate a real interview experience is to do a mock with one of the Snap Information Security Engineer experts on Prepfully, rated super strongly on TrustPilot... prepfully.com/practice-interviews
 
 </p>
 </details>
@@ -1213,10 +1444,10 @@
 ## Information Security Engineer, Snap
 > 3 Sep 2020
 
-<details><summary>Explain ssl or ssh and break it down in as much detail as you can.</summary>
+<details><summary>Do you have any questions for me - Right off the cuff</summary>
 <p>
 
-- In these sorts of interviews you really need to drill down and understand what the interviewer is looking for. A good way to simulate a real interview experience is to do a mock with one of the Snap Information Security Engineer experts on Prepfully, rated super strongly on TrustPilot... prepfully.com/practice-interviews
+- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore. There's a lot of Information Security Engineer experts who've worked at Snap, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully. prepfully.com/practice-interviews
 
 </p>
 </details>
@@ -1590,17 +1821,6 @@
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>What experience do you have implementing security into the DevOps process?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Applications Security Engineer, Coveros
-> 13 Jan 2020
-
 <details><summary>Do you have experiencing scripting out the CI/CD process?</summary>
 <p>
 
@@ -1612,18 +1832,7 @@
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>What is the OWASP Top 10? What's your experience working with it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Applications Security Engineer, Coveros
-> 13 Jan 2020
-
-<details><summary>Tell me about your experience with DevSecOps ?</summary>
+<details><summary>What experience do you have implementing security into the DevOps process?</summary>
 <p>
 
 - No answers
@@ -1645,7 +1854,29 @@
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
+<details><summary>Tell me about your experience with DevSecOps ?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Applications Security Engineer, Coveros
+> 13 Jan 2020
+
 <details><summary>Tell me about your experience securing cloud services?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Applications Security Engineer, Coveros
+> 13 Jan 2020
+
+<details><summary>What is the OWASP Top 10? What's your experience working with it?</summary>
 <p>
 
 - No answers
@@ -1755,18 +1986,7 @@
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>Network traffic and capture analysis in relation to the compromised system, describe a process, what are you going to look for in the first place, how are you going to identify and deal with the encrypted traffic.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Information Security Engineer, J.P. Morgan
-> 9 Nov 2019
-
-<details><summary>Windows API hooks, user mode, kernel mode, address tables, splicing, detection.</summary>
+<details><summary>NTFS filesystem metadata analysis, journal, and usn logs, deleted files, metadata inconsistency</summary>
 <p>
 
 - No answers
@@ -1788,17 +2008,6 @@
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>NTFS filesystem metadata analysis, journal, and usn logs, deleted files, metadata inconsistency</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Information Security Engineer, J.P. Morgan
-> 9 Nov 2019
-
 <details><summary>Fileless malware, ways of infection and persistence, detection on the already compromised system.</summary>
 <p>
 
@@ -1810,7 +2019,18 @@
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>You got the memory dump of a potentially compromised system, how are you going to approach its analysis.</summary>
+<details><summary>Windows API hooks, user mode, kernel mode, address tables, splicing, detection.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Information Security Engineer, J.P. Morgan
+> 9 Nov 2019
+
+<details><summary>Network traffic and capture analysis in relation to the compromised system, describe a process, what are you going to look for in the first place, how are you going to identify and deal with the encrypted traffic.</summary>
 <p>
 
 - No answers
@@ -1822,6 +2042,17 @@
 > 9 Nov 2019
 
 <details><summary>Suspicious email analysis walk through, headers, content, attachments, static/dynamic analysis, verdict, signature creation.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Information Security Engineer, J.P. Morgan
+> 9 Nov 2019
+
+<details><summary>You got the memory dump of a potentially compromised system, how are you going to approach its analysis.</summary>
 <p>
 
 - No answers
@@ -1865,7 +2096,7 @@
 ## Security Engineer, 100x
 > 6 Nov 2019
 
-<details><summary>low level systems</summary>
+<details><summary>a programming question (I forget the details)</summary>
 <p>
 
 - No answers
@@ -1876,7 +2107,7 @@
 ## Security Engineer, 100x
 > 6 Nov 2019
 
-<details><summary>a programming question (I forget the details)</summary>
+<details><summary>low level systems</summary>
 <p>
 
 - No answers
@@ -1921,6 +2152,17 @@
 ## IT Security Engineer, Copart
 > 23 Oct 2019
 
+<details><summary>Few other cyber attacks and their prevention.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## IT Security Engineer, Copart
+> 23 Oct 2019
+
 <details><summary>What is your daily routine at work?</summary>
 <p>
 
@@ -1933,17 +2175,6 @@
 > 23 Oct 2019
 
 <details><summary>SQL injection and its prevention.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## IT Security Engineer, Copart
-> 23 Oct 2019
-
-<details><summary>Few other cyber attacks and their prevention.</summary>
 <p>
 
 - No answers
@@ -2009,7 +2240,7 @@
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-<details><summary>Professional Development and what you want to do questions</summary>
+<details><summary>Technical questions regarding CIA triad, OSI model, proxy, VPN, NIST/FIPS documentation.</summary>
 <p>
 
 - No answers
@@ -2020,7 +2251,7 @@
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-<details><summary>Technical questions regarding CIA triad, OSI model, proxy, VPN, NIST/FIPS documentation.</summary>
+<details><summary>Professional Development and what you want to do questions</summary>
 <p>
 
 - No answers
@@ -2108,17 +2339,6 @@
 ## Cloud Security Engineer, Abacus Insights
 > 20 Sep 2019
 
-<details><summary>Can you describe a technical project you worked on recently? This led to many follow-up questions ranging from process, to technical details.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Cloud Security Engineer, Abacus Insights
-> 20 Sep 2019
-
 <details><summary>Can you explain a security incident you've handled recently? Start from initial detection all the way through remediation. What steps did you take to prevent this from happening again?</summary>
 <p>
 
@@ -2131,6 +2351,17 @@
 > 20 Sep 2019
 
 <details><summary>Describe a scenario in which you brought your security POV to a discussion with devs. What influence did you have? How did you approach it? Why did you pitch X instead of Y? Can you explain the technical details of the discussion?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Cloud Security Engineer, Abacus Insights
+> 20 Sep 2019
+
+<details><summary>Can you describe a technical project you worked on recently? This led to many follow-up questions ranging from process, to technical details.</summary>
 <p>
 
 - No answers
@@ -2229,7 +2460,7 @@
 ## Software Security Engineer, Yelp
 > 27 Aug 2019
 
-<details><summary>Number to English words</summary>
+<details><summary>Load balancer with weights</summary>
 <p>
 
 - No answers
@@ -2240,7 +2471,7 @@
 ## Software Security Engineer, Yelp
 > 27 Aug 2019
 
-<details><summary>Load balancer with weights</summary>
+<details><summary>Number to English words</summary>
 <p>
 
 - No answers
@@ -2504,7 +2735,7 @@
 ## Security Engineer, Google
 > 18 Jun 2019
 
-<details><summary>Really high level of questions like how you will protect a network, and dive really deep into details according to your answers. You have to really understand everything you said to catch up with the following question interviewers asked.</summary>
+<details><summary>Had two really simple and easy scripting question during the onsite interview</summary>
 <p>
 
 - No answers
@@ -2515,7 +2746,7 @@
 ## Security Engineer, Google
 > 18 Jun 2019
 
-<details><summary>Had two really simple and easy scripting question during the onsite interview</summary>
+<details><summary>Really high level of questions like how you will protect a network, and dive really deep into details according to your answers. You have to really understand everything you said to catch up with the following question interviewers asked.</summary>
 <p>
 
 - No answers
@@ -2570,10 +2801,11 @@
 ## Security Engineer, Uber
 > 24 May 2019
 
-<details><summary>what is public key cryptography</summary>
+<details><summary>integer bit palindrome</summary>
 <p>
 
-- No answers
+- how many question does the coding interview consists of?
+- Only one
 
 </p>
 </details>
@@ -2581,11 +2813,10 @@
 ## Security Engineer, Uber
 > 24 May 2019
 
-<details><summary>integer bit palindrome</summary>
+<details><summary>what is public key cryptography</summary>
 <p>
 
-- how many question does the coding interview consists of?
-- Only one
+- No answers
 
 </p>
 </details>
@@ -2846,17 +3077,6 @@
 ## Information Security Engineer, Paxos
 > 15 Mar 2019
 
-<details><summary>Explain SSL</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Information Security Engineer, Paxos
-> 15 Mar 2019
-
 <details><summary>Here's a laptop - Write a script that prints the first 25 primes in any language.</summary>
 <p>
 
@@ -2869,6 +3089,17 @@
 > 15 Mar 2019
 
 <details><summary>What are some quick IT Sec wins - Can you encrypt everything at rest?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Information Security Engineer, Paxos
+> 15 Mar 2019
+
+<details><summary>Explain SSL</summary>
 <p>
 
 - No answers
@@ -2912,7 +3143,7 @@
 ## Applications Security Engineer, Travelers
 > 6 Mar 2019
 
-<details><summary>How do you ensure the development team knows the seriousness of the vulnerabilities reported?</summary>
+<details><summary>How do we implement SSDLC in a CI/CD scenario</summary>
 <p>
 
 - No answers
@@ -2923,7 +3154,7 @@
 ## Applications Security Engineer, Travelers
 > 6 Mar 2019
 
-<details><summary>How do we implement SSDLC in a CI/CD scenario</summary>
+<details><summary>How do you ensure the development team knows the seriousness of the vulnerabilities reported?</summary>
 <p>
 
 - No answers
@@ -2949,28 +3180,6 @@
 <p>
 
 - A placement group is a way to have infrastructure live on the same hardware so you have the lowest latency possible.
-
-</p>
-</details>
-
-## Security Engineer, Check Point Software Technologies
-> 27 Feb 2019
-
-<details><summary>What is the difference between a router and a firewall?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Security Engineer, Check Point Software Technologies
-> 27 Feb 2019
-
-<details><summary>Can you describe a task where the customer was difficult and how did you handle it?</summary>
-<p>
-
-- No answers
 
 </p>
 </details>
@@ -3004,6 +3213,28 @@
 <p>
 
 - YOU MUST BE WILLING TO RELOCATE. I was not.
+
+</p>
+</details>
+
+## Security Engineer, Check Point Software Technologies
+> 27 Feb 2019
+
+<details><summary>Can you describe a task where the customer was difficult and how did you handle it?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Security Engineer, Check Point Software Technologies
+> 27 Feb 2019
+
+<details><summary>What is the difference between a router and a firewall?</summary>
+<p>
+
+- No answers
 
 </p>
 </details>
@@ -3055,10 +3286,10 @@
 ## Security Engineer, The Blackstone Group
 > 9 Feb 2019
 
-<details><summary>How would you fix (insert broken product here )</summary>
+<details><summary>What do you like doing after work?</summary>
 <p>
 
-- Can’t divulge the product but I spent about 5 minutes going over best practices for a smooth deployment
+- No answers
 
 </p>
 </details>
@@ -3066,10 +3297,10 @@
 ## Security Engineer, The Blackstone Group
 > 9 Feb 2019
 
-<details><summary>What do you like doing after work?</summary>
+<details><summary>How would you fix (insert broken product here )</summary>
 <p>
 
-- No answers
+- Can’t divulge the product but I spent about 5 minutes going over best practices for a smooth deployment
 
 </p>
 </details>
@@ -3165,7 +3396,7 @@
 ## Security Engineer III, Mercury Systems
 > 15 Jan 2019
 
-<details><summary>What is my experience and background with help desk, or customer service?</summary>
+<details><summary>How would I best handle a difficult situation if there was no one around to help?</summary>
 <p>
 
 - No answers
@@ -3176,7 +3407,7 @@
 ## Security Engineer III, Mercury Systems
 > 15 Jan 2019
 
-<details><summary>How would I best handle a difficult situation if there was no one around to help?</summary>
+<details><summary>What is my experience and background with help desk, or customer service?</summary>
 <p>
 
 - No answers
@@ -3209,7 +3440,7 @@
 ## Senior Security Engineer, GitLab
 > 11 Jan 2019
 
-<details><summary>I had no security related questions at all. What code have you written?</summary>
+<details><summary>Why you want to work at Gitlab?</summary>
 <p>
 
 - No answers
@@ -3220,7 +3451,7 @@
 ## Senior Security Engineer, GitLab
 > 11 Jan 2019
 
-<details><summary>Why you want to work at Gitlab?</summary>
+<details><summary>I had no security related questions at all. What code have you written?</summary>
 <p>
 
 - No answers
@@ -3363,10 +3594,10 @@
 ## Cyber Security Engineer, Darktrace
 > 21 Nov 2018
 
-<details><summary>General questions about resume, background, tell me about yourself, why do you want to work in cybersecurity, tell me about a time you experienced a challenge and had to pick up a new skill quickly.</summary>
+<details><summary>Know basic cybersecurity ish, traceroute, ping, TCP/IP, UDP troubleshooting, threats, vulnerabilities etc</summary>
 <p>
 
-- No answers
+- I did not know how to explain a traceroute and that was very bad.
 
 </p>
 </details>
@@ -3374,10 +3605,10 @@
 ## Cyber Security Engineer, Darktrace
 > 21 Nov 2018
 
-<details><summary>Know basic cybersecurity ish, traceroute, ping, TCP/IP, UDP troubleshooting, threats, vulnerabilities etc</summary>
+<details><summary>General questions about resume, background, tell me about yourself, why do you want to work in cybersecurity, tell me about a time you experienced a challenge and had to pick up a new skill quickly.</summary>
 <p>
 
-- I did not know how to explain a traceroute and that was very bad.
+- No answers
 
 </p>
 </details>
@@ -3583,6 +3814,17 @@
 ## Security Engineer, Tinder
 > 9 Sep 2018
 
+<details><summary>what would you do if someone calls claiming he has malware on his mac?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Security Engineer, Tinder
+> 9 Sep 2018
+
 <details><summary>what will you do to harden the Mac OSX once given it to you fresh out of the box?</summary>
 <p>
 
@@ -3595,17 +3837,6 @@
 > 9 Sep 2018
 
 <details><summary>do you have any questions for me given we only have two minutes left?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Security Engineer, Tinder
-> 9 Sep 2018
-
-<details><summary>what would you do if someone calls claiming he has malware on his mac?</summary>
 <p>
 
 - No answers
@@ -3763,7 +3994,7 @@
 ## Enterprise IT Security Engineer, Intrado
 > 9 Jul 2018
 
-<details><summary>What port does ping use</summary>
+<details><summary>Explain how traceroute works</summary>
 <p>
 
 - No answers
@@ -3774,7 +4005,7 @@
 ## Enterprise IT Security Engineer, Intrado
 > 9 Jul 2018
 
-<details><summary>Explain how traceroute works</summary>
+<details><summary>What port does ping use</summary>
 <p>
 
 - No answers
@@ -4038,10 +4269,10 @@
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>How do you like to work with others?</summary>
+<details><summary>How to find persistent threats?</summary>
 <p>
 
-- No answers
+- Increasing monitoring and detective capabilities of your network infrastructure is critical for identifying APT threats
 
 </p>
 </details>
@@ -4060,10 +4291,10 @@
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>How to find persistent threats?</summary>
+<details><summary>How do you like to work with others?</summary>
 <p>
 
-- Increasing monitoring and detective capabilities of your network infrastructure is critical for identifying APT threats
+- No answers
 
 </p>
 </details>
@@ -4082,7 +4313,7 @@
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>A time when a TTP worked better than an IOC.</summary>
+<details><summary>What is the coolest malware or hack you have researched or analyzed.</summary>
 <p>
 
 - No answers
@@ -4093,7 +4324,7 @@
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>What is the coolest malware or hack you have researched or analyzed.</summary>
+<details><summary>A time when a TTP worked better than an IOC.</summary>
 <p>
 
 - No answers
@@ -4247,7 +4478,7 @@
 ## Security Engineer, New Grad, Samsara
 > 8 Apr 2018
 
-<details><summary>Given 2 lists of tuples [(time1,time2),...] and [(time3,time4)], return a list of tuples of time ranges at which times intersect</summary>
+<details><summary>System design: Design an employee timesheet system that allows workers to update their status (working, on break, not working) and view the hours worked in a day/week. Provide the database tables for this and the RESTful API for this application. Show how the developer would pass information to the RESTful APIs</summary>
 <p>
 
 - No answers
@@ -4258,7 +4489,7 @@
 ## Security Engineer, New Grad, Samsara
 > 8 Apr 2018
 
-<details><summary>System design: Design an employee timesheet system that allows workers to update their status (working, on break, not working) and view the hours worked in a day/week. Provide the database tables for this and the RESTful API for this application. Show how the developer would pass information to the RESTful APIs</summary>
+<details><summary>Given 2 lists of tuples [(time1,time2),...] and [(time3,time4)], return a list of tuples of time ranges at which times intersect</summary>
 <p>
 
 - No answers
@@ -4321,7 +4552,7 @@
 </p>
 </details>
 
-## Security Engineer, 1-800-Flowers.com
+## Security Engineer, 1-800-FLOWERS.COM, Inc.
 > 1 Apr 2018
 
 <details><summary>How do you handle phishing attempts SQL Injections XSS</summary>
@@ -4467,7 +4698,7 @@
 ## Security Sales Engineer, Rapid7
 > 3 Mar 2018
 
-<details><summary>What is cross-site scripting?</summary>
+<details><summary>If you were going to attack a fortified castle, what is the first thing you would do?</summary>
 <p>
 
 - No answers
@@ -4478,7 +4709,7 @@
 ## Security Sales Engineer, Rapid7
 > 3 Mar 2018
 
-<details><summary>If you were going to attack a fortified castle, what is the first thing you would do?</summary>
+<details><summary>What is cross-site scripting?</summary>
 <p>
 
 - No answers
@@ -4954,7 +5185,7 @@
 ## Security Engineer, Tile
 > 16 Sep 2017
 
-<details><summary>Describe how TLS works in layman's terms</summary>
+<details><summary>How would you secure a hosted instance?</summary>
 <p>
 
 - No answers
@@ -4965,7 +5196,7 @@
 ## Security Engineer, Tile
 > 16 Sep 2017
 
-<details><summary>How would you secure a hosted instance?</summary>
+<details><summary>Describe how TLS works in layman's terms</summary>
 <p>
 
 - No answers
@@ -5097,6 +5328,17 @@
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
+<details><summary>When you moved to U.S., tell me how was the transition and when did you move.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Applications Security Engineer, Allstate
+> 21 Aug 2017
+
 <details><summary>How much you are making currently and how much do you expect.</summary>
 <p>
 
@@ -5119,17 +5361,6 @@
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
-<details><summary>When you moved to U.S., tell me how was the transition and when did you move.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Applications Security Engineer, Allstate
-> 21 Aug 2017
-
 <details><summary>Whats your employment date/year for this job 5 years back?</summary>
 <p>
 
@@ -5138,7 +5369,7 @@
 </p>
 </details>
 
-## Information Security Engineer, Regeneron Pharmaceuticals
+## Information Security Engineer, Regeneron
 > 14 Aug 2017
 
 <details><summary>Why do you like to work here?</summary>
@@ -5427,17 +5658,6 @@
 ## Principal Security Software Engineer, Dispersive Networks
 > 16 May 2017
 
-<details><summary>What's your experience with memory leaks?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Principal Security Software Engineer, Dispersive Networks
-> 16 May 2017
-
 <details><summary>Tell me about your most recent assignment.</summary>
 <p>
 
@@ -5450,6 +5670,17 @@
 > 16 May 2017
 
 <details><summary>What do you use to debug your code?</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Principal Security Software Engineer, Dispersive Networks
+> 16 May 2017
+
+<details><summary>What's your experience with memory leaks?</summary>
 <p>
 
 - No answers
@@ -5881,7 +6112,7 @@
 <details><summary>Why have you moved around so much between jobs</summary>
 <p>
 
-- No answers
+- Throughout my career like all of us recruiters all call and emailing continuously. While ignoring most, occasionally one has an interesting role description. The new &amp; interesting work combined with the incumbent company's lack of vision to take security beyond the basics causes me to jump. It's about interesting work, not more money or lack of company loyalty.
 
 </p>
 </details>
@@ -5966,10 +6197,10 @@
 ## Security Engineer, D. E. Shaw & Co. - Investment Firm
 > 9 Feb 2017
 
-<details><summary>How would you install DLP hardware for email?</summary>
+<details><summary>Do you know python? Diff btw that and bash shell.</summary>
 <p>
 
-- No answers
+- Describe perfect forward secrecy.
 
 </p>
 </details>
@@ -5977,10 +6208,10 @@
 ## Security Engineer, D. E. Shaw & Co. - Investment Firm
 > 9 Feb 2017
 
-<details><summary>Do you know python? Diff btw that and bash shell.</summary>
+<details><summary>How would you install DLP hardware for email?</summary>
 <p>
 
-- Describe perfect forward secrecy.
+- No answers
 
 </p>
 </details>
@@ -6153,10 +6384,10 @@
 ## Security Engineer, Compliance Analyst, Facebook
 > 10 Dec 2016
 
-<details><summary>Some more business security related questions.</summary>
+<details><summary>Brain teaser asking how to send a box with a diamond it in all the way across the country if the send and receiver have different keys.</summary>
 <p>
 
-- No answers
+- Assuming you have two locks and only the key for one while the person across the country has the other, you could lock the diamond with the lock for which you have the key. Then enclose that box in another container which you lock for which you don't have the key (which the individual at the destination holds). When the box arrives at the destination, the individual with the key can unlock the first box, find the key for the enclosed box, open it and have the diamond. Shortcomings here are that you lose your key and are then incapable of using this system again for the next transfer unless you keep copies or the key is returned by the receiver.
 
 </p>
 </details>
@@ -6164,10 +6395,10 @@
 ## Security Engineer, Compliance Analyst, Facebook
 > 10 Dec 2016
 
-<details><summary>Brain teaser asking how to send a box with a diamond it in all the way across the country if the send and receiver have different keys.</summary>
+<details><summary>Some more business security related questions.</summary>
 <p>
 
-- Assuming you have two locks and only the key for one while the person across the country has the other, you could lock the diamond with the lock for which you have the key. Then enclose that box in another container which you lock for which you don't have the key (which the individual at the destination holds). When the box arrives at the destination, the individual with the key can unlock the first box, find the key for the enclosed box, open it and have the diamond. Shortcomings here are that you lose your key and are then incapable of using this system again for the next transfer unless you keep copies or the key is returned by the receiver.
+- No answers
 
 </p>
 </details>
@@ -6484,17 +6715,6 @@
 ## Senior Engineer, IoT Security, InterDigital
 > 2 Oct 2016
 
-<details><summary>Describe projects on which you have worked.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Senior Engineer, IoT Security, InterDigital
-> 2 Oct 2016
-
 <details><summary>Define security concepts, such as difference between encoding and encryption, purpose of TLS.</summary>
 <p>
 
@@ -6507,6 +6727,17 @@
 > 2 Oct 2016
 
 <details><summary>Describe achievements in past job.</summary>
+<p>
+
+- No answers
+
+</p>
+</details>
+
+## Senior Engineer, IoT Security, InterDigital
+> 2 Oct 2016
+
+<details><summary>Describe projects on which you have worked.</summary>
 <p>
 
 - No answers
@@ -6649,10 +6880,10 @@
 ## Web Applications Security Engineer, Blizzard Entertainment
 > 3 Sep 2016
 
-<details><summary>Do you know what SSRF is?</summary>
+<details><summary>Do you know what XXE is?</summary>
 <p>
 
-- Server side request forgery- an attack
+- XXE - XML External Entities vulnerability, it is a type of injection attack that occurs when an XML parser has the external entities DTD allowed for usage and does not properly parse the input given to it. As a result, an attacker can potentially inject malicious code to read files from the local system, perform other remote execution, and potentially expand to a DOS attack by using XML external entities expansion styled attack. To prevent XXE, if possible, try to disable external entities all together.
 
 </p>
 </details>
@@ -6660,10 +6891,10 @@
 ## Web Applications Security Engineer, Blizzard Entertainment
 > 3 Sep 2016
 
-<details><summary>Do you know what XXE is?</summary>
+<details><summary>Do you know what SSRF is?</summary>
 <p>
 
-- XXE - XML External Entities vulnerability, it is a type of injection attack that occurs when an XML parser has the external entities DTD allowed for usage and does not properly parse the input given to it. As a result, an attacker can potentially inject malicious code to read files from the local system, perform other remote execution, and potentially expand to a DOS attack by using XML external entities expansion styled attack. To prevent XXE, if possible, try to disable external entities all together.
+- Server side request forgery- an attack
 
 </p>
 </details>
@@ -7076,7 +7307,7 @@
 </p>
 </details>
 
-## Information Security Engineer, Cengage
+## Information Security Engineer, Cengage Group
 > 5 Apr 2016
 
 <details><summary>Entire setup and configuration process for a web application on cloud and all security measures to protect it. Use of tools like Burpsuite, Qualys, Splunk. Knowledge and understanding of cloud environment.</summary>
@@ -7332,10 +7563,10 @@
 ## Security Support Engineer, Amazon
 > 27 Dec 2015
 
-<details><summary>Why or what got you interested into information technology and security?</summary>
+<details><summary>Explain how you would build a web site that could secure communications between a client and a server and allow an authorized user to read the communications securely.</summary>
 <p>
 
-- Personal response
+- HTTPS-enabled web form that transmitted to a web app that stored data in a database. Went down the rabbit hole regarding TLS, database security, and encryption-at-rest
 
 </p>
 </details>
@@ -7343,10 +7574,10 @@
 ## Security Support Engineer, Amazon
 > 27 Dec 2015
 
-<details><summary>Explain how you would build a web site that could secure communications between a client and a server and allow an authorized user to read the communications securely.</summary>
+<details><summary>Why or what got you interested into information technology and security?</summary>
 <p>
 
-- HTTPS-enabled web form that transmitted to a web app that stored data in a database. Went down the rabbit hole regarding TLS, database security, and encryption-at-rest
+- Personal response
 
 </p>
 </details>
@@ -7799,6 +8030,17 @@
 <p>
 
 - google it
+
+</p>
+</details>
+
+## Network Security Engineer, Tata Consultancy Services
+> 20 Jul 2015
+
+<details><summary>If I know Checkpoint Firewall?</summary>
+<p>
+
+- No answers
 
 </p>
 </details>
@@ -8640,10 +8882,10 @@
 ## Embedded Software Engineer Device Drivers, Embedded Software Security Engineer, Qualcomm
 > 1 Dec 2011
 
-<details><summary>how to make an OS real time ? name few RTOSs how to make memcopy fast? code was written over board and had to identify problems in it like memory leak , accessing memory location which is not allocated</summary>
+<details><summary>how does a packet travel between two hosts connected in same network?what is subnet mask?</summary>
 <p>
 
-- I would say that you would make more use of high-resolution timers, and minimize the number of tasks for the embedded system. For memcpy, I would just have a loop that immediately stores the bytes in the src in the dest. Memory leaks are ez4ence to find, just make sure you are freeing memory when you are done using it.
+- No answers
 
 </p>
 </details>
@@ -8651,10 +8893,10 @@
 ## Embedded Software Engineer Device Drivers, Embedded Software Security Engineer, Qualcomm
 > 1 Dec 2011
 
-<details><summary>how does a packet travel between two hosts connected in same network?what is subnet mask?</summary>
+<details><summary>how to make an OS real time ? name few RTOSs how to make memcopy fast? code was written over board and had to identify problems in it like memory leak , accessing memory location which is not allocated</summary>
 <p>
 
-- No answers
+- I would say that you would make more use of high-resolution timers, and minimize the number of tasks for the embedded system. For memcpy, I would just have a loop that immediately stores the bytes in the src in the dest. Memory leaks are ez4ence to find, just make sure you are freeing memory when you are done using it.
 
 </p>
 </details>
@@ -8819,10 +9061,10 @@
 ## Security Engineer, Starbucks
 > 7 Nov 2010
 
-<details><summary>What do you really want to do?</summary>
+<details><summary>Why are you really leaving your present employer?</summary>
 <p>
 
-- No answers
+- Realized that I didn't need to leave my current employer and that this job was not right for me. Great question that made me think.
 
 </p>
 </details>
@@ -8830,10 +9072,10 @@
 ## Security Engineer, Starbucks
 > 7 Nov 2010
 
-<details><summary>Why are you really leaving your present employer?</summary>
+<details><summary>What do you really want to do?</summary>
 <p>
 
-- Realized that I didn't need to leave my current employer and that this job was not right for me. Great question that made me think.
+- No answers
 
 </p>
 </details>
