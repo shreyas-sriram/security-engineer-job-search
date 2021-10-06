@@ -19,15 +19,13 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Scrape magic
       run: |
-        # rm questions.md
-        # python3 scrape.py
-        echo "a" >> a.txt
+        rm questions.md
+        python3 scrape.py
     - name: Commit and push 
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-        date +%s
-        git add .
+        git add questions.md
         git commit -m "Scrape-`date +%s`" || exit 0
-        # git push
+        git push
