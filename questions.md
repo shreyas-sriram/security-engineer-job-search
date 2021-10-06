@@ -60,6 +60,11 @@ What do you hope to gain out of this position?
 
 Take me through your career from the start to present day and how you got to where you are today.
 
+## Information Security Engineer, Citizens
+> 27 Aug 2021
+
+Take me through your career from the start to present day and how you got to where you are today.
+
 ## Security Engineer, Check Point Software Technologies
 > 25 Aug 2021
 
@@ -1071,17 +1076,6 @@ Some of OWASP top 10 issues
 
 There were no questions that were in any way unusual or memorable.
 
-## Cyber Security Engineer, Sandia National Laboratories
-> 28 Feb 2020
-
-<details><summary>What does SCOT stand for?</summary>
-<p>
-
-- Sandia Cyber Omni Tracker
-
-</p>
-</details>
-
 ## Security Engineer, Amazon
 > 18 Feb 2020
 
@@ -1156,6 +1150,17 @@ General about my background and what the role entailed
 <p>
 
 - I would isolate the host from the network so that it is unable to spread the infection. I would analyze the host to see if I could find the attack vector such as email virus, phishing attack, infected file, etc.). Check the firewalls for any logs that may show the attack vector. - (The manager kept saying I was wrong about this because I didn't specify the specific Cisco AMP threat detection product and simply mentioned firewall logs, but I didn't know that AMP was a part of their network. He kept beating me up on this point and we agreed to disagree)
+
+</p>
+</details>
+
+## Cloud Security Engineer, Uber
+> 16 Jan 2020
+
+<details><summary>Algorithms and data structures</summary>
+<p>
+
+- Although this is a cloud security position, I was asked about algorithms and data structures.
 
 </p>
 </details>
@@ -1898,17 +1903,6 @@ what is the most serious security problem in our studied area?
 
 How familiar was I with compliance protocols and security tools.
 
-## Network Security Engineer, NetCraftsmen
-> 28 Mar 2019
-
-<details><summary>They were standard questions. They want to see if you are a "cultural" fit.</summary>
-<p>
-
-- This company only gives monthly paychecks. Based on that I declined the position. They will not volunteer this info upfront so don't forget to ask
-
-</p>
-</details>
-
 ## Security Engineer, Microsoft
 > 27 Mar 2019
 
@@ -1953,6 +1947,11 @@ First Phone Screen - OS questions, Data structures, Security questions, Buffer O
 > 8 Mar 2019
 
 How do you configure syslog logging from the command line
+
+## Security Engineer, Cadre Information Security
+> 6 Mar 2019
+
+Do you have direct experience with CheckPoint products?
 
 ## Security Engineer, Cadre Information Security
 > 6 Mar 2019
@@ -3852,17 +3851,6 @@ Our DB was stolen/exfiltrated. It was secured with one round of sha256 with a st
 ## Security Engineer, Paxos
 > 24 Mar 2017
 
-<details><summary>How do I authenticate you and know you sent the message?</summary>
-<p>
-
-- HMAC auth is the answer.
-
-</p>
-</details>
-
-## Security Engineer, Paxos
-> 24 Mar 2017
-
 print out the first 25 odd numbers in any language.
 
 ## Lead Solutions Engineer - Security Specialist, Salesforce
@@ -3919,6 +3907,17 @@ Why would you be a good fit for Groupon and other basic experience based questio
 <p>
 
 - I answered the questions based on how my experience applied to the situation and what I thought the best course of action was.
+
+</p>
+</details>
+
+## Principal Security Engineer, Alert Logic
+> 13 Feb 2017
+
+<details><summary>Why have you moved around so much between jobs</summary>
+<p>
+
+- Throughout my career like all of us recruiters all call and emailing continuously. While ignoring most, occasionally one has an interesting role description. The new &amp; interesting work combined with the incumbent company's lack of vision to take security beyond the basics causes me to jump. It's about interesting work, not more money or lack of company loyalty.
 
 </p>
 </details>
@@ -4614,11 +4613,6 @@ Why system stack is not implemented in reverse order ?
 
 Why should we hire you , why El Paso Electric ? Witch cyber security systems do you know ? What was your last big challenge ? How would your co-workers describe your personality ?
 
-## Security Engineer, Google
-> 4 Jul 2016
-
-During lunch, I was asked about my career goals and how they fit with Google.
-
 ## Security Engineer, Amazon
 > 1 Jul 2016
 
@@ -4694,6 +4688,11 @@ Have you worked with the team or the validator before?
 > 5 Jun 2016
 
 Describe your approach to problem-solving.
+
+## Network Security Engineer, Atos
+> 29 May 2016
+
+I was asked no hard questions, mainly scenario based. When I did receive a complicated situation, the interviewer did not seem overly friendly nor someone with whom I would want to work.
 
 ## Network Security Engineer, Atos
 > 29 May 2016
