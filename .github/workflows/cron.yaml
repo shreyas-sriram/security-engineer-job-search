@@ -1,6 +1,6 @@
-on: push
-  # schedule:
-  #   - cron:  '37 13 * * 0'
+on:
+  schedule:
+  - cron:  '37 13 * * 0'
 
 jobs:
   scrape:
@@ -19,13 +19,14 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Scrape magic
       run: |
-        rm questions.md
+        rm questions.md questions.json
         python3 scrape.py
+        python3 scrape-json.py
     - name: Commit and push 
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-        git add questions.md
+        git add questions.md questions.json
         git commit -m "Scrape-`date +%s`" || exit 0
         git push

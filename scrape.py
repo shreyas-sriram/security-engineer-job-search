@@ -71,25 +71,9 @@ def parse_data(data):
 
     # question
     question = data.find("p", class_="questionText")
-    print(question)
-    print(question.get_text())
+    # print(question)
+    # print(question.get_text())
     _cleaned_text = question.get_text().strip()
-    # parsed_data = parsed_data + "<details><summary>{}</summary>".format(_cleaned_text)
-    # # print(question.get_text())
-
-    # parsed_data = parsed_data + "\n<p>\n\n"
-
-    # answers
-    # answers = data.find_all("p", class_="noMargVert")
-    # if len(answers) == 0:
-    #     parsed_data = parsed_data + "- No answers\n"
-    #     # print("No answers")
-    
-    # for answer in answers:
-    #     parsed_data = parsed_data + "- {}\n".format(answer.get_text())
-    #     # print(answer.get_text())
-
-    # parsed_data = parsed_data + "\n</p>\n</details>\n\n"
 
     answers = data.find_all("p", class_="noMargVert")
     if len(answers) == 0:
