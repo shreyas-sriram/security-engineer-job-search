@@ -28,5 +28,5 @@ jobs:
 
         date +%s
         git add questions.md
-        git commit -m "Scrape-$(date +%s)"
+        git commit -m "Scrape-`date +%s`"
         # git push
