@@ -39,7 +39,7 @@ def find_total_pages():
     return total_pages
 
 def parse_page(wrapper):
-    f = open("questions.md", "a")
+    f = open("questions.md", "w")
 
     for data in wrapper:
         parsed_data = parse_data(data)
