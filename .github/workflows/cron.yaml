@@ -20,4 +20,4 @@ jobs:
     - name: Scrape magic
       run: |
         python3 scrape.py
-        head -n 10 question.md
+        head -n 10 questions.md
