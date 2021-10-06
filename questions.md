@@ -1,13 +1,27 @@
+## Cloud Security Engineer, Frame.io
+> 30 Sep 2021
+
+1- Describe the most innovative project I lead 2- How would my team members describe me 3- AWS Cloud Security questions
+
+## Security Engineer, Twitch
+> 29 Sep 2021
+
+cannot discuss due to NDA
+
+## Software Engineer - Security, Salesforce
+> 28 Sep 2021
+
+A junior engineer asked me a few cultural fit questions and then dived into system design for 40 min. He asked me to design Doordash. + Uber backend, Had a good conversation. But i felt the interviewer did not have much experience. He knew the basic stuff of NoSQL vs RDS, Caching, LB etc. Overall the tech screen was good.
+
 ## Security Engineer, CSC
 > 20 Sep 2021
 
-<details><summary>How would I empty an airplane filled with jelly beans.</summary>
-<p>
+How would I empty an airplane filled with jelly beans.
 
-- No answers
+## Security Engineer, BayCare Health System
+> 17 Sep 2021
 
-</p>
-</details>
+Where do you see yourself in 5 years?
 
 ## Information Security Engineer, GeniusRx
 > 9 Sep 2021
@@ -34,145 +48,67 @@
 ## Network Security Engineer, Infosys
 > 7 Sep 2021
 
-<details><summary>Technology related questions and domain related questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technology related questions and domain related questions
 
 ## Vehicle Security Engineer, Nuro
 > 28 Aug 2021
 
-<details><summary>What do you hope to gain out of this position?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you hope to gain out of this position?
 
 ## Information Security Engineer, Citizens
 > 27 Aug 2021
 
-<details><summary>Take me through your career from the start to present day and how you got to where you are today.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Take me through your career from the start to present day and how you got to where you are today.
 
 ## Security Engineer, Check Point Software Technologies
 > 25 Aug 2021
 
-<details><summary>They were very interested in my cloud background given the focus on their cloud family of products, CloudGuard.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+They were very interested in my cloud background given the focus on their cloud family of products, CloudGuard.
 
 ## Cyber Security Engineer, AT&T
 > 24 Aug 2021
 
-<details><summary>What is your experience in configuring log collection?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is your experience in configuring log collection?
 
 ## Applications Security Engineer, Allstate
 > 19 Aug 2021
 
-<details><summary>Describe the difference in Hashing and Cryptography.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the difference in Hashing and Cryptography.
 
 ## Entry Level Cyber Security Engineer, General Atomics
 > 4 Aug 2021
 
-<details><summary>Cookie cutter interview. Tell me about yourself.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Cookie cutter interview. Tell me about yourself.
 
 ## Security Engineer, Apple
 > 4 Aug 2021
 
-<details><summary>What is SQL injection? How do you mitigate it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is SQL injection? How do you mitigate it?
 
 ## Cyber Security Engineer, Lindsay Corporation
 > 4 Aug 2021
 
-<details><summary>Can you describe what your ideal incident response process would entail?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you describe what your ideal incident response process would entail?
 
 ## Concierge Security Engineer, Arctic Wolf
 > 30 Jul 2021
 
-<details><summary>We expect you to “fail” when you’re new. Describe a time when you failed and what you did after.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+We expect you to “fail” when you’re new. Describe a time when you failed and what you did after.
 
 ## Concierge Security Engineer, Arctic Wolf
 > 30 Jul 2021
 
-<details><summary>You’re the brand new CISO of a small company and want to secure your endpoints. What is your first step?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+You’re the brand new CISO of a small company and want to secure your endpoints. What is your first step?
 
 ## Concierge Security Engineer, Arctic Wolf
 > 30 Jul 2021
 
-<details><summary>Describe the difference between an IPS, IDS and Firewall; how would you use them?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the difference between an IPS, IDS and Firewall; how would you use them?
 
 ## Senior Information Security Engineer, Skedulo
 > 28 Jul 2021
 
-<details><summary>Describe your experience with risk assessment and compliance frameworks.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your experience with risk assessment and compliance frameworks.
 
 ## Pre Sales Security Engineer, Tanium
 > 27 Jul 2021
@@ -188,13 +124,7 @@
 ## Security Operations Engineer, Blend
 > 23 Jul 2021
 
-<details><summary>Security, Python, Automation, Detection, Networking.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Security, Python, Automation, Detection, Networking.
 
 ## Application Security Engineer, Red Ventures
 > 20 Jul 2021
@@ -210,13 +140,7 @@
 ## Security Software Engineer, SpaceX
 > 20 Jul 2021
 
-<details><summary>How much do you know about different encryption schemes?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How much do you know about different encryption schemes?
 
 ## Offensive Security Engineer, Zoom Video Communications
 > 8 Jul 2021
@@ -229,16 +153,21 @@
 </p>
 </details>
 
-## Network Security Engineer, Orange Business Services
-> 2 Jul 2021
+## Cyber Security Engineer, BlueCross BlueShield of Tennessee
+> 3 Jul 2021
 
-<details><summary>Basic network basics security basics fortigate</summary>
+<details><summary>I am not allowed to discuss the specific questions, but if you look at the job description it will set you up for success.</summary>
 <p>
 
-- No answers
+- Just be yourself :-)
 
 </p>
 </details>
+
+## Network Security Engineer, Orange Business Services
+> 2 Jul 2021
+
+Basic network basics security basics fortigate
 
 ## IT Security Engineer, Acuity Insurance
 > 28 Jun 2021
@@ -254,90 +183,42 @@
 ## IT Security Engineer, Socure
 > 24 Jun 2021
 
-<details><summary>basic cyber security questions and self introduction.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+basic cyber security questions and self introduction.
 
 ## IT Security Engineer, Socure
 > 24 Jun 2021
 
-<details><summary>basic cyber security questions and self introduction.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+basic cyber security questions and self introduction.
 
 ## Security Operations Engineer, Workato
 > 9 Jun 2021
 
-<details><summary>Work experience related questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Work experience related questions
 
 ## Senior Security Engineer, GitLab
 > 4 Jun 2021
 
-<details><summary>What’s your background and experience with SIEM and SOAR tools?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What’s your background and experience with SIEM and SOAR tools?
 
 ## Application Security Engineer, Snap
 > 30 May 2021
 
-<details><summary>The question were mainly on Cross site request forgery.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The question were mainly on Cross site request forgery.
 
 ## Lead Security Engineer, Collabera
 > 27 May 2021
 
-<details><summary>How do you deal with conflict.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you deal with conflict.
 
 ## Security Engineer, Plume Design
 > 26 May 2021
 
-<details><summary>Questions around my previous work and setting up secure practices for networking team and so on</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions around my previous work and setting up secure practices for networking team and so on
 
 ## Product Security Engineer, Box
 > 21 May 2021
 
-<details><summary>Generic, mostly non-technical questions. Lost my train of thought</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Generic, mostly non-technical questions. Lost my train of thought
 
 ## Cyber Security Engineer, Forcepoint
 > 20 May 2021
@@ -353,35 +234,17 @@
 ## Cyber Security Engineer, Faith Technologies Incorporated
 > 17 May 2021
 
-<details><summary>How do you set up the devscops model? What are your recommendations to mature the security posture of the organization? How do you fit into the team?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you set up the devscops model? What are your recommendations to mature the security posture of the organization? How do you fit into the team?
 
 ## Security Engineer, Salesforce
 > 7 May 2021
 
-<details><summary>OWASP top 10, Remediation techniques and latest vulnerability trend</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+OWASP top 10, Remediation techniques and latest vulnerability trend
 
 ## Info Security Engineer, Wells Fargo
 > 7 May 2021
 
-<details><summary>Explain data level encryption. What is PKI and certificate management.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain data level encryption. What is PKI and certificate management.
 
 ## Senior Security Site Reliability Engineer, Arkose Labs
 > 4 May 2021
@@ -397,79 +260,37 @@
 ## Security Engineer, Synopsys
 > 1 May 2021
 
-<details><summary>questions were related to networking.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+questions were related to networking.
 
 ## Network Security Engineer, Rackspace Technology
 > 29 Apr 2021
 
-<details><summary>where u wanna see yourself in next 3-5 years</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+where u wanna see yourself in next 3-5 years
 
 ## Product Security Engineer, Fortress Information Security
 > 28 Apr 2021
 
-<details><summary>What are the differences and why would you use one set of analysis tools over the other.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are the differences and why would you use one set of analysis tools over the other.
 
 ## Security Engineer, Motley Fool
 > 26 Apr 2021
 
-<details><summary>Which specific security systems did you personally implement? Which specific security systems did you personally manage? What challenges have you encountered in your prior security work and how did you overcome them?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Which specific security systems did you personally implement? Which specific security systems did you personally manage? What challenges have you encountered in your prior security work and how did you overcome them?
 
 ## Cyber Security Engineer, DataRemote
 > 26 Apr 2021
 
-<details><summary>technical and personal, nothing out of the ordinary</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+technical and personal, nothing out of the ordinary
 
 ## Security Solutions Engineer (Professional Services), Threat Stack
 > 20 Apr 2021
 
-<details><summary>Some very basic networking questions (standard ports for certain activities) as well as some basic command line commands (Windows/Linux) for the screening call.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Some very basic networking questions (standard ports for certain activities) as well as some basic command line commands (Windows/Linux) for the screening call.
 
 ## Security Engineer Intern, Abarca
 > 19 Apr 2021
 
-<details><summary>What is a wrong impression people have gotten from you and how have you proved them wrong?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is a wrong impression people have gotten from you and how have you proved them wrong?
 
 ## Security Engineer, ShorePoint
 > 12 Apr 2021
@@ -496,68 +317,32 @@
 ## Security Engineer, Lincoln Financial Group
 > 10 Apr 2021
 
-<details><summary>Essentially was asked to detail up my previous positions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Essentially was asked to detail up my previous positions
 
 ## Security Engineer, Acumen Security
 > 8 Apr 2021
 
-<details><summary>What my home setup was to keep up with penetration testing.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What my home setup was to keep up with penetration testing.
 
 ## Security Engineer, PrudentRx
 > 7 Apr 2021
 
-<details><summary>What technologies I have worked on in the past</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What technologies I have worked on in the past
 
 ## Security Engineer, Amazon
 > 6 Apr 2021
 
-<details><summary>What challenges did you face in previous jobs and how did you overcome them?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What challenges did you face in previous jobs and how did you overcome them?
 
 ## Senior Cloud Network Security Engineer, Netskope
 > 30 Mar 2021
 
-<details><summary>Networking basics Networking troubleshooting Network Design Network Security fundamentals Network Security scenarios Technical deep dive into NG firewalls, Proxies, Load Balancers & VPNs</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Networking basics Networking troubleshooting Network Design Network Security fundamentals Network Security scenarios Technical deep dive into NG firewalls, Proxies, Load Balancers & VPNs
 
 ## Cloud Security Engineer, Verkada
 > 29 Mar 2021
 
-<details><summary>What is a route reflector for?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is a route reflector for?
 
 ## IT system security engineer, SAP NS2
 > 24 Mar 2021
@@ -584,35 +369,17 @@
 ## Security Engineer, Milhouse Engineering & Construction
 > 19 Mar 2021
 
-<details><summary>What tools do you recommend for x?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What tools do you recommend for x?
 
 ## Security Engineer, Haven Life
 > 17 Mar 2021
 
-<details><summary>A) Security tools I worked with in the past</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+A) Security tools I worked with in the past
 
 ## Offensive Security Engineer, Zoom Video Communications
 > 16 Mar 2021
 
-<details><summary>If I know the difference between pentesting and red teaming. Experience with web app testing tools. Scripting/coding experience (in-depth, we actively analyzed code in an exercise) Basic security features and capabilities of PC (I said I was not Mac-heavy in experience) Attack vectors such as XSS, CSRF, injection, RFI, etc. Reporting and findings Communication ability and style (verbally and written)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If I know the difference between pentesting and red teaming. Experience with web app testing tools. Scripting/coding experience (in-depth, we actively analyzed code in an exercise) Basic security features and capabilities of PC (I said I was not Mac-heavy in experience) Attack vectors such as XSS, CSRF, injection, RFI, etc. Reporting and findings Communication ability and style (verbally and written)
 
 ## Offensive Security Engineer, Zoom Video Communications
 > 16 Mar 2021
@@ -650,46 +417,22 @@
 ## Principal Cloud Security Engineer, Palo Alto Networks
 > 5 Mar 2021
 
-<details><summary>n/a</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+n/a
 
 ## Security Engineer, Zoom Video Communications
 > 4 Mar 2021
 
-<details><summary>The questions during the interview were related to the job role and my experience. They mostly dived into remediating vulnerabilities and lot of follow up questions with different business requirements.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The questions during the interview were related to the job role and my experience. They mostly dived into remediating vulnerabilities and lot of follow up questions with different business requirements.
 
 ## Security Engineer I, Amazon
 > 26 Feb 2021
 
-<details><summary>Technical: Hashing vs. Encryption? Symmetric vs Asymmetric? Examples of each? OWASP Top 10 and how to prevent them Hashing scenario problem Authentication scenario problem Session management scenario problem (CSRF) Certificate Authority DNS Recent hacks/news around cybersecurity Behavioral: Why Amazon? Tell me about a goal and the steps you took the accomplish Tell me about a time you went through a personal obstacle or challenge Tell me about your favorite project Tell me about a time when you took on something you weren’t required to do</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical: Hashing vs. Encryption? Symmetric vs Asymmetric? Examples of each? OWASP Top 10 and how to prevent them Hashing scenario problem Authentication scenario problem Session management scenario problem (CSRF) Certificate Authority DNS Recent hacks/news around cybersecurity Behavioral: Why Amazon? Tell me about a goal and the steps you took the accomplish Tell me about a time you went through a personal obstacle or challenge Tell me about your favorite project Tell me about a time when you took on something you weren’t required to do
 
 ## Security Engineer, 6sense
 > 26 Feb 2021
 
-<details><summary>Scenario based questions about OWASP security. Mitigations. AWS environments. improvements on overall security structure. SSDLC process, tools specific questions on implementations. DevsecOps. What happens if you type google in the browser and the possible threats.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Scenario based questions about OWASP security. Mitigations. AWS environments. improvements on overall security structure. SSDLC process, tools specific questions on implementations. DevsecOps. What happens if you type google in the browser and the possible threats.
 
 ## Cyber-Security Engineer | Pen Tester, Praetorian
 > 25 Feb 2021
@@ -705,13 +448,7 @@
 ## Security Engineer, Redfin
 > 23 Feb 2021
 
-<details><summary>Coding interview was the focus.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Coding interview was the focus.
 
 ## Cyber Security Engineer, Invictus International Consulting
 > 22 Feb 2021
@@ -727,90 +464,42 @@
 ## Senior Applications Security Engineer, Zoom Video Communications
 > 19 Feb 2021
 
-<details><summary>The most interesting questions were walking them through my process of performing web and mobile application assessments, as well as walking them through exploiting several CVEs I had. Finally there was some C and python code review, looking for standard bugs in C (Largely memory corruption related) and some web specific logic bugs.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The most interesting questions were walking them through my process of performing web and mobile application assessments, as well as walking them through exploiting several CVEs I had. Finally there was some C and python code review, looking for standard bugs in C (Largely memory corruption related) and some web specific logic bugs.
 
 ## Cloud Security Engineer, Oscar Health
 > 16 Feb 2021
 
-<details><summary>Q. Basic Questions that were related to my resume.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Q. Basic Questions that were related to my resume.
 
 ## Security Engineer, Amount
 > 16 Feb 2021
 
-<details><summary>Q. Mostly questions related to my resume Q. Difference between XSS and CSRF? Q. Why you want to make the move?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Q. Mostly questions related to my resume Q. Difference between XSS and CSRF? Q. Why you want to make the move?
 
 ## Security Engineer, AppFolio
 > 16 Feb 2021
 
-<details><summary>Recruiter Call: Q. Tell me about yourself Q. About the company Q. Your past experience Hiring Manager Round: Q. All questions were related to the tools and technologies that I mentioned on my resume.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Recruiter Call: Q. Tell me about yourself Q. About the company Q. Your past experience Hiring Manager Round: Q. All questions were related to the tools and technologies that I mentioned on my resume.
 
 ## Security Engineer, Datadog
 > 15 Feb 2021
 
-<details><summary>Q. security best practises, behavioral questions in third round</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Q. security best practises, behavioral questions in third round
 
 ## Security Software Engineer, Qualcomm
 > 11 Feb 2021
 
-<details><summary>tell me about what your concentration</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+tell me about what your concentration
 
 ## Staff Security Engineer, The Home Depot
 > 6 Feb 2021
 
-<details><summary>Technical Questions are all product related as their Teams specialize in product placements. Management meeting: Tell me about a hardship you had to overcome with underperforming team members and how did you manage the situation? What was the outcome, and what did you do to help the person?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical Questions are all product related as their Teams specialize in product placements. Management meeting: Tell me about a hardship you had to overcome with underperforming team members and how did you manage the situation? What was the outcome, and what did you do to help the person?
 
 ## Senior Security Engineer, Zoom Video Communications
 > 5 Feb 2021
 
-<details><summary>Questions on Splunk, Linux, and Python</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions on Splunk, Linux, and Python
 
 ## Staff Security Engineer, VMware
 > 1 Feb 2021
@@ -848,35 +537,17 @@
 ## IT Systems Security Engineer, BAE Systems USA
 > 21 Jan 2021
 
-<details><summary>What are your strongest skillsets?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are your strongest skillsets?
 
 ## Information Security Engineer, Mastercard
 > 21 Jan 2021
 
-<details><summary>Threat Modeling, standard security questions. Some behavioral questions on how you dealt with senior management and communicated risk.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Threat Modeling, standard security questions. Some behavioral questions on how you dealt with senior management and communicated risk.
 
 ## Application Security Engineer, Verizon Media
 > 19 Jan 2021
 
-<details><summary>the engineer clearly wanted me to come to some sort of pre-conceived key distribution system that I was supposed to come up with on a white board given extremely vague requirements.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+the engineer clearly wanted me to come to some sort of pre-conceived key distribution system that I was supposed to come up with on a white board given extremely vague requirements.
 
 ## Security Engineer, New Relic
 > 18 Jan 2021
@@ -892,13 +563,7 @@
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 Jan 2021
 
-<details><summary>Industry standard questions that every candidate expect to be asked</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 Jan 2021
@@ -936,145 +601,67 @@
 ## Cloud Security Engineer, Booz Allen Hamilton
 > 12 Jan 2021
 
-<details><summary>What my experience with specific technologies were</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What my experience with specific technologies were
 
 ## Security Engineer Intern, Adobe
 > 12 Jan 2021
 
-<details><summary>Why Adobe? Be prepared to answer a variety of security situations.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why Adobe? Be prepared to answer a variety of security situations.
 
 ## Security Engineer Intern, Adobe
 > 12 Jan 2021
 
-<details><summary>Why Adobe? Be prepared to answer a variety of security situations.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why Adobe? Be prepared to answer a variety of security situations.
 
 ## Information Security Engineer, Honey
 > 12 Jan 2021
 
-<details><summary>Run of the mill security questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Run of the mill security questions.
 
 ## Information Security Engineer, Honey
 > 12 Jan 2021
 
-<details><summary>Run of the mill security questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Run of the mill security questions.
 
 ## Cyber Security Engineer, Trustwave
 > 11 Jan 2021
 
-<details><summary>Describe what are egghunters and their use in exploit development. Can you describe the different segments on a debugger? How's your proficiency on IDA? Can you describe how you would find bugs on an x86 binary?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe what are egghunters and their use in exploit development. Can you describe the different segments on a debugger? How's your proficiency on IDA? Can you describe how you would find bugs on an x86 binary?
 
 ## Security Engineer, Flatiron Health
 > 11 Jan 2021
 
-<details><summary>Give me an example of a CTF challenge that you worked on</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Give me an example of a CTF challenge that you worked on
 
 ## Security Engineer, Microsoft
 > 10 Jan 2021
 
-<details><summary>Tell me what was the most recent code you wrote?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me what was the most recent code you wrote?
 
 ## Information Security Engineer, Google
 > 5 Jan 2021
 
-<details><summary>What is traceroute? Explain it in details.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is traceroute? Explain it in details.
 
 ## Software Engineer - Security Response, Microsoft
 > 3 Jan 2021
 
-<details><summary>I was asked about various web application vulnerabilities and how to mitigate them. The questions were asked form the CWE Top 25 and OWASP Top 10.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about various web application vulnerabilities and how to mitigate them. The questions were asked form the CWE Top 25 and OWASP Top 10.
 
 ## Cyber Security Engineer, Cerner
 > 2 Jan 2021
 
-<details><summary>No Interview question because I never reached through that process.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+No Interview question because I never reached through that process.
 
 ## Hardware Security Engineer, NVIDIA
 > 23 Dec 2020
 
-<details><summary>give u a case and ask you find security flaw</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+give u a case and ask you find security flaw
 
 ## Senior Security Engineer, Praetorian
 > 17 Dec 2020
 
-<details><summary>Why are you looking to leave your current role?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why are you looking to leave your current role?
 
 ## Security Systems Engineer, University of Redlands
 > 17 Dec 2020
@@ -1114,68 +701,32 @@
 ## Security Engineer, Hopin
 > 1 Dec 2020
 
-<details><summary>General security questions about OWASP, security automation, pentesting.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+General security questions about OWASP, security automation, pentesting.
 
 ## Network Security Engineer, Facebook
 > 30 Nov 2020
 
-<details><summary>Networking and security questions Coding algorithm question</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Networking and security questions Coding algorithm question
 
 ## Security Developer, General Motors (GM)
 > 23 Nov 2020
 
-<details><summary>Tell about two repetitive task that you have at your work? what is week cipher? Tell about the security mechanism that you have used for webservice and API ? I have application that is running on the server, and you see some attack in you application from specific system you need configure security without disturb this server, how did you do that?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell about two repetitive task that you have at your work? what is week cipher? Tell about the security mechanism that you have used for webservice and API ? I have application that is running on the server, and you see some attack in you application from specific system you need configure security without disturb this server, how did you do that?
 
 ## Senior Cyber Security Engineer, 3M
 > 18 Nov 2020
 
-<details><summary>My accomplishments from my previous positions and how I handled difficult managers.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+My accomplishments from my previous positions and how I handled difficult managers.
 
 ## Security Engineer, iCIMS
 > 16 Nov 2020
 
-<details><summary>How do you stay up to date with the latest in Security Trends?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?
 
 ## Security Engineer, iCIMS
 > 16 Nov 2020
 
-<details><summary>Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you stay up to date with the latest in Security Trends?
 
 ## Security Operations Engineer, Updox
 > 16 Nov 2020
@@ -1202,35 +753,17 @@
 ## Security Engineer, Pampered Chef
 > 12 Nov 2020
 
-<details><summary>Basic HR questions for initial phone screen.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic HR questions for initial phone screen.
 
 ## Security Engineer, Pampered Chef
 > 12 Nov 2020
 
-<details><summary>Basic HR questions for initial phone screen.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic HR questions for initial phone screen.
 
 ## Security Engineer, Couchbase
 > 8 Nov 2020
 
-<details><summary>Behavioral and Code reviews are the main questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Behavioral and Code reviews are the main questions
 
 ## Security Engineer, Moffitt Cancer Center
 > 6 Nov 2020
@@ -1257,13 +790,7 @@
 ## Security Engineer, ReliaQuest
 > 2 Nov 2020
 
-<details><summary>What are some port numbers and their functions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are some port numbers and their functions
 
 ## Security Engineer, Niantic
 > 29 Oct 2020
@@ -1279,68 +806,32 @@
 ## Security Engineer, ReliaQuest
 > 28 Oct 2020
 
-<details><summary>Linux heavy on the technical interview, foundational knowledge really. Trying to gauge experience.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Linux heavy on the technical interview, foundational knowledge really. Trying to gauge experience.
 
 ## Security Engineer, Procore Technologies
 > 25 Oct 2020
 
-<details><summary>General talk about experience and interest in switching. Nothing outstanding and some focus on my current company focus</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+General talk about experience and interest in switching. Nothing outstanding and some focus on my current company focus
 
 ## Security Assurance Engineer, FactSet
 > 14 Oct 2020
 
-<details><summary>There was a whiteboard question asking me to implement a block cipher at a high level.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+There was a whiteboard question asking me to implement a block cipher at a high level.
 
 ## Principal Security Engineer, Zipwhip
 > 12 Oct 2020
 
-<details><summary>How to secure multiple AWS accounts</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Conducting Threat Modeling on a given scenario
 
 ## Principal Security Engineer, Zipwhip
 > 12 Oct 2020
 
-<details><summary>Conducting Threat Modeling on a given scenario</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How to secure multiple AWS accounts
 
 ## Software Engineer- Security, Salesforce
 > 9 Oct 2020
 
-<details><summary>1 interview w/recruiter, 1 technical interview w/engineer, 1 technical interview w/would-be manager.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+1 interview w/recruiter, 1 technical interview w/engineer, 1 technical interview w/would-be manager.
 
 ## Application Security Engineer, Facebook
 > 7 Oct 2020
@@ -1356,76 +847,45 @@
 ## Systems Software Security Engineer, NVIDIA
 > 6 Oct 2020
 
-<details><summary>Find security bugs in given code</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Find security bugs in given code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 Oct 2020
 
-<details><summary>With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 Oct 2020
 
-<details><summary>Technical whiteboard discussion on topics found during reviewing the resume</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical whiteboard discussion on topics found during reviewing the resume
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 Oct 2020
 
-<details><summary>Question related queue using array in C</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Question related queue using array in C
 
 ## Information Security Engineer, Indeed
 > 2 Oct 2020
 
-<details><summary>How would you communicate and collaborate with other individuals?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you communicate and collaborate with other individuals?
 
 ## Information Security Engineer, Indeed
 > 2 Oct 2020
 
-<details><summary>Examine this data flow diagram and these API structures and describe the security controls and questions you would ask someone</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Examine this data flow diagram and these API structures and describe the security controls and questions you would ask someone
 
 ## Security Engineer Intern, Expedia Group
 > 19 Sep 2020
 
-<details><summary>Describe a time facing difficulties , If ressources was available what project do you want ro build, What can prevent a web app to be available if the server is running perfectly Well known protocol</summary>
+Describe a time facing difficulties , If ressources was available what project do you want ro build, What can prevent a web app to be available if the server is running perfectly Well known protocol
+
+## Information Security Engineer, Snap
+> 3 Sep 2020
+
+<details><summary>Do you have any questions for me - Right off the cuff</summary>
 <p>
 
-- No answers
+- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore. There's a lot of Information Security Engineer experts who've worked at Snap, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully. prepfully.com/practice-interviews
 
 </p>
 </details>
@@ -1441,27 +901,10 @@
 </p>
 </details>
 
-## Information Security Engineer, Snap
-> 3 Sep 2020
-
-<details><summary>Do you have any questions for me - Right off the cuff</summary>
-<p>
-
-- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore. There's a lot of Information Security Engineer experts who've worked at Snap, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully. prepfully.com/practice-interviews
-
-</p>
-</details>
-
 ## Senior Principal Security Engineer, iTCO Solutions
 > 21 Aug 2020
 
-<details><summary>Can you talk on the phone?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you talk on the phone?
 
 ## Security Engineer Position, GoDaddy
 > 7 Aug 2020
@@ -1488,24 +931,12 @@
 ## Security Engineer, GoDaddy
 > 2 Aug 2020
 
-<details><summary>what is role based access control?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+what is role based access control?
 
 ## Security Engineer, Sysmex America
 > 24 Jul 2020
 
-<details><summary>Questions about work history. Description of job/role. Questions about personality and value you can bring.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions about work history. Description of job/role. Questions about personality and value you can bring.
 
 ## Cyber Security Engineer, Novanta
 > 11 Jul 2020
@@ -1532,24 +963,12 @@
 ## Information Security Engineer, Sure
 > 1 Jul 2020
 
-<details><summary>Not going to spoil it. ;-)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Not going to spoil it. ;-)
 
 ## Security Engineer, Palo Alto Networks
 > 20 Jun 2020
 
-<details><summary>cannot share due to nda</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+cannot share due to nda
 
 ## Application Security Engineer, Facebook
 > 13 Jun 2020
@@ -1576,13 +995,7 @@
 ## Java Security Developer, SAP Fieldglass
 > 2 Jun 2020
 
-<details><summary>1.overloading vs overriding. 2. Private constructor. 3.REST APIs -Diff GET vs POST 4.Normalization. 5.What are the indexes. 6.Will views be updated if we update table.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+1.overloading vs overriding. 2. Private constructor. 3.REST APIs -Diff GET vs POST 4.Normalization. 5.What are the indexes. 6.Will views be updated if we update table.
 
 ## IT Security Engineer, NIKE
 > 26 May 2020
@@ -1598,24 +1011,12 @@
 ## Security Engineer, Amazon
 > 25 May 2020
 
-<details><summary>Security fundamental questions: OWASP top10, crypto algorithms, network protocols, one project in detail from your resume (I explained password cracker) Penetration testing, log monitoring, server security hardening questions (all were scenario-based) previous experience and projects</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Security fundamental questions: OWASP top10, crypto algorithms, network protocols, one project in detail from your resume (I explained password cracker) Penetration testing, log monitoring, server security hardening questions (all were scenario-based) previous experience and projects
 
 ## Senior Product Security Engineer, Tanium
 > 6 May 2020
 
-<details><summary>Basic questions around web application security.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic questions around web application security.
 
 ## Security Engineer, Common Securitizton Solutions
 > 6 May 2020
@@ -1631,35 +1032,17 @@
 ## Applications Security Engineer, HBO
 > 4 May 2020
 
-<details><summary>Detail Experience thus far on previous experiences and detail steps and process of Pen Test</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Detail Experience thus far on previous experiences and detail steps and process of Pen Test
 
 ## Principal Security Engineer, Oracle
 > 3 May 2020
 
-<details><summary>Tell me a time you overcame a hostile co-worker</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me a time you overcame a hostile co-worker
 
 ## Security Engineer, Workday
 > 6 Apr 2020
 
-<details><summary>Some of OWASP top 10 issues</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Some of OWASP top 10 issues
 
 ## Cyber Security Engineer, Xandr
 > 19 Mar 2020
@@ -1686,13 +1069,7 @@
 ## Senior Security Engineer, OCC
 > 5 Mar 2020
 
-<details><summary>There were no questions that were in any way unusual or memorable.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+There were no questions that were in any way unusual or memorable.
 
 ## Cyber Security Engineer, Sandia National Laboratories
 > 28 Feb 2020
@@ -1722,13 +1099,7 @@
 ## Product Security Engineer, Squarespace
 > 17 Feb 2020
 
-<details><summary>How does HTTPS work?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How does HTTPS work?
 
 ## Security Engineer, Tillster
 > 13 Feb 2020
@@ -1766,35 +1137,17 @@
 ## Cyber Security Engineer, ENSCO
 > 5 Feb 2020
 
-<details><summary>Explain at one given point in time where you were presented a problem and how did you resolve the issue?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain at one given point in time where you were presented a problem and how did you resolve the issue?
 
 ## Senior Security Engineer, Onna Technologies
 > 1 Feb 2020
 
-<details><summary>In all fairness (because my negative rating could be taken as retaliation), I have to say that the team members who interviewed me were respectful and kind, and their questions were thoughtful (as opposed to the typical and mundane interview questions that don’t reflect a genuine interest in the applicant’s profile and work history).</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+In all fairness (because my negative rating could be taken as retaliation), I have to say that the team members who interviewed me were respectful and kind, and their questions were thoughtful (as opposed to the typical and mundane interview questions that don’t reflect a genuine interest in the applicant’s profile and work history).
 
 ## Security Sales Engineer, Continental Resources (Massachusetts)
 > 27 Jan 2020
 
-<details><summary>General about my background and what the role entailed</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+General about my background and what the role entailed
 
 ## Principal Security Engineer, Empower Retirement
 > 22 Jan 2020
@@ -1821,68 +1174,32 @@
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>Do you have experiencing scripting out the CI/CD process?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What experience do you have implementing security into the DevOps process?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>What experience do you have implementing security into the DevOps process?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you have experiencing scripting out the CI/CD process?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>What's your experience with DAST/SAST Tools?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about your experience with DevSecOps ?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>Tell me about your experience with DevSecOps ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What's your experience with DAST/SAST Tools?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>Tell me about your experience securing cloud services?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is the OWASP Top 10? What's your experience working with it?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-<details><summary>What is the OWASP Top 10? What's your experience working with it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about your experience securing cloud services?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
@@ -1909,13 +1226,7 @@
 ## Infrastructure Security Engineer, WeWork
 > 12 Jan 2020
 
-<details><summary>What are some concerns surrounding IoT motion sensor security?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are some concerns surrounding IoT motion sensor security?
 
 ## Cyber Security Engineer, Sentar
 > 11 Jan 2020
@@ -1931,35 +1242,17 @@
 ## Cloud Security Engineer, Deloitte
 > 3 Jan 2020
 
-<details><summary>What is the difference between intranet and internet and give an application of the same.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is the difference between intranet and internet and give an application of the same.
 
 ## Software Security Engineer, Viasat
 > 31 Dec 2019
 
-<details><summary>What is SYN/ACK and how does it work</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is SYN/ACK and how does it work
 
 ## Security Engineer, Cisco Systems
 > 22 Dec 2019
 
-<details><summary>Core Security-Based questions. Along with Resume questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Core Security-Based questions. Along with Resume questions
 
 ## Applications Security Engineer, Salesforce
 > 25 Nov 2019
@@ -1975,90 +1268,42 @@
 ## Information Security Engineer, Apex Systems
 > 25 Nov 2019
 
-<details><summary>It was a thorough review of my resume and general quiz of different security tools.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+It was a thorough review of my resume and general quiz of different security tools.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>NTFS filesystem metadata analysis, journal, and usn logs, deleted files, metadata inconsistency</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Common ways of malware infection and persistence, analysis of a compromised system related to them.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>Common ways of malware infection and persistence, analysis of a compromised system related to them.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+NTFS filesystem metadata analysis, journal, and usn logs, deleted files, metadata inconsistency
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>Fileless malware, ways of infection and persistence, detection on the already compromised system.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Windows API hooks, user mode, kernel mode, address tables, splicing, detection.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>Windows API hooks, user mode, kernel mode, address tables, splicing, detection.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Network traffic and capture analysis in relation to the compromised system, describe a process, what are you going to look for in the first place, how are you going to identify and deal with the encrypted traffic.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>Network traffic and capture analysis in relation to the compromised system, describe a process, what are you going to look for in the first place, how are you going to identify and deal with the encrypted traffic.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Fileless malware, ways of infection and persistence, detection on the already compromised system.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>Suspicious email analysis walk through, headers, content, attachments, static/dynamic analysis, verdict, signature creation.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+You got the memory dump of a potentially compromised system, how are you going to approach its analysis.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-<details><summary>You got the memory dump of a potentially compromised system, how are you going to approach its analysis.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Suspicious email analysis walk through, headers, content, attachments, static/dynamic analysis, verdict, signature creation.
 
 ## Senior Security Engineer, Cruise
 > 7 Nov 2019
@@ -2074,57 +1319,27 @@
 ## Senior Applications Security Engineer, ICE Mortgage Technology
 > 6 Nov 2019
 
-<details><summary>What would your current peers say about your work?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What would your current peers say about your work?
 
 ## Security Engineer, 100x
 > 6 Nov 2019
 
-<details><summary>a crypto, proof of work, let's talk about how wallet addresses are made question</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+a crypto, proof of work, let's talk about how wallet addresses are made question
 
 ## Security Engineer, 100x
 > 6 Nov 2019
 
-<details><summary>a programming question (I forget the details)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+a programming question (I forget the details)
 
 ## Security Engineer, 100x
 > 6 Nov 2019
 
-<details><summary>low level systems</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+low level systems
 
 ## Lead Security Engineer, Bolt
 > 4 Nov 2019
 
-<details><summary>How would you design a secrets storage service?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you design a secrets storage service?
 
 ## Security Engineer, Tinder
 > 31 Oct 2019
@@ -2141,46 +1356,22 @@
 ## Senior Security Engineer, Comcast
 > 30 Oct 2019
 
-<details><summary>Questions were scenario based. Some involved the challenges the team was currently facing. Overall was pleasant and didn't feel like I was being grilled. Felt more of a conversation among equals. I would recommend this team.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions were scenario based. Some involved the challenges the team was currently facing. Overall was pleasant and didn't feel like I was being grilled. Felt more of a conversation among equals. I would recommend this team.
 
 ## IT Security Engineer, Copart
 > 23 Oct 2019
 
-<details><summary>Few other cyber attacks and their prevention.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is your daily routine at work?
 
 ## IT Security Engineer, Copart
 > 23 Oct 2019
 
-<details><summary>What is your daily routine at work?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+SQL injection and its prevention.
 
 ## IT Security Engineer, Copart
 > 23 Oct 2019
 
-<details><summary>SQL injection and its prevention.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Few other cyber attacks and their prevention.
 
 ## Security Engineer, Jane Street
 > 20 Oct 2019
@@ -2207,13 +1398,7 @@
 ## Security Engineer- Detection and Response (Threat Intelligence), 100x
 > 16 Oct 2019
 
-<details><summary>What would my approach be to looking at incident response</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What would my approach be to looking at incident response
 
 ## Software Developer, IT Engineer, Security Analyst, COUNTRY Financial
 > 14 Oct 2019
@@ -2229,46 +1414,22 @@
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-<details><summary>Personality and development questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Personality and development questions
 
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-<details><summary>Technical questions regarding CIA triad, OSI model, proxy, VPN, NIST/FIPS documentation.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Professional Development and what you want to do questions
 
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-<details><summary>Professional Development and what you want to do questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical questions regarding CIA triad, OSI model, proxy, VPN, NIST/FIPS documentation.
 
 ## Information Security Engineer, Northwest Bank
 > 9 Oct 2019
 
-<details><summary>How would you begin to secure a network?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you begin to secure a network?
 
 ## Applications Security Engineer, Workfront
 > 3 Oct 2019
@@ -2295,13 +1456,7 @@
 ## Security Engineer, Wayfair
 > 2 Oct 2019
 
-<details><summary>Talk about XSS? What is WAF and how should it be implemented? Why would you use Metasploit?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Talk about XSS? What is WAF and how should it be implemented? Why would you use Metasploit?
 
 ## Applications Security Engineer, Patientco
 > 27 Sep 2019
@@ -2317,13 +1472,7 @@
 ## Security Engineer, DigitalOcean
 > 25 Sep 2019
 
-<details><summary>They use the STAR method. Tell me about a time when ____ ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+They use the STAR method. Tell me about a time when ____ ?
 
 ## Information Security Engineer, Global Payments
 > 24 Sep 2019
@@ -2339,57 +1488,27 @@
 ## Cloud Security Engineer, Abacus Insights
 > 20 Sep 2019
 
-<details><summary>Can you explain a security incident you've handled recently? Start from initial detection all the way through remediation. What steps did you take to prevent this from happening again?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you explain a security incident you've handled recently? Start from initial detection all the way through remediation. What steps did you take to prevent this from happening again?
 
 ## Cloud Security Engineer, Abacus Insights
 > 20 Sep 2019
 
-<details><summary>Describe a scenario in which you brought your security POV to a discussion with devs. What influence did you have? How did you approach it? Why did you pitch X instead of Y? Can you explain the technical details of the discussion?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you describe a technical project you worked on recently? This led to many follow-up questions ranging from process, to technical details.
 
 ## Cloud Security Engineer, Abacus Insights
 > 20 Sep 2019
 
-<details><summary>Can you describe a technical project you worked on recently? This led to many follow-up questions ranging from process, to technical details.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe a scenario in which you brought your security POV to a discussion with devs. What influence did you have? How did you approach it? Why did you pitch X instead of Y? Can you explain the technical details of the discussion?
 
 ## Cyber Security Engineer, MITRE
 > 18 Sep 2019
 
-<details><summary>What's your Superpower?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What's your Superpower?
 
 ## Cyber Security Engineer, Allstate
 > 18 Sep 2019
 
-<details><summary>Where would you see yourself in 5 years?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Where would you see yourself in 5 years?
 
 ## Security Engineer, Amazon
 > 17 Sep 2019
@@ -2405,13 +1524,7 @@
 ## Senior Applications Security Engineer, Zapier
 > 14 Sep 2019
 
-<details><summary>Describe Same Origin Policy.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe Same Origin Policy.
 
 ## Senior Network Security Engineer, PangoMedia
 > 12 Sep 2019
@@ -2427,24 +1540,12 @@
 ## Security Engineer - Vulnerability Management, PIMCO
 > 12 Sep 2019
 
-<details><summary>Tell me about your self</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about your self
 
 ## Senior Security Engineer, SES
 > 11 Sep 2019
 
-<details><summary>Experience with Vulnerability Management</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Experience with Vulnerability Management
 
 ## Network Security Engineer, State Farm
 > 5 Sep 2019
@@ -2460,35 +1561,17 @@
 ## Software Security Engineer, Yelp
 > 27 Aug 2019
 
-<details><summary>Load balancer with weights</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Number to English words
 
 ## Software Security Engineer, Yelp
 > 27 Aug 2019
 
-<details><summary>Number to English words</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Load balancer with weights
 
 ## Software Security Engineer, Yelp
 > 27 Aug 2019
 
-<details><summary>send/receive love message</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+send/receive love message
 
 ## Product Security Engineer, Salesforce
 > 21 Aug 2019
@@ -2515,13 +1598,7 @@
 ## Information Security Engineer, Linux Academy
 > 20 Aug 2019
 
-<details><summary>What are you most proud of? What are you ashamed of? How well do you know Ruby, Docker, etc...</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are you most proud of? What are you ashamed of? How well do you know Ruby, Docker, etc...
 
 ## Security Engineer, General Motors (GM)
 > 19 Aug 2019
@@ -2548,35 +1625,17 @@
 ## Information Security Engineer, Herc Rentals
 > 16 Aug 2019
 
-<details><summary>Questions about overall organizational security and app security. Tools used, etc...</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions about overall organizational security and app security. Tools used, etc...
 
 ## Applications Security Engineer, Malwarebytes
 > 15 Aug 2019
 
-<details><summary>Mainly concentrated on Security of application development.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Mainly concentrated on Security of application development.
 
 ## Applications Security Engineer, Wayfair
 > 15 Aug 2019
 
-<details><summary>security of upload feature</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+security of upload feature
 
 ## Security Engineer, Prime Therapeutics
 > 12 Aug 2019
@@ -2592,68 +1651,32 @@
 ## Systems Security Engineer, Salesforce
 > 10 Aug 2019
 
-<details><summary>describe kerberos</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+describe kerberos
 
 ## Security Engineer, J.P. Morgan
 > 3 Aug 2019
 
-<details><summary>Why should we pay you reimbursement?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why should we pay you reimbursement?
 
 ## Security Engineer, Booz Allen Hamilton
 > 21 Jul 2019
 
-<details><summary>How many years of experience do you have?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How many years of experience do you have?
 
 ## Security Engineer, NIKE
 > 21 Jul 2019
 
-<details><summary>Basic stuff - pay, why nike, etc</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic stuff - pay, why nike, etc
 
 ## Senior Network Security Engineer, Mutual of Enumclaw Insurance
 > 18 Jul 2019
 
-<details><summary>I was asked to describe some of the projects I worked on in my position with my current employer. I was asked specific questions about my experience working in a team environment. There were also several questions on my experience with network and security devices, specifically devices used at Mutual of Enumclaw (Cisco, F5, Aruba, etc). There were specific technical questions about Cisco devices and a whiteboard network diagram.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked to describe some of the projects I worked on in my position with my current employer. I was asked specific questions about my experience working in a team environment. There were also several questions on my experience with network and security devices, specifically devices used at Mutual of Enumclaw (Cisco, F5, Aruba, etc). There were specific technical questions about Cisco devices and a whiteboard network diagram.
 
 ## Cyber Security Engineer, MITRE
 > 17 Jul 2019
 
-<details><summary>What does cyber mean to you?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What does cyber mean to you?
 
 ## Information Security Engineer, Wawa
 > 15 Jul 2019
@@ -2669,35 +1692,17 @@
 ## F5 Security Engineer, SkyePoint Decisions
 > 15 Jul 2019
 
-<details><summary>How would you troubleshoot the F5 if a customer is unable to access a website? How would you verify traffic? What IP's does the F5 use for backend communication ? What is "x-forwarded-for" use for on the F5 ? Where do you apply the load balancing pool ? How would you test if a port is open from the F5 ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you troubleshoot the F5 if a customer is unable to access a website? How would you verify traffic? What IP's does the F5 use for backend communication ? What is "x-forwarded-for" use for on the F5 ? Where do you apply the load balancing pool ? How would you test if a port is open from the F5 ?
 
 ## Security Engineer, Revolut
 > 15 Jul 2019
 
-<details><summary>Home task - kind of CTF with 5(3 mandatory and 2 bonus) tasks. Technical interview - system design.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Home task - kind of CTF with 5(3 mandatory and 2 bonus) tasks. Technical interview - system design.
 
 ## Security Engineer, Google
 > 7 Jul 2019
 
-<details><summary>There were a lot of domain related questions and follow up questions accordingly</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+There were a lot of domain related questions and follow up questions accordingly
 
 ## Security Engineer, Uber
 > 25 Jun 2019
@@ -2724,46 +1729,22 @@
 ## Information Security Engineer, Southeastern Grocers
 > 21 Jun 2019
 
-<details><summary>Technical questions, design and experience expressions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical questions, design and experience expressions
 
 ## Security Engineer, Google
 > 18 Jun 2019
 
-<details><summary>Had two really simple and easy scripting question during the onsite interview</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Had two really simple and easy scripting question during the onsite interview
 
 ## Security Engineer, Google
 > 18 Jun 2019
 
-<details><summary>Really high level of questions like how you will protect a network, and dive really deep into details according to your answers. You have to really understand everything you said to catch up with the following question interviewers asked.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Really high level of questions like how you will protect a network, and dive really deep into details according to your answers. You have to really understand everything you said to catch up with the following question interviewers asked.
 
 ## Security Engineer, Salesforce
 > 17 Jun 2019
 
-<details><summary>A mix of technical and situational question related to the position. I can not provide specific questions due to an NDA with Salesforce.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+A mix of technical and situational question related to the position. I can not provide specific questions due to an NDA with Salesforce.
 
 ## Security Technology Engineer, Accudata Systems, Inc.
 > 12 Jun 2019
@@ -2779,24 +1760,12 @@
 ## Enterprise Security and BCP Engineer, Orange County's Credit Union
 > 30 May 2019
 
-<details><summary>I was asked about my experience related to the job.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about my experience related to the job.
 
 ## Enterprise Security and BCP Engineer, Orange County's Credit Union
 > 30 May 2019
 
-<details><summary>If you could have a super power (invisibility or flying) which would you choose and why?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If you could have a super power (invisibility or flying) which would you choose and why?
 
 ## Security Engineer, Uber
 > 24 May 2019
@@ -2813,79 +1782,37 @@
 ## Security Engineer, Uber
 > 24 May 2019
 
-<details><summary>what is public key cryptography</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+what is public key cryptography
 
 ## Security Engineer, Dell Technologies
 > 16 May 2019
 
-<details><summary>how access control is tested ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+how access control is tested ?
 
 ## Security Software Engineer, DigitalOcean
 > 14 May 2019
 
-<details><summary>How would you detect a DDOS attack? How does the kernel know which function to call for the user? How would you go about reverse-engineering a custom protocol packet?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you detect a DDOS attack? How does the kernel know which function to call for the user? How would you go about reverse-engineering a custom protocol packet?
 
 ## Network Security Engineer, Susquehanna International Group (SIG)
 > 13 May 2019
 
-<details><summary>Everything from basics. Vlans, Subnetting, HSRP, STP, BGP etc.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Everything from basics. Vlans, Subnetting, HSRP, STP, BGP etc.
 
 ## Security Engineer, Delta Dental Plans Association
 > 13 May 2019
 
-<details><summary>Can you tell me how you did the pentest in steps and which tools you think is useful and why?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you tell me how you did the pentest in steps and which tools you think is useful and why?
 
 ## IT Security Operations Engineer, Cloudflare
 > 10 May 2019
 
-<details><summary>Explain the working of DNS</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain the working of DNS
 
 ## Senior Infrastructure Security Engineer, Salesforce
 > 1 May 2019
 
-<details><summary>Describe your experience moving to Agile and how you use it today and what pros and cons have you experienced?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your experience moving to Agile and how you use it today and what pros and cons have you experienced?
 
 ## Principal Product Security Engineer, Salesforce
 > 30 Apr 2019
@@ -2901,13 +1828,7 @@
 ## Security Engineer (Ecosystems), Atlassian
 > 25 Apr 2019
 
-<details><summary>You have a pipeline for Docker images. How would you design everything to ensure the proper security checks? (Question changed to exclude discussion of what you'd use to implement these checks, to focusing on asking about how to design the policies, engagement model, and staff responsibilities)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+You have a pipeline for Docker images. How would you design everything to ensure the proper security checks? (Question changed to exclude discussion of what you'd use to implement these checks, to focusing on asking about how to design the policies, engagement model, and staff responsibilities)
 
 ## Cyber Security Engineer, Johns Hopkins University Applied Physics Laboratory
 > 24 Apr 2019
@@ -2923,35 +1844,17 @@
 ## Systems Security Engineer, Centene
 > 10 Apr 2019
 
-<details><summary>Describe the TCP three-way handshake.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the TCP three-way handshake.
 
 ## Senior Security Services Engineer, CyberArk
 > 9 Apr 2019
 
-<details><summary>What is Vlan, trunk. What ports used for common protocols as ssh, ldap. what is GPO and how to update those from Win workstation. How to change unix password, how to recover root password on Nix machine. difference between TCP/UDP, TCP negotiation steps.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is Vlan, trunk. What ports used for common protocols as ssh, ldap. what is GPO and how to update those from Win workstation. How to change unix password, how to recover root password on Nix machine. difference between TCP/UDP, TCP negotiation steps.
 
 ## Senior Cyber Security Engineer, Raytheon Technologies
 > 6 Apr 2019
 
-<details><summary>Typical coding questions relative to low level driver driver development. Where variables exist in memory and their basic data types.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Typical coding questions relative to low level driver driver development. Where variables exist in memory and their basic data types.
 
 ## Applications Security Engineer, Entefy
 > 5 Apr 2019
@@ -2978,46 +1881,22 @@
 ## Network Security Engineer, Copper River Family of Companies
 > 4 Apr 2019
 
-<details><summary>None. Recruiters avoid answering questions about compensation and scope of work. If someone is you hire is supposedly intelligent and skilled enough to design, build, and troubleshoot large, complex networks, do you think you will trick them into working on the cheap? Even if you did, how long do you think anyone with half a brain would stay? Did you see your horrible reviews?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+None. Recruiters avoid answering questions about compensation and scope of work. If someone is you hire is supposedly intelligent and skilled enough to design, build, and troubleshoot large, complex networks, do you think you will trick them into working on the cheap? Even if you did, how long do you think anyone with half a brain would stay? Did you see your horrible reviews?
 
 ## Information Security Engineer, Trustmark
 > 3 Apr 2019
 
-<details><summary>Give an example of an issue you overcame with a coworker.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Give an example of an issue you overcame with a coworker.
 
 ## Software Security Engineer, Google
 > 30 Mar 2019
 
-<details><summary>what is the most serious security problem in our studied area?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+what is the most serious security problem in our studied area?
 
 ## Security Engineer, CGI
 > 29 Mar 2019
 
-<details><summary>How familiar was I with compliance protocols and security tools.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How familiar was I with compliance protocols and security tools.
 
 ## Network Security Engineer, NetCraftsmen
 > 28 Mar 2019
@@ -3033,145 +1912,67 @@
 ## Security Engineer, Microsoft
 > 27 Mar 2019
 
-<details><summary>What is the volume of Internet traffic transferred over public networks every day?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is the volume of Internet traffic transferred over public networks every day?
 
 ## Security Incident Response Engineer, SAS Institute
 > 22 Mar 2019
 
-<details><summary>My level of knowledge related to SAS products.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+My level of knowledge related to SAS products.
 
 ## Security Engineer, RSA Security
 > 22 Mar 2019
 
-<details><summary>Mostly resume relevant questions. You mention X on your resume, *insert detailed knowledge question*. Some questions around 'what would you do in X situation.' Good mix of technical as well as business acumen questions. What do you like most about your job, what do you dislike.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Mostly resume relevant questions. You mention X on your resume, *insert detailed knowledge question*. Some questions around 'what would you do in X situation.' Good mix of technical as well as business acumen questions. What do you like most about your job, what do you dislike.
 
 ## Cyber Security Engineer, The Aerospace Corporation
 > 22 Mar 2019
 
-<details><summary>Mostly high level and a few requiring specific technical experience</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Mostly high level and a few requiring specific technical experience
 
 ## Information Security Engineer, Paxos
 > 15 Mar 2019
 
-<details><summary>Here's a laptop - Write a script that prints the first 25 primes in any language.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Here's a laptop - Write a script that prints the first 25 primes in any language.
 
 ## Information Security Engineer, Paxos
 > 15 Mar 2019
 
-<details><summary>What are some quick IT Sec wins - Can you encrypt everything at rest?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain SSL
 
 ## Information Security Engineer, Paxos
 > 15 Mar 2019
 
-<details><summary>Explain SSL</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are some quick IT Sec wins - Can you encrypt everything at rest?
 
 ## Linux Security Software Engineer, Qualcomm
 > 9 Mar 2019
 
-<details><summary>First Phone Screen - OS questions, Data structures, Security questions, Buffer Overflow, Memory Leak, Explain projects in your Resume, Semaphore vs Mutex</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+First Phone Screen - OS questions, Data structures, Security questions, Buffer Overflow, Memory Leak, Explain projects in your Resume, Semaphore vs Mutex
 
 ## Senior Security Engineer, Presidio
 > 8 Mar 2019
 
-<details><summary>How do you configure syslog logging from the command line</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you configure syslog logging from the command line
 
 ## Security Engineer, Cadre Information Security
 > 6 Mar 2019
 
-<details><summary>Do you have direct experience with CheckPoint products?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you have direct experience with CheckPoint products?
 
 ## Applications Security Engineer, Travelers
 > 6 Mar 2019
 
-<details><summary>How do we implement SSDLC in a CI/CD scenario</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you ensure the development team knows the seriousness of the vulnerabilities reported?
 
 ## Applications Security Engineer, Travelers
 > 6 Mar 2019
 
-<details><summary>How do you ensure the development team knows the seriousness of the vulnerabilities reported?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do we implement SSDLC in a CI/CD scenario
 
 ## Applications Security Engineer, MX
 > 5 Mar 2019
 
-<details><summary>Describe your current role and what you are looking for in this role.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your current role and what you are looking for in this role.
 
 ## Cloud Security Engineer, Allstate
 > 3 Mar 2019
@@ -3187,13 +1988,7 @@
 ## Security Engineer, Check Point Software Technologies
 > 27 Feb 2019
 
-<details><summary>What is TCP/IP</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is TCP/IP
 
 ## Security Engineer, Check Point Software Technologies
 > 27 Feb 2019
@@ -3209,32 +2004,20 @@
 ## Security Engineer, Check Point Software Technologies
 > 27 Feb 2019
 
+Can you describe a task where the customer was difficult and how did you handle it?
+
+## Security Engineer, Check Point Software Technologies
+> 27 Feb 2019
+
+What is the difference between a router and a firewall?
+
+## Security Engineer, Check Point Software Technologies
+> 27 Feb 2019
+
 <details><summary>Are you willing to relocate.</summary>
 <p>
 
 - YOU MUST BE WILLING TO RELOCATE. I was not.
-
-</p>
-</details>
-
-## Security Engineer, Check Point Software Technologies
-> 27 Feb 2019
-
-<details><summary>Can you describe a task where the customer was difficult and how did you handle it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Security Engineer, Check Point Software Technologies
-> 27 Feb 2019
-
-<details><summary>What is the difference between a router and a firewall?</summary>
-<p>
-
-- No answers
 
 </p>
 </details>
@@ -3264,35 +2047,17 @@
 ## Security Engineer, Infosys
 > 14 Feb 2019
 
-<details><summary>Question on Recursion</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Question on Recursion
 
 ## Endpoint Security Engineer, Salesforce
 > 13 Feb 2019
 
-<details><summary>Do you prefer to work in a group or individually</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you prefer to work in a group or individually
 
 ## Security Engineer, The Blackstone Group
 > 9 Feb 2019
 
-<details><summary>What do you like doing after work?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you like doing after work?
 
 ## Security Engineer, The Blackstone Group
 > 9 Feb 2019
@@ -3308,46 +2073,22 @@
 ## Security Engineer, The Blackstone Group
 > 9 Feb 2019
 
-<details><summary>What’s your greatest weakness?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What’s your greatest weakness?
 
 ## Cyber Security Engineer, NBCUniversal
 > 5 Feb 2019
 
-<details><summary>Why NBCUNIVERSAL</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why NBCUNIVERSAL
 
 ## Security Engineer, Ping Identity
 > 29 Jan 2019
 
-<details><summary>technology stack questions (familiarity with Java, static analysis, ...)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+technology stack questions (familiarity with Java, static analysis, ...)
 
 ## Security Engineer, Coinbase
 > 29 Jan 2019
 
-<details><summary>Basic informational questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic informational questions
 
 ## Senior Security Engineer, Voleon
 > 29 Jan 2019
@@ -3363,13 +2104,7 @@
 ## Information Security Engineer, Teradata
 > 23 Jan 2019
 
-<details><summary>Tell us what projects you've been working on</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell us what projects you've been working on
 
 ## Security Engineer, ReliaQuest
 > 17 Jan 2019
@@ -3396,90 +2131,42 @@
 ## Security Engineer III, Mercury Systems
 > 15 Jan 2019
 
-<details><summary>How would I best handle a difficult situation if there was no one around to help?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would I best handle a difficult situation if there was no one around to help?
 
 ## Security Engineer III, Mercury Systems
 > 15 Jan 2019
 
-<details><summary>What is my experience and background with help desk, or customer service?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is my experience and background with help desk, or customer service?
 
 ## Security Engineer III, Mercury Systems
 > 15 Jan 2019
 
-<details><summary>What is my experience and background with Security?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is my experience and background with Security?
 
 ## Security Engineer III, Mercury Systems
 > 15 Jan 2019
 
-<details><summary>What type of experience do I have with the military?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What type of experience do I have with the military?
 
 ## Senior Security Engineer, GitLab
 > 11 Jan 2019
 
-<details><summary>Why you want to work at Gitlab?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why you want to work at Gitlab?
 
 ## Senior Security Engineer, GitLab
 > 11 Jan 2019
 
-<details><summary>I had no security related questions at all. What code have you written?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I had no security related questions at all. What code have you written?
 
 ## Senior Security Engineer, Recurly
 > 5 Jan 2019
 
-<details><summary>What port is X, what port is Y what is IPtables</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What port is X, what port is Y what is IPtables
 
 ## Cyber Security Engineer, NIO
 > 26 Dec 2018
 
-<details><summary>What do you see as the weakest links in vehicle cyber security and how would you fix that?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you see as the weakest links in vehicle cyber security and how would you fix that?
 
 ## Information Systems Security Engineer, CGI
 > 26 Dec 2018
@@ -3495,13 +2182,7 @@
 ## Security Engineer, First Citizens Bank
 > 22 Dec 2018
 
-<details><summary>Describe technology and experience</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe technology and experience
 
 ## Security Engineer, AT&T
 > 8 Dec 2018
@@ -3528,24 +2209,12 @@
 ## Principal Security Engineer, Schlolastic
 > 4 Dec 2018
 
-<details><summary>Are you capable of writing a policy?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Are you capable of writing a policy?
 
 ## Information Security Engineer, J2 Global
 > 29 Nov 2018
 
-<details><summary>Do you want this position? Because the CISO doesn't have the ability to make a hiring decision at this company.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you want this position? Because the CISO doesn't have the ability to make a hiring decision at this company.
 
 ## Senior Security Engineer, Salesforce
 > 28 Nov 2018
@@ -3561,13 +2230,7 @@
 ## Infrastructure Security Engineer, Cloudflare
 > 28 Nov 2018
 
-<details><summary>Focused around security architecture reviews</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Focused around security architecture reviews
 
 ## Cyber Security Engineer, J.P. Morgan
 > 28 Nov 2018
@@ -3605,79 +2268,37 @@
 ## Cyber Security Engineer, Darktrace
 > 21 Nov 2018
 
-<details><summary>General questions about resume, background, tell me about yourself, why do you want to work in cybersecurity, tell me about a time you experienced a challenge and had to pick up a new skill quickly.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+General questions about resume, background, tell me about yourself, why do you want to work in cybersecurity, tell me about a time you experienced a challenge and had to pick up a new skill quickly.
 
 ## Product Security Engineer, Cloudflare
 > 13 Nov 2018
 
-<details><summary>Security design questions, analyzing code for vulnerabilities, some networking fundamentals, and a lot of behavioral/moral/personal questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Security design questions, analyzing code for vulnerabilities, some networking fundamentals, and a lot of behavioral/moral/personal questions.
 
 ## Cyber Security Engineer, Raytheon Technologies
 > 11 Nov 2018
 
-<details><summary>What are you looking for in this position?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are you looking for in this position?
 
 ## Security Engineer, Proficio
 > 11 Nov 2018
 
-<details><summary>Tell me about yourself</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about yourself
 
 ## Senior Network Design and Security Engineer, Undisclosed
 > 9 Nov 2018
 
-<details><summary>1. Describe BGP. 2. Tell us about network troubleshooting you have done in the past. 3. In wireshark, what does icmp 3 indicate?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+1. Describe BGP. 2. Tell us about network troubleshooting you have done in the past. 3. In wireshark, what does icmp 3 indicate?
 
 ## Systems Security Engineer, Salesforce
 > 7 Nov 2018
 
-<details><summary>Mostly based on the field and the experience and handling different scenarios.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Mostly based on the field and the experience and handling different scenarios.
 
 ## Senior Network Security Engineer, Fortinet
 > 6 Nov 2018
 
-<details><summary>TCP/IP, BGP, IPSEC</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+TCP/IP, BGP, IPSEC
 
 ## Security Engineer, Security Innovation
 > 2 Nov 2018
@@ -3704,13 +2325,7 @@
 ## Cloud Security Engineer, Netskope
 > 29 Oct 2018
 
-<details><summary>Networking questions L4-L7, Security Ciphers, Linux, Logical reasoning question and understanding of the CASB space and the Netskope product</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Networking questions L4-L7, Security Ciphers, Linux, Logical reasoning question and understanding of the CASB space and the Netskope product
 
 ## Network Security Engineer, Neustar
 > 22 Oct 2018
@@ -3726,13 +2341,7 @@
 ## Senior Cloud Security Engineer, ViacomCBS Streaming
 > 17 Oct 2018
 
-<details><summary>How would you secure the following resources in the cloud?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you secure the following resources in the cloud?
 
 ## Information Security Engineer, Senior, Panasonic Avionics Corporation
 > 17 Oct 2018
@@ -3748,101 +2357,47 @@
 ## Cyber Security Engineer, Lockheed Martin
 > 16 Oct 2018
 
-<details><summary>Tell us about a time when you made a suggestion to a superior that he or she accepted.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell us about a time when you made a suggestion to a superior that he or she accepted.
 
 ## Cloud Security Engineer, Booz Allen Hamilton
 > 16 Oct 2018
 
-<details><summary>Basic questions for a solutions architect. What do you know about encryption? Also a lot of behavioral question and tell me about yourself questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic questions for a solutions architect. What do you know about encryption? Also a lot of behavioral question and tell me about yourself questions.
 
 ## Security Operations Engineer, LogicMonitor
 > 15 Oct 2018
 
-<details><summary>Use any language you want to hit an API and pull specific information.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Use any language you want to hit an API and pull specific information.
 
 ## Senior Product Security Engineer, Salesforce
 > 15 Oct 2018
 
-<details><summary>Questions surrounding infrastructure, in depth OWASP (and how to fix/remediate), code review, penetration testing methodology, threat modeling, applied cryptography (TLS, symmetric vs. asymmetric, cipher strengths), communication style.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions surrounding infrastructure, in depth OWASP (and how to fix/remediate), code review, penetration testing methodology, threat modeling, applied cryptography (TLS, symmetric vs. asymmetric, cipher strengths), communication style.
 
 ## Cyber-Security Engineer | Pen Tester, Marriott International
 > 6 Oct 2018
 
-<details><summary>Questions were completely out of the job description</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions were completely out of the job description
 
 ## Security Engineer, Comcast
 > 28 Sep 2018
 
-<details><summary>Tell me about a project you are proud of</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about a project you are proud of
 
 ## Security Engineer, Tinder
 > 9 Sep 2018
 
-<details><summary>what would you do if someone calls claiming he has malware on his mac?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+what will you do to harden the Mac OSX once given it to you fresh out of the box?
 
 ## Security Engineer, Tinder
 > 9 Sep 2018
 
-<details><summary>what will you do to harden the Mac OSX once given it to you fresh out of the box?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+do you have any questions for me given we only have two minutes left?
 
 ## Security Engineer, Tinder
 > 9 Sep 2018
 
-<details><summary>do you have any questions for me given we only have two minutes left?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+what would you do if someone calls claiming he has malware on his mac?
 
 ## Security Engineer, Tinder
 > 9 Sep 2018
@@ -3917,13 +2472,7 @@
 ## Applications Security Engineer, Ancestry
 > 22 Aug 2018
 
-<details><summary>I'm not sure if this is publicly shareable information.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I'm not sure if this is publicly shareable information.
 
 ## Security Engineer, ACI Worldwide
 > 16 Aug 2018
@@ -3983,46 +2532,22 @@
 ## Information Security Engineer, ThousandEyes
 > 12 Jul 2018
 
-<details><summary>All kind of security questions, the question kept going deeper and deeper so the interviewer had an idea about my true knowledge ans skill set</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+All kind of security questions, the question kept going deeper and deeper so the interviewer had an idea about my true knowledge ans skill set
 
 ## Enterprise IT Security Engineer, Intrado
 > 9 Jul 2018
 
-<details><summary>Explain how traceroute works</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain how traceroute works
 
 ## Enterprise IT Security Engineer, Intrado
 > 9 Jul 2018
 
-<details><summary>What port does ping use</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What port does ping use
 
 ## Security Engineer, Qubole
 > 27 Jun 2018
 
-<details><summary>Most of the questions came from my resume. Apart from that few on securing cloud infrastructure/ docker containers. Past security related projects and enhancements.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Most of the questions came from my resume. Apart from that few on securing cloud infrastructure/ docker containers. Past security related projects and enhancements.
 
 ## Security Engineer, Acquia
 > 22 Jun 2018
@@ -4060,57 +2585,27 @@
 ## Lead Information Security Engineer, Salesforce
 > 18 Jun 2018
 
-<details><summary>Various technical and scenario based questions, mainly generic and focused on concepts, exploit classes and protocols, not tooling.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Various technical and scenario based questions, mainly generic and focused on concepts, exploit classes and protocols, not tooling.
 
 ## Network Security Engineer, Sungard Availability Services
 > 18 Jun 2018
 
-<details><summary>Questions were based on a deep understanding of protocols and open to conversation in exploring answers.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions were based on a deep understanding of protocols and open to conversation in exploring answers.
 
 ## Security Engineer, Salesforce
 > 15 Jun 2018
 
-<details><summary>Questions about cloud experience, scripting, automation, etc</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions about cloud experience, scripting, automation, etc
 
 ## Security Engineer, New Relic
 > 11 Jun 2018
 
-<details><summary>What security measures would you put in place for a brand new video streaming service? Elaborate on each item.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What security measures would you put in place for a brand new video streaming service? Elaborate on each item.
 
 ## Security Engineer, New Relic
 > 11 Jun 2018
 
-<details><summary>Given a particular message you need to convey, how would you draft out a mass email to all developers in the org.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Given a particular message you need to convey, how would you draft out a mass email to all developers in the org.
 
 ## Security Engineer, Hotwire
 > 7 Jun 2018
@@ -4170,101 +2665,47 @@
 ## Senior Applications Security Engineer, Elementum
 > 3 Jun 2018
 
-<details><summary>OWASP top 10 knowledge. Questions around building out an app sec pipeline/process.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+OWASP top 10 knowledge. Questions around building out an app sec pipeline/process.
 
 ## Senior Applications Security Engineer, Cavirin
 > 3 Jun 2018
 
-<details><summary>OWASP top 10 knowledge. Cloud security domain knowledge.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+OWASP top 10 knowledge. Cloud security domain knowledge.
 
 ## Cyber Security Engineer, AT&T
 > 29 May 2018
 
-<details><summary>explain the RMF process</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+explain the RMF process
 
 ## Product Security Engineer, Salesforce
 > 29 May 2018
 
-<details><summary>What is FIDM used for?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is FIDM used for?
 
 ## Security Engineer, Autodesk
 > 26 May 2018
 
-<details><summary>SQL injection, Threat Modelling, CSRF, XSS, SSL, Buffer overflow, Cryptography</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+SQL injection, Threat Modelling, CSRF, XSS, SSL, Buffer overflow, Cryptography
 
 ## Security Engineer, Amazon Lab126
 > 19 May 2018
 
-<details><summary>Leadership principles and whiteboard exercises</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Leadership principles and whiteboard exercises
 
 ## Security Engineer, Amazon Lab126
 > 19 May 2018
 
-<details><summary>NDA</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+NDA
 
 ## Information Security Engineer, Produce Pro Software
 > 8 May 2018
 
-<details><summary>Why would i want to work with them.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why would i want to work with them.
 
 ## Information Security Engineer, Guaranteed Rate
 > 7 May 2018
 
-<details><summary>Guaranteed Rate asked me to describe a situation in which I'd failed and what I'd taken away from that experience.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Guaranteed Rate asked me to describe a situation in which I'd failed and what I'd taken away from that experience.
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
@@ -4280,68 +2721,32 @@
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>How do you integrate yourself into a new team?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you integrate yourself into a new team?
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>How do you like to work with others?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you like to work with others?
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>How to monitor for malware?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How to monitor for malware?
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>What is the coolest malware or hack you have researched or analyzed.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+A time when a TTP worked better than an IOC.
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>A time when a TTP worked better than an IOC.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is the coolest malware or hack you have researched or analyzed.
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-<details><summary>Tell us about a time when you worked with team members on a challenging project.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell us about a time when you worked with team members on a challenging project.
 
 ## Applications Security Engineer, LinkedIn
 > 3 May 2018
@@ -4379,46 +2784,22 @@
 ## Senior Security Engineer, Joyent
 > 20 Apr 2018
 
-<details><summary>How do you implement SNORT,</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you implement SNORT,
 
 ## Software Security Engineer, Microsoft
 > 18 Apr 2018
 
-<details><summary>Multiple kind of questions, both technical and personal.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Multiple kind of questions, both technical and personal.
 
 ## Security Engineer, Box
 > 16 Apr 2018
 
-<details><summary>Usual application security stuff and one interview round with DS coding.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Usual application security stuff and one interview round with DS coding.
 
 ## Staff Applications Security Engineer, Box
 > 15 Apr 2018
 
-<details><summary>Product based security architecture and pseudo coding exercise</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Product based security architecture and pseudo coding exercise
 
 ## Information Security Engineer, Cloudflare
 > 11 Apr 2018
@@ -4434,13 +2815,7 @@
 ## Security Engineer, LinkedIn
 > 10 Apr 2018
 
-<details><summary>The engineer/manager asked 2-3 technical questions after I talk about work experience in the past.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The engineer/manager asked 2-3 technical questions after I talk about work experience in the past.
 
 ## Information Security Engineer, CynergisTek
 > 10 Apr 2018
@@ -4467,57 +2842,27 @@
 ## Security Engineer, Parkland Health & Hospital System
 > 9 Apr 2018
 
-<details><summary>What type of controls / CONOPs would you suggest to protect patient data in  scenario?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What type of controls / CONOPs would you suggest to protect patient data in  scenario?
 
 ## Security Engineer, New Grad, Samsara
 > 8 Apr 2018
 
-<details><summary>System design: Design an employee timesheet system that allows workers to update their status (working, on break, not working) and view the hours worked in a day/week. Provide the database tables for this and the RESTful API for this application. Show how the developer would pass information to the RESTful APIs</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+System design: Design an employee timesheet system that allows workers to update their status (working, on break, not working) and view the hours worked in a day/week. Provide the database tables for this and the RESTful API for this application. Show how the developer would pass information to the RESTful APIs
 
 ## Security Engineer, New Grad, Samsara
 > 8 Apr 2018
 
-<details><summary>Given 2 lists of tuples [(time1,time2),...] and [(time3,time4)], return a list of tuples of time ranges at which times intersect</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Given 2 lists of tuples [(time1,time2),...] and [(time3,time4)], return a list of tuples of time ranges at which times intersect
 
 ## Security Engineer, New Grad, Samsara
 > 8 Apr 2018
 
-<details><summary>Company related technical question involving ranges: Given a list of tuples of [(time,temp), ...], return a list of tuples of time ranges where temp is above 50.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Company related technical question involving ranges: Given a list of tuples of [(time,temp), ...], return a list of tuples of time ranges where temp is above 50.
 
 ## Security Engineer, New Grad, Samsara
 > 8 Apr 2018
 
-<details><summary>Implement an LRU cache</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Implement an LRU cache
 
 ## Information Security Engineer, John Hancock
 > 6 Apr 2018
@@ -4544,24 +2889,12 @@
 ## Software Engineer- Corporate Security, Facebook
 > 4 Apr 2018
 
-<details><summary>If you have to build security around your corporate network from scratch, how will you do it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If you have to build security around your corporate network from scratch, how will you do it?
 
 ## Security Engineer, 1-800-FLOWERS.COM, Inc.
 > 1 Apr 2018
 
-<details><summary>How do you handle phishing attempts SQL Injections XSS</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you handle phishing attempts SQL Injections XSS
 
 ## Senior Security Engineer, Goldman Sachs
 > 31 Mar 2018
@@ -4588,13 +2921,7 @@
 ## Senior Security Engineer, Rackspace Technology
 > 23 Mar 2018
 
-<details><summary>What did the recruiter tell you about this position?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What did the recruiter tell you about this position?
 
 ## Network Security Engineer, Susquehanna International Group (SIG)
 > 23 Mar 2018
@@ -4621,46 +2948,22 @@
 ## Senior Cyber Security Engineer, Lumen
 > 22 Mar 2018
 
-<details><summary>Why would you want to work for CenturyLink ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why would you want to work for CenturyLink ?
 
 ## Info Security Engineer, Bank of America
 > 16 Mar 2018
 
-<details><summary>"Tell me about your professional history/go over your resume with us..."</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+"Tell me about your professional history/go over your resume with us..."
 
 ## Information Security Engineer, Dean Foods
 > 8 Mar 2018
 
-<details><summary>Technical and personality based question, a lot of them were from my resume, like my past technical experiences and how to's</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical and personality based question, a lot of them were from my resume, like my past technical experiences and how to's
 
 ## Information Security Engineer, TransUnion
 > 8 Mar 2018
 
-<details><summary>About my recent experience</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+About my recent experience
 
 ## IT Security Engineer, ConnectiveRx
 > 7 Mar 2018
@@ -4698,57 +3001,27 @@
 ## Security Sales Engineer, Rapid7
 > 3 Mar 2018
 
-<details><summary>If you were going to attack a fortified castle, what is the first thing you would do?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If you were going to attack a fortified castle, what is the first thing you would do?
 
 ## Security Sales Engineer, Rapid7
 > 3 Mar 2018
 
-<details><summary>What is cross-site scripting?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is cross-site scripting?
 
 ## Security Sales Engineer, Rapid7
 > 3 Mar 2018
 
-<details><summary>What is the difference between an exploit and a vulnerability?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is the difference between an exploit and a vulnerability?
 
 ## Security Engineer, Salesforce
 > 2 Mar 2018
 
-<details><summary>Details around the advantages or disadvantages of different protocols, how would I handle different situations. Many of the questions we're situation based that didn't have a black and white answer and usually morphed into additional questions as the answer progressed in the situation.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Details around the advantages or disadvantages of different protocols, how would I handle different situations. Many of the questions we're situation based that didn't have a black and white answer and usually morphed into additional questions as the answer progressed in the situation.
 
 ## Security Solution Engineer, Union Bank
 > 1 Mar 2018
 
-<details><summary>What related regulations do you know? Say something detailed about it.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What related regulations do you know? Say something detailed about it.
 
 ## Security Engineer, Amazon
 > 19 Feb 2018
@@ -4775,46 +3048,22 @@
 ## Applications Security Engineer, Paycom
 > 7 Feb 2018
 
-<details><summary>Fizz-Buzz problem on school campus, mostly behavioral on the Paycom campus.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Fizz-Buzz problem on school campus, mostly behavioral on the Paycom campus.
 
 ## Cyber Security Systems Engineer, Knight Point Systems
 > 1 Feb 2018
 
-<details><summary>What would I do if a system was not responding and running much slower than usual?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What would I do if a system was not responding and running much slower than usual?
 
 ## Senior Information Security Technology Engineer, BECU
 > 30 Jan 2018
 
-<details><summary>Nothing stands out. Mostly they were experiential questions like "Have you worked with this product or that product?"</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Nothing stands out. Mostly they were experiential questions like "Have you worked with this product or that product?"
 
 ## Information Security Engineer, Handango
 > 28 Jan 2018
 
-<details><summary>What type of security products are your familiar with to protect e-commerce sites?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What type of security products are your familiar with to protect e-commerce sites?
 
 ## Security Engineer, Shape Security
 > 24 Jan 2018
@@ -4831,24 +3080,12 @@
 ## Senior Security Engineer, Bluebeam
 > 18 Jan 2018
 
-<details><summary>Various questions about security which they didn't really know anything about, as they don't have anyone doing security engineering for them.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Various questions about security which they didn't really know anything about, as they don't have anyone doing security engineering for them.
 
 ## Security Engineer, Delta Air Lines
 > 18 Jan 2018
 
-<details><summary>'Tell me about a time where you had a job and failed and what were your actions?'</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+'Tell me about a time where you had a job and failed and what were your actions?'
 
 ## Security Engineer, Bluebeam
 > 17 Jan 2018
@@ -4864,13 +3101,7 @@
 ## Senior Product Security Engineer, Salesforce
 > 16 Jan 2018
 
-<details><summary>The questions focused on application security concepts (browser security model, application vulnerabilities, etc.) and software engineering principles.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The questions focused on application security concepts (browser security model, application vulnerabilities, etc.) and software engineering principles.
 
 ## Information Security Engineer, Nissan North America
 > 10 Jan 2018
@@ -4883,27 +3114,15 @@
 </p>
 </details>
 
-## Security Infrastructure Engineer, Unity Technologies
+## Security Infrastructure Engineer, Unity
 > 5 Jan 2018
 
-<details><summary>Whiteboard style questions about securing infrastructure and services, attack vectors, and technical processes.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Whiteboard style questions about securing infrastructure and services, attack vectors, and technical processes.
 
 ## Security Engineer, Palo Alto Networks
 > 5 Jan 2018
 
-<details><summary>Most questions are based on the projects listed on my resume so you should be familiar with your projects.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Most questions are based on the projects listed on my resume so you should be familiar with your projects.
 
 ## Senior Security Engineer, Salesforce
 > 16 Dec 2017
@@ -4930,13 +3149,7 @@
 ## Security Engineer, Segment
 > 27 Nov 2017
 
-<details><summary>Basically threat modeling/design of a new service within the Segment environment</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basically threat modeling/design of a new service within the Segment environment
 
 ## Security Engineer, Credit Karma
 > 27 Nov 2017
@@ -4952,13 +3165,7 @@
 ## Applications Security Engineer, Twitch
 > 27 Nov 2017
 
-<details><summary>OWASP Top 10. Explanations, identification, remediation, etc.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+OWASP Top 10. Explanations, identification, remediation, etc.
 
 ## Principal Information Security Engineer, Deem
 > 27 Nov 2017
@@ -4974,13 +3181,7 @@
 ## Security Engineer, ReliaQuest
 > 25 Nov 2017
 
-<details><summary>Describe what a DMZ is</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe what a DMZ is
 
 ## Cyber Security Engineer, Lockheed Martin
 > 16 Nov 2017
@@ -5007,24 +3208,12 @@
 ## Network Security Operations Engineer, Salesforce
 > 8 Nov 2017
 
-<details><summary>What is a firewall, where do you deploy them? Dynamic routing protocols, explain their signifance in enterprise architecture? Signify security vulnerabilities and offer remediations ? Tell about recent ransomware attacks ? How do you do firewall policy auditing?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is a firewall, where do you deploy them? Dynamic routing protocols, explain their signifance in enterprise architecture? Signify security vulnerabilities and offer remediations ? Tell about recent ransomware attacks ? How do you do firewall policy auditing?
 
 ## Cyber Security Engineer, The DigiTrust Group
 > 25 Oct 2017
 
-<details><summary>Technical questions relating to cyber security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical questions relating to cyber security
 
 ## Network Security Engineer, Infinite Resource Solutions
 > 23 Oct 2017
@@ -5095,13 +3284,7 @@
 ## Security Engineer, DoorDash
 > 11 Oct 2017
 
-<details><summary>Basic questions on OWASP top 10 and general security concepts.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Basic questions on OWASP top 10 and general security concepts.
 
 ## Senior Security Engineer, VMware
 > 9 Oct 2017
@@ -5117,13 +3300,7 @@
 ## Senior Cyber Security Engineer, Invictus International Consulting
 > 2 Oct 2017
 
-<details><summary>They described a policy challenge that was currently being felt by engineers within a customer staff.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+They described a policy challenge that was currently being felt by engineers within a customer staff.
 
 ## Senior Security Engineer, Mixpanel
 > 2 Oct 2017
@@ -5174,134 +3351,62 @@
 ## Senior Security Sales Engineer, Rapid7
 > 18 Sep 2017
 
-<details><summary>Very basic questions about history, salary requirements, etc.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Very basic questions about history, salary requirements, etc.
 
 ## Security Engineer, Tile
 > 16 Sep 2017
 
-<details><summary>How would you secure a hosted instance?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe how TLS works in layman's terms
 
 ## Security Engineer, Tile
 > 16 Sep 2017
 
-<details><summary>Describe how TLS works in layman's terms</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you secure a hosted instance?
 
 ## Security Engineer, Coupa Software Inc
 > 14 Sep 2017
 
-<details><summary>If I was willing to work at the office, and not from home.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If I was willing to work at the office, and not from home.
 
 ## Security Engineer, Raytheon Technologies
 > 11 Sep 2017
 
-<details><summary>How would you gain access to this locked phone in front of you?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you gain access to this locked phone in front of you?
 
 ## Software Security Development Engineer, Chef Software
 > 1 Sep 2017
 
-<details><summary>Have you ever been in a mentor/teacher?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Have you ever been in a mentor/teacher?
 
 ## Software Security Development Engineer, Chef Software
 > 1 Sep 2017
 
-<details><summary>Why are you interested in working for Chef?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why are you interested in working for Chef?
 
 ## Associate IS Security Engineer, Amgen
 > 31 Aug 2017
 
-<details><summary>Name two threat actors and what would their motive be to steal information? What do you know about the WannaCry Ransomware? How is WannaCry different from Petya Ransomware? What is the difference of a stateful vs. stateless firewall?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Name two threat actors and what would their motive be to steal information? What do you know about the WannaCry Ransomware? How is WannaCry different from Petya Ransomware? What is the difference of a stateful vs. stateless firewall?
 
 ## Security Engineer, Abacode
 > 29 Aug 2017
 
-<details><summary>What have I done as a Security Engineer and what are my expectations</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What have I done as a Security Engineer and what are my expectations
 
 ## Security Automation Developer, BlackBerry
 > 28 Aug 2017
 
-<details><summary>Some questions on algorithms, data structure, and computer security.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Some questions on algorithms, data structure, and computer security.
 
 ## Information Security Engineer III, United Wholesale Mortgage (UWM)
 > 25 Aug 2017
 
-<details><summary>Explain your role at your previous job.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain your role at your previous job.
 
 ## Information Security Engineer III, United Wholesale Mortgage (UWM)
 > 25 Aug 2017
 
-<details><summary>Whats your experience with Next Gen firewalls?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Whats your experience with Next Gen firewalls?
 
 ## Security Engineer I, ReliaQuest
 > 22 Aug 2017
@@ -5317,68 +3422,32 @@
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
-<details><summary>Why do you think this is the better opportunity?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why do you think this is the better opportunity?
 
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
-<details><summary>When you moved to U.S., tell me how was the transition and when did you move.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+When you moved to U.S., tell me how was the transition and when did you move.
 
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
-<details><summary>How much you are making currently and how much do you expect.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How much you are making currently and how much do you expect.
 
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
-<details><summary>Why you want to commute so much for this new job?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why you want to commute so much for this new job?
 
 ## Applications Security Engineer, Allstate
 > 21 Aug 2017
 
-<details><summary>Whats your employment date/year for this job 5 years back?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Whats your employment date/year for this job 5 years back?
 
 ## Information Security Engineer, Regeneron
 > 14 Aug 2017
 
-<details><summary>Why do you like to work here?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why do you like to work here?
 
 ## Network Security Engineer, FireMon
 > 7 Aug 2017
@@ -5449,13 +3518,7 @@
 ## Applications Security Engineer, Cloudflare
 > 5 Jul 2017
 
-<details><summary>Password managers & CSRF</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Password managers & CSRF
 
 ## Information Security Engineer, Discover
 > 1 Jul 2017
@@ -5471,90 +3534,42 @@
 ## Staff/Senior Staff Software Engineer (Internet Security), Palo Alto Networks
 > 30 Jun 2017
 
-<details><summary>Describe what happens when you type www,google.com?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe what happens when you type www,google.com?
 
 ## Staff/Senior Staff Software Engineer (Internet Security), Palo Alto Networks
 > 30 Jun 2017
 
-<details><summary>How do you handle multiple tasks?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you handle multiple tasks?
 
 ## Security Engineer, Jet
 > 29 Jun 2017
 
-<details><summary>Could you use TCP in a scenario where the only requirement is to have an unreliable connection between the two remote machines? If yes, why? If no, how would you connect the two machines without using UDP?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Could you use TCP in a scenario where the only requirement is to have an unreliable connection between the two remote machines? If yes, why? If no, how would you connect the two machines without using UDP?
 
 ## Cyber Security Engineer, Northrop Grumman
 > 27 Jun 2017
 
-<details><summary>Technical: Prior experience with cyber security tool kits (vulnerability scanning, active exploitation, etc.). Some DoD-specific defense toolkit questions. Network knowledge, protocol-specific questions on encryption. Explain network topology/infrastructure experience. Defensive security suite questions (AV, security appliances, etc.). Personality questions: How do you handle difficult co-workers/egos in the workplace. Explain moments where you've been a leader in the workforce without being asked to lead/were in a formal leadership position. Other typical behavior/personality questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical: Prior experience with cyber security tool kits (vulnerability scanning, active exploitation, etc.). Some DoD-specific defense toolkit questions. Network knowledge, protocol-specific questions on encryption. Explain network topology/infrastructure experience. Defensive security suite questions (AV, security appliances, etc.). Personality questions: How do you handle difficult co-workers/egos in the workplace. Explain moments where you've been a leader in the workforce without being asked to lead/were in a formal leadership position. Other typical behavior/personality questions.
 
 ## Cyber Security Engineer, Jobspring Partners
 > 19 Jun 2017
 
-<details><summary>What technologies are you familiar with?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What technologies are you familiar with?
 
 ## Cyber Security Engineer, Jobspring Partners
 > 19 Jun 2017
 
-<details><summary>How far are you willing to commute?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How far are you willing to commute?
 
 ## Cyber Security Engineer, Jobspring Partners
 > 19 Jun 2017
 
-<details><summary>What was your salary?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What was your salary?
 
 ## Security Solutions Engineer, Cisco Systems
 > 19 Jun 2017
 
-<details><summary>Tell us about your experience is network security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell us about your experience is network security
 
 ## Associate Security Engineer, Check Point Software Technologies
 > 18 Jun 2017
@@ -5592,24 +3607,12 @@
 ## Cyber Security Engineer, Trane
 > 2 Jun 2017
 
-<details><summary>what activities you were involved with outside of classes?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+what activities you were involved with outside of classes?
 
 ## Network Security Engineer, Infosys
 > 28 May 2017
 
-<details><summary>In which layers cisco asa works?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+In which layers cisco asa works?
 
 ## Software Security Engineer, IBM
 > 25 May 2017
@@ -5647,68 +3650,32 @@
 ## Information Systems Security Engineer, National Security Agency
 > 17 May 2017
 
-<details><summary>Why do you want to work for the NSA?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why do you want to work for the NSA?
 
 ## Principal Security Software Engineer, Dispersive Networks
 > 16 May 2017
 
-<details><summary>Tell me about your most recent assignment.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about your most recent assignment.
 
 ## Principal Security Software Engineer, Dispersive Networks
 > 16 May 2017
 
-<details><summary>What do you use to debug your code?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you use to debug your code?
 
 ## Principal Security Software Engineer, Dispersive Networks
 > 16 May 2017
 
-<details><summary>What's your experience with memory leaks?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What's your experience with memory leaks?
 
 ## Security Engineer, NerdWallet
 > 9 May 2017
 
-<details><summary>Be ready to look at code and look for security issues/root cause around a given situation</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Be ready to look at code and look for security issues/root cause around a given situation
 
 ## Security Engineer, NerdWallet
 > 9 May 2017
 
-<details><summary>Design walkthrough on a whiteboard</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Design walkthrough on a whiteboard
 
 ## IA Security Engineer, CGI
 > 6 May 2017
@@ -5735,68 +3702,32 @@
 ## Software Security Engineer, Motorola Solutions
 > 1 May 2017
 
-<details><summary>Explain EJB and its advantages, annotations (compile-level and runtime level) What all programs can run on JVM? Advantages of Java.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain EJB and its advantages, annotations (compile-level and runtime level) What all programs can run on JVM? Advantages of Java.
 
 ## Software Security Engineer, Motorola Solutions
 > 1 May 2017
 
-<details><summary>Different ways to reverse a string, find best day to buy and sell stocks if values are present in each index of the array. Different data structures used at diff. scenarios. REST API related questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Different ways to reverse a string, find best day to buy and sell stocks if values are present in each index of the array. Different data structures used at diff. scenarios. REST API related questions.
 
 ## Software Security Engineer, Motorola Solutions
 > 1 May 2017
 
-<details><summary>Various Security Related questions, Key management, Cloud Scale up, Design Application with Security in mind, Hashing and Encryption difference. Docker related questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Various Security Related questions, Key management, Cloud Scale up, Design Application with Security in mind, Hashing and Encryption difference. Docker related questions
 
 ## Information Security Engineer, Jet
 > 28 Apr 2017
 
-<details><summary>What was one time where you went above and beyond what was asked of you?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What was one time where you went above and beyond what was asked of you?
 
 ## Security Engineer, HubSpot
 > 25 Apr 2017
 
-<details><summary>Break out the flow of a typical SSL exchange through each negotiation request and response.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Break out the flow of a typical SSL exchange through each negotiation request and response.
 
 ## Network Security Engineer, AM
 > 25 Apr 2017
 
-<details><summary>I had two rounds of interviews that were from easy to more in depth.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I had two rounds of interviews that were from easy to more in depth.
 
 ## Cloud Support Engineer - Security, Amazon
 > 24 Apr 2017
@@ -5812,13 +3743,7 @@
 ## Platform Security Engineer, Mapbox
 > 23 Apr 2017
 
-<details><summary>How do you work with other teams?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you work with other teams?
 
 ## Security Engineer, Amazon
 > 21 Apr 2017
@@ -5834,46 +3759,22 @@
 ## Network Security Engineer, Cisco Systems
 > 18 Apr 2017
 
-<details><summary>How would you filter xyz in wireshark</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you filter xyz in wireshark
 
 ## Security Engineer, WePay
 > 17 Apr 2017
 
-<details><summary>HackerRank challenge</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+HackerRank challenge
 
 ## Cyber Security Engineer, MITRE
 > 15 Apr 2017
 
-<details><summary>If you had the resources and authority, what would you do to improve Defensive Cyber Operations?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If you had the resources and authority, what would you do to improve Defensive Cyber Operations?
 
 ## Senior Information Security Engineer, SWIFT
 > 12 Apr 2017
 
-<details><summary>Risk Management, Cloud and Security Development</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Risk Management, Cloud and Security Development
 
 ## Senior Information Security Engineer, SWIFT
 > 12 Apr 2017
@@ -5911,90 +3812,42 @@
 ## Security Engineer, Red Balloon Security
 > 4 Apr 2017
 
-<details><summary>The first round i was given a steganography image second round i was given a ip based phone to decrypt message in it</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The first round i was given a steganography image second round i was given a ip based phone to decrypt message in it
 
 ## Security Engineer, Red Balloon Security
 > 4 Apr 2017
 
-<details><summary>first round they sent me a steganography image and after decrypting it they sent me a ip based phone to my mailing address and asked me to decrypt the message in the phone</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+first round they sent me a steganography image and after decrypting it they sent me a ip based phone to my mailing address and asked me to decrypt the message in the phone
 
 ## Security Engineer, Red Balloon Security
 > 4 Apr 2017
 
-<details><summary>1st round they sent me steganography image. after decrypting the image . the second round they sent me a ip based phone to my mailing address and asked me to decrypt the message in it.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+1st round they sent me steganography image. after decrypting the image . the second round they sent me a ip based phone to my mailing address and asked me to decrypt the message in it.
 
 ## Help Desk/Security Analyst/.NET Developer, Clayton Homes
 > 31 Mar 2017
 
-<details><summary>What do you know about Clayton Tell me about yourself What are your interests</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you know about Clayton Tell me about yourself What are your interests
 
 ## Network Security Engineer, FireMon
 > 29 Mar 2017
 
-<details><summary>analyze stack trace and describe what happened</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+analyze stack trace and describe what happened
 
 ## Network Security Engineer, FireMon
 > 29 Mar 2017
 
-<details><summary>analyze obscure configuration file and describe what it does</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+analyze obscure configuration file and describe what it does
 
 ## Security Engineer, Paxos
 > 24 Mar 2017
 
-<details><summary>Should we encrypt data at rest?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Should we encrypt data at rest?
 
 ## Security Engineer, Paxos
 > 24 Mar 2017
 
-<details><summary>Our DB was stolen/exfiltrated. It was secured with one round of sha256 with a static salt. What do we do now? Are we at risk? What do we change?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Our DB was stolen/exfiltrated. It was secured with one round of sha256 with a static salt. What do we do now? Are we at risk? What do we change?
 
 ## Security Engineer, Paxos
 > 24 Mar 2017
@@ -6010,24 +3863,12 @@
 ## Security Engineer, Paxos
 > 24 Mar 2017
 
-<details><summary>print out the first 25 odd numbers in any language.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+print out the first 25 odd numbers in any language.
 
 ## Lead Solutions Engineer - Security Specialist, Salesforce
 > 22 Mar 2017
 
-<details><summary>Whiteboard a security concept and provide an explanation.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Whiteboard a security concept and provide an explanation.
 
 ## Information Security Engineer, Informatica
 > 15 Mar 2017
@@ -6043,35 +3884,17 @@
 ## Network Security Engineer, Hewlett Packard Enterprise | HPE
 > 8 Mar 2017
 
-<details><summary>Describe the OSI Model.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the OSI Model.
 
 ## Security Engineer, Amazon
 > 8 Mar 2017
 
-<details><summary>General behavioral and project questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+General behavioral and project questions.
 
 ## Cloud Security Engineer, Whole Foods Market
 > 2 Mar 2017
 
-<details><summary>Why did you apply for this role?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why did you apply for this role?
 
 ## Security Operations Center Engineer, Joyent
 > 2 Mar 2017
@@ -6087,13 +3910,7 @@
 ## Senior Security Engineer, Groupon
 > 23 Feb 2017
 
-<details><summary>Why would you be a good fit for Groupon and other basic experience based questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why would you be a good fit for Groupon and other basic experience based questions.
 
 ## Senior Information Security Engineer, Ntrepid
 > 21 Feb 2017
@@ -6120,24 +3937,12 @@
 ## Principal Security Engineer, Alert Logic
 > 13 Feb 2017
 
-<details><summary>It isn't a question; more so he brought down a game called Master Mind and makes you run through case conditions for logic and determining patterns.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+It isn't a question; more so he brought down a game called Master Mind and makes you run through case conditions for logic and determining patterns.
 
 ## Principal Security Engineer, Alert Logic
 > 13 Feb 2017
 
-<details><summary>What do you think of the new Alert Logic?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you think of the new Alert Logic?
 
 ## Network Security Engineer, CyberNSecurity Solutions
 > 10 Feb 2017
@@ -6153,46 +3958,22 @@
 ## Information Security Engineer, Spectrum Health
 > 10 Feb 2017
 
-<details><summary>I was asked about my education and any internships that might help in the role</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about my education and any internships that might help in the role
 
 ## Information Security Engineer, Spectrum Health
 > 10 Feb 2017
 
-<details><summary>I was asked about current industry certifications</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about current industry certifications
 
 ## Information Security Engineer, Spectrum Health
 > 10 Feb 2017
 
-<details><summary>I was asked about HIPAA security and the difference between required and addressable components.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about HIPAA security and the difference between required and addressable components.
 
 ## Information Security Engineer, Spectrum Health
 > 10 Feb 2017
 
-<details><summary>In the technical interview I was presented with a network diagram and asked to walk through it - describe the flow of data, the roles of various pieces if equipment and a determination of how it might be improved upon for a set of given circumstances</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+In the technical interview I was presented with a network diagram and asked to walk through it - describe the flow of data, the roles of various pieces if equipment and a determination of how it might be improved upon for a set of given circumstances
 
 ## Security Engineer, D. E. Shaw & Co. - Investment Firm
 > 9 Feb 2017
@@ -6208,13 +3989,7 @@
 ## Security Engineer, D. E. Shaw & Co. - Investment Firm
 > 9 Feb 2017
 
-<details><summary>How would you install DLP hardware for email?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you install DLP hardware for email?
 
 ## Security Engineer, D. E. Shaw & Co. - Investment Firm
 > 9 Feb 2017
@@ -6252,13 +4027,7 @@
 ## Security Engineer, Securonix
 > 7 Feb 2017
 
-<details><summary>General profile based questions and some basic java questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+General profile based questions and some basic java questions
 
 ## Senior Cyber Security Engineer, Forcepoint
 > 4 Feb 2017
@@ -6274,13 +4043,7 @@
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 30 Jan 2017
 
-<details><summary>Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.
 
 ## Security Software Engineer, Yahoo
 > 18 Jan 2017
@@ -6296,35 +4059,17 @@
 ## Cyber Security Engineer, Robert Half
 > 18 Jan 2017
 
-<details><summary>Standard personality type questions, how do you handle a difficult co-worker, etc.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Standard personality type questions, how do you handle a difficult co-worker, etc.
 
 ## Applications Security Engineer, balena
 > 17 Jan 2017
 
-<details><summary>Very basic stuff What is authentication vs Authorization Name spaces OAuth Threat modelling</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Very basic stuff What is authentication vs Authorization Name spaces OAuth Threat modelling
 
 ## Cyber Security Engineer, Taranet
 > 17 Jan 2017
 
-<details><summary>Technical questions about your experience and what type of work you did. What certifications are currently held. What goals you have.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Technical questions about your experience and what type of work you did. What certifications are currently held. What goals you have.
 
 ## IT Security Engineer, Xerox
 > 9 Jan 2017
@@ -6384,6 +4129,11 @@
 ## Security Engineer, Compliance Analyst, Facebook
 > 10 Dec 2016
 
+Some more business security related questions.
+
+## Security Engineer, Compliance Analyst, Facebook
+> 10 Dec 2016
+
 <details><summary>Brain teaser asking how to send a box with a diamond it in all the way across the country if the send and receiver have different keys.</summary>
 <p>
 
@@ -6395,24 +4145,7 @@
 ## Security Engineer, Compliance Analyst, Facebook
 > 10 Dec 2016
 
-<details><summary>Some more business security related questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
-
-## Security Engineer, Compliance Analyst, Facebook
-> 10 Dec 2016
-
-<details><summary>How'd you end up here talking to me today? (10 minute answer first given by manager then my turn)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How'd you end up here talking to me today? (10 minute answer first given by manager then my turn)
 
 ## Security Engineer, Compliance Analyst, Facebook
 > 10 Dec 2016
@@ -6428,24 +4161,12 @@
 ## Information Security Engineer, InteliSecure
 > 7 Dec 2016
 
-<details><summary>Describe your Experience, Describe your accomplishments, describe your weaknesses, where do you see your self in a few years?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your Experience, Describe your accomplishments, describe your weaknesses, where do you see your self in a few years?
 
 ## Security Engineer, Booz Allen Hamilton
 > 5 Dec 2016
 
-<details><summary>What type of work environment would you dislike and why?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What type of work environment would you dislike and why?
 
 ## SOC Security Engineer, Las Vegas Sands
 > 5 Dec 2016
@@ -6461,24 +4182,12 @@
 ## Security Engineer, Salesforce
 > 1 Dec 2016
 
-<details><summary>Open ended threat modeling questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Open ended threat modeling questions.
 
 ## Information Security Engineer, Mondo
 > 30 Nov 2016
 
-<details><summary>What kind of security frameworks have you had to adhere to in the past.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What kind of security frameworks have you had to adhere to in the past.
 
 ## Information Security Engineer, NJVC
 > 29 Nov 2016
@@ -6494,79 +4203,37 @@
 ## Applications Security Engineer, DMI
 > 28 Nov 2016
 
-<details><summary>How do you deal with a constant negative person?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you deal with a constant negative person?
 
 ## Security Engineer, Steampunk
 > 21 Nov 2016
 
-<details><summary>Name a difficult situation you ran into and how did you overcome it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Name a difficult situation you ran into and how did you overcome it?
 
 ## Information Security Engineer, Palantir Technologies
 > 17 Nov 2016
 
-<details><summary>Walk through a whiteboard scenario for your environment of choice (Win/Linux) in which compromising the network is the goal without use of social engineering techniques (phishing for credential harvesting, etc).</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Walk through a whiteboard scenario for your environment of choice (Win/Linux) in which compromising the network is the goal without use of social engineering techniques (phishing for credential harvesting, etc).
 
 ## Security Engineer, Microsoft
 > 16 Nov 2016
 
-<details><summary>1. They asked me about pen-testing and tools used to perform pen tests. 2. They asked me to whiteboard my current projects and come up with security flaws in design. 3. They asked me OWASP and what I think was the most prominent vulnerability? 4. They asked if I had prior experience in working in security and have played CTFs. 5. Behavioral questions like what kind of team would you like to work in?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+1. They asked me about pen-testing and tools used to perform pen tests. 2. They asked me to whiteboard my current projects and come up with security flaws in design. 3. They asked me OWASP and what I think was the most prominent vulnerability? 4. They asked if I had prior experience in working in security and have played CTFs. 5. Behavioral questions like what kind of team would you like to work in?
 
 ## Senior Network Security Engineer, Verizon
 > 15 Nov 2016
 
-<details><summary>What were some of things you've accomplished at your previous company?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What were some of things you've accomplished at your previous company?
 
 ## Security Engineer, Amazon
 > 14 Nov 2016
 
-<details><summary>Scenario based questions. "How would you exploit a system with these protections applied?"</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Scenario based questions. "How would you exploit a system with these protections applied?"
 
 ## Information Security Engineer, OHSU
 > 13 Nov 2016
 
-<details><summary>What is our mission statement? How would you handle a non-solvable conflict? If left alone in office with access to a computer, how would you exploit it? What is Change Management? Describe HTTPs and how it is used? What is the difference between HTTPS and SSL? Tell us about yourself? How do you handle conflicts? What is your opinion on the various past viruses and why? How do you harden a system? How to you elevate permissions?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is our mission statement? How would you handle a non-solvable conflict? If left alone in office with access to a computer, how would you exploit it? What is Change Management? Describe HTTPs and how it is used? What is the difference between HTTPS and SSL? Tell us about yourself? How do you handle conflicts? What is your opinion on the various past viruses and why? How do you harden a system? How to you elevate permissions?
 
 ## Security Engineer, iHeartMedia
 > 7 Nov 2016
@@ -6582,24 +4249,12 @@
 ## Principal Security Engineer, ResMed
 > 3 Nov 2016
 
-<details><summary>Who wrote this book about TDD? (lol) What's the difference between a Principal and Sr Engineer? Other completely open ended questions about how would you secure these 2 systems, when tried to gather more information about the question, devs responded we are the ones interviewing with you, only we ask questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Who wrote this book about TDD? (lol) What's the difference between a Principal and Sr Engineer? Other completely open ended questions about how would you secure these 2 systems, when tried to gather more information about the question, devs responded we are the ones interviewing with you, only we ask questions.
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 2 Nov 2016
 
-<details><summary>questions regarding the RMF process which is fairly new to the Department of Defense which had been DIACAP focused.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+questions regarding the RMF process which is fairly new to the Department of Defense which had been DIACAP focused.
 
 ## Junior Security Engineer, The MIL Corporation
 > 31 Oct 2016
@@ -6615,13 +4270,7 @@
 ## Senior Applications Security Engineer, Netflix
 > 25 Oct 2016
 
-<details><summary>Scale..</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Scale..
 
 ## Senior Network Security Engineer, Salesforce
 > 23 Oct 2016
@@ -6671,13 +4320,7 @@
 ## Security Engineer, Viasat
 > 10 Oct 2016
 
-<details><summary>Compliance process, network knowledge, pentesting knowledge.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Compliance process, network knowledge, pentesting knowledge.
 
 ## Network Security Engineer, Cummins-Allison
 > 6 Oct 2016
@@ -6693,57 +4336,27 @@
 ## IT Security Engineer, Arrow Electronics
 > 4 Oct 2016
 
-<details><summary>How will you make your network secure?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How will you make your network secure?
 
 ## IT Security Engineer, Arrow Electronics
 > 4 Oct 2016
 
-<details><summary>What about yourself are you most proud of?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What about yourself are you most proud of?
 
 ## Senior Engineer, IoT Security, InterDigital
 > 2 Oct 2016
 
-<details><summary>Define security concepts, such as difference between encoding and encryption, purpose of TLS.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Define security concepts, such as difference between encoding and encryption, purpose of TLS.
 
 ## Senior Engineer, IoT Security, InterDigital
 > 2 Oct 2016
 
-<details><summary>Describe achievements in past job.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe achievements in past job.
 
 ## Senior Engineer, IoT Security, InterDigital
 > 2 Oct 2016
 
-<details><summary>Describe projects on which you have worked.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe projects on which you have worked.
 
 ## Senior Cyber Security Engineer, MITRE
 > 1 Oct 2016
@@ -6770,24 +4383,12 @@
 ## Information Security Engineer, Palantir Technologies
 > 28 Sep 2016
 
-<details><summary>I signed an NDA.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I signed an NDA.
 
 ## Senior Information Security Engineer, COMPASS Cyber Security
 > 27 Sep 2016
 
-<details><summary>Typical tech questions, but there was a focus more on my background, my community involvement; essentially who I was and how I could fit within COMPASS.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Typical tech questions, but there was a focus more on my background, my community involvement; essentially who I was and how I could fit within COMPASS.
 
 ## Information Systems Security Engineer, New Directions Technologies
 > 26 Sep 2016
@@ -6803,13 +4404,7 @@
 ## Principal Information Security Engineer, ManTech
 > 24 Sep 2016
 
-<details><summary>Availability timeframe.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Availability timeframe.
 
 ## Junior Security Engineer, Homesite Group Incorporated
 > 21 Sep 2016
@@ -6825,24 +4420,12 @@
 ## Information Security Engineer, Twitch
 > 12 Sep 2016
 
-<details><summary>Typical "think like an attacker for a moment..." questions. Then the inverse, "how would you detect unknown attacker activity." How to secure a web app; different web app vulnerabilities.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Typical "think like an attacker for a moment..." questions. Then the inverse, "how would you detect unknown attacker activity." How to secure a web app; different web app vulnerabilities.
 
 ## Senior Security Engineer, IntellecTechs
 > 10 Sep 2016
 
-<details><summary>Describe the security technologies you have hands on experience with?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the security technologies you have hands on experience with?
 
 ## Security Integration Engineer, Collabera
 > 9 Sep 2016
@@ -6858,24 +4441,12 @@
 ## Web Applications Security Engineer, Blizzard Entertainment
 > 3 Sep 2016
 
-<details><summary>Why are you leaving your current employer?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why are you leaving your current employer?
 
 ## Web Applications Security Engineer, Blizzard Entertainment
 > 3 Sep 2016
 
-<details><summary>Why do you want to work specifically at Blizzard?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why do you want to work specifically at Blizzard?
 
 ## Web Applications Security Engineer, Blizzard Entertainment
 > 3 Sep 2016
@@ -6913,35 +4484,17 @@
 ## Associate Information Security Engineer, Federal Reserve Bank of Chicago
 > 31 Aug 2016
 
-<details><summary>How would you handle a computer on your network being infected (general ideas not tech nitty gritty)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you handle a computer on your network being infected (general ideas not tech nitty gritty)
 
 ## Security Engineer, PPL
 > 31 Aug 2016
 
-<details><summary>how well I knew Juniper firewalls from my previous positions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+how well I knew Juniper firewalls from my previous positions.
 
 ## Security Engineer, Citrix
 > 26 Aug 2016
 
-<details><summary>Describe different authentication mechanisms used in practice and detail the differences among the ones you select.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe different authentication mechanisms used in practice and detail the differences among the ones you select.
 
 ## Security Assurance Engineer, FactSet
 > 20 Aug 2016
@@ -6968,13 +4521,7 @@
 ## Security Systems Software Engineer, Qualcomm
 > 13 Aug 2016
 
-<details><summary>Given a sorted array that can have both negative and positive integers, write an algorithm to sort the array of the squares of the integers. Optimize it.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Given a sorted array that can have both negative and positive integers, write an algorithm to sort the array of the squares of the integers. Optimize it.
 
 ## Security Engineer, STONE Resource Group
 > 9 Aug 2016
@@ -7001,13 +4548,7 @@
 ## Senior Cyber Security Engineer, Booz Allen Hamilton
 > 7 Aug 2016
 
-<details><summary>What CND tools do you knowledge or experience with?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What CND tools do you knowledge or experience with?
 
 ## Information Security Engineer, Netspend
 > 5 Aug 2016
@@ -7023,24 +4564,12 @@
 ## Security Engineer, Deloitte
 > 4 Aug 2016
 
-<details><summary>Anything regarding the role</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Anything regarding the role
 
 ## Senior Cloud Security Engineer, Hilton
 > 4 Aug 2016
 
-<details><summary>Describe your experience as it relates to security in AWS?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your experience as it relates to security in AWS?
 
 ## Security Engineer, G2 Inc.
 > 25 Jul 2016
@@ -7067,13 +4596,7 @@
 ## Information Security Engineer, Google
 > 20 Jul 2016
 
-<details><summary>Why system stack is not implemented in reverse order ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why system stack is not implemented in reverse order ?
 
 ## Security Engineer, UnifyID
 > 15 Jul 2016
@@ -7089,57 +4612,27 @@
 ## EMS Cyber Security Engineer, El Paso Electric
 > 6 Jul 2016
 
-<details><summary>Why should we hire you , why El Paso Electric ? Witch cyber security systems do you know ? What was your last big challenge ? How would your co-workers describe your personality ?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why should we hire you , why El Paso Electric ? Witch cyber security systems do you know ? What was your last big challenge ? How would your co-workers describe your personality ?
 
 ## Security Engineer, Google
 > 4 Jul 2016
 
-<details><summary>During lunch, I was asked about my career goals and how they fit with Google.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+During lunch, I was asked about my career goals and how they fit with Google.
 
 ## Security Engineer, Amazon
 > 1 Jul 2016
 
-<details><summary>Name a time when you had to deal with a difficult person, how did you resolve the issue?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Name a time when you had to deal with a difficult person, how did you resolve the issue?
 
 ## Senior IT Security Engineer, Qualcomm
 > 29 Jun 2016
 
-<details><summary>How would you work in a team environment with a difficult co worker.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you work in a team environment with a difficult co worker.
 
 ## Information Security Engineer, Zapata Technology
 > 27 Jun 2016
 
-<details><summary>Have you worked with the team or the validator before?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Have you worked with the team or the validator before?
 
 ## Security Engineer, NCC Group
 > 25 Jun 2016
@@ -7200,24 +4693,12 @@
 ## Associate Information Security Engineer, MorphoTrust USA
 > 5 Jun 2016
 
-<details><summary>Describe your approach to problem-solving.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your approach to problem-solving.
 
 ## Network Security Engineer, Atos
 > 29 May 2016
 
-<details><summary>I was asked no hard questions, mainly scenario based. When I did receive a complicated situation, the interviewer did not seem overly friendly nor someone with whom I would want to work.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked no hard questions, mainly scenario based. When I did receive a complicated situation, the interviewer did not seem overly friendly nor someone with whom I would want to work.
 
 ## Software Engineer- Security, A10 Networks
 > 23 May 2016
@@ -7244,13 +4725,7 @@
 ## Engineer Software and Network Security, Palo Alto Networks
 > 4 May 2016
 
-<details><summary>Pointer in C and memory location etc.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Pointer in C and memory location etc.
 
 ## Cloud Security Engineer, Twilio
 > 25 Apr 2016
@@ -7277,13 +4752,7 @@
 ## Security Engineer, Atlassian
 > 6 Apr 2016
 
-<details><summary>Code reviews of Java, Python, JS code and finding the vulnerabilities in the code.. If you know the common security problems in software you will have no problems with the reviews. Some were a bit more tricky but still nothing to difficult.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Code reviews of Java, Python, JS code and finding the vulnerabilities in the code.. If you know the common security problems in software you will have no problems with the reviews. Some were a bit more tricky but still nothing to difficult.
 
 ## Network Security Engineer, Puget Sound Energy
 > 6 Apr 2016
@@ -7310,24 +4779,12 @@
 ## Information Security Engineer, Cengage Group
 > 5 Apr 2016
 
-<details><summary>Entire setup and configuration process for a web application on cloud and all security measures to protect it. Use of tools like Burpsuite, Qualys, Splunk. Knowledge and understanding of cloud environment.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Entire setup and configuration process for a web application on cloud and all security measures to protect it. Use of tools like Burpsuite, Qualys, Splunk. Knowledge and understanding of cloud environment.
 
 ## Cyber Security Engineer, MITRE
 > 31 Mar 2016
 
-<details><summary>There were very few technical questions and no coding questions at all.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+There were very few technical questions and no coding questions at all.
 
 ## Senior Applications Security Engineer, Etsy
 > 28 Mar 2016
@@ -7354,35 +4811,17 @@
 ## Security Engineer, MassMutual
 > 23 Mar 2016
 
-<details><summary>What is XSS? How to prevent it. How do you configure wireshark? questions from resume</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is XSS? How to prevent it. How do you configure wireshark? questions from resume
 
 ## Security Engineer, Eventbrite
 > 21 Mar 2016
 
-<details><summary>Whiteboard the different security problems with the given code. A printed page of code was given and I was asked to find all the vulnerabilities in the code.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Whiteboard the different security problems with the given code. A printed page of code was given and I was asked to find all the vulnerabilities in the code.
 
 ## Applications Security Engineer, CA Technologies
 > 17 Mar 2016
 
-<details><summary>What's the shortest amount of time that you've seen between code submission and production? How would you implement security in our development cycle? What tools do you use?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What's the shortest amount of time that you've seen between code submission and production? How would you implement security in our development cycle? What tools do you use?
 
 ## Network Security Engineer, Cyberoam Technologies
 > 9 Mar 2016
@@ -7398,35 +4837,17 @@
 ## Senior Security Engineer, PlayStation
 > 28 Feb 2016
 
-<details><summary>Networking, Linux configuration and Security.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Networking, Linux configuration and Security.
 
 ## Cyber Security Engineer - Exercise Developer, Software Engineering Institute
 > 25 Feb 2016
 
-<details><summary>Describe your technical background. What additional technical training would you like to pursue, if given the opportunity?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your technical background. What additional technical training would you like to pursue, if given the opportunity?
 
 ## Cyber Security Engineer, Sierra Nevada Corporation
 > 21 Feb 2016
 
-<details><summary>How did your project management experience help you as a technical SME and vice versa?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How did your project management experience help you as a technical SME and vice versa?
 
 ## Information Security Engineer, Booz Allen Hamilton
 > 17 Feb 2016
@@ -7442,13 +4863,7 @@
 ## Information Security Engineer, Intercontinental Exchange
 > 8 Feb 2016
 
-<details><summary>why do you think you are qualified for this job. Why do you choose our company</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+why do you think you are qualified for this job. Why do you choose our company
 
 ## Information Security Engineer, ZeniMax Media
 > 8 Feb 2016
@@ -7596,35 +5011,17 @@
 ## Security Engineer, Check Point Software Technologies
 > 18 Dec 2015
 
-<details><summary>What is a connection table on a firewall?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is a connection table on a firewall?
 
 ## Security Engineer, Check Point Software Technologies
 > 18 Dec 2015
 
-<details><summary>What experience do you have with firewalls including Check Point?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What experience do you have with firewalls including Check Point?
 
 ## Systems Security Engineer, CGI
 > 10 Dec 2015
 
-<details><summary>How would you conduct a security code review?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you conduct a security code review?
 
 ## Information Security Engineer, InteliSecure
 > 9 Dec 2015
@@ -7651,35 +5048,17 @@
 ## Security Engineer, NORCAL Mutual Insurance
 > 2 Dec 2015
 
-<details><summary>Tell me why you'll be successful at this job. Tell me why you'll be a good fit for the NORCAL culture.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me why you'll be successful at this job. Tell me why you'll be a good fit for the NORCAL culture.
 
 ## Cyber Security Engineer, MITRE
 > 30 Nov 2015
 
-<details><summary>Describe the process of analyzing a web application</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe the process of analyzing a web application
 
 ## Web Security Engineer, Aspect Security
 > 29 Nov 2015
 
-<details><summary>What’s the difference between Java and Javascript?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What’s the difference between Java and Javascript?
 
 ## Security Engineer, Qualcomm
 > 25 Nov 2015
@@ -7707,13 +5086,7 @@
 ## Senior Systems Security Engineer, Technica
 > 6 Nov 2015
 
-<details><summary>Had you work with certain security tools</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Had you work with certain security tools
 
 ## Security Engineer, WePay
 > 5 Nov 2015
@@ -7751,13 +5124,7 @@
 ## Senior Embedded Security Engineer, TracFone Wireless, Inc.
 > 30 Oct 2015
 
-<details><summary>all the questions were related to embedded security topics especially the radio.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+all the questions were related to embedded security topics especially the radio.
 
 ## Senior Security Engineer, CSC
 > 25 Oct 2015
@@ -7773,68 +5140,32 @@
 ## Security Developer, Hewlett Packard Enterprise | HPE
 > 21 Oct 2015
 
-<details><summary>knowledge about security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+knowledge about security
 
 ## Security Engineer, Cenzic
 > 7 Oct 2015
 
-<details><summary>How do you drive SDLC?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you drive SDLC?
 
 ## Security Engineer II, SAP Concur
 > 6 Oct 2015
 
-<details><summary>Can you describe at a high level what a typical incident response process should look like?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you describe at a high level what a typical incident response process should look like?
 
 ## Software Security Engineer, Datawise.io
 > 4 Oct 2015
 
-<details><summary>implemented memory cache - get object from cache, create new one using a provided callback if not present, if cache full make space by writing least used cache to disk</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+implemented memory cache - get object from cache, create new one using a provided callback if not present, if cache full make space by writing least used cache to disk
 
 ## Information Security Engineer, Umbel
 > 30 Sep 2015
 
-<details><summary>Tell me about your work history related to security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about your work history related to security
 
 ## Systems Security Engineer, Qbase
 > 11 Sep 2015
 
-<details><summary>How long have you been in cyber security?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How long have you been in cyber security?
 
 ## Security Engineer, Community Health Systems
 > 27 Aug 2015
@@ -7861,24 +5192,12 @@
 ## Security Engineer, G2 Inc.
 > 24 Aug 2015
 
-<details><summary>How would you go about defeating that design to access workstation A? (whiteboard)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you go about defeating that design to access workstation A? (whiteboard)
 
 ## Security Engineer, G2 Inc.
 > 24 Aug 2015
 
-<details><summary>Draw a network design, using whatever implementation you'd like, to secure workstation A (whiteboard)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Draw a network design, using whatever implementation you'd like, to secure workstation A (whiteboard)
 
 ## Cyber Security Engineer, Ethernautics
 > 23 Aug 2015
@@ -7916,13 +5235,7 @@
 ## Senior Security Engineer, Syniverse
 > 10 Aug 2015
 
-<details><summary>Why do you want to work with our group?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why do you want to work with our group?
 
 ## Transport Security Engineer, Apple
 > 9 Aug 2015
@@ -7938,24 +5251,12 @@
 ## Information Security Engineer, Booz Allen Hamilton
 > 3 Aug 2015
 
-<details><summary>Tell us about yourself and work history</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell us about yourself and work history
 
 ## Associate Consulting Engineer – Security Assessment - Entry Level Position, CDW
 > 1 Aug 2015
 
-<details><summary>Q.Tell me about yourself? Q.Why we hire you? Q.what r u do to update yourself for technology?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Q.Tell me about yourself? Q.Why we hire you? Q.what r u do to update yourself for technology?
 
 ## Senior Cyber Security Engineer, American Institutes for Research
 > 28 Jul 2015
@@ -7982,13 +5283,7 @@
 ## Senior Information Security Engineer, Netflix
 > 24 Jul 2015
 
-<details><summary>Describe a time where you had to lead a project, the project fail, and how did you overcome?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe a time where you had to lead a project, the project fail, and how did you overcome?
 
 ## Information Security Engineer, Juniper Networks
 > 23 Jul 2015
@@ -8004,24 +5299,12 @@
 ## Information Security Engineer, G2 Inc.
 > 21 Jul 2015
 
-<details><summary>Disassemble this puzzle ball and reassemble it in 60 seconds.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Disassemble this puzzle ball and reassemble it in 60 seconds.
 
 ## Senior Security Network Engineer, Proficio
 > 21 Jul 2015
 
-<details><summary>Describe IPSEC Phase 1 and Phase 2.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe IPSEC Phase 1 and Phase 2.
 
 ## Senior Cyber Security Engineer, Travelport
 > 21 Jul 2015
@@ -8037,35 +5320,17 @@
 ## Network Security Engineer, Tata Consultancy Services
 > 20 Jul 2015
 
-<details><summary>If I know Checkpoint Firewall?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If I know Checkpoint Firewall?
 
 ## Security Engineer, SMS Data Products Group
 > 13 Jul 2015
 
-<details><summary>I was asked about security related troubleshooting and my thoughts on team dynamics.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about security related troubleshooting and my thoughts on team dynamics.
 
 ## Security Engineer, Netflix
 > 7 Jul 2015
 
-<details><summary>Some technical, other personality. They are big on their culture slides. Definitely know how to code. Python will especially be a ++</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Some technical, other personality. They are big on their culture slides. Definitely know how to code. Python will especially be a ++
 
 ## Senior Security Engineer, CBTS
 > 2 Jul 2015
@@ -8081,24 +5346,12 @@
 ## Senior Security Engineer, CBTS
 > 2 Jul 2015
 
-<details><summary>What is your knowledge of the Host Intrusion Prevention System Software, and what would you do to properly manage the software over an enterprise of 100k + systems</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is your knowledge of the Host Intrusion Prevention System Software, and what would you do to properly manage the software over an enterprise of 100k + systems
 
 ## Security Engineer, Security On-Demand
 > 30 Jun 2015
 
-<details><summary>What was your most significant accomplishment at your last position and why?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What was your most significant accomplishment at your last position and why?
 
 ## IT Security Engineer, Mindbody
 > 28 Jun 2015
@@ -8125,79 +5378,37 @@
 ## Senior Security Engineer - Ethical Hacking, Cerner
 > 22 Jun 2015
 
-<details><summary>What a security program consist of?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What a security program consist of?
 
 ## Senior Security Engineer - Ethical Hacking, Cerner
 > 22 Jun 2015
 
-<details><summary>What is threat, vulnerability & risk(definition)</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is threat, vulnerability & risk(definition)
 
 ## Security Engineer - Contractor, VA Health
 > 18 Jun 2015
 
-<details><summary>simple questions about network security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+simple questions about network security
 
 ## Security Engineer, Check Point Software Technologies
 > 17 Jun 2015
 
-<details><summary>What is firewall</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is firewall
 
 ## IT Security Engineer, ReliaQuest
 > 14 Jun 2015
 
-<details><summary>What methods do you employ to maintain a working knowledge of the information security field as well as contribute to the field?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What methods do you employ to maintain a working knowledge of the information security field as well as contribute to the field?
 
 ## Information Security Engineer, CHI
 > 10 Jun 2015
 
-<details><summary>Do you know how Single Sign-On works?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you know how Single Sign-On works?
 
 ## Information Security Engineer, CHI
 > 10 Jun 2015
 
-<details><summary>Do you know about Active Directory?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you know about Active Directory?
 
 ## Security Engineer, Rakuten
 > 31 May 2015
@@ -8214,79 +5425,37 @@
 ## Security Engineer, Inflection
 > 20 May 2015
 
-<details><summary>What were my feelings on the Edward Snowden disclosures?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What were my feelings on the Edward Snowden disclosures?
 
 ## Information Security Engineer, CACI International
 > 7 May 2015
 
-<details><summary>What are your present and future goals?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are your present and future goals?
 
 ## Security Engineer, MX
 > 6 May 2015
 
-<details><summary>Are you familiar with the OWASP top 10?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Are you familiar with the OWASP top 10?
 
 ## Security Engineer, MX
 > 6 May 2015
 
-<details><summary>How do you audit Rails applications?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you audit Rails applications?
 
 ## Information Security Engineer, MFS
 > 28 Apr 2015
 
-<details><summary>They asked very technical questions that I didn't think they would and you really had to prove to them that you knew what you were applying for.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+They asked very technical questions that I didn't think they would and you really had to prove to them that you knew what you were applying for.
 
 ## Software Security Engineer, Amazon
 > 25 Apr 2015
 
-<details><summary>ask me about SQL injection and XSS attack and XSF attack; question about network security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+ask me about SQL injection and XSS attack and XSF attack; question about network security
 
 ## Security Engineer, Verizon
 > 18 Apr 2015
 
-<details><summary>What network port is used for DNS</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What network port is used for DNS
 
 ## Network Security Engineer, bareMinerals
 > 14 Apr 2015
@@ -8303,57 +5472,27 @@
 ## Information Security Engineer, Raytheon Technologies
 > 26 Mar 2015
 
-<details><summary>Very basic knowledge questions, ones I'd have expected to be asked to a much junior person, not one with decades of experience. Made me question the depth of knowledge of the interviewer(s).</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Very basic knowledge questions, ones I'd have expected to be asked to a much junior person, not one with decades of experience. Made me question the depth of knowledge of the interviewer(s).
 
 ## Security Engineer, iSEC partners
 > 13 Dec 2014
 
-<details><summary>Think like an attacker and explain all possible things that you can do, once you're inside a Company's Private Network?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Think like an attacker and explain all possible things that you can do, once you're inside a Company's Private Network?
 
 ## Security Engineer, Google
 > 13 Dec 2014
 
-<details><summary>All aspects of information security were covered in the interviews. However, most of the questions were very broad in scope and open-ended.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+All aspects of information security were covered in the interviews. However, most of the questions were very broad in scope and open-ended.
 
 ## Network Security Engineer, Verizon
 > 6 Dec 2014
 
-<details><summary>Analyze this raw payload data and tell us what the attacker tried to do and when.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Analyze this raw payload data and tell us what the attacker tried to do and when.
 
 ## Security Engineer, Google
 > 31 Oct 2014
 
-<details><summary>Questions tend to be vague and broad in scope. They want you to demonstrate depth and breadth of knowledge, or watch you hang yourself trying.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Questions tend to be vague and broad in scope. They want you to demonstrate depth and breadth of knowledge, or watch you hang yourself trying.
 
 ## Applications Security Engineer, Bank of America
 > 16 Oct 2014
@@ -8369,24 +5508,12 @@
 ## Network Security Engineer, Boston Scientific
 > 27 Aug 2014
 
-<details><summary>Most were pretty straight forward in the entire process with questions ranging from your resume and experience on the technologies you have worked with as an intern or in school.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Most were pretty straight forward in the entire process with questions ranging from your resume and experience on the technologies you have worked with as an intern or in school.
 
 ## Cryptographer/Security Engineer, Ripple
 > 26 Aug 2014
 
-<details><summary>The position involved understanding a lot of fundamentals regarding cryptocurrencies, cryptology, application and web security -- it's hard to pick out something specific, but overall they were very thorough. Overall, the position required a strong background in mathematics and computer science, both theoretical and applied.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The position involved understanding a lot of fundamentals regarding cryptocurrencies, cryptology, application and web security -- it's hard to pick out something specific, but overall they were very thorough. Overall, the position required a strong background in mathematics and computer science, both theoretical and applied.
 
 ## IT Security/Firewall Engineer, Knowledge Consulting Group
 > 25 Aug 2014
@@ -8402,68 +5529,32 @@
 ## Information Security Engineer, Booz Allen Hamilton
 > 12 Aug 2014
 
-<details><summary>What is your biggest weakness.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What is your biggest weakness.
 
 ## Security Engineer, HMS Holdings
 > 20 Jul 2014
 
-<details><summary>It will depend on the position interviewing for. We have several questions that I am not able to present here, but be prepared for procedural and technical questions. The questions are difficult for a reason and we don't tend to advertise them because we use them in a rotating manner.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+It will depend on the position interviewing for. We have several questions that I am not able to present here, but be prepared for procedural and technical questions. The questions are difficult for a reason and we don't tend to advertise them because we use them in a rotating manner.
 
 ## Senior IT Security Engineer, Timken
 > 6 May 2014
 
-<details><summary>There were no difficult or unexpected questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+There were no difficult or unexpected questions
 
 ## Security Software Engineer, NetApp
 > 8 Apr 2014
 
-<details><summary>Puzzle</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Puzzle
 
 ## Security Engineer, Neustar
 > 4 Apr 2014
 
-<details><summary>Surprisingly there were no really hard technical questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Surprisingly there were no really hard technical questions
 
 ## Security Engineer, Amazon
 > 25 Mar 2014
 
-<details><summary>They wanted to know about my ideas about digital currency and how I, without any recon or knowledge of Amazon infrastructure, would hack them.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+They wanted to know about my ideas about digital currency and how I, without any recon or knowledge of Amazon infrastructure, would hack them.
 
 ## Senior Security Engineer, Naval Information Warfare Center Atlantic
 > 16 Mar 2014
@@ -8479,68 +5570,32 @@
 ## Senior Information Security Engineer, Xoom
 > 14 Mar 2014
 
-<details><summary>I was asked about database security which was out of my scope of experience. No specific questions other than what would I do to improve DB security. Wasn't really a screening question other than to see how I think.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+I was asked about database security which was out of my scope of experience. No specific questions other than what would I do to improve DB security. Wasn't really a screening question other than to see how I think.
 
 ## Network Security Engineer, BB&T
 > 13 Mar 2014
 
-<details><summary>Nothing unexpected really.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Nothing unexpected really.
 
 ## Security Engineer, CSC
 > 3 Mar 2014
 
-<details><summary>Nope. Just hung out with the lead.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Nope. Just hung out with the lead.
 
 ## Security Sales Engineer, Check Point Software Technologies
 > 21 Feb 2014
 
-<details><summary>Nothing was difficult even though it was a bit odd presenting materials I didn't have experience with.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Nothing was difficult even though it was a bit odd presenting materials I didn't have experience with.
 
 ## Information Security Engineer, AUSGAR Technologies
 > 12 Feb 2014
 
-<details><summary>More like the most awkward question and that "So why do you want to leave your current employer?"</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+More like the most awkward question and that "So why do you want to leave your current employer?"
 
 ## Security Engineer, Google
 > 8 Dec 2013
 
-<details><summary>Revealing questions in the interview process for Google is strictly prohibited. I will say that I had heard from folks that had interviewed with Google that interviews for all technical positions were heavily programming-based; although programming knowledge is definitely a must for working there, it was definitely not the end-all be-all questions-wise for my interviews.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Revealing questions in the interview process for Google is strictly prohibited. I will say that I had heard from folks that had interviewed with Google that interviews for all technical positions were heavily programming-based; although programming knowledge is definitely a must for working there, it was definitely not the end-all be-all questions-wise for my interviews.
 
 ## Applications Security Engineer, Riot Games
 > 21 Sep 2013
@@ -8568,13 +5623,7 @@
 ## Cyber Security Engineer, IntelliGenesis LLC
 > 23 Aug 2013
 
-<details><summary>Nothing really technical or business related in terms of any specific positions, just general thoughts on specific skill sets and areas of interest.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Nothing really technical or business related in terms of any specific positions, just general thoughts on specific skill sets and areas of interest.
 
 ## Senior Security Engineer, Trans-Tel Central
 > 22 Aug 2013
@@ -8612,35 +5661,17 @@
 ## Information Security Engineer, Twitter
 > 25 Jul 2013
 
-<details><summary>Can't recall any questions that stood out as difficult or unexpected.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can't recall any questions that stood out as difficult or unexpected.
 
 ## Senior Security Engineer, Securonix
 > 10 Jul 2013
 
-<details><summary>In the Technical round, Questions related to Security were asked. Like what kind of Java objects would you use to tackle a situation, when you wish to Find the maximum number of intrusions happened, looking at the application log.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+In the Technical round, Questions related to Security were asked. Like what kind of Java objects would you use to tackle a situation, when you wish to Find the maximum number of intrusions happened, looking at the application log.
 
 ## Security Engineer, Rackspace Technology
 > 28 Jun 2013
 
-<details><summary>If you have a good foundation in information security, most of the questions shouldn't be anything too unexpected. Questions will range from both architectural-level (designing secure systems or breaking them) to sys-admin level (e.g., the use of 'netcat').</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+If you have a good foundation in information security, most of the questions shouldn't be anything too unexpected. Questions will range from both architectural-level (designing secure systems or breaking them) to sys-admin level (e.g., the use of 'netcat').
 
 ## Senior Security Engineer, Sentara Healthcare
 > 26 Jun 2013
@@ -8656,13 +5687,7 @@
 ## Cyber Security Engineer, Boeing
 > 21 Jun 2013
 
-<details><summary>The Program Manager did not want my support, and it took months to turn that around.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The Program Manager did not want my support, and it took months to turn that around.
 
 ## Identity Security Engineer, Verizon
 > 10 Jun 2013
@@ -8678,24 +5703,12 @@
 ## Security Engineer, Apple
 > 22 May 2013
 
-<details><summary>How do you build a tool to protect the entire Apple infra?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How do you build a tool to protect the entire Apple infra?
 
 ## Mobile Security Engineer, Mozilla
 > 8 May 2013
 
-<details><summary>Do you think the App vetting process (appstore) for Firefox OS would scale?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Do you think the App vetting process (appstore) for Firefox OS would scale?
 
 ## Senior Cyber Security Engineer, Corporate Risk Solutions (Kansas)
 > 25 Apr 2013
@@ -8712,79 +5725,37 @@
 ## Network Security Engineer, Federal Resources
 > 24 Apr 2013
 
-<details><summary>How long the contracts lasted. Of course this depended on the government renewing options on the contracts.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How long the contracts lasted. Of course this depended on the government renewing options on the contracts.
 
 ## Electronic Security Design Engineer, M.C. Dean, Inc.
 > 22 Apr 2013
 
-<details><summary>Can you pass a credit check</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Can you pass a credit check
 
 ## Security Engineer, Ettain Group
 > 22 Apr 2013
 
-<details><summary>Describe what your firewall experience has been up until now.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe what your firewall experience has been up until now.
 
 ## Product Security Engineer, Qualcomm
 > 2 Apr 2013
 
-<details><summary>Why should we hire you</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why should we hire you
 
 ## Software Security Engineer, Allscripts
 > 20 Mar 2013
 
-<details><summary>technical questions</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+technical questions
 
 ## Network/Security Engineer, Palo Alto Networks
 > 19 Mar 2013
 
-<details><summary>nothing much on networks i.e. TCP/IP or sub netting. No ques related to security also</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+nothing much on networks i.e. TCP/IP or sub netting. No ques related to security also
 
 ## Security Engineer, ServiceNow
 > 16 Feb 2013
 
-<details><summary>None were difficult. If you know Unix you will rock all tech questions easily. And the typical management questions.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+None were difficult. If you know Unix you will rock all tech questions easily. And the typical management questions.
 
 ## Senior Security Engineer, Delta Dental Plans Association
 > 15 Feb 2013
@@ -8800,35 +5771,17 @@
 ## Security Engineer, Articon-Integralis
 > 8 Jan 2013
 
-<details><summary>Firewall, Linux, OSI, Subnetting, routing protocols, VPN, TCP.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Firewall, Linux, OSI, Subnetting, routing protocols, VPN, TCP.
 
 ## Information Security Engineer, Barling Bay
 > 5 Jan 2013
 
-<details><summary>How can you fire someone with any notice or being written up.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How can you fire someone with any notice or being written up.
 
 ## Software, Security & Systems Engineer, SAIC
 > 26 Sep 2012
 
-<details><summary>lots of questions on networking, Encryption, and Unix/Microsoft Server Systems</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+lots of questions on networking, Encryption, and Unix/Microsoft Server Systems
 
 ## Security Engineer, NTT Ltd.
 > 23 Aug 2012
@@ -8860,13 +5813,7 @@
 ## Embedded Software Engineer Device Drivers, Embedded Software Security Engineer, Qualcomm
 > 1 Dec 2011
 
-<details><summary>how does a bootloader work? what is priority inversion and how it is solved ?compare the ways</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+how does a bootloader work? what is priority inversion and how it is solved ?compare the ways
 
 ## Embedded Software Engineer Device Drivers, Embedded Software Security Engineer, Qualcomm
 > 1 Dec 2011
@@ -8882,13 +5829,7 @@
 ## Embedded Software Engineer Device Drivers, Embedded Software Security Engineer, Qualcomm
 > 1 Dec 2011
 
-<details><summary>how does a packet travel between two hosts connected in same network?what is subnet mask?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+how does a packet travel between two hosts connected in same network?what is subnet mask?
 
 ## Embedded Software Engineer Device Drivers, Embedded Software Security Engineer, Qualcomm
 > 1 Dec 2011
@@ -8929,13 +5870,7 @@
 ## Product Security Engineer, Qualcomm
 > 4 Nov 2011
 
-<details><summary>Describe your PhD and master thesis as well as one of your paper</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe your PhD and master thesis as well as one of your paper
 
 ## Senior Security Engineer, MS Technologies
 > 8 Sep 2011
@@ -8962,68 +5897,32 @@
 ## Security Engineer, Vigilant
 > 23 Aug 2011
 
-<details><summary>How would you handle multiple projects at the same time?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+How would you handle multiple projects at the same time?
 
 ## Product Security Engineer, Qualcomm
 > 18 Jul 2011
 
-<details><summary>You have a paper, describe about it?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+You have a paper, describe about it?
 
 ## Product Security Engineer, Qualcomm
 > 18 Jul 2011
 
-<details><summary>Explain your work in Hardware Security</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Explain your work in Hardware Security
 
 ## Information Security Engineer, HireRight
 > 9 Jul 2011
 
-<details><summary>What are the ways to secure a LInux system?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What are the ways to secure a LInux system?
 
 ## Information Security Engineer, HireRight
 > 9 Jul 2011
 
-<details><summary>Tell me about cross site request forgery and why should I care.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Tell me about cross site request forgery and why should I care.
 
 ## Systems Security Engineer, Booz Allen Hamilton
 > 27 Jun 2011
 
-<details><summary>Nothing really serious was really asked.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Nothing really serious was really asked.
 
 ## Systems Security Engineer, Booz Allen Hamilton
 > 27 Jun 2011
@@ -9039,13 +5938,7 @@
 ## Vuln/Security Engineer, Qualys
 > 7 Jun 2011
 
-<details><summary>XSS , CSRF , SQL Injection , puzzle (water jug) , writing simple regex , scripting TLS/SSL etc</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+XSS , CSRF , SQL Injection , puzzle (water jug) , writing simple regex , scripting TLS/SSL etc
 
 ## Security Engineer, Century 21 Stores
 > 3 Jan 2011
@@ -9072,57 +5965,27 @@
 ## Security Engineer, Starbucks
 > 7 Nov 2010
 
-<details><summary>What do you really want to do?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What do you really want to do?
 
 ## Information Security Engineer, Booz Allen Hamilton
 > 28 Sep 2010
 
-<details><summary>Why have you only been with your existing company for only one month?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why have you only been with your existing company for only one month?
 
 ## Security Engineer, Google
 > 31 Aug 2010
 
-<details><summary>No technical questions were asked.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+No technical questions were asked.
 
 ## Security Engineer, T-Mobile
 > 30 Aug 2010
 
-<details><summary>Given a sample packet capture - Identify the protocol, the traffic, and the likelihood of malicious intent.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Given a sample packet capture - Identify the protocol, the traffic, and the likelihood of malicious intent.
 
 ## Network Security Engineer, Microsoft
 > 24 Apr 2010
 
-<details><summary>Why do you want to work at Microsoft?</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Why do you want to work at Microsoft?
 
 ## Lead Security Engineer, The Home Depot
 > 6 Apr 2010
@@ -9138,13 +6001,7 @@
 ## Security Engineer, Rackspace Technology
 > 26 Feb 2010
 
-<details><summary>What protocol/port is AH, ESP, etc.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+What protocol/port is AH, ESP, etc.
 
 ## Network Security Engineer, Ascend One
 > 5 Feb 2010
@@ -9162,13 +6019,7 @@
 ## Security Engineer, McAfee
 > 20 Jan 2010
 
-<details><summary>Command syntax of Unix commands, and exact system file locations</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Command syntax of Unix commands, and exact system file locations
 
 ## Security Engineer, Google
 > 31 Aug 2009
@@ -9198,24 +6049,12 @@
 ## Systems Security Engineer, BAE Systems USA
 > 18 Aug 2009
 
-<details><summary>The questions were fairly routine and simple. They presented a hypothetical scenario and asked that I describe a high-level architecture that addresses the security and why I chose that architecture.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+The questions were fairly routine and simple. They presented a hypothetical scenario and asked that I describe a high-level architecture that addresses the security and why I chose that architecture.
 
 ## Security Engineer, Google
 > 14 Jul 2009
 
-<details><summary>Describe HMAC in detail.</summary>
-<p>
-
-- No answers
-
-</p>
-</details>
+Describe HMAC in detail.
 
 ## Security Engineer, Stillsecure
 > 8 Jul 2009

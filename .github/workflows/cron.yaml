@@ -21,4 +21,12 @@ jobs:
       run: |
         rm questions.md
         python3 scrape.py
-        head -n 10 questions.md
+    - name: Commit and push 
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        date +%s
+        git add questions.md
+        git commit -m "Scrape-$(date +%s)"
+        # git push
