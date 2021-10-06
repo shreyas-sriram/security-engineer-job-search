@@ -1,3 +1,13 @@
+## Cloud Security Engineer, Frame.io
+> 30 Sep 2021
+
+1- Describe the most innovative project I lead 2- How would my team members describe me 3- AWS Cloud Security questions
+
+## Security Engineer, Twitch
+> 29 Sep 2021
+
+cannot discuss due to NDA
+
 ## Software Engineer - Security, Salesforce
 > 28 Sep 2021
 
