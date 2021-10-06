@@ -28,6 +28,6 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
         date +%s
-        git add questions.md
-        git commit -m "Scrape-`date +%s`"
+        git add .
+        git commit -m "Scrape-`date +%s`" || exit 0
         # git push
