@@ -39,13 +39,12 @@ def find_total_pages():
     return total_pages
 
 def parse_page(wrapper):
-    f = open("interviews-1.md", "a")
+    f = open("questions.md", "a")
 
     for data in wrapper:
         parsed_data = parse_data(data)
         f.write(parsed_data)
         print("Data written to file\n")
-        # print()
     
     f.close()
     return
@@ -75,22 +74,40 @@ def parse_data(data):
     print(question)
     print(question.get_text())
     _cleaned_text = question.get_text().strip()
-    parsed_data = parsed_data + "<details><summary>{}</summary>".format(_cleaned_text)
-    # print(question.get_text())
+    # parsed_data = parsed_data + "<details><summary>{}</summary>".format(_cleaned_text)
+    # # print(question.get_text())
 
-    parsed_data = parsed_data + "\n<p>\n\n"
+    # parsed_data = parsed_data + "\n<p>\n\n"
 
     # answers
+    # answers = data.find_all("p", class_="noMargVert")
+    # if len(answers) == 0:
+    #     parsed_data = parsed_data + "- No answers\n"
+    #     # print("No answers")
+    
+    # for answer in answers:
+    #     parsed_data = parsed_data + "- {}\n".format(answer.get_text())
+    #     # print(answer.get_text())
+
+    # parsed_data = parsed_data + "\n</p>\n</details>\n\n"
+
     answers = data.find_all("p", class_="noMargVert")
     if len(answers) == 0:
-        parsed_data = parsed_data + "- No answers\n"
-        # print("No answers")
-    
-    for answer in answers:
-        parsed_data = parsed_data + "- {}\n".format(answer.get_text())
-        # print(answer.get_text())
+        parsed_data = parsed_data + _cleaned_text
+    else:
+        parsed_data = parsed_data + "<details><summary>{}</summary>".format(_cleaned_text)
+        # print(question.get_text())
 
-    parsed_data = parsed_data + "\n</p>\n</details>\n\n"
+        parsed_data = parsed_data + "\n<p>\n\n"
+        
+        for answer in answers:
+            parsed_data = parsed_data + "- {}\n".format(answer.get_text())
+            # print(answer.get_text())
+        
+        parsed_data = parsed_data + "\n</p>\n</details>"
+
+    parsed_data = parsed_data + "\n\n"
+
 
     print("Parsed data: \n{}".format(parsed_data))
 
