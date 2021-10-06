@@ -30,4 +30,4 @@ jobs:
 
         git add questions.md questions.json
         git commit -m "Scrape-`date +%s`" || exit 0
-        git push
+        git push --force

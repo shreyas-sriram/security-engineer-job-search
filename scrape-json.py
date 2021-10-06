@@ -51,7 +51,7 @@ def parse_data(data):
 
     # question
     question = data.find("p", class_="questionText")
-    print(question)
+    # print(question)
     # print(question.get_text())
     _question = question.get_text().strip()
     # print(_question)
