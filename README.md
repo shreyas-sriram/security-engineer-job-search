@@ -7,3 +7,4 @@ The scraper runs (hopefully) every Sunday at 1337 (:skull_and_crossbones:). If i
 
 ## TODO
 - [ ] Parse JSON data and show on a static webpage with filtering, searching etc.
+- [ ] Scraped data is too raw and requires some cleaning. Example, question data like **"cannot discuss due to NDA"** can be filtered.
