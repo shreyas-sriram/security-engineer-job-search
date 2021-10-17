@@ -1,3 +1,8 @@
+## Senior Software Engineer (Security), Coinbase
+> 12 Oct 2021
+
+Describe what happens when I type 'google.com' into a web browser.
+
 ## Security Engineer, General Motors (GM)
 > 6 Oct 2021
 
@@ -381,7 +386,7 @@ What is a route reflector for?
 
 What tools do you recommend for x?
 
-## Security Engineer, Haven Life
+## Security Engineer, Haven Technologies
 > 17 Mar 2021
 
 A) Security tools I worked with in the past
@@ -1184,12 +1189,12 @@ General about my background and what the role entailed
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-Do you have experiencing scripting out the CI/CD process?
+What experience do you have implementing security into the DevOps process?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
 
-What experience do you have implementing security into the DevOps process?
+Do you have experiencing scripting out the CI/CD process?
 
 ## Applications Security Engineer, Coveros
 > 13 Jan 2020
@@ -1293,12 +1298,12 @@ Windows API hooks, user mode, kernel mode, address tables, splicing, detection.
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-Fileless malware, ways of infection and persistence, detection on the already compromised system.
+Network traffic and capture analysis in relation to the compromised system, describe a process, what are you going to look for in the first place, how are you going to identify and deal with the encrypted traffic.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
 
-Network traffic and capture analysis in relation to the compromised system, describe a process, what are you going to look for in the first place, how are you going to identify and deal with the encrypted traffic.
+Fileless malware, ways of infection and persistence, detection on the already compromised system.
 
 ## Information Security Engineer, J.P. Morgan
 > 9 Nov 2019
@@ -1429,12 +1434,12 @@ Personality and development questions
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-Technical questions regarding CIA triad, OSI model, proxy, VPN, NIST/FIPS documentation.
+Professional Development and what you want to do questions
 
 ## Information Security Engineer, Accenture
 > 13 Oct 2019
 
-Professional Development and what you want to do questions
+Technical questions regarding CIA triad, OSI model, proxy, VPN, NIST/FIPS documentation.
 
 ## Information Security Engineer, Northwest Bank
 > 9 Oct 2019
@@ -1503,12 +1508,12 @@ Can you explain a security incident you've handled recently? Start from initial 
 ## Cloud Security Engineer, Abacus Insights
 > 20 Sep 2019
 
-Describe a scenario in which you brought your security POV to a discussion with devs. What influence did you have? How did you approach it? Why did you pitch X instead of Y? Can you explain the technical details of the discussion?
+Can you describe a technical project you worked on recently? This led to many follow-up questions ranging from process, to technical details.
 
 ## Cloud Security Engineer, Abacus Insights
 > 20 Sep 2019
 
-Can you describe a technical project you worked on recently? This led to many follow-up questions ranging from process, to technical details.
+Describe a scenario in which you brought your security POV to a discussion with devs. What influence did you have? How did you approach it? Why did you pitch X instead of Y? Can you explain the technical details of the discussion?
 
 ## Cyber Security Engineer, MITRE
 > 18 Sep 2019
@@ -1947,12 +1952,12 @@ Here's a laptop - Write a script that prints the first 25 primes in any language
 ## Information Security Engineer, Paxos
 > 15 Mar 2019
 
-What are some quick IT Sec wins - Can you encrypt everything at rest?
+Explain SSL
 
 ## Information Security Engineer, Paxos
 > 15 Mar 2019
 
-Explain SSL
+What are some quick IT Sec wins - Can you encrypt everything at rest?
 
 ## Linux Security Software Engineer, Qualcomm
 > 9 Mar 2019
@@ -2003,6 +2008,11 @@ Can you describe a task where the customer was difficult and how did you handle 
 ## Security Engineer, Check Point Software Technologies
 > 27 Feb 2019
 
+What is the difference between a router and a firewall?
+
+## Security Engineer, Check Point Software Technologies
+> 27 Feb 2019
+
 <details><summary>Are you willing to relocate.</summary>
 <p>
 
@@ -2010,11 +2020,6 @@ Can you describe a task where the customer was difficult and how did you handle 
 
 </p>
 </details>
-
-## Security Engineer, Check Point Software Technologies
-> 27 Feb 2019
-
-What is the difference between a router and a firewall?
 
 ## Security Engineer, Check Point Software Technologies
 > 27 Feb 2019
@@ -2741,12 +2746,12 @@ How to monitor for malware?
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-What is the coolest malware or hack you have researched or analyzed.
+A time when a TTP worked better than an IOC.
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
 
-A time when a TTP worked better than an IOC.
+What is the coolest malware or hack you have researched or analyzed.
 
 ## Security Operations Engineer, DigitalOcean
 > 5 May 2018
@@ -4050,17 +4055,6 @@ General profile based questions and some basic java questions
 
 Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.
 
-## Security Software Engineer, Yahoo
-> 18 Jan 2017
-
-<details><summary>BST traversal</summary>
-<p>
-
-- Binary Search Traversal has three types, preorder (root-&gt;left subtree-&gt;right subtree). Inorder (left subtree-&gt;root-&gt;right subtree), and Postorder (left-&gt;right-&gt;root)
-
-</p>
-</details>
-
 ## Cyber Security Engineer, Robert Half
 > 18 Jan 2017
 
@@ -5050,7 +5044,7 @@ How would you conduct a security code review?
 </p>
 </details>
 
-## Security Engineer, NORCAL Mutual Insurance
+## Security Engineer, NORCAL Group
 > 2 Dec 2015
 
 Tell me why you'll be successful at this job. Tell me why you'll be a good fit for the NORCAL culture.
