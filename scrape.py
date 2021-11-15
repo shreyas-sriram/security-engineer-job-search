@@ -60,7 +60,8 @@ def parse_data(data):
 
     # company
     company = data.find("img", class_="css-1yo1500 edupdmz0")
-    parsed_data = parsed_data + ", {}".format(company['alt'])
+    if company:
+        parsed_data = parsed_data + ", {}".format(company['alt'])
     # print(company['alt'])
 
     parsed_data = parsed_data + "\n"

@@ -46,7 +46,8 @@ def parse_data(data):
 
     # company
     company = data.find("img", class_="css-1yo1500 edupdmz0")
-    _company = company['alt']
+    if company:
+        _company = company['alt']
     # print(company['alt'])
 
     # job date
