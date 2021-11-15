@@ -53,16 +53,20 @@ def parse_data(data):
     parsed_data = ""
 
     # job position
-    job_position = data.find("span", class_="authorInfo")
-    _cleaned_text = job_position.get_text().replace(" at ",", ")
-    _cleaned_text = _cleaned_text.replace(" was asked...","")
+    job_position = data.find("a", class_="css-1mig9hw edupdmz4")
+    _cleaned_text = job_position.get_text().replace(" was asked...","")
     parsed_data = parsed_data + "## {}".format(_cleaned_text)
     # print(job_position.get_text())
 
+    # company
+    company = data.find("img", class_="css-1yo1500 edupdmz0")
+    parsed_data = parsed_data + ", {}".format(company['alt'])
+    # print(company['alt'])
+
     parsed_data = parsed_data + "\n"
 
-    # job position
-    job_date = data.find("div", class_="cell alignRt noWrap minor hideHH")
+    # job date
+    job_date = data.findAll("span", class_="m-0 css-1jlgt0v edupdmz5")[1]
     _cleaned_text = job_date.get_text().strip()
     parsed_data = parsed_data + "> {}".format(_cleaned_text)
     # print(job_date.get_text())
@@ -70,12 +74,12 @@ def parse_data(data):
     parsed_data = parsed_data + "\n\n"
 
     # question
-    question = data.find("p", class_="questionText")
+    question = data.find("h3", class_="css-11euy82 edupdmz3")
     # print(question)
     # print(question.get_text())
     _cleaned_text = question.get_text().strip()
 
-    answers = data.find_all("p", class_="noMargVert")
+    answers = data.find_all("span", class_=None)
     if len(answers) == 0:
         parsed_data = parsed_data + _cleaned_text
     else:
@@ -109,5 +113,5 @@ for page_number in range(total_pages):
 
     soup = BeautifulSoup(data, "html.parser")
     
-    wrapper = soup.find_all("div", class_="interviewQuestionWrapper")
+    wrapper = soup.find_all("div", class_="col d-flex")
     parse_page(wrapper)
