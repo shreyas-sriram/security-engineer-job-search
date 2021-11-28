@@ -1,3 +1,55 @@
+## Senior Security Engineer, Conductor
+> 26 November 2021
+
+How would you act in case of incident?
+
+## Security Engineer, Amazon
+> 25 November 2021
+
+OWASP 10 (xss, csrf)
+cryptography(explain PKI, diffie hellman)
+lots of behavioral questions for more than 50% of the time.
+Coding round was pretty simple, asked for a simple loop, no harder than leetcode easy
+
+## Cloud Security Engineer, Hexaware Technologies
+> 25 November 2021
+
+Azure  Cloud Security related questions
+
+## Cloud Security Operations Engineer, 2nd Watch
+> 23 November 2021
+
+Pen testing phases/stages 
+Explain ARP poisoning
+Basic security questions (CIA, hashing,etc)
+
+## Cloud Security Engineer, CyberCoders
+> 19 November 2021
+
+Recruiter asked about experience in each of the job requirements.
+
+## Security Engineer, Credit Karma
+> 19 November 2021
+
+<details><summary>Describe why you think diversity is important.</summary>
+<p>
+
+- I virtue-signaled with my typical answer that let them know I really do consider harmonious diversity a strength.  (And I do.) Less
+
+</p>
+</details>
+
+## Security Engineer, Credit Karma
+> 19 November 2021
+
+<details><summary>Describe why you think diversity is important.</summary>
+<p>
+
+- I virtue-signaled with my typical answer that let them know I really do consider harmonious diversity a strength.  (And I do.) Less
+
+</p>
+</details>
+
 ## Senior Security Engineer, Zoom Video Communications
 > 18 November 2021
 
@@ -61,6 +113,11 @@ Other than that, it was fairly straightforward.  No coding, all situational (Des
 
 </p>
 </details>
+
+## Cyber Security Engineer, AGIO
+> 9 November 2021
+
+Questions about SIEM, XDR, incident response
 
 ## Cyber Security Engineer, NIKE
 > 9 November 2021
@@ -1595,12 +1652,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -1945,12 +2002,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -3102,12 +3159,12 @@ Explaining the ARP protocol in detail.
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-What makes u to apply to company and the position?
+If you checked out the company values and what u think
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-If you checked out the company values and what u think
+What makes u to apply to company and the position?
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
@@ -3122,12 +3179,12 @@ One string parsing algorithms question of medium difficulty.
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-How do you keep up to date with the latest security developments? What are your news sources?
+What steps would you take to secure an application running on Kubernetes, at each level?
 
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-What steps would you take to secure an application running on Kubernetes, at each level?
+How do you keep up to date with the latest security developments? What are your news sources?
 
 ## Senior Network Security Engineer, IBM
 > 1 February 2021
@@ -3340,11 +3397,6 @@ describe the hardest situation you faced
 10. Cipher Suites
 11. Hashing vs Encryption
 
-## Application Security Engineer, Verizon Media
-> 19 January 2021
-
-the engineer clearly wanted me to come to some sort of pre-conceived key distribution system that I was supposed to come up with on a white board given extremely vague requirements.
-
 ## Network Security Engineer, Accenture
 > 19 January 2021
 
@@ -3406,10 +3458,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -3417,10 +3469,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -3589,17 +3641,17 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
+Are  you comfortable in rotational shifts
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are  you comfortable in rotational shifts
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
@@ -3655,6 +3707,11 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+How to secure the inbound connection?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 <details><summary>Can you tell me your Thesis?</summary>
 <p>
 
@@ -3662,11 +3719,6 @@ Books I read - GOF design patterns. Less
 
 </p>
 </details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the inbound connection?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -3706,12 +3758,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -4006,12 +4058,12 @@ CSRF attack and defense, Cloud security, Mobile Security
 ## Security Engineer, iCIMS
 > 16 November 2020
 
-Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?
+How do you stay up to date with the latest in Security Trends?
 
 ## Security Engineer, iCIMS
 > 16 November 2020
 
-How do you stay up to date with the latest in Security Trends?
+Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?
 
 ## Security Operations Engineer, Updox
 > 16 November 2020
@@ -4058,12 +4110,12 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-General questions around docker security.
+Examples from top 10 OWASP
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Examples from top 10 OWASP
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4078,12 +4130,12 @@ Difference between unit and integration tests, and when would you use each?
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Do you know the OSI model and it's various layers?
+What is TLS? Does it use public key or symmetric key cryptography?
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-What is TLS? Does it use public key or symmetric key cryptography?
+Do you know the OSI model and it's various layers?
 
 ## Security Network Engineer, Rackspace Technology
 > 12 November 2020
@@ -4329,12 +4381,12 @@ Technical questions about OWASP top 10 and cryptography.
 ## Security Engineer, Form3 Financial Cloud
 > 18 October 2020
 
-Questions about Docker security
+Describe TLS handshake
 
 ## Security Engineer, Form3 Financial Cloud
 > 18 October 2020
 
-Describe TLS handshake
+Questions about Docker security
 
 ## Information Security Engineer, Loadsmart
 > 18 October 2020
@@ -5480,17 +5532,17 @@ Tell me a time you overcame a hostile co-worker
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
-Types of Natting?
-
-## Network Security Engineer, Secure Network Solutions
-> 27 April 2020
-
 CCNA network questions
 
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
 Security concepts and firewall such as Paloalto checkpoint fortigate. etc
+
+## Network Security Engineer, Secure Network Solutions
+> 27 April 2020
+
+Types of Natting?
 
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
@@ -5548,12 +5600,12 @@ Q: Types of proxies ?
 ## Security Implementation Engineer, Orange Business Services
 > 2 April 2020
 
-Q: How to perform backup on Linux?
+Q: What are FTP different modes?
 
 ## Security Implementation Engineer, Orange Business Services
 > 2 April 2020
 
-Q: What are FTP different modes?
+Q: How to perform backup on Linux?
 
 ## Security Implementation Engineer, Orange Business Services
 > 2 April 2020
@@ -5733,12 +5785,12 @@ Method overloading and overriding
 ## Software Security Engineer
 > 26 February 2020
 
-Difference between HTTP and HTTP s
+What is Buffer overflow?
 
 ## Software Security Engineer
 > 26 February 2020
 
-What is Buffer overflow?
+Difference between HTTP and HTTP s
 
 ## Software Security Engineer
 > 26 February 2020
@@ -5755,4 +5807,20 @@ Write a program to print all files in directory and sub directories with .zip ex
 > 26 February 2020
 
 Descriptive question- Where do you see yourself in 5 years?
+
+## Software Security Engineer
+> 26 February 2020
+
+First Round:
+Multiple Choice Questions  on Open Systems Interconnection model
+
+## Security Engineer, Salesforce
+> 25 February 2020
+
+You have two options to run a scan, with credentials and without. what will you run? and why?
+
+## Security Engineer, UST
+> 24 February 2020
+
+How DDoS can be prevented
 
