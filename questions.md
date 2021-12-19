@@ -1,7 +1,24 @@
+## Information Security Engineer, Infosys
+> 12 December 2021
+
+Top 10 OWASP list and their description
+
+## Security Operations Engineer, Web3 Foundation
+> 12 December 2021
+
+how would you start investigating a spoofed email (that seemed to come from the company's domain)?
+how to perform transaction signing on a k8s cluster
+how polkadot works and difference with bitcoin and ethereum
+
 ## Information Security Engineer, Yell
 > 11 December 2021
 
 what are the stages you would go through when responding to a security incident
+
+## Security Engineer, TikTok
+> 11 December 2021
+
+Generic security engineering questions. No need to dig into the details
 
 ## Cyber Security Engineer, PwC
 > 9 December 2021
@@ -25,6 +42,11 @@ All technical and practical questions
 
 Q: What do you want to do for the next few years in your career?
 Q: What's the most interesting security issue you found?
+
+## Junior Security Engineer, Nokia
+> 8 December 2021
+
+Focus was on my experience so far and what technologies I used before
 
 ## Network Security Engineer, Doyen Infosolutions
 > 7 December 2021
@@ -123,6 +145,11 @@ Coding round was pretty simple, asked for a simple loop, no harder than leetcode
 > 25 November 2021
 
 Azure  Cloud Security related questions
+
+## Security Engineer, ID.me
+> 24 November 2021
+
+Describe a situation where you failed and what did you do to handle it?
 
 ## Cloud Security Operations Engineer, 2nd Watch
 > 23 November 2021
@@ -2155,12 +2182,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -2541,7 +2568,7 @@ The questions were general security questions, for example, What is SQLi and typ
 
 The questions were general security questions, for example, What is SQLi and types, What tools used for pen-testing (SQLmap, Metasploit ...), CIA triad, HTTPs .....
 
-## Data Security Engineer, Square
+## Data Security Engineer, Block
 > 3 April 2021
 
 It was on of the leetcode hard design problems.
@@ -3616,10 +3643,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -3627,10 +3654,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -3799,11 +3826,6 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
 So tell me about yourself
 
 ## Network Security Engineer, Doyen Infosolutions
@@ -3815,6 +3837,11 @@ Where do you see yourself working in the near future(Something like that)
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -3916,12 +3943,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -4794,12 +4821,12 @@ NAC IT Network Security Interview Questions
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle troubleshooting devices without any superior around you?
+How do you handle stress?
 
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle stress?
+How do you handle troubleshooting devices without any superior around you?
 
 ## Product Security Engineer, Citrix
 > 8 September 2020
@@ -5042,12 +5069,12 @@ Q. Ports SMTP, RDP, LDAP, HTTPS, IMAP, SSH
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-questions which were not even important enough in a security interview
+css and html version
 
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-css and html version
+questions which were not even important enough in a security interview
 
 ## Senior Security Engineer, LogDNA
 > 26 August 2020
@@ -5315,12 +5342,12 @@ STAR format questions.
 ## Senior Security Engineer, Joyn (Germany)
 > 6 July 2020
 
-What is tcp? how tcp flood attack works?
+What is SQL Injection? What is XSS?
 
 ## Senior Security Engineer, Joyn (Germany)
 > 6 July 2020
 
-What is SQL Injection? What is XSS?
+What is tcp? how tcp flood attack works?
 
 ## Security Engineer, SecureCraft
 > 5 July 2020
@@ -5690,11 +5717,6 @@ Tell me a time you overcame a hostile co-worker
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
-Security concepts and firewall such as Paloalto checkpoint fortigate. etc
-
-## Network Security Engineer, Secure Network Solutions
-> 27 April 2020
-
 Types of ACL
 
 ## Network Security Engineer, Secure Network Solutions
@@ -5711,6 +5733,11 @@ CCNA network questions
 > 27 April 2020
 
 Types of Natting?
+
+## Network Security Engineer, Secure Network Solutions
+> 27 April 2020
+
+Security concepts and firewall such as Paloalto checkpoint fortigate. etc
 
 ## Security Engineer, Cloudbeds
 > 21 April 2020
@@ -5791,4 +5818,47 @@ Q: Types of proxies ?
 > 27 March 2020
 
 Explain how SSH Works
+
+## Senior Mission Control Engineer (Security), Fastly
+> 26 March 2020
+
+Explain the different types of Application server attacks (in detail)
+
+## Applications Security Engineer, Cognizant Technology Solutions
+> 26 March 2020
+
+Cryptographic/ Networking / Cybersecurity Essentials
+
+## Senior Security Engineer, Amazon
+> 23 March 2020
+
+Q: What happens when you hit example.com in the browser and press enter?
+
+## Cyber Security Engineer, Xandr
+> 19 March 2020
+
+<details><summary>OWASP Top 10, Basic Linux questions, basic IT non-cyber security questions</summary>
+<p>
+
+- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore.
+
+
+There's a lot of  Cyber Security Engineer experts who've worked at Xandr, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully.
+
+
+prepfully.com/practice-interviews Less
+
+</p>
+</details>
+
+## Security Engineer
+> 18 March 2020
+
+<details><summary>Experiencia con diferentes soluciones de seguridad.</summary>
+<p>
+
+- Detalle experiencias pasadas relacionadas a NGFW, SIEM, NGAV, IPS, WAF, etc.
+
+</p>
+</details>
 
