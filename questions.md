@@ -1,3 +1,51 @@
+## Product Security Engineer, Amazon
+> 23 December 2021
+
+Tell me how a server connects to another server
+
+## Network Security Engineer Intern, Rakuten
+> 22 December 2021
+
+Asa packet flow and networking security concepts
+
+## Security Signature Engineer, Qualys
+> 21 December 2021
+
+Basically related to OWASP Top 10
+
+## Application Security Engineer, Wildlife Studios
+> 21 December 2021
+
+How asymmetric encryption works?
+Describe in details an SQL injections
+Choose any vulnerability you want  and fully describe it.
+
+## Security Engineer, Partners Group
+> 17 December 2021
+
+Some basics questions about IT security, DevOps with a case study about AWS + IT Security incident handling
+
+## Security Engineer, Meta
+> 17 December 2021
+
+I will respect the NDA.
+Questions are just as you would imagine as a security engineer. Don't hesitate to ask your recruiter for basic guidance on how to best prepare.
+
+## Security Engineer, Google
+> 16 December 2021
+
+Asked to hack into a fake website.
+
+## Cloud Security Engineer, Vonage
+> 16 December 2021
+
+General questions related to security, cloud, Linux
+
+## Security Engineer, Epic
+> 16 December 2021
+
+Leetcode type Coding  challenge of medium - hard difficulty.
+
 ## Information Security Engineer, Infosys
 > 12 December 2021
 
@@ -67,7 +115,13 @@ They asked me to solve a specific question.
 ## Security Response Engineer, VMware
 > 2 December 2021
 
-Web application vulnerabilities and common attacks
+<details><summary>Web application vulnerabilities and common attacks</summary>
+<p>
+
+- Easy
+
+</p>
+</details>
 
 ## Security Engineer, MassMutual
 > 30 November 2021
@@ -2182,12 +2236,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -3643,10 +3697,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -3654,10 +3708,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -3831,17 +3885,17 @@ So tell me about yourself
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
+Are  you comfortable in rotational shifts
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -3943,12 +3997,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -4821,12 +4875,12 @@ NAC IT Network Security Interview Questions
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle stress?
+How do you handle troubleshooting devices without any superior around you?
 
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle troubleshooting devices without any superior around you?
+How do you handle stress?
 
 ## Product Security Engineer, Citrix
 > 8 September 2020
@@ -5069,12 +5123,12 @@ Q. Ports SMTP, RDP, LDAP, HTTPS, IMAP, SSH
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-css and html version
+questions which were not even important enough in a security interview
 
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-questions which were not even important enough in a security interview
+css and html version
 
 ## Senior Security Engineer, LogDNA
 > 26 August 2020
@@ -5552,8 +5606,8 @@ More 3-4 similar questions</summary>
 What is SQL Injection vulnerability?</summary>
 <p>
 
-- XSS and SQL are injection based vulnerabilities which occurs due to improper handling of user inputs. and I further explained their impacts and how to exploit. Less
 - I am very very sorry for you. I feel you. Unfortunately Amazon hires people that way. They have no respect to candidates. You could study 3 weeks for their Leadership Principles and just before the interview, they might email you to let you know that they already hired someone. Amazon is the worst FAANG company. Less
+- XSS and SQL are injection based vulnerabilities which occurs due to improper handling of user inputs. and I further explained their impacts and how to exploit. Less
 
 </p>
 </details>
@@ -5727,17 +5781,17 @@ Packet flow of firewalll.
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
+Security concepts and firewall such as Paloalto checkpoint fortigate. etc
+
+## Network Security Engineer, Secure Network Solutions
+> 27 April 2020
+
 CCNA network questions
 
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
 Types of Natting?
-
-## Network Security Engineer, Secure Network Solutions
-> 27 April 2020
-
-Security concepts and firewall such as Paloalto checkpoint fortigate. etc
 
 ## Security Engineer, Cloudbeds
 > 21 April 2020
@@ -5786,79 +5840,4 @@ Q: How to perform backup on Linux?
 > 2 April 2020
 
 Q: What are FTP different modes?
-
-## Security Implementation Engineer, Orange Business Services
-> 2 April 2020
-
-<details><summary>Q: IPS detection methodology?</summary>
-<p>
-
-- it compares the signatures
-
-</p>
-</details>
-
-## Security Implementation Engineer, Orange Business Services
-> 2 April 2020
-
-Q: Types of proxies ?
-
-## Cyber Security Engineer, Parsons Corporation
-> 30 March 2020
-
-<details><summary>Difference between TCP and UDP</summary>
-<p>
-
-- TCP is two way, udp is one way
-
-</p>
-</details>
-
-## Applications Security Engineer, Amazon
-> 27 March 2020
-
-Explain how SSH Works
-
-## Senior Mission Control Engineer (Security), Fastly
-> 26 March 2020
-
-Explain the different types of Application server attacks (in detail)
-
-## Applications Security Engineer, Cognizant Technology Solutions
-> 26 March 2020
-
-Cryptographic/ Networking / Cybersecurity Essentials
-
-## Senior Security Engineer, Amazon
-> 23 March 2020
-
-Q: What happens when you hit example.com in the browser and press enter?
-
-## Cyber Security Engineer, Xandr
-> 19 March 2020
-
-<details><summary>OWASP Top 10, Basic Linux questions, basic IT non-cyber security questions</summary>
-<p>
-
-- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore.
-
-
-There's a lot of  Cyber Security Engineer experts who've worked at Xandr, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully.
-
-
-prepfully.com/practice-interviews Less
-
-</p>
-</details>
-
-## Security Engineer
-> 18 March 2020
-
-<details><summary>Experiencia con diferentes soluciones de seguridad.</summary>
-<p>
-
-- Detalle experiencias pasadas relacionadas a NGFW, SIEM, NGAV, IPS, WAF, etc.
-
-</p>
-</details>
 
