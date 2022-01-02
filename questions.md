@@ -1,7 +1,32 @@
+## Senior Application Security Engineer, Backbase
+> 29 December 2021
+
+Q: What are main components of "secure" in SSDLC, what 3 top things in terms of processes, controls or whatever would you recommend to start securing existing SDLC?
+
+## Security Engineer, JupiterOne
+> 28 December 2021
+
+Have you worked with any data streaming tools?
+
+## Security Engineer, JupiterOne
+> 28 December 2021
+
+Have you used any IaC tools?
+
+## Security Engineer, Comcast
+> 27 December 2021
+
+All about Endpoint Security and security technologies
+
 ## Product Security Engineer, Amazon
 > 23 December 2021
 
 Tell me how a server connects to another server
+
+## Security Engineer, Dave
+> 23 December 2021
+
+Q: How to integrate local domain and cloud provider credentials
 
 ## Network Security Engineer Intern, Rakuten
 > 22 December 2021
@@ -122,6 +147,16 @@ They asked me to solve a specific question.
 
 </p>
 </details>
+
+## Associate Security Engineer, Ebryx
+> 1 December 2021
+
+Q: What are the different network layer attacks I know of?
+
+## Associate Security Engineer, Ebryx
+> 1 December 2021
+
+Q: What are the different network layer attacks I know of?
 
 ## Security Engineer, MassMutual
 > 30 November 2021
@@ -275,12 +310,12 @@ Firewall and proxy experience
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
 
-Have you ever work with requirements.
+Talk about your experience with McAfee products.
 
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
 
-Talk about your experience with McAfee products.
+Have you ever work with requirements.
 
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
@@ -917,6 +952,11 @@ There were no technical questions, just "why do you want to work at Reddit", or 
 > 13 September 2021
 
 CISSP Credentials are required for this role, where are you in your CPE cycle?
+
+## Network Security Engineer, Locuz Enterprise Solutions
+> 13 September 2021
+
+Please go through the fundamental concepts of Network and Network Security domain.
 
 ## ​Security Research Software Developer, Palo Alto Networks
 > 13 September 2021
@@ -1831,12 +1871,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -1886,12 +1926,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -3393,12 +3433,12 @@ Explaining the ARP protocol in detail.
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-What makes u to apply to company and the position?
+If you checked out the company values and what u think
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-If you checked out the company values and what u think
+What makes u to apply to company and the position?
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
@@ -3413,12 +3453,12 @@ One string parsing algorithms question of medium difficulty.
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-How do you keep up to date with the latest security developments? What are your news sources?
+What steps would you take to secure an application running on Kubernetes, at each level?
 
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-What steps would you take to secure an application running on Kubernetes, at each level?
+How do you keep up to date with the latest security developments? What are your news sources?
 
 ## Senior Network Security Engineer, IBM
 > 1 February 2021
@@ -3880,12 +3920,12 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
+Are  you comfortable in rotational shifts
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
+So tell me about yourself
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
@@ -3946,16 +3986,6 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the database, even if the credential is leaked?
 
 ## Cloud Security Engineer, Tokopedia
@@ -3966,7 +3996,12 @@ Can you draw a cloud environment and how to secure it?
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-How to secure the inbound connection?
+Tell me about your personal portfolio website. what stack did you use?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you tell me what is your responsibilities on your internship?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -3978,6 +4013,11 @@ How to secure the inbound connection?
 
 </p>
 </details>
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+How to secure the inbound connection?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -4297,12 +4337,12 @@ CSRF attack and defense, Cloud security, Mobile Security
 ## Security Engineer, iCIMS
 > 16 November 2020
 
-Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?
+How do you stay up to date with the latest in Security Trends?
 
 ## Security Engineer, iCIMS
 > 16 November 2020
 
-How do you stay up to date with the latest in Security Trends?
+Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?
 
 ## Security Operations Engineer, Updox
 > 16 November 2020
@@ -4349,17 +4389,12 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Explain the different types of firewalls
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
 Difference between unit and integration tests, and when would you use each?
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Examples from top 10 OWASP
+Explain the different types of firewalls
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4369,12 +4404,17 @@ General questions around docker security.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Do you know the OSI model and it's various layers?
+Examples from top 10 OWASP
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
 What is TLS? Does it use public key or symmetric key cryptography?
+
+## Senior Software Engineer (Security), Form3 Financial Cloud
+> 12 November 2020
+
+Do you know the OSI model and it's various layers?
 
 ## Security Network Engineer, Rackspace Technology
 > 12 November 2020
@@ -4620,12 +4660,12 @@ Technical questions about OWASP top 10 and cryptography.
 ## Security Engineer, Form3 Financial Cloud
 > 18 October 2020
 
-Questions about Docker security
+Describe TLS handshake
 
 ## Security Engineer, Form3 Financial Cloud
 > 18 October 2020
 
-Describe TLS handshake
+Questions about Docker security
 
 ## Information Security Engineer, Loadsmart
 > 18 October 2020
@@ -4716,12 +4756,12 @@ With a given number, find the least number of operations needed to make the numb
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Technical whiteboard discussion on topics found during reviewing the resume
+Question related queue using array in C
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Question related queue using array in C
+Technical whiteboard discussion on topics found during reviewing the resume
 
 ## Security Engineer, Flatiron Health
 > 4 October 2020
@@ -5174,12 +5214,12 @@ What does integrity mean to you and give an example of how you applied it?
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What challenges did you overcome?
+What can you bring to this job that you have experience in?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What can you bring to this job that you have experience in?
+What challenges did you overcome?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
@@ -5396,12 +5436,12 @@ STAR format questions.
 ## Senior Security Engineer, Joyn (Germany)
 > 6 July 2020
 
-What is SQL Injection? What is XSS?
+What is tcp? how tcp flood attack works?
 
 ## Senior Security Engineer, Joyn (Germany)
 > 6 July 2020
 
-What is tcp? how tcp flood attack works?
+What is SQL Injection? What is XSS?
 
 ## Security Engineer, SecureCraft
 > 5 July 2020
@@ -5444,12 +5484,12 @@ What I understand and know about few infosec concepts
 ## Information Security Engineer, HighRadius
 > 2 July 2020
 
-My total relevant experience into infosec and role in prior org
+My contribution in team and a brief on my work and my approach in prior org
 
 ## Information Security Engineer, HighRadius
 > 2 July 2020
 
-My contribution in team and a brief on my work and my approach in prior org
+My total relevant experience into infosec and role in prior org
 
 ## Information Security Engineer, Sure
 > 1 July 2020
@@ -5771,6 +5811,11 @@ Tell me a time you overcame a hostile co-worker
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
+Security concepts and firewall such as Paloalto checkpoint fortigate. etc
+
+## Network Security Engineer, Secure Network Solutions
+> 27 April 2020
+
 Types of ACL
 
 ## Network Security Engineer, Secure Network Solutions
@@ -5781,63 +5826,5 @@ Packet flow of firewalll.
 ## Network Security Engineer, Secure Network Solutions
 > 27 April 2020
 
-Security concepts and firewall such as Paloalto checkpoint fortigate. etc
-
-## Network Security Engineer, Secure Network Solutions
-> 27 April 2020
-
-CCNA network questions
-
-## Network Security Engineer, Secure Network Solutions
-> 27 April 2020
-
 Types of Natting?
-
-## Security Engineer, Cloudbeds
-> 21 April 2020
-
-<details><summary>Tell me about your background and experience.</summary>
-<p>
-
-- Do not go into much detail, the interviewer might not like it.
-
-</p>
-</details>
-
-## Security Engineer, Delta Dental Plans Association
-> 17 April 2020
-
-1. Security operations
-2. Enterprise security
-
-## Cyber Security Engineer, Booz Allen Hamilton
-> 16 April 2020
-
-asked me about career skills and knowledge
-
-## Security Engineer, Workday
-> 6 April 2020
-
-Some of OWASP top 10 issues
-
-## Security Engineer, alliantgroup, LP
-> 3 April 2020
-
-<details><summary>Why do you want to work in an office environment again?</summary>
-<p>
-
-- I'd prefer to work on a talented team at this stage of my career.
-
-</p>
-</details>
-
-## Security Implementation Engineer, Orange Business Services
-> 2 April 2020
-
-Q: How to perform backup on Linux?
-
-## Security Implementation Engineer, Orange Business Services
-> 2 April 2020
-
-Q: What are FTP different modes?
 
