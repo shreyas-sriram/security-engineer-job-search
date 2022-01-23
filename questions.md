@@ -1,3 +1,57 @@
+## Senior Security Engineer, Komodo Health
+> 20 January 2022
+
+In the coding interview we covered getting information for AWS logs/data in two exercises
+
+## Application Security Engineer
+> 20 January 2022
+
+Questions about OWASP Top-10 . . .
+
+## Security Engineer Intern, DOCK TECH
+> 18 January 2022
+
+<details><summary>Quem é você? 
+O que você faz ?</summary>
+<p>
+
+- Sou um estudante dedicado que aprende muito rápido e procuro fazer tudo com muito esforço e dedicação Less
+
+</p>
+</details>
+
+## Security Tier II Systems Engineer, Cisco Systems
+> 17 January 2022
+
+In a high level details about devices functionality and path  packet flow regarding VPN and Firepower were asked.
+
+## Information Security Engineer, Intel Corporation
+> 17 January 2022
+
+1. Searching and sorting algorithms
+2. Database concepts
+3. Java OOPs concepts
+4. Security related questions
+5. Projects
+6.Internship questions
+
+## Cyber Security Engineer, Gusto
+> 16 January 2022
+
+What's is the difference between synchronous encryption and asynchronous encryption? 
+
+What steps do you take during an incident?
+
+## Cyber Security Engineer, Orlando Health
+> 14 January 2022
+
+Why is powershell better than the command line?
+
+## Security Engineer, Form3 Financial Cloud
+> 13 January 2022
+
+There was one small application, and task was to do code review.
+
 ## Applications Security Engineer, Shutterfly
 > 12 January 2022
 
@@ -18,6 +72,11 @@ related to my previous work and technical  questions
 > 8 January 2022
 
 programar una lambda en aws usando servicios como sqs, borrar security groups no utlizados
+
+## Software Security Engineer, Checkmarx
+> 8 January 2022
+
+Questions about SQL Injection asked to write a script to count lines of code and a customer service-oriented question.
 
 ## Product Security Engineer, Twilio
 > 7 January 2022
@@ -1662,17 +1721,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
-Design of security architecture
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
+Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -2420,12 +2479,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -3844,6 +3903,11 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
+Industry standard questions that every candidate expect to be asked
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -3851,11 +3915,6 @@ Name one thing you would implement as a security policy... or something like tha
 
 </p>
 </details>
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
-Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -3881,10 +3940,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -3892,10 +3951,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -4069,17 +4128,17 @@ So tell me about yourself
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
+Are  you comfortable in rotational shifts
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -4140,17 +4199,6 @@ Can you draw a cloud environment and how to secure it?
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-<details><summary>Can you tell me your Thesis?</summary>
-<p>
-
-- My thesis was about crypto system and cloud storage, then I explained it
-
-</p>
-</details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the inbound connection?
 
 ## Cloud Security Engineer, Tokopedia
@@ -4162,6 +4210,17 @@ Tell me about your personal portfolio website. what stack did you use?
 > 29 December 2020
 
 Can you tell me what is your responsibilities on your internship?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+<details><summary>Can you tell me your Thesis?</summary>
+<p>
+
+- My thesis was about crypto system and cloud storage, then I explained it
+
+</p>
+</details>
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -4181,12 +4240,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -4538,17 +4597,17 @@ Difference between unit and integration tests, and when would you use each?
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-General questions around docker security.
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
 Examples from top 10 OWASP
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
 Explain the different types of firewalls
+
+## Senior Software Engineer (Security), Form3 Financial Cloud
+> 12 November 2020
+
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4890,12 +4949,12 @@ It seems that HR doesn't know about the computer engineering world.
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code
+Find security bugs in given code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Find security bugs in given code
+With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
@@ -5059,12 +5118,12 @@ NAC IT Network Security Interview Questions
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle stress?
+How do you handle troubleshooting devices without any superior around you?
 
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle troubleshooting devices without any superior around you?
+How do you handle stress?
 
 ## Product Security Engineer, Citrix
 > 8 September 2020
@@ -5307,12 +5366,12 @@ Q. Ports SMTP, RDP, LDAP, HTTPS, IMAP, SSH
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-css and html version
+questions which were not even important enough in a security interview
 
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-questions which were not even important enough in a security interview
+css and html version
 
 ## Senior Security Engineer, LogDNA
 > 26 August 2020
@@ -5688,86 +5747,6 @@ progetti/tirocinio/tesi
 <p>
 
 - Search GitHub for solutions, and you would find many of them.
-
-</p>
-</details>
-
-## Security Engineer, Palo Alto Networks
-> 20 June 2020
-
-cannot share due to nda
-
-## Senior Cyber Security Engineer, Datadog
-> 16 June 2020
-
-Generally boring standard questions found on the Internet.
-
-## Security Operations Engineer, Bayer
-> 16 June 2020
-
-How does internet proxy works?
-
-## Application Security Engineer, Meta
-> 13 June 2020
-
-<details><summary>1. Reflected XSS, DOM based XSS
-2. How do you prevent CSRF
-3. Question about tools that you developed</summary>
-<p>
-
-- optional
-
-</p>
-</details>
-
-## Security Engineer, Amazon
-> 11 June 2020
-
-<details><summary>Basic questions: what is encryption, how does authentication work, describe Unix fundamentals, how does Hashing work, describe how a for loop works.</summary>
-<p>
-
-- Answered all their questions with precise detail apparently that wasn’t enough for them. Less
-
-</p>
-</details>
-
-## Senior Software Security Engineer, unu
-> 10 June 2020
-
-<details><summary>Two ECUs communicates over the USB using g_ether (unfortunately you will not know or understand the background why is it so, or any other details of the system and peripherals) and then there is an assumption that both ECUs are equipped with the "hardware security module" (you don't know what kind of interfaces should contain such a module.. or if the housing is the same e.g for tampering reason.. or if this module could establish a secure tunnel to exchange the data, or if it has powerful coprocessor to encrypt the data) Your job is to list the features of such a "hardware security module".
-
-On the one hand, it is easy because everything is already on the wiki, but on the other hand you start to think what this person may expect.</summary>
-<p>
-
-- I'll choose some another opportunity. Thank you UNU.
-
-</p>
-</details>
-
-## Information Security Engineer, Tandem Bank
-> 10 June 2020
-
-Where do you want to go with your career
-
-## Security Engineer, Amazon
-> 8 June 2020
-
-<details><summary>Behaviour and Ownership questions. P.S. STAR based.</summary>
-<p>
-
-- I explained about the projects I am currently working on which were the brilliant examples of these principle questions. Less
-
-</p>
-</details>
-
-## Security Engineer, Amazon
-> 8 June 2020
-
-<details><summary>Difference between symmetric and asymmetric key?
-More 3-4 similar questions</summary>
-<p>
-
-- Explained private and public key concepts which differentiations them.
 
 </p>
 </details>
