@@ -1,3 +1,40 @@
+## Security Engineer, Optimizely
+> 27 January 2022
+
+Can you tell me about project X on your resume?
+
+## Security Pre-sales Engineer, Securonix
+> 26 January 2022
+
+Where would you look if you're looking for passwords on a Linux system?
+
+## Security Engineer Intern, HashiCorp
+> 25 January 2022
+
+“What is your biggest Weakness?”
+“Why Hashicorp?”
+
+## Cyber Security Engineer, DBS Bank
+> 24 January 2022
+
+What is the most challenging task you faced
+
+## Information Security Engineer
+> 24 January 2022
+
+Basics of information security and nothing to worry about.
+
+## Cyber Security Engineer, Boeing
+> 23 January 2022
+
+how to work in team
+one technical question
+
+## Security Engineer, Epic
+> 23 January 2022
+
+Are you willing to relocate?
+
 ## Senior Security Engineer, Komodo Health
 > 20 January 2022
 
@@ -7,6 +44,20 @@ In the coding interview we covered getting information for AWS logs/data in two 
 > 20 January 2022
 
 Questions about OWASP Top-10 . . .
+
+## Senior Blockchain Security Engineer, Coinbase
+> 19 January 2022
+
+What happens when you go to Google and type in a search?
+
+What would you recommend for a simple web app for session management, and right now all it can do is login with a username and password?
+
+What are two ways your Coinbase Wallet could be vulnerable?
+
+## Cloud Security Engineer, Form3 Financial Cloud
+> 18 January 2022
+
+Networking, SDLC, Kubernetes, security fundamentals and aws cloud environment.
 
 ## Security Engineer Intern, DOCK TECH
 > 18 January 2022
@@ -2074,12 +2125,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -2279,12 +2330,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -3903,11 +3954,6 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
-Industry standard questions that every candidate expect to be asked
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -3915,6 +3961,11 @@ Industry standard questions that every candidate expect to be asked
 
 </p>
 </details>
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
+Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -4123,11 +4174,6 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
 Are  you comfortable in rotational shifts
 
 ## Network Security Engineer, Doyen Infosolutions
@@ -4139,6 +4185,11 @@ Where do you see yourself working in the near future(Something like that)
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+So tell me about yourself
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -4189,12 +4240,13 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-How to secure the database, even if the credential is leaked?
+<details><summary>Can you tell me your Thesis?</summary>
+<p>
 
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
+- My thesis was about crypto system and cloud storage, then I explained it
 
-Can you draw a cloud environment and how to secure it?
+</p>
+</details>
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -4214,13 +4266,12 @@ Can you tell me what is your responsibilities on your internship?
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-<details><summary>Can you tell me your Thesis?</summary>
-<p>
+How to secure the database, even if the credential is leaked?
 
-- My thesis was about crypto system and cloud storage, then I explained it
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
 
-</p>
-</details>
+Can you draw a cloud environment and how to secure it?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -4314,10 +4365,10 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>What do you use a PodSecurityPolicy for?</summary>
+<details><summary>How else do you secure your kubernetes clusters?</summary>
 <p>
 
-- To set security policies for a Pod, such as whether a pod should run as a root or not. Less
+- I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
 
 </p>
 </details>
@@ -4325,10 +4376,10 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>How else do you secure your kubernetes clusters?</summary>
+<details><summary>What do you use a PodSecurityPolicy for?</summary>
 <p>
 
-- I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
+- To set security policies for a Pod, such as whether a pod should run as a root or not. Less
 
 </p>
 </details>
@@ -4520,12 +4571,12 @@ Open-ended question: how would you do (something technical) differently?
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Debugging question: given a stack trace, can you find out what is wrong?
+Coding question which you can answer in pseudo code to test your logic.
 
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Coding question which you can answer in pseudo code to test your logic.
+Debugging question: given a stack trace, can you find out what is wrong?
 
 ## Senior Cyber Security Engineer, 3M
 > 18 November 2020
@@ -4592,7 +4643,7 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Difference between unit and integration tests, and when would you use each?
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4607,7 +4658,7 @@ Explain the different types of firewalls
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-General questions around docker security.
+Difference between unit and integration tests, and when would you use each?
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4812,12 +4863,12 @@ Incident Responder Questions
 ## Security Engineer, Innovaccer
 > 24 October 2020
 
-Different types of threats and cyber attacks
+Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
 
 ## Security Engineer, Innovaccer
 > 24 October 2020
 
-Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
+Different types of threats and cyber attacks
 
 ## Security Engineer, Innovaccer
 > 24 October 2020
@@ -4905,12 +4956,12 @@ No questions asked for this round.
 ## Principal Security Engineer, Zipwhip
 > 12 October 2020
 
-How to secure multiple AWS accounts
+Conducting Threat Modeling on a given scenario
 
 ## Principal Security Engineer, Zipwhip
 > 12 October 2020
 
-Conducting Threat Modeling on a given scenario
+How to secure multiple AWS accounts
 
 ## Software Security Engineer, Microsoft
 > 12 October 2020
@@ -4949,22 +5000,22 @@ It seems that HR doesn't know about the computer engineering world.
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Find security bugs in given code
-
-## Systems Software Security Engineer, NVIDIA
-> 6 October 2020
-
 With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Question related queue using array in C
+Find security bugs in given code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
 Technical whiteboard discussion on topics found during reviewing the resume
+
+## Systems Software Security Engineer, NVIDIA
+> 6 October 2020
+
+Question related queue using array in C
 
 ## Security Engineer, Flatiron Health
 > 4 October 2020
@@ -5243,13 +5294,13 @@ Questions about my history and experience.
 ## Information Security Engineer, Snap
 > 3 September 2020
 
-<details><summary>Explain ssl or ssh and break it down in as much detail as you can.</summary>
+<details><summary>Do you have any questions for me - Right off the cuff</summary>
 <p>
 
-- In these sorts of interviews you really need to drill down and understand what the interviewer is looking for.
+- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore.
 
 
-A good way to simulate a real interview experience is to do a mock with one of the Snap  Information Security Engineer experts on Prepfully, rated super strongly on TrustPilot...
+There's a lot of  Information Security Engineer experts who've worked at Snap, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully.
 
 
 prepfully.com/practice-interviews Less
@@ -5260,13 +5311,13 @@ prepfully.com/practice-interviews Less
 ## Information Security Engineer, Snap
 > 3 September 2020
 
-<details><summary>Do you have any questions for me - Right off the cuff</summary>
+<details><summary>Explain ssl or ssh and break it down in as much detail as you can.</summary>
 <p>
 
-- It's essential to demonstrate that you can really go deep... there are plenty of followup questions and (sometimes tangential) angles to explore.
+- In these sorts of interviews you really need to drill down and understand what the interviewer is looking for.
 
 
-There's a lot of  Information Security Engineer experts who've worked at Snap, who provide this sort of practice through mock interviews. There's a whole list of them curated on Prepfully.
+A good way to simulate a real interview experience is to do a mock with one of the Snap  Information Security Engineer experts on Prepfully, rated super strongly on TrustPilot...
 
 
 prepfully.com/practice-interviews Less
@@ -5417,22 +5468,22 @@ What does integrity mean to you and give an example of how you applied it?
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What can you bring to this job that you have experience in?
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
 What challenges did you overcome?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-Tell me about yourself (education/interest in cyber security)
+What can you bring to this job that you have experience in?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
 Why did you apply to this position?
+
+## Cyber Security Engineer, Veeco Instruments
+> 13 August 2020
+
+Tell me about yourself (education/interest in cyber security)
 
 ## Applications Security Developer/Consultant
 > 13 August 2020
@@ -5639,12 +5690,12 @@ STAR format questions.
 ## Senior Security Engineer, Joyn (Germany)
 > 6 July 2020
 
-What is SQL Injection? What is XSS?
+What is tcp? how tcp flood attack works?
 
 ## Senior Security Engineer, Joyn (Germany)
 > 6 July 2020
 
-What is tcp? how tcp flood attack works?
+What is SQL Injection? What is XSS?
 
 ## Security Engineer, SecureCraft
 > 5 July 2020
@@ -5687,67 +5738,10 @@ What I understand and know about few infosec concepts
 ## Information Security Engineer, HighRadius
 > 2 July 2020
 
-My contribution in team and a brief on my work and my approach in prior org
+My total relevant experience into infosec and role in prior org
 
 ## Information Security Engineer, HighRadius
 > 2 July 2020
 
-My total relevant experience into infosec and role in prior org
-
-## Information Security Engineer, Sure
-> 1 July 2020
-
-Not going to spoil it. ;-)
-
-## Security Engineer, Splunk
-> 29 June 2020
-
-<details><summary>How would you secure code as it's deployed through the pipeline?</summary>
-<p>
-
-- Talked about "shifting left" and trying to have robots detect as many things as possible. Less
-
-</p>
-</details>
-
-## Security Engineer, Amazon
-> 26 June 2020
-
-How to intercept traffic between a victim and a webserver?
-
-## Security Engineer, Spectrum
-> 25 June 2020
-
-What do you have, and what are you working on, in your home lab?
-
-## Security Engineer, Spectrum
-> 25 June 2020
-
-Describe the difference between a port scan and a discovery scan
-
-## Security Engineer, Spectrum
-> 25 June 2020
-
-Describe the difference between RBAC and ABAC
-
-## Security Engineer, AKKA Technologies
-> 25 June 2020
-
-Mi ha chiesto solo di parlare delle mie esperienze lavorative
-
-## Security Engineer, Archimede
-> 25 June 2020
-
-progetti/tirocinio/tesi
-
-## Devops Security Engineer, Deutsche Telekom
-> 24 June 2020
-
-<details><summary>Test task to be solved and published on a GitHub (Vagrant, Ansible, small app on Python/Go/Java/etc. to talk to openweathermap API, scripting with nmap).</summary>
-<p>
-
-- Search GitHub for solutions, and you would find many of them.
-
-</p>
-</details>
+My contribution in team and a brief on my work and my approach in prior org
 
