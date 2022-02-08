@@ -1,5 +1,9 @@
 # Internship
 
+## How to search?
+
+- [search.md](search.md) contains some ideas on how to look for internships.
+
 ## Job Listings
 
 ### Security internship listings with the following data:
@@ -11,14 +15,12 @@
 
 ### How to use?
 
+> Bonus: Companies could get ideas on how job listings are drafted.
+
 - **Date of listing** - Prepare yourself for the right time to apply by using the date of listings. This gives you an idea about when companies usually hire.
 - **Job description** - Prepare yourself by working backwards. Use the job description to understand what companies expect and look for in a candidate.
 
-### How to search?
-
-- [search.md](search.md) contains some ideas on how to look for internships.
-
-### Companies in the list:
+## Companies
 
 - Addepar
 - Adobe
