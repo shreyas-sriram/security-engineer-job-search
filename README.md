@@ -1,6 +1,6 @@
 # security-engineer-job-search
 
-## Internships
+## Internship
 
 Internship listings in the United States grouped by company.
 
