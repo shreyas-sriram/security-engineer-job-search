@@ -3,7 +3,7 @@ import math
 import json
 import requests
 from bs4 import BeautifulSoup
-  
+
 URL = "https://www.glassdoor.co.in/Interview/us-security-engineer-interview-questions-SRCH_IL.0,2_IN1_KO3,20_SDRD_IP{}.htm"
 headers = {
     'User-Agent': 'Mozilla/5.0'
@@ -11,18 +11,20 @@ headers = {
 
 _count = 1
 
+
 def find_total_pages():
     url = URL.format(1)
     data = requests.get(url, headers=headers).text
 
-    total_questions = re.findall("totalSearchResults.*,\n",data)[0]
-    total_questions = re.findall('[0-9]+',total_questions)[0]
+    total_questions = re.findall("totalSearchResults.*,\n", data)[0]
+    total_questions = re.findall('[0-9]+', total_questions)[0]
     print("Total questions: {}".format(total_questions))
 
     total_pages = math.ceil(int(total_questions) / 10)
     print("Total pages: {}".format(total_pages))
 
     return total_pages
+
 
 def parse_page(wrapper):
     page_data = []
@@ -34,13 +36,14 @@ def parse_page(wrapper):
 
     return page_data
 
+
 def parse_data(data):
     global _count
     parsed_data = {}
 
     # job position
     job_position = data.find("a", class_="css-1mig9hw edupdmz4")
-    _cleaned_text = job_position.get_text().replace(" was asked...","")
+    _cleaned_text = job_position.get_text().replace(" was asked...", "")
     _position = _cleaned_text
     # print(_position)
 
@@ -68,10 +71,10 @@ def parse_data(data):
     answers = data.find_all("span", class_=None)
     # if len(answers) == 0:
     #     _answer.append("No answers")
-    
+
     for answer in answers:
         _answer.append(answer.get_text())
-        
+
     # print(_answer)
 
     parsed_data['key'] = _count
@@ -87,6 +90,7 @@ def parse_data(data):
 
     return parsed_data
 
+
 # program control begins here
 total_pages = find_total_pages()
 print("Total pages: {}".format(total_pages))
@@ -100,14 +104,14 @@ for page_number in range(total_pages):
     data = requests.get(url, headers=headers).text
 
     soup = BeautifulSoup(data, "html.parser")
-    
+
     wrapper = soup.find_all("div", class_="col d-flex")
     page_data = parse_page(wrapper)
 
     all_data.extend(page_data)
 
 
-f = open("questions.json", "w")
+f = open("./questions/questions.json", "w")
 f.write(json.dumps(all_data))
 print("Data written to file\n")
 f.close()

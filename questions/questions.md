@@ -1,3 +1,52 @@
+## Cloud Security Engineer, Nava
+> 8 February 2022
+
+No interview was performed at all
+
+## Cyber Security Engineer, eMudhra
+> 7 February 2022
+
+the interviewer asked all the  job processes which I've done in the previous company
+
+## Sr. Security Engineer, Kustomer
+> 7 February 2022
+
+Describe a security incident and how did I handle it.
+
+## Endpoint Security Engineer, TikTok
+> 6 February 2022
+
+Tell us about a time you went out of your way to fix a problem that no one else at the company had identified?
+
+## Cyber Security Engineer, Northrop Grumman
+> 6 February 2022
+
+<details><summary>How did I handle working with a difficult co-worker?</summary>
+<p>
+
+- I said that communication with the worker was the key to having a better relationship to understand ways to work better together. Less
+
+</p>
+</details>
+
+## Cloud Security Engineer, Guild Education
+> 4 February 2022
+
+How would the candidate recommend that AWS be configured?
+
+## Cloud Security Engineer, Guild Education
+> 4 February 2022
+
+How  can a large enterprise apply the principle of least privilege and other best practice in their cloud environments?
+
+## Security Engineer, Wise
+> 3 February 2022
+
+Why Wise? 
+How do you see yourself etc. 
+They share the documents in advance. 
+For the technical part, focus on best practices and your experiences.
+
 ## Security Engineer
 > 2 February 2022
 
@@ -15,6 +64,11 @@ When to connect two VM's if we have to enter the routing table?
 On asking I am sorry can you please repeat the question again his reply was ok let's move to next:
 What is the use of Key Bolt?
 Third what scripting do you use in the routing table?
+
+## Security Engineer, Adarma
+> 31 January 2022
+
+What do you like about us?
 
 ## Cyber Security Engineer, Sitel Group
 > 30 January 2022
@@ -35,6 +89,11 @@ Most questions were talking about challenges/problems solved at previous jobs.
 > 28 January 2022
 
 Coding interview: To write a program to determine highest profitable stock.
+
+## Network Security Engineer, ITC Secure
+> 27 January 2022
+
+They offered an online technical test, which had a good mix of networking and security questions.
 
 ## Security Engineer, Optimizely
 > 27 January 2022
@@ -2178,12 +2237,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -2583,12 +2642,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -4044,10 +4103,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -4055,10 +4114,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -4227,11 +4286,6 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
 So tell me about yourself
 
 ## Network Security Engineer, Doyen Infosolutions
@@ -4243,6 +4297,11 @@ Where do you see yourself working in the near future(Something like that)
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -4293,22 +4352,22 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the database, even if the credential is leaked?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
 Can you draw a cloud environment and how to secure it?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Tell me about your personal portfolio website. what stack did you use?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you tell me what is your responsibilities on your internship?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -4344,12 +4403,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -4429,10 +4488,10 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>How else do you secure your kubernetes clusters?</summary>
+<details><summary>What do you use a PodSecurityPolicy for?</summary>
 <p>
 
-- I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
+- To set security policies for a Pod, such as whether a pod should run as a root or not. Less
 
 </p>
 </details>
@@ -4440,10 +4499,10 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>What do you use a PodSecurityPolicy for?</summary>
+<details><summary>How else do you secure your kubernetes clusters?</summary>
 <p>
 
-- To set security policies for a Pod, such as whether a pod should run as a root or not. Less
+- I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
 
 </p>
 </details>
@@ -4696,12 +4755,12 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Explain the different types of firewalls
+Difference between unit and integration tests, and when would you use each?
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Difference between unit and integration tests, and when would you use each?
+Explain the different types of firewalls
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -5063,12 +5122,12 @@ With a given number, find the least number of operations needed to make the numb
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Technical whiteboard discussion on topics found during reviewing the resume
+Question related queue using array in C
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Question related queue using array in C
+Technical whiteboard discussion on topics found during reviewing the resume
 
 ## Security Engineer, Flatiron Health
 > 4 October 2020
@@ -5521,12 +5580,12 @@ What does integrity mean to you and give an example of how you applied it?
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What challenges did you overcome?
+What can you bring to this job that you have experience in?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What can you bring to this job that you have experience in?
+What challenges did you overcome?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
