@@ -24,9 +24,9 @@
 
 - accepted security intern summer
 - joining security intern summer
-- accepted security intern summer <company-x>
-- joining security intern summer <company-x>
-- thank security intern summer <company-x>
+- accepted security intern summer \<company-x\>
+- joining security intern summer \<company-x\>
+- thank security intern summer \<company-x\>
 
 ## Indeed
 
