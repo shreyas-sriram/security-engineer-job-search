@@ -2,14 +2,19 @@
 
 ## Job Listings
 
-Security internship listings with the following data:
+### Security internship listings with the following data:
 
 - position
 - company
 - date of listing
 - job description
 
-Companies in the list:
+### How to use?
+
+- **Date of listing** - Prepare yourself for the right time to apply by using the date of listings. This gives you an idea about when companies usually hire.
+- **Job description** - Prepare yourself by working backwards. Use the job description to understand what companies expect and look for in a candidate.
+
+### Companies in the list:
 
 - Addepar
 - Adobe
