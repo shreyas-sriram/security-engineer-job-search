@@ -20,7 +20,7 @@ jobs:
           if [ -f ./scripts/requirements.txt ]; then pip install -r ./scripts/requirements.txt; fi
       - name: Scrape magic
         run: |
-          rm ./questions/questions.md ./questions/questions.json
+          rm ./questions/questions.md ./questions/questions.json || :
           python3 ./scripts/scrape.py
           python3 ./scripts/scrape-json.py
       - name: Commit and push
