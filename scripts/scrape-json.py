@@ -111,7 +111,7 @@ for page_number in range(total_pages):
     all_data.extend(page_data)
 
 
-f = open("./questions.json", "w")
+f = open("./questions/questions.json", "w")
 f.write(json.dumps(all_data))
 print("Data written to file\n")
 f.close()
