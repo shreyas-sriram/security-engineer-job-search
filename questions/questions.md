@@ -1,3 +1,35 @@
+## Senior Product Security Engineer, CrowdStrike
+> 10 February 2022
+
+under NDA, can't answer, sorry.
+
+## Senior Product Security Engineer, CrowdStrike
+> 10 February 2022
+
+under NDA, can't answer, sorry.
+
+## Cloud Security Engineer, Morgan Stanley
+> 10 February 2022
+
+Standard background questions with salary requirements.
+
+Salary range was lower than what was originally stated by the recruiter.
+
+## Cyber Security Engineer, Accenture
+> 9 February 2022
+
+What is the sudo? What is the DNS?
+
+## Cyber Security Incident Response Engineer, Cruise
+> 9 February 2022
+
+none. Covered under NDA so I cannot discuss.
+
+## Principal Security Engineer, Sprinklr
+> 8 February 2022
+
+Tell me about a time that you did something creative.
+
 ## Cloud Security Engineer, Nava
 > 8 February 2022
 
@@ -151,6 +183,21 @@ In the coding interview we covered getting information for AWS logs/data in two 
 > 20 January 2022
 
 Questions about OWASP Top-10 . . .
+
+## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
+> 20 January 2022
+
+What experience do you have with SAP or Workday?
+
+## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
+> 20 January 2022
+
+Tell me about your experience with programming.
+
+## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
+> 20 January 2022
+
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -444,8 +491,14 @@ All technical and practical questions
 ## Senior Application Security Engineer, Zoom Video Communications
 > 8 December 2021
 
-Q: What do you want to do for the next few years in your career?
-Q: What's the most interesting security issue you found?
+<details><summary>Q: What do you want to do for the next few years in your career?
+Q: What's the most interesting security issue you found?</summary>
+<p>
+
+- In general, good interview prep is key to crack the interviews.
+
+</p>
+</details>
 
 ## Junior Security Engineer, Nokia
 > 8 December 2021
@@ -1884,17 +1937,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -2237,12 +2290,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -2642,12 +2695,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -2909,12 +2962,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -4103,10 +4156,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -4114,10 +4167,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -4291,17 +4344,17 @@ So tell me about yourself
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -4352,12 +4405,7 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
+How to secure the inbound connection?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -4372,6 +4420,16 @@ Can you draw a cloud environment and how to secure it?
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+Tell me about your personal portfolio website. what stack did you use?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you tell me what is your responsibilities on your internship?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 <details><summary>Can you tell me your Thesis?</summary>
 <p>
 
@@ -4379,11 +4437,6 @@ Can you draw a cloud environment and how to secure it?
 
 </p>
 </details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the inbound connection?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -4403,12 +4456,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -4477,17 +4530,6 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>What else is there in a PodSecurityPolicy?</summary>
-<p>
-
-- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
-
-</p>
-</details>
-
-## Principal Cloud Security Engineer, Questrade
-> 13 December 2020
-
 <details><summary>What do you use a PodSecurityPolicy for?</summary>
 <p>
 
@@ -4503,6 +4545,17 @@ What would you use to order a log of traffic by date?
 <p>
 
 - I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
+
+</p>
+</details>
+
+## Principal Cloud Security Engineer, Questrade
+> 13 December 2020
+
+<details><summary>What else is there in a PodSecurityPolicy?</summary>
+<p>
+
+- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
 
 </p>
 </details>
@@ -4683,12 +4736,12 @@ Open-ended question: how would you do (something technical) differently?
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Debugging question: given a stack trace, can you find out what is wrong?
+Coding question which you can answer in pseudo code to test your logic.
 
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Coding question which you can answer in pseudo code to test your logic.
+Debugging question: given a stack trace, can you find out what is wrong?
 
 ## Senior Cyber Security Engineer, 3M
 > 18 November 2020
@@ -4755,7 +4808,7 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Explain the different types of firewalls
+Examples from top 10 OWASP
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4765,12 +4818,12 @@ Difference between unit and integration tests, and when would you use each?
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-General questions around docker security.
+Explain the different types of firewalls
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Examples from top 10 OWASP
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4975,12 +5028,12 @@ Incident Responder Questions
 ## Security Engineer, Innovaccer
 > 24 October 2020
 
-Different types of threats and cyber attacks
+Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
 
 ## Security Engineer, Innovaccer
 > 24 October 2020
 
-Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
+Different types of threats and cyber attacks
 
 ## Security Engineer, Innovaccer
 > 24 October 2020
@@ -5122,12 +5175,12 @@ With a given number, find the least number of operations needed to make the numb
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Technical whiteboard discussion on topics found during reviewing the resume
+Question related queue using array in C
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Question related queue using array in C
+Technical whiteboard discussion on topics found during reviewing the resume
 
 ## Security Engineer, Flatiron Health
 > 4 October 2020
@@ -5281,12 +5334,12 @@ NAC IT Network Security Interview Questions
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle troubleshooting devices without any superior around you?
+How do you handle stress?
 
 ## Security Systems Engineer
 > 8 September 2020
 
-How do you handle stress?
+How do you handle troubleshooting devices without any superior around you?
 
 ## Product Security Engineer, Citrix
 > 8 September 2020
@@ -5529,12 +5582,12 @@ Q. Ports SMTP, RDP, LDAP, HTTPS, IMAP, SSH
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-questions which were not even important enough in a security interview
+css and html version
 
 ## Applications Security Senior Developer, PokerStars
 > 26 August 2020
 
-css and html version
+questions which were not even important enough in a security interview
 
 ## Senior Security Engineer, LogDNA
 > 26 August 2020
@@ -5580,12 +5633,12 @@ What does integrity mean to you and give an example of how you applied it?
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What challenges did you overcome?
+What can you bring to this job that you have experience in?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
 
-What can you bring to this job that you have experience in?
+What challenges did you overcome?
 
 ## Cyber Security Engineer, Veeco Instruments
 > 13 August 2020
@@ -5707,79 +5760,4 @@ Questions about personality and value you can bring.
 > 22 July 2020
 
 Q: How would you secure XYZ system
-
-## Network Security Engineer, SecPod Technologies
-> 20 July 2020
-
-<details><summary>All about Networking | OS | Algorithms and basics you learnt in your college life.</summary>
-<p>
-
-- I was not so good in networking. So, I already said them I'll be more interested if they give the chance for my desired field, and they said they'll get in touch if there is ay opening. Less
-
-</p>
-</details>
-
-## Senior Application Security Engineer, Poshmark
-> 19 July 2020
-
-<details><summary>Writing  two Programs with any language</summary>
-<p>
-
-- Write a program to find the numbers divisible by 3 and 5 and so on
-
-</p>
-</details>
-
-## Security Engineer, Amazon
-> 14 July 2020
-
-What a was a time when you had to automate something and what was the result?
-
-## Network Security Engineer, Dimension Data
-> 13 July 2020
-
-How does an SSL VPN work
-
-## Senior Network Security Engineer, Capgemini
-> 13 July 2020
-
-<details><summary>Stuffs related to palo alto firewall</summary>
-<p>
-
-- Explained about packet flow, DNAT, routing
-
-</p>
-</details>
-
-## Cyber Security Engineer, Novanta
-> 11 July 2020
-
-<details><summary>Why I wanted to take on this job?</summary>
-<p>
-
-- Because of their global presence, it give an opportunity to enhance the skill
-
-</p>
-</details>
-
-## Information Security Engineer, Dotmatics
-> 8 July 2020
-
-What are the requirements of ISO 27001?
-
-## Information Security Engineer, Dotmatics
-> 8 July 2020
-
-How to audit a firewall configuration?
-
-## Network Security Engineer, Capgemini
-> 7 July 2020
-
-<details><summary>Those who was taken my interview asked me many questions about me and ask about technical questions on networking devices like Routing protocols, Switching Protocols, Firewall, F5 Load Balancer.</summary>
-<p>
-
-- I have answered all questions confidently. I had a great experience answering every questions. I also had great experience giving interview. Less
-
-</p>
-</details>
 
