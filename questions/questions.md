@@ -1,3 +1,58 @@
+## Security Engineer, IBM
+> 25 February 2022
+
+Objetivos
+Dónde te ves dentro de 10 años
+Experiencia técnica
+
+## Application Security Engineer, Krisp
+> 24 February 2022
+
+Q: The difference of authentication and authorization.
+Q: Do I know JavaScript?
+
+## Product Security Engineer, Krisp
+> 24 February 2022
+
+What do you expect from Krisp.
+
+## Product Security Engineer, Krisp
+> 24 February 2022
+
+What web vulnerabilities  do you know, describe them.
+
+## Senior Security Engineer, NCC Group
+> 22 February 2022
+
+Ransonware análisis.
+Macros vulnerabilidades y soluciones
+Reporte técnico
+
+## Senior Product Security Engineer, ChartHop
+> 21 February 2022
+
+As a security engineer, how comfortable do you feel writing full-stack code to be shipped with the product?
+
+## Blockchain Security Engineer, Kudelski Security
+> 18 February 2022
+
+What made you want to apply for this job?
+
+## Senior Applications Security Engineer
+> 18 February 2022
+
+they never ask right question, very bad in irrelevant
+
+## Senior Security Engineer, Detection and Response, Coalition (CA)
+> 17 February 2022
+
+Basic questions like background and skills
+
+## Cloud Security Engineer, Humana
+> 17 February 2022
+
+It was more of a conversation honestly, getting to know me and my experience.
+
 ## Security Engineer, Booz Allen Hamilton
 > 16 February 2022
 
@@ -190,6 +245,11 @@ Most questions were talking about challenges/problems solved at previous jobs.
 
 Coding interview: To write a program to determine highest profitable stock.
 
+## Security Engineer, Qualcomm
+> 28 January 2022
+
+Write a custom memcpy function.
+
 ## Network Security Engineer, ITC Secure
 > 27 January 2022
 
@@ -245,7 +305,13 @@ Are you willing to relocate?
 ## Senior Security Engineer, Komodo Health
 > 20 January 2022
 
-In the coding interview we covered getting information for AWS logs/data in two exercises
+<details><summary>In the coding interview we covered getting information for AWS logs/data in two exercises</summary>
+<p>
+
+- I wrote two functions, one for each exercise.  In the first exercise I added an additional case to cover that wasn't formally expressed in the sample dictionary of data but implied.  This was good because it opened an opportunity to discuss this case as well. Less
+
+</p>
+</details>
 
 ## Application Security Engineer
 > 20 January 2022
@@ -260,12 +326,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -296,7 +362,13 @@ O que você faz ?</summary>
 ## Security Tier II Systems Engineer, Cisco Systems
 > 17 January 2022
 
-In a high level details about devices functionality and path  packet flow regarding VPN and Firepower were asked.
+<details><summary>In a high level details about devices functionality and path  packet flow regarding VPN and Firepower were asked.</summary>
+<p>
+
+- Cannot reveal the answer as this is a personal technical answer, but I would say everything as according to books and functionalities is a proper answer. :) Less
+
+</p>
+</details>
 
 ## Information Security Engineer, Intel Corporation
 > 17 January 2022
@@ -440,9 +512,15 @@ Past experience, Have any questions for the interviewer
 ## Security Operations Engineer, Spiff
 > 30 December 2021
 
-Q: Tell me about yourself
+<details><summary>Q: Tell me about yourself
 Q: Where do you see yourself in 1, 3, 5 years?
-Q: What specifically have you contributed to benefit your team/organization
+Q: What specifically have you contributed to benefit your team/organization</summary>
+<p>
+
+- Gave personal and professional background, specific details on career growth goals for 1, 3, and 5 years, and a specific example of how I contributed to organization success. Less
+
+</p>
+</details>
 
 ## Senior Application Security Engineer, Backbase
 > 29 December 2021
@@ -477,7 +555,13 @@ Q: How to integrate local domain and cloud provider credentials
 ## Network Security Engineer Intern, Rakuten
 > 22 December 2021
 
-Asa packet flow and networking security concepts
+<details><summary>Asa packet flow and networking security concepts</summary>
+<p>
+
+- Explained the packet flow through ASA firewall and was strong About the concepts mentioned in my resume Less
+
+</p>
+</details>
 
 ## Security Signature Engineer, Qualys
 > 21 December 2021
@@ -779,6 +863,17 @@ Have you ever work with requirements.
 
 What is your knowledge on agile projects?
 
+## Senior Security Operations Engineer, Netflix
+> 15 November 2021
+
+<details><summary>How would you get metrics to measure the performance of the whole team?</summary>
+<p>
+
+- Gave him quantitative and qualitative answers. He didn't like either answer.
+
+</p>
+</details>
+
 ## Security Engineer, Grab
 > 14 November 2021
 
@@ -911,7 +1006,7 @@ There were code reviews and questions about how to design secure environments
 </p>
 </details>
 
-## Application Security Engineer
+## Application Security Engineer, Beyond Identity
 > 4 November 2021
 
 Web security, DEP, ASLR, SAML, OIDC, etc.
@@ -2358,12 +2453,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -3030,12 +3125,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -4187,11 +4282,6 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
-Industry standard questions that every candidate expect to be asked
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -4199,6 +4289,11 @@ Industry standard questions that every candidate expect to be asked
 
 </p>
 </details>
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
+Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -4473,21 +4568,6 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-How to secure the inbound connection?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the database, even if the credential is leaked?
 
 ## Cloud Security Engineer, Tokopedia
@@ -4505,6 +4585,21 @@ Can you draw a cloud environment and how to secure it?
 
 </p>
 </details>
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Tell me about your personal portfolio website. what stack did you use?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you tell me what is your responsibilities on your internship?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+How to secure the inbound connection?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -4598,10 +4693,10 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>How else do you secure your kubernetes clusters?</summary>
+<details><summary>What else is there in a PodSecurityPolicy?</summary>
 <p>
 
-- I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
+- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
 
 </p>
 </details>
@@ -4620,10 +4715,10 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>What else is there in a PodSecurityPolicy?</summary>
+<details><summary>How else do you secure your kubernetes clusters?</summary>
 <p>
 
-- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
+- I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
 
 </p>
 </details>
@@ -4804,12 +4899,12 @@ Open-ended question: how would you do (something technical) differently?
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Coding question which you can answer in pseudo code to test your logic.
+Debugging question: given a stack trace, can you find out what is wrong?
 
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Debugging question: given a stack trace, can you find out what is wrong?
+Coding question which you can answer in pseudo code to test your logic.
 
 ## Senior Cyber Security Engineer, 3M
 > 18 November 2020
@@ -4876,7 +4971,12 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Examples from top 10 OWASP
+Difference between unit and integration tests, and when would you use each?
+
+## Senior Software Engineer (Security), Form3 Financial Cloud
+> 12 November 2020
+
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -4886,12 +4986,7 @@ Explain the different types of firewalls
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Difference between unit and integration tests, and when would you use each?
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-General questions around docker security.
+Examples from top 10 OWASP
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -5096,12 +5191,12 @@ Incident Responder Questions
 ## Security Engineer, Innovaccer
 > 24 October 2020
 
-Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
+Different types of threats and cyber attacks
 
 ## Security Engineer, Innovaccer
 > 24 October 2020
 
-Different types of threats and cyber attacks
+Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
 
 ## Security Engineer, Innovaccer
 > 24 October 2020
@@ -5233,22 +5328,22 @@ It seems that HR doesn't know about the computer engineering world.
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Find security bugs in given code
-
-## Systems Software Security Engineer, NVIDIA
-> 6 October 2020
-
 With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
-Technical whiteboard discussion on topics found during reviewing the resume
+Find security bugs in given code
 
 ## Systems Software Security Engineer, NVIDIA
 > 6 October 2020
 
 Question related queue using array in C
+
+## Systems Software Security Engineer, NVIDIA
+> 6 October 2020
+
+Technical whiteboard discussion on topics found during reviewing the resume
 
 ## Security Engineer, Flatiron Health
 > 4 October 2020
@@ -5687,74 +5782,4 @@ Networking and python basics and project
 > 18 August 2020
 
 networking questions mainly about security and ddos attacks
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
-What does integrity mean to you and give an example of how you applied it?
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
-What is your weakness and give an example?
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
-What challenges did you overcome?
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
-What can you bring to this job that you have experience in?
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
-Tell me about yourself (education/interest in cyber security)
-
-## Cyber Security Engineer, Veeco Instruments
-> 13 August 2020
-
-Why did you apply to this position?
-
-## Applications Security Developer/Consultant
-> 13 August 2020
-
-We talked over past projects and they probed to find the technical reasoning behind decisions that were made.
-
-## Cloud Security Engineer, Verkada
-> 13 August 2020
-
-Walk me through RSA encryption.
-
-## Security Engineer, MacAndrews & Forbes
-> 13 August 2020
-
-what are 3 things you implement as soon as you are hired?
-
-## Network Security Engineer, Accenture
-> 13 August 2020
-
-What is a NAT? 
-What is a Virtual Private Tunnel? 
-Tell me something about Fortinet Devices.
-
-## Cloud Security Engineer, Verkada
-> 12 August 2020
-
-Explain what Address Resolution Protocol is.
-
-## Cyber Security Engineer, Paytm Labs
-> 11 August 2020
-
-<details><summary>What is the difference between encoding, encryption and hashing.</summary>
-<p>
-
-- encoding is transforming a string to something more suitable for transfer and is not really meant to hide anything.
-Encryption is done to hide things with the purpose or reverting it eventually, like to transfer data or even for identification.
-Hashing is not meant to be reversable and is used to validate things, like file integrity or passwords. Less
-
-</p>
-</details>
 
