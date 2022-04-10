@@ -1,3 +1,75 @@
+## Security Engineer, Auth0
+> 7 April 2022
+
+How do you keep passwords secure?
+
+## Network Security Engineer Intern, Vimeo
+> 6 April 2022
+
+Do you know about x security software
+
+## Offensive Security Engineer, MITRE
+> 6 April 2022
+
+What happens when you type www.google.com?
+
+## Cyber Security Engineer, Brightsight
+> 5 April 2022
+
+Why are you into cyber security?
+What can you bring to the company?
+What is your career plan?
+
+## Offensive Security Engineer, Kraken Digital Asset Exchange
+> 5 April 2022
+
+How would you simulate an attack on Kraken?
+
+## Cyber Security Engineer, D3 Security Management Systems
+> 4 April 2022
+
+Your biggest project and how you delivered it on time
+
+## Senior Network Security Engineer, Deloitte
+> 3 April 2022
+
+Explain a P! t-shoot scenario.
+
+## Senior Network Security Engineer, Optiv
+> 3 April 2022
+
+Explain a scenario where had to trouble shoot a P1 security incident
+
+## Staff Security Engineer, Affirm
+> 2 April 2022
+
+How do you remediate XSS?
+
+## Staff Security Engineer, Affirm
+> 2 April 2022
+
+How to remediate Session fixation
+
+## Staff Security Engineer, Affirm
+> 2 April 2022
+
+What does HSTS Header do? How do u set it?
+
+## Staff Security Engineer, Affirm
+> 2 April 2022
+
+What TLS version do you recommend
+
+## Staff Security Engineer, Affirm
+> 2 April 2022
+
+Scenario: describe what issues you might try to identify on a simple login page. 2 text boxes, 2 buttons on the page.
+
+## Security Engineer, SentinelOne 
+> 2 April 2022
+
+Questions about background and experience with various software and technology.
+
 ## Senior Security Software Engineer, Grafana Labs
 > 1 April 2022
 
@@ -37,10 +109,27 @@ I will not tell the specific questions but one must go through Network Security,
 
 What projects have i worked on and how did i carry out the work load?
 
+## Cyber Security Engineer, Version 1
+> 29 March 2022
+
+Basics of cyber security
+IT experience
+ISO and NIST frameworks
+
 ## Offensive Security Engineer, Meta
 > 29 March 2022
 
 How to un-dafang a defanged IP address.
+
+## Graduate Cyber Security Engineer, BAE Systems
+> 29 March 2022
+
+Describe a time in your life where you chose to do a more difficult task, when an easier option was available
+
+## Security Engineer, Shipt
+> 28 March 2022
+
+Where do I see myself in 5 years?
 
 ## Security Engineer Intern, Electronic Arts
 > 28 March 2022
@@ -407,6 +496,16 @@ Networking questions, Past working experience, good knowledge of your projects.
 </p>
 </details>
 
+## Cyber Security Engineer, Apple
+> 26 February 2022
+
+Pourquoi Apple et pourquoi changer d’entreprise
+
+## Cyber Security Engineer, Apple
+> 26 February 2022
+
+Quelles failles de sécurité as tu trouvé auparavant ?
+
 ## Network Security Engineer, NBCUniversal
 > 25 February 2022
 
@@ -425,6 +524,11 @@ Objetivos
 Dónde te ves dentro de 10 años
 Experiencia técnica
 
+## Security Engineer, Netflix
+> 24 February 2022
+
+Why do you want to work at Netflix?
+
 ## Application Security Engineer, Krisp
 > 24 February 2022
 
@@ -434,12 +538,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -1340,6 +1444,50 @@ Have you ever work with requirements.
 > 16 November 2021
 
 What is your knowledge on agile projects?
+
+## Senior Security Operations Engineer, Netflix
+> 15 November 2021
+
+<details><summary>What vulns currently exist with Netflix?</summary>
+<p>
+
+- Wasn’t too sure, mentioned potential DDOS/account theft
+
+</p>
+</details>
+
+## Senior Security Operations Engineer, Netflix
+> 15 November 2021
+
+<details><summary>What is currently wrong with SOCs right now and how would you improve them?</summary>
+<p>
+
+- Mentioned SOAR / repetitive tasks / automation
+
+</p>
+</details>
+
+## Senior Security Operations Engineer, Netflix
+> 15 November 2021
+
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<p>
+
+- Yes
+
+</p>
+</details>
+
+## Senior Security Operations Engineer, Netflix
+> 15 November 2021
+
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<p>
+
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc. Less
+
+</p>
+</details>
 
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
@@ -4780,6 +4928,11 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
+Industry standard questions that every candidate expect to be asked
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -4787,11 +4940,6 @@ Name one thing you would implement as a security policy... or something like tha
 
 </p>
 </details>
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
-Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -5010,12 +5158,12 @@ Are comfortable  with a 2.5-year bond
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
+Are  you comfortable in rotational shifts
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
+So tell me about yourself
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5066,6 +5214,16 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+Tell me about your personal portfolio website. what stack did you use?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you tell me what is your responsibilities on your internship?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 <details><summary>Can you tell me your Thesis?</summary>
 <p>
 
@@ -5073,16 +5231,6 @@ Books I read - GOF design patterns. Less
 
 </p>
 </details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -5469,12 +5617,12 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-General questions around docker security.
+Explain the different types of firewalls
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Explain the different types of firewalls
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -5685,156 +5833,4 @@ Situation based questions
 > 24 October 2020
 
 Incident Responder Questions
-
-## Security Engineer, Innovaccer
-> 24 October 2020
-
-Different types of threats and cyber attacks
-
-## Security Engineer, Innovaccer
-> 24 October 2020
-
-Basic cybersecurity questions for eg. Ports, OSI Tcp/ip model. Cyber kill chain etc
-
-## Security Engineer, Innovaccer
-> 24 October 2020
-
-SIEM basics, architecture, working. Etc
-
-## Security Engineer, Dream11
-> 23 October 2020
-
-Q. Doing a vulnerability assessment of their internal website and submitting a detailed report.
-
-## Network Security Engineer, CSS Corporation
-> 23 October 2020
-
-Same as process
-
-## Systems Security Engineer, JASINT Consulting and Technologies
-> 22 October 2020
-
-What strengths do you have that would benefit some of our current contracts?
-
-## Network Security Engineer
-> 22 October 2020
-
-About network and security and your Previous career
-
-## Security Consulting Engineer (), Cisco Systems
-> 20 October 2020
-
-<details><summary>What are the layers of the OSI model and what do they do?</summary>
-<p>
-
-- I named the layers in order and mentioned how they interact with each other, what they use (e.x. MAC addresses vs. IP addresses), and example use cases. Less
-
-</p>
-</details>
-
-## Application Security Engineer, monday.com
-> 20 October 2020
-
-Technical questions about OWASP top 10 and cryptography.
-
-## Security Engineer, Form3 Financial Cloud
-> 18 October 2020
-
-Questions about Docker security
-
-## Security Engineer, Form3 Financial Cloud
-> 18 October 2020
-
-Describe TLS handshake
-
-## Information Security Engineer, Loadsmart
-> 18 October 2020
-
-General questions:
-
-* "Talk about yourself."
-* Main good and bad qualities.
-* What you like to do in your free time.
-* How your current/last team sees you.
-* What you want for the future.
-
-Technical questions:
-
-* Difference between stateful/ stateless firewalls.
-* Difference between TCP/UDP.
-* Some questions about ACL and routers on AWS.
-* What is XSS? And how to mitigate and avoid them.
-* What is SQL injection and how to avoid them.
-* Questions about email phishing.
-* Questions about DDoS.
-* Things to consider to develop secure applications.
-
-## Security Assurance Engineer, FactSet
-> 14 October 2020
-
-There was a whiteboard question asking me to implement a block cipher at a high level.
-
-## Senior Security Engineer, Praetorian
-> 13 October 2020
-
-No questions asked for this round.
-
-## Principal Security Engineer, Zipwhip
-> 12 October 2020
-
-Conducting Threat Modeling on a given scenario
-
-## Principal Security Engineer, Zipwhip
-> 12 October 2020
-
-How to secure multiple AWS accounts
-
-## Software Security Engineer, Microsoft
-> 12 October 2020
-
-how would describe recursion to a seven year old kid?
-talk about a project you worked on.
-
-## Software Engineer- Security, Salesforce
-> 9 October 2020
-
-1 interview w/recruiter, 1 technical interview w/engineer, 1 technical interview w/would-be manager.
-
-## Application Security Engineer, GitLab
-> 7 October 2020
-
-They did not ask anything.
-
-## Security Engineer, BairesDev
-> 7 October 2020
-
-You have to do several exams that are not even related to the technologies and fields you are applying to. 
-
-It seems that HR doesn't know about the computer engineering world.
-
-## Application Security Engineer, Meta
-> 7 October 2020
-
-<details><summary>Take an integer array of unknown size and return true if any 3 numbers add up to 0</summary>
-<p>
-
-- Didn't really answer it. Kind of lost the desire to move forward after the opening question. Less
-
-</p>
-</details>
-
-## Systems Software Security Engineer, NVIDIA
-> 6 October 2020
-
-With a given number, find the least number of operations needed to make the number. Only 3 types of operation are allowed: +1, -1, *2. Try to optimize your code
-
-## Systems Software Security Engineer, NVIDIA
-> 6 October 2020
-
-Find security bugs in given code
-
-## Systems Software Security Engineer, NVIDIA
-> 6 October 2020
-
-Technical whiteboard discussion on topics found during reviewing the resume
 
