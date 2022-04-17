@@ -1,3 +1,28 @@
+## Security Engineer Intern, Amazon
+> 13 April 2022
+
+what steps will you take to eliminate vulnerabilities from a program.
+
+## Cloud Security Engineer, Netskope
+> 13 April 2022
+
+What is TCP IP handshake
+
+## Security Engineer Principal, Akamai
+> 13 April 2022
+
+Most of question was about security and cryptography.
+
+## Security Engineer Intern, Splunk
+> 11 April 2022
+
+Due to NDA can not talk too much, but they simply are 1 easy and 2 medium lc questions in the tech round.
+
+## Security Engineer, Tencent
+> 9 April 2022
+
+Describe your project, the vulnerabilities you found, and how did you choose the targets.
+
 ## Security Engineer, Auth0
 > 7 April 2022
 
@@ -12,6 +37,11 @@ Do you know about x security software
 > 6 April 2022
 
 What happens when you type www.google.com?
+
+## Network Security Engineer, Tata Consultancy Services
+> 6 April 2022
+
+the main thing they focused in on the Scenario based question. Like what kind of issue if have faced and what have you done to resolve that.
 
 ## Cyber Security Engineer, Brightsight
 > 5 April 2022
@@ -43,37 +73,82 @@ Explain a scenario where had to trouble shoot a P1 security incident
 ## Staff Security Engineer, Affirm
 > 2 April 2022
 
-How do you remediate XSS?
+<details><summary>How do you remediate XSS?</summary>
+<p>
+
+- Input validation - prefer a allowlist approach. However there are situations where allowlist is not possible and for those cases, denylist can be used.
+Also make sure to encode the output, based on the context. So if the user input is going into html, then do hfml encoding of the data and so on Less
+
+</p>
+</details>
 
 ## Staff Security Engineer, Affirm
 > 2 April 2022
 
-How to remediate Session fixation
+<details><summary>How to remediate Session fixation</summary>
+<p>
+
+- Make sure the application session ids are not guessable, new sessionids are generated after every login Less
+
+</p>
+</details>
 
 ## Staff Security Engineer, Affirm
 > 2 April 2022
 
-What does HSTS Header do? How do u set it?
+<details><summary>What does HSTS Header do? How do u set it?</summary>
+<p>
+
+- Strict transport security when set makes sure the browser doesnt send traffic to domain on http. Always sends the traffic on https. 
+
+It can be set using the strict-transport-security header in the response, which includes a max-age and other directives like includesSubDomains 
+Another way is to get your certs included into the browser’s prelist. Less
+
+</p>
+</details>
 
 ## Staff Security Engineer, Affirm
 > 2 April 2022
 
-What TLS version do you recommend
+<details><summary>What TLS version do you recommend</summary>
+<p>
+
+- TLS 1.2 and above
+
+</p>
+</details>
 
 ## Staff Security Engineer, Affirm
 > 2 April 2022
 
-Scenario: describe what issues you might try to identify on a simple login page. 2 text boxes, 2 buttons on the page.
+<details><summary>Scenario: describe what issues you might try to identify on a simple login page. 2 text boxes, 2 buttons on the page.</summary>
+<p>
+
+- Sqli, user enumeration, misconfigured endpoint (http), forceful browing to authenticated pages, a low risk self XSS, etc Less
+
+</p>
+</details>
 
 ## Security Engineer, SentinelOne 
 > 2 April 2022
 
 Questions about background and experience with various software and technology.
 
+## Distributed Systems Software Engineer - API Security, Cloudflare
+> 1 April 2022
+
+Some basic questions, such as, tell me about your self, what is your most interested experience, describe your working day, etc
+
 ## Senior Security Software Engineer, Grafana Labs
 > 1 April 2022
 
-Didn't really get to that stage.
+<details><summary>Didn't really get to that stage.</summary>
+<p>
+
+- None
+
+</p>
+</details>
 
 ## Security Engineer, xChange Solutions
 > 31 March 2022
@@ -91,7 +166,13 @@ Do you have experience with Openshift?
 ## Security Software Engineer, Genesys
 > 30 March 2022
 
-I will not tell the specific questions but one must go through Network Security, Web Development and security, Cryptography basics and their resume and a little about the role.
+<details><summary>I will not tell the specific questions but one must go through Network Security, Web Development and security, Cryptography basics and their resume and a little about the role.</summary>
+<p>
+
+- You will find various sites on Google.
+
+</p>
+</details>
 
 ## Security Engineer, CRITICALSTART
 > 30 March 2022
@@ -155,13 +236,6 @@ Why are you interested in the job? (I never applied for it so that was a bit odd
 > 26 March 2022
 
 Can you tell me about a time on a project where you wished you had done something differently?
-
-## Applications Security Engineer, BitMEX
-> 25 March 2022
-
-Why you want to join Bitmex
-What security website you usually follow to get the news
-Do you think you can fit the culture?
 
 ## Security Software QA Engineer, ScienceLogic
 > 25 March 2022
@@ -275,11 +349,6 @@ Had to sign a non disclosure agreement, thus I cannot disclose details.
 
 Explain concepts of threat modelling. 
 Explain how HTTPs works
-
-## Security Engineer, Amazon
-> 17 March 2022
-
-How do you go about prioritizing mitigation of discovered high severity vulnerabilities?
 
 ## Cyber Security Engineer, Wazuh
 > 16 March 2022
@@ -470,6 +539,17 @@ Is prime, where you need to tell if an integrer is prime
 
 Self introduction and some questions about firewall and network
 
+## Security Engineer, Beacon (United Kingdom)
+> 28 February 2022
+
+<details><summary>Questions related to real world security experience.</summary>
+<p>
+
+- I provided my experiences dealing cyber threats and attacks.
+
+</p>
+</details>
+
 ## Security Infrastructure Engineer, Bloomreach
 > 27 February 2022
 
@@ -538,12 +618,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -724,6 +804,11 @@ the interviewer asked all the  job processes which I've done in the previous com
 
 Tell us about a time you went out of your way to fix a problem that no one else at the company had identified?
 
+## Security Operations Engineer, Cloudflare
+> 6 February 2022
+
+Signed NDA about this for the interview
+
 ## Cyber Security Engineer, Northrop Grumman
 > 6 February 2022
 
@@ -897,12 +982,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -973,6 +1058,11 @@ Why is powershell better than the command line?
 > 13 January 2022
 
 There was one small application, and task was to do code review.
+
+## Security Engineer, NTT Ltd.
+> 12 January 2022
+
+Network and security related question. e.g. IDS/IPS , stateful vs stateless firewall , SNMP , etc
 
 ## Applications Security Engineer, Shutterfly
 > 12 January 2022
@@ -1053,7 +1143,7 @@ Describe what this code is doing/ what is the attacker trying to do to obfuscate
 
 Why did you apply? What are you looking for in the role? etc; etc;
 
-## Application Security Engineer, Caterpillar
+## Application Security Engineer, Tempus Labs
 > 5 January 2022
 
 How is Serena Williams doing right now ?
@@ -2751,17 +2841,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -3104,12 +3194,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -3196,19 +3286,6 @@ What are the three qualities you want in a team?
 > 12 June 2021
 
 Questions ranging from web security, DLP, Vulnerability assessment, Network Security, Security engineering, etc
-
-## Applications Security Engineer, IOVLabs
-> 11 June 2021
-
-you need to find vulnerabilities in the code:
-
-DNS lookup code written in Python, .
-Authentication Code written in typescript , 
-
-sql injection question
-question about tasks priorities and Agile.
-question about password manager.
-question about MFA.
 
 ## Security Operations Engineer, Workato
 > 9 June 2021
@@ -3299,7 +3376,15 @@ The question were mainly on Cross site request forgery.
 ## IT Security Engineer, Eastern Bank
 > 29 May 2021
 
-Can you explain the TCP handshake?
+<details><summary>Can you explain the TCP handshake?</summary>
+<p>
+
+- Hello -  SYN, SYN-ACK, and ACK
+Good Bye -  FIN, FIN-ACK, and ACK
+Rinse and Repeat - RST, RST-ACK and ACK Less
+
+</p>
+</details>
 
 ## Security Engineer, Avant
 > 29 May 2021
@@ -3309,12 +3394,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -3776,12 +3861,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5148,6 +5233,11 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
+So tell me about yourself
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
@@ -5159,11 +5249,6 @@ Are comfortable  with a 2.5-year bond
 > 4 January 2021
 
 Are  you comfortable in rotational shifts
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-So tell me about yourself
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5214,6 +5299,21 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+How to secure the database, even if the credential is leaked?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you draw a cloud environment and how to secure it?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+How to secure the inbound connection?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 Tell me about your personal portfolio website. what stack did you use?
 
 ## Cloud Security Engineer, Tokopedia
@@ -5231,21 +5331,6 @@ Can you tell me what is your responsibilities on your internship?
 
 </p>
 </details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the database, even if the credential is leaked?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you draw a cloud environment and how to secure it?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the inbound connection?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -5339,17 +5424,6 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>What else is there in a PodSecurityPolicy?</summary>
-<p>
-
-- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
-
-</p>
-</details>
-
-## Principal Cloud Security Engineer, Questrade
-> 13 December 2020
-
 <details><summary>What do you use a PodSecurityPolicy for?</summary>
 <p>
 
@@ -5365,6 +5439,17 @@ What would you use to order a log of traffic by date?
 <p>
 
 - I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
+
+</p>
+</details>
+
+## Principal Cloud Security Engineer, Questrade
+> 13 December 2020
+
+<details><summary>What else is there in a PodSecurityPolicy?</summary>
+<p>
+
+- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
 
 </p>
 </details>
@@ -5617,22 +5702,22 @@ Basic HR questions for initial phone screen.
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
-Explain the different types of firewalls
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-General questions around docker security.
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
 Difference between unit and integration tests, and when would you use each?
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
 
 Examples from top 10 OWASP
+
+## Senior Software Engineer (Security), Form3 Financial Cloud
+> 12 November 2020
+
+Explain the different types of firewalls
+
+## Senior Software Engineer (Security), Form3 Financial Cloud
+> 12 November 2020
+
+General questions around docker security.
 
 ## Senior Software Engineer (Security), Form3 Financial Cloud
 > 12 November 2020
@@ -5792,45 +5877,4 @@ How would you secure a containerized environment?
 > 27 October 2020
 
 Knowledge of insider threat, DLP, and End Point
-
-## Software Engineer- Security, Sourcegraph
-> 27 October 2020
-
-Write a vulnerability impact assessment on an old, well known, vulnerability.
-
-## Security Engineer, ReliaQuest
-> 26 October 2020
-
-Do you have experience with SIEM implementations?
-
-## App Security Engineer, Viagogo
-> 26 October 2020
-
-<details><summary>Bugbounty, Vulnerabilities found, public, vulnerabilities found.</summary>
-<p>
-
-- Basic Sec Knowledge
-
-</p>
-</details>
-
-## Information Security Engineer, Yelp
-> 26 October 2020
-
-How would you design x, how would you exploit y, etc.
-
-## Security Engineer, Procore Technologies
-> 25 October 2020
-
-General talk about experience and interest in switching. Nothing outstanding and some focus on my current company focus
-
-## Security Engineer, Innovaccer
-> 24 October 2020
-
-Situation based questions
-
-## Security Engineer, Innovaccer
-> 24 October 2020
-
-Incident Responder Questions
 
