@@ -1,3 +1,54 @@
+## Network Security Engineer, Integrity360
+> 27 April 2022
+
+Different type of network attacks and web applications. 
+Tell me about a time when.. questions
+
+## Software Security Engineer, Citrix
+> 26 April 2022
+
+Asked about web application security concepts around Same origin policy, Cross origin sharing and Content security policy.
+
+## Security Engineer, Digital Bank, SeaMoney
+> 25 April 2022
+
+No interview questions were given.
+
+## Application Security Engineer, Guild Education
+> 25 April 2022
+
+1. What's your experience with ___ tools?
+2. Have you used ___ before?
+
+## Application Security Engineer, Guild Education
+> 25 April 2022
+
+1. What's your experience with ___ tools?
+2. Have you used ___ before?
+
+## Senior Application Security Engineer, Celonis
+> 25 April 2022
+
+What experience do you have in AWS?
+
+## Network Security Engineer, Concentrix
+> 24 April 2022
+
+On basics of TCP/ ip, troubleshooting scenarios, and case management on escalations
+
+## Senior Security Engineer, Nubank
+> 24 April 2022
+
+Conhecimento em ingles
+Case de sucesso 
+Trabalho sobre pressão 
+Priorização de trabalho
+
+## Security Engineer, Qualtrics
+> 23 April 2022
+
+2 Indians asked silly security question
+
 ## Offensive Security Engineer, Kraken Digital Asset Exchange
 > 22 April 2022
 
@@ -6,12 +57,44 @@ There was a NdA. However you can expect questions related to the job offer.
 ## Cyber Security Engineer, Honeywell
 > 22 April 2022
 
-What drew you to Honeywell?
+<details><summary>What drew you to Honeywell?</summary>
+<p>
 
-## Security Engineer
+- I was initially impressed with their technology and innovation sectors and the variety of fields Honeywell touches. Less
+
+</p>
+</details>
+
+## Security Engineer, Ntt Security
 > 22 April 2022
 
-You can ping outside but not able to access webpage. What would be the issue?
+<details><summary>You can ping outside but not able to access webpage. What would be the issue?</summary>
+<p>
+
+- Looks like a DNS issue, ping DNS and then check if DNS resolves the IPs.
+
+</p>
+</details>
+
+## Security Software Research Engineer, Stellar Cyber
+> 21 April 2022
+
+easy leetcode coding questions, research background, domain knowledge, experience.  But do not waste your time, they are not honoring your experience and lying to you. No future start-up, one word-- run!
+
+## Cyber Security Engineer, CoinDCX
+> 20 April 2022
+
+Questions based on Cyber attacks and live Examples
+
+## Security Engineer, CoinDCX
+> 20 April 2022
+
+Q. How do you steal clipboard data on iOS.
+
+## Security Engineer, VMware
+> 20 April 2022
+
+threat model a diagram they show you
 
 ## Information Security Engineer, Talent500
 > 20 April 2022
@@ -29,6 +112,11 @@ Then provided steps for Threat Modelling, Pen testing, software composition anal
 > 19 April 2022
 
 What is a situation where you feel like your interpersonal skills have had a positive impact on your team?
+
+## Security Operations Engineer, BigID
+> 19 April 2022
+
+My strengths and weaknesses because BigID sees the culture as a priority, which was a positive point in my final decision.
 
 ## Cloud Security Engineer, Best Egg
 > 16 April 2022
@@ -53,12 +141,12 @@ How would you assess and secure an acquired company and integrate their existing
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -237,6 +325,21 @@ Some basic questions, such as, tell me about your self, what is your most intere
 
 </p>
 </details>
+
+## Cloud Security Engineer, P\S\L Group
+> 31 March 2022
+
+What does AppSec mean to you?
+
+## Cloud Security Engineer, P\S\L Group
+> 31 March 2022
+
+What is your opinion on serverless and security?
+
+## Security Engineer, Cofense
+> 31 March 2022
+
+Question about S3 bucket permission
 
 ## Security Engineer, xChange Solutions
 > 31 March 2022
@@ -711,12 +814,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -1075,12 +1178,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -1616,12 +1719,12 @@ Firewall and proxy experience
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
 
-Have you ever work with requirements.
+Talk about your experience with McAfee products.
 
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
 
-Talk about your experience with McAfee products.
+Have you ever work with requirements.
 
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
@@ -3279,6 +3382,11 @@ Switch port security
 
 Can you say something about JSONP?
 
+## Information Security Engineer, New York Times
+> 21 June 2021
+
+Standard culture fit and technical questions related to the role.
+
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
@@ -3287,12 +3395,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5341,12 +5449,12 @@ Are comfortable  with a 2.5-year bond
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
+So tell me about yourself
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
+Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5408,6 +5516,16 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+How to secure the database, even if the credential is leaked?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you draw a cloud environment and how to secure it?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 Tell me about your personal portfolio website. what stack did you use?
 
 ## Cloud Security Engineer, Tokopedia
@@ -5419,16 +5537,6 @@ Can you tell me what is your responsibilities on your internship?
 > 29 December 2020
 
 How to secure the inbound connection?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the database, even if the credential is leaked?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you draw a cloud environment and how to secure it?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -5728,12 +5836,12 @@ Open-ended question: how would you do (something technical) differently?
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Coding question which you can answer in pseudo code to test your logic.
+Debugging question: given a stack trace, can you find out what is wrong?
 
 ## Cyber Security Engineer, Amaris.Ai
 > 20 November 2020
 
-Debugging question: given a stack trace, can you find out what is wrong?
+Coding question which you can answer in pseudo code to test your logic.
 
 ## Senior Cyber Security Engineer, 3M
 > 18 November 2020
@@ -5801,130 +5909,4 @@ Basic HR questions for initial phone screen.
 > 12 November 2020
 
 General questions around docker security.
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-Explain the different types of firewalls
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-Examples from top 10 OWASP
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-Difference between unit and integration tests, and when would you use each?
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-Do you know the OSI model and it's various layers?
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-What is TLS? Does it use public key or symmetric key cryptography?
-
-## Security Network Engineer, Rackspace Technology
-> 12 November 2020
-
-Just a general first HR appointment, talk about you and your experience, salary scheme, etc
-
-## Adv Cyber Security Engineer/Arch, Honeywell
-> 12 November 2020
-
-<details><summary>What did I do on my last (current in that moment) job?</summary>
-<p>
-
-- I usually starde my day doing this and that...
-
-</p>
-</details>
-
-## Network Security Engineer, Huawei Technologies
-> 9 November 2020
-
-What is stack overflow attack?
-Can we perform that attack on JAVA programs?
-
-## Application Security Engineer, Snap
-> 9 November 2020
-
-NDA, Can't share the interview question
-
-## Security Engineer, Couchbase
-> 8 November 2020
-
-Behavioral and Code reviews are the main questions
-
-## Security Engineer, Moffitt Cancer Center
-> 6 November 2020
-
-<details><summary>They will mention things on your resume to make sure you know what you're talking about.</summary>
-<p>
-
-- I had a couple things on there that I was in the process of learning, so I had them on my resume (when I really shouldn't have).
-My answer wasn't nearly as solid as I would have liked.
-make sure you can back up every skill on your resume well. Less
-
-</p>
-</details>
-
-## Security Engineer, Moffitt Cancer Center
-> 6 November 2020
-
-<details><summary>They will mention things on your resume to make sure you know what you're talking about.</summary>
-<p>
-
-- I had a couple things on there that I was in the process of learning, so I had them on my resume (when I really shouldn't have).
-My answer wasn't nearly as solid as I would have liked.
-make sure you can back up every skill on your resume well. Less
-
-</p>
-</details>
-
-## Security Engineer, Affirm
-> 5 November 2020
-
-<details><summary>Technical background and experience on SIEM integration. They are looking for developers with security knowledge not the other way around.</summary>
-<p>
-
-- Through questions like this, interviewers are mostly trying to test your skillset (and its relevance to the role) as robustly as possible, so be prepared for multiple offshoots and followups.
-
-
-It could be a useful exercise to do mocks with friends or colleagues in Affirm to get a real sense of what the interview is actually like. Alternatively Prepfully has a ton of Affirm  Security Engineer experts who provide mock interviews for a pretty reasonable amount.
-
-
-prepfully.com/practice-interviews Less
-
-</p>
-</details>
-
-## Senior Security Engineer, Brex
-> 4 November 2020
-
-LC Easy, Valid Parentheses problem
-
-## Security Engineer, Meta
-> 4 November 2020
-
-The difference between XSS types (phone interview)
-
-## Cyber Security Engineer, Booz Allen Hamilton
-> 3 November 2020
-
-what makes you interested in this position?
-
-## Product Security Engineer, ServiceNow
-> 2 November 2020
-
-What classes did you take?
-Whats a ideal role for you?
-
-## Security Engineer, ReliaQuest
-> 2 November 2020
-
-What are some port numbers and their functions
 
