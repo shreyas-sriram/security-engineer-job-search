@@ -1,3 +1,39 @@
+## Security Engineer, Whole Foods Market
+> 5 May 2022
+
+video interview process without human interaction.
+
+## Security Engineer, Amazon
+> 1 May 2022
+
+Perform code reviews of the below sample code.
+
+## Security Software Engineer, AppsFlyer
+> 1 May 2022
+
+Two sum
+Find all paths
+
+## Senior Application Security Engineer, Visa Inc.
+> 29 April 2022
+
+Are you willing to relocate to CA?
+
+## Security Engineer, Parsley Health
+> 29 April 2022
+
+What made you apply to Parsley Health?
+
+## Security Engineer, ISAC
+> 29 April 2022
+
+If you had a book, how many words would apoear the mostw.
+
+## Application Security Engineer, Shopmonkey
+> 29 April 2022
+
+AppSec implementation, Security best practices, Different type of vulnerabilities and possible mitigation steps, etc
+
 ## Network Security Engineer, Integrity360
 > 27 April 2022
 
@@ -48,6 +84,14 @@ Priorização de trabalho
 > 23 April 2022
 
 2 Indians asked silly security question
+
+## Information Security Engineer, Talon.One
+> 23 April 2022
+
+Questions related to:
+- Introduction and explanation of the experience that’s relevant to the job description 
+- Salary expectations 
+- A few technical questions to test basic understanding of the industry
 
 ## Offensive Security Engineer, Kraken Digital Asset Exchange
 > 22 April 2022
@@ -551,6 +595,11 @@ How do you go about prioritizing mitigation of discovered high severity vulnerab
 
 Diferencia entre hashing, encryption y Encoding
 
+## Senior Information Security Engineer, Fifth Third
+> 16 March 2022
+
+What is your experience with [insert system here]?
+
 ## Security Engineering - Senior Engineer, Telstra
 > 15 March 2022
 
@@ -814,12 +863,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -858,7 +907,7 @@ What made you want to apply for this job?
 
 they never ask right question, very bad in irrelevant
 
-## Senior Security Engineer, Detection and Response, Coalition (CA)
+## Senior Security Engineer, Detection and Response, Coalition
 > 17 February 2022
 
 Basic questions like background and skills
@@ -1756,10 +1805,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc. Less
 
 </p>
 </details>
@@ -1767,10 +1816,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc. Less
+- Yes
 
 </p>
 </details>
@@ -3037,17 +3086,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
-Design of security architecture
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
+Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -3450,12 +3499,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -3795,12 +3844,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -4062,12 +4111,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -4952,12 +5001,12 @@ Explaining the ARP protocol in detail.
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-What makes u to apply to company and the position?
+If you checked out the company values and what u think
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-If you checked out the company values and what u think
+What makes u to apply to company and the position?
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
@@ -4972,12 +5021,12 @@ One string parsing algorithms question of medium difficulty.
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-How do you keep up to date with the latest security developments? What are your news sources?
+What steps would you take to secure an application running on Kubernetes, at each level?
 
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-What steps would you take to secure an application running on Kubernetes, at each level?
+How do you keep up to date with the latest security developments? What are your news sources?
 
 ## Senior Network Security Engineer, IBM
 > 1 February 2021
@@ -5256,10 +5305,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -5267,10 +5316,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -5439,6 +5488,11 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
+Are  you comfortable in rotational shifts
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
@@ -5450,11 +5504,6 @@ Are comfortable  with a 2.5-year bond
 > 4 January 2021
 
 So tell me about yourself
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5526,17 +5575,17 @@ Can you draw a cloud environment and how to secure it?
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+How to secure the inbound connection?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 Tell me about your personal portfolio website. what stack did you use?
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
 Can you tell me what is your responsibilities on your internship?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the inbound connection?
 
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
@@ -5556,12 +5605,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -5630,17 +5679,6 @@ What would you use to order a log of traffic by date?
 ## Principal Cloud Security Engineer, Questrade
 > 13 December 2020
 
-<details><summary>What else is there in a PodSecurityPolicy?</summary>
-<p>
-
-- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
-
-</p>
-</details>
-
-## Principal Cloud Security Engineer, Questrade
-> 13 December 2020
-
 <details><summary>What do you use a PodSecurityPolicy for?</summary>
 <p>
 
@@ -5656,6 +5694,17 @@ What would you use to order a log of traffic by date?
 <p>
 
 - I asked him if he had something specific in mind, or he's just looking for answers such ad: identity and access management, networkpolicy, hardening, etc... Less
+
+</p>
+</details>
+
+## Principal Cloud Security Engineer, Questrade
+> 13 December 2020
+
+<details><summary>What else is there in a PodSecurityPolicy?</summary>
+<p>
+
+- readOnly, etc.... I think he had just switched to the kubernetes documentation on PodSecurityPolicy by now.. Less
 
 </p>
 </details>
@@ -5852,61 +5901,4 @@ My accomplishments from my previous positions and  how I handled difficult manag
 > 16 November 2020
 
 CSRF attack and defense, Cloud security, Mobile Security
-
-## Security Engineer, iCIMS
-> 16 November 2020
-
-Tell me about a time or experience you had with X product and what you used to solve a problem with the solution?
-
-## Security Engineer, iCIMS
-> 16 November 2020
-
-How do you stay up to date with the latest in Security Trends?
-
-## Security Operations Engineer, Updox
-> 16 November 2020
-
-<details><summary>What do you do if your upper management doesn't support security objectives?</summary>
-<p>
-
-- I answered that you present the risks by outlining security incident likelihoods and impacts.  If qualitative analysis does not sway upper management, quantitative methods can be used to better illustrate the potential for negative financial impact to the business.   I also added that in the end, it is upper managements role (CISO, et al) to accept security risk...which they seemed to disagree with. Less
-
-</p>
-</details>
-
-## Security Operations Engineer, Updox
-> 16 November 2020
-
-<details><summary>What is your preferred data classification framework?</summary>
-<p>
-
-- Gave a non-committal answer explaining that is very organization specific.   Told them that I believe data classification should not be overly complicated if they want buy-in from all parts of the business - especially for SMBs that are growing. Less
-
-</p>
-</details>
-
-## Information Security Engineer, Optum
-> 16 November 2020
-
-Questions from cybersecurity, networking, Data structure  .
-
-## Information Security Engineer, SpaceX
-> 13 November 2020
-
-Create a technical presentation on a project you've done
-
-## Security Engineer, Pampered Chef
-> 12 November 2020
-
-Basic HR questions for initial phone screen.
-
-## Security Engineer, Pampered Chef
-> 12 November 2020
-
-Basic HR questions for initial phone screen.
-
-## Senior Software Engineer (Security), Form3 Financial Cloud
-> 12 November 2020
-
-General questions around docker security.
 
