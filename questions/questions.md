@@ -1,3 +1,121 @@
+## Network Security Engineer, Amazon
+> 10 May 2022
+
+- Response codes from a web application
+- CORS
+- Explain XSS
+- difference between symmetric and assymetric encryption
+- explain PFS
+- explain CSRF
+
+## Principle Security Engineer, Amazon
+> 10 May 2022
+
+Many questions around best practices within AWS and other cloud environments. Experience and background questions pretty basic stuff honestly.
+
+## Systems Security Engineer, Northrop Grumman
+> 10 May 2022
+
+Experience with technical fields off the job posting
+
+## Security Engineer, Amazon
+> 10 May 2022
+
+Mostly technical deep dive inside
+
+## Security Engineer, Uber
+> 9 May 2022
+
+Sorting elements using heap algorithm.
+
+## Security Engineer, Hastings Direct
+> 9 May 2022
+
+<details><summary>Way too many to recall anything specific, it was a barrage of questions.</summary>
+<p>
+
+- Funny thing everyone else in the team, had an easy interview, none had previous cyber experience, IT degree or external security certificates that the manager said they had. Less
+
+</p>
+</details>
+
+## Security Engineer, ProtonMail
+> 9 May 2022
+
+Questions about previous experience, open discussion.
+
+## Information Security Engineer, Poshmark
+> 8 May 2022
+
+Scenario based consultation 
+Risk assessment process
+
+## Application Security Engineer, Crypto.com
+> 7 May 2022
+
+How to secure cloud apps
+
+## Senior Security Engineer, Oracle
+> 6 May 2022
+
+How many divisions do you have there? (Again why?)
+
+## Senior Security Engineer, Oracle
+> 6 May 2022
+
+What is your work & team structure? (Like why?)
+
+## Senior Security Engineer, Oracle
+> 6 May 2022
+
+What are the metrics and their mean in the tools you use?
+
+## Senior Security Engineer, Oracle
+> 6 May 2022
+
+Difference between Authorization versus authentication?
+
+## Senior Security Engineer, Oracle
+> 6 May 2022
+
+Explain me OWASP Top 10, and pick any 3 to give details
+
+## Senior Security Engineer, Oracle
+> 6 May 2022
+
+How do you calculate CVSS score?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+Pick any 1 from OWASP 10 and explain
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+What is Authentication vs authorization?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+How do you do code reviews? Because that’s not how we do it here
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+<details><summary>Hashing vs encryption? Where do you get salt from for hashing?</summary>
+<p>
+
+- Walmart
+
+</p>
+</details>
+
 ## Security Engineer, Whole Foods Market
 > 5 May 2022
 
@@ -29,6 +147,11 @@ What made you apply to Parsley Health?
 
 If you had a book, how many words would apoear the mostw.
 
+## Applications Security Engineer, Revolut
+> 29 April 2022
+
+What have you done in the past
+
 ## Application Security Engineer, Shopmonkey
 > 29 April 2022
 
@@ -39,6 +162,12 @@ AppSec implementation, Security best practices, Different type of vulnerabilitie
 
 Different type of network attacks and web applications. 
 Tell me about a time when.. questions
+
+## Security Engineer, AutoScout24
+> 27 April 2022
+
+Why do you want to work for AutoScout24?
+Where do you see yourself in the next 5 years?
 
 ## Software Security Engineer, Citrix
 > 26 April 2022
@@ -180,17 +309,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is a project you are most proud of and what was its final result
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -397,6 +526,11 @@ Motivation
 > 31 March 2022
 
 Do you have experience with Openshift?
+
+## Sr. Security Engineer, Orion Innovation
+> 30 March 2022
+
+Related to f5 ltm and gtm
 
 ## Security Software Engineer, Genesys
 > 30 March 2022
@@ -863,12 +997,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -3644,12 +3778,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5488,6 +5622,11 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
+So tell me about yourself
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
 Are  you comfortable in rotational shifts
 
 ## Network Security Engineer, Doyen Infosolutions
@@ -5499,11 +5638,6 @@ Where do you see yourself working in the near future(Something like that)
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-So tell me about yourself
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5554,17 +5688,6 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-<details><summary>Can you tell me your Thesis?</summary>
-<p>
-
-- My thesis was about crypto system and cloud storage, then I explained it
-
-</p>
-</details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the database, even if the credential is leaked?
 
 ## Cloud Security Engineer, Tokopedia
@@ -5576,6 +5699,17 @@ Can you draw a cloud environment and how to secure it?
 > 29 December 2020
 
 How to secure the inbound connection?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+<details><summary>Can you tell me your Thesis?</summary>
+<p>
+
+- My thesis was about crypto system and cloud storage, then I explained it
+
+</p>
+</details>
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -5834,71 +5968,4 @@ What is your Motivation for joining SAP
 > 3 December 2020
 
 Nothing was asked as the interviewer was a no-show
-
-## Network Security Engineer, Maybank
-> 1 December 2020
-
-Linux command, network troubleshooting steps
-
-## Security Engineer, Hopin
-> 1 December 2020
-
-General security questions about OWASP, security automation, pentesting.
-
-## Network Security Engineer, Meta
-> 30 November 2020
-
-Networking and security questions
-Coding algorithm question
-
-## Security Engineer, Amazon
-> 29 November 2020
-
-What do you do, the incident reported firefox version was infected by malware.
-
-## Cyber Security Engineer, Asiacell
-> 26 November 2020
-
-What is HTTP request smuggling
-
-## Security Engineer, DXC Technology
-> 25 November 2020
-
-Product specific questions, mostly.
-
-## Security Developer, General Motors (GM)
-> 23 November 2020
-
-Tell about two repetitive task that you have at your work?
-what is week cipher? Tell about the security mechanism that you have used for webservice and API  ? I have application that is running on the server, and you see some attack in you application from specific system you need configure security  without disturb this server, how did you do that?
-
-## Cyber Security Engineer, Acronis
-> 23 November 2020
-
-Describe the network flow of a packet.
-
-## Cyber Security Engineer, Amaris.Ai
-> 20 November 2020
-
-Open-ended question: how would you do (something technical) differently?
-
-## Cyber Security Engineer, Amaris.Ai
-> 20 November 2020
-
-Debugging question: given a stack trace, can you find out what is wrong?
-
-## Cyber Security Engineer, Amaris.Ai
-> 20 November 2020
-
-Coding question which you can answer in pseudo code to test your logic.
-
-## Senior Cyber Security Engineer, 3M
-> 18 November 2020
-
-My accomplishments from my previous positions and  how I handled difficult managers.
-
-## Senior Security Engineer, Citrix
-> 16 November 2020
-
-CSRF attack and defense, Cloud security, Mobile Security
 
