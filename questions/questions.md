@@ -1,3 +1,36 @@
+## Cyber Security Engineer, EPAM Systems
+> 20 May 2022
+
+Que es un golden ticket?
+preguntas respecto al security de windows
+
+## Embedded Cyber Security Engineer, Valeo
+> 18 May 2022
+
+Explain Secure boot functionality
+Is secoc needed for lin?
+
+## SecOps & Cloud Security Engineer, Cyberbit
+> 17 May 2022
+
+What added value do you think you will bring to Cyberbit?
+
+## Security Engineer, Visa Inc.
+> 16 May 2022
+
+What's the difference between symmetric and asymmetric cryptography
+
+## Security Engineer, Synergistic Systems
+> 16 May 2022
+
+<details><summary>About my general experience and cloud experience</summary>
+<p>
+
+- I answered them well but they are prob looking for a cheaper engineer as most companies do not want to pay your actual worth. Less
+
+</p>
+</details>
+
 ## Network Security Engineer, Amazon
 > 10 May 2022
 
@@ -22,6 +55,11 @@ Experience with technical fields off the job posting
 > 10 May 2022
 
 Mostly technical deep dive inside
+
+## Senior Product Security Engineer, N26
+> 10 May 2022
+
+Lots of irrelevant questions about my previous jobs. Why did you left your company in 5 years ago?
 
 ## Security Engineer, Uber
 > 9 May 2022
@@ -58,12 +96,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -93,12 +131,12 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -120,6 +158,31 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 > 5 May 2022
 
 video interview process without human interaction.
+
+## Security Engineer, WorkForce Software
+> 5 May 2022
+
+How would you reform our development process?  Explain TLS?  What is the difference between TLS 1.2 and 1.3
+
+## Security Engineer, WorkForce Software
+> 5 May 2022
+
+How would you reform our development process?  Explain TLS?  What is the difference between TLS 1.2 and 1.3
+
+## Security Engineer, Workday
+> 3 May 2022
+
+The take-home test is unrealistic with just an hour for coding+log analysis+MCQs.
+
+## Application Security Engineer, Workday
+> 2 May 2022
+
+Describe which vulnerabilities you have most enjoyed exploiting in the past.
+
+## Application Security Engineer, Workday
+> 2 May 2022
+
+Describe which vulnerabilities you have most enjoyed exploiting in the past.
 
 ## Security Engineer, Amazon
 > 1 May 2022
@@ -166,8 +229,14 @@ Tell me about a time when.. questions
 ## Security Engineer, AutoScout24
 > 27 April 2022
 
-Why do you want to work for AutoScout24?
-Where do you see yourself in the next 5 years?
+<details><summary>Why do you want to work for AutoScout24?
+Where do you see yourself in the next 5 years?</summary>
+<p>
+
+- Since I had major interest in Cybersecurity,  I want to pursue, learn and grow my career in Cybersecurity and this job provides me the platform and the opportunity to improve my skills. Less
+
+</p>
+</details>
 
 ## Software Security Engineer, Citrix
 > 26 April 2022
@@ -309,17 +378,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is a project you are most proud of and what was its final result
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1939,10 +2008,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc. Less
+- Yes
 
 </p>
 </details>
@@ -1950,10 +2019,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc. Less
 
 </p>
 </details>
@@ -3220,17 +3289,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -3633,12 +3702,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -3778,12 +3847,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -3978,12 +4047,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5135,12 +5204,12 @@ Explaining the ARP protocol in detail.
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-If you checked out the company values and what u think
+What makes u to apply to company and the position?
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
 
-What makes u to apply to company and the position?
+If you checked out the company values and what u think
 
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 3 February 2021
@@ -5155,12 +5224,12 @@ One string parsing algorithms question of medium difficulty.
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-What steps would you take to secure an application running on Kubernetes, at each level?
+How do you keep up to date with the latest security developments? What are your news sources?
 
 ## Cloud Security Engineer, Thought Machine
 > 2 February 2021
 
-How do you keep up to date with the latest security developments? What are your news sources?
+What steps would you take to secure an application running on Kubernetes, at each level?
 
 ## Senior Network Security Engineer, IBM
 > 1 February 2021
@@ -5439,10 +5508,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -5450,10 +5519,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -5622,22 +5691,22 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are  you comfortable in rotational shifts
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
 Where do you see yourself working in the near future(Something like that)
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
 Are comfortable  with a 2.5-year bond
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+So tell me about yourself
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+Are  you comfortable in rotational shifts
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5688,6 +5757,17 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
+<details><summary>Can you tell me your Thesis?</summary>
+<p>
+
+- My thesis was about crypto system and cloud storage, then I explained it
+
+</p>
+</details>
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
 How to secure the database, even if the credential is leaked?
 
 ## Cloud Security Engineer, Tokopedia
@@ -5699,17 +5779,6 @@ Can you draw a cloud environment and how to secure it?
 > 29 December 2020
 
 How to secure the inbound connection?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-<details><summary>Can you tell me your Thesis?</summary>
-<p>
-
-- My thesis was about crypto system and cloud storage, then I explained it
-
-</p>
-</details>
 
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
@@ -5739,12 +5808,12 @@ How to change the static IP on a PC?
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
+Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
 
 ## Software Engineer- Security, Yelp
 > 21 December 2020
 
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
+Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
 
 ## Network Security Engineer, PORR
 > 21 December 2020
@@ -5878,94 +5947,4 @@ The one I liked most: for users, I suggested a complex and long (20+ characters)
 > 8 December 2020
 
 Networking questions in depth? and network security firewall, stp, utp and more
-
-## Security Developer, Jio
-> 8 December 2020
-
-Encryption techniques, Opps, DB questions
-
-## Security Operations Engineer, Splunk
-> 8 December 2020
-
-<details><summary>Questions were related to my background and seemed to be more about getting to know me as a person.</summary>
-<p>
-
-- Honestly
-- Any specifics?
-
-</p>
-</details>
-
-## Cyber Security Engineer, Davidson Consulting
-> 8 December 2020
-
-<details><summary>Quel est votre qualité la plus importante?</summary>
-<p>
-
-- L'adaptation
-- Adaptation rapide
-
-</p>
-</details>
-
-## Cyber Security Engineer, Davidson Consulting
-> 8 December 2020
-
-<details><summary>Quelle est la qualité la plus importante que vous voulez trouver dans un collaborateur?</summary>
-<p>
-
-- La rigueur
-
-</p>
-</details>
-
-## Security Engineer, Affirm
-> 7 December 2020
-
-<details><summary>Tell me about yourself/ previous exp.</summary>
-<p>
-
-- linkedin
-- In these sorts of interviews you really need to drill down and understand what the interviewer is looking for.
-
-
-A good way to simulate a real interview experience is to do a mock with one of the Affirm  Security Engineer experts on Prepfully, rated super strongly on TrustPilot...
-
-
-prepfully.com/practice-interviews Less
-
-</p>
-</details>
-
-## Cyber Security Engineer, Arctic Wolf
-> 7 December 2020
-
-Q: What would you do to harden a given environment?
-Q: Tell us about your security experience?
-Q: Analyze this code snippet and tell me what's suspicious here?
-
-## Security Systems Engineer, SECOM
-> 5 December 2020
-
-Can work overtime, Saturday work OT
-
-## Senior Security Engineer, Klarna
-> 5 December 2020
-
-You will get URL and have to find several vulnerabilities and prepare a report.
-
-## Graduate - Software, Platform Or Security Engineer, BP
-> 4 December 2020
-
-None of the questions available.
-
-## Senior Security Developer, SAP
-> 4 December 2020
-
-What is your Motivation for joining SAP
-
-## Senior Security Engineer
-> 3 December 2020
-
-Nothing was asked as the interviewer was a no-show
 
