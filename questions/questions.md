@@ -1,3 +1,52 @@
+## Security Engineer, Oracle
+> 2 June 2022
+
+Most questions were typical behavioral questions. The technical peer round was comprised of different troubleshooting scenario questions related to the experience listed on my resume.
+
+## Security Engineer, Gympass
+> 2 June 2022
+
+Experiências passadas, perguntas sobre criptografia e seus melhores usos, situações hipotéticas e possíveis controles de segurança.
+
+## Security Engineer, Amazon
+> 1 June 2022
+
+Basic appsec process and SSH protocol details
+
+## Senior Security Engineer, Datadog
+> 30 May 2022
+
+Classic system design question but 10% perf/scaling focus, 90% security focus
+
+## Senior Security Engineer, Datadog
+> 30 May 2022
+
+Implement a simple encryption algorithm
+
+## Senior Security Engineer, Datadog
+> 30 May 2022
+
+Tell me about a past project you were particularly proud of
+
+## Linux Security Researcher/Engineer, Runecast
+> 30 May 2022
+
+Concise technical questions, also on the soft skills side you will be having some questions, but no worries it is a really pleasant interview process.
+
+## Information Security Engineer, MoEngage
+> 27 May 2022
+
+1)Introduce yourself
+2)more about internship and what did you learned from that
+3)about CCNT certification
+4) ISO standards,remaining other standards
+5)IP addressing ranges
+6)OSI model
+7)switch
+8)router
+9)Hobbies
+10)why should we hire you
+
 ## Security Engineer, Google
 > 26 May 2022
 
@@ -88,10 +137,21 @@ What's the difference between symmetric and asymmetric cryptography
 </p>
 </details>
 
+## Security Engineer, Samsung Electronics
+> 15 May 2022
+
+What is PIE mitigation in Linux
+
 ## Security Engineer, Persistent Systems
 > 13 May 2022
 
 What is XSS. What is SQLi Some scenario based questions.
+
+## Security Engineer, GE
+> 11 May 2022
+
+All the OWASP top 10 attacks.
+What is CSRF, diving into each attack, how to resolve that, manipulate those attacks, etc.
 
 ## Network Security Engineer, Amazon
 > 10 May 2022
@@ -193,17 +253,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
 What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 How do you do code reviews? Because that’s not how we do it here
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -440,17 +500,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1128,12 +1188,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -1492,12 +1552,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -2645,7 +2705,7 @@ Tell me about yourself and about your work experience?
 
 Ccna, tcp ip, routing switching
 
-## Security Engineer, GlaxoSmithKline
+## Security Engineer, GSK
 > 20 September 2021
 
 Technical question related to understanding of cybersecurity, networking & firewall.
@@ -3709,12 +3769,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -4376,12 +4436,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5533,11 +5593,6 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
-Industry standard questions that every candidate expect to be asked
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -5545,6 +5600,11 @@ Industry standard questions that every candidate expect to be asked
 
 </p>
 </details>
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
+Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -5753,12 +5813,12 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Are  you comfortable in rotational shifts
+So tell me about yourself
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
+Are  you comfortable in rotational shifts
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
@@ -5819,21 +5879,6 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-How to secure the inbound connection?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the database, even if the credential is leaked?
 
 ## Cloud Security Engineer, Tokopedia
@@ -5852,6 +5897,21 @@ Can you draw a cloud environment and how to secure it?
 </p>
 </details>
 
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Tell me about your personal portfolio website. what stack did you use?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+Can you tell me what is your responsibilities on your internship?
+
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
+
+How to secure the inbound connection?
+
 ## Co-Op Security Engineer, Canadian Natural
 > 28 December 2020
 
@@ -5861,78 +5921,4 @@ Name a time you made a mistake and how did you overcome it?
 > 23 December 2020
 
 give u a case and ask you find security flaw
-
-## Security Engineer, Amazon
-> 21 December 2020
-
-How to change the static IP on a PC?
-
-## Software Engineer- Security, Yelp
-> 21 December 2020
-
-Hackerrank challenge of 1st phase - similar to the training challenge you are given. Computation of the "Jaccard index" based on data which are in JSON format.
-
-## Software Engineer- Security, Yelp
-> 21 December 2020
-
-Hackerrank challenge of 2nd phase - Live Coding. Given a JSON set in the form of: '{"receiver": "a@b.com", "messsage": "[reducted]," "sender": "c@b.com"}', compute the email address/-es with the most unique senders and/or receivers. Use `assert` to validate your answers.
-
-## Network Security Engineer, PORR
-> 21 December 2020
-
-They didn't ask questions, it was just in general talking from the hiring manager.
-
-## Security Engineer Intern, Meta
-> 21 December 2020
-
-What are the types of XSS attacks, what are the differences.
-
-## Senior Security Engineer, Praetorian
-> 17 December 2020
-
-Why are you looking to leave your current role?
-
-## Security Systems Engineer, University of Redlands
-> 17 December 2020
-
-<details><summary>what protocol does DNS use</summary>
-<p>
-
-- It use UDP protocol and port 53
-
-</p>
-</details>
-
-## Security Engineer, AppFolio
-> 16 December 2020
-
-IDS/IPS
-SQL injection, Queries, and payloads
-XSS, Queries, and payloads
-Use case and how to implement Reflected XSS
-Metasploit and its commands
-How to add a target and how to use Nmap in Metasploit
-What is Reverse shell
-AWS and services
-How to deploy a web application in the cloud
-Docker, Container, Kubernetes
-How do you rate yourself for programming languages like python, C, C++.
-
-## Offensive Security Engineer, Tide
-> 16 December 2020
-
-- What are the tasks of a pentester?
-- CSRF on S3?
-- Cloud Security: Shared trust model?
-
-## Cyber Security Engineer, MTSI
-> 15 December 2020
-
-<details><summary>The main question was in regard to the company values</summary>
-<p>
-
-- I reviewed the website prior to the interview and remembered the values.
-
-</p>
-</details>
 
