@@ -1,3 +1,30 @@
+## Cyber Security Engineer, Booz Allen Hamilton
+> 10 June 2022
+
+What is your best tools you used ?
+
+## Network Security Engineer, Capgemini
+> 10 June 2022
+
+So many questions were asked.
+
+## Senior Security Engineer, Atlan
+> 7 June 2022
+
+It was a discussion around the solutions I presented in the assignment.
+Deep knowledge around application security, cloud security and infrastructure security.
+
+## Security Engineer, Boston Consulting Group
+> 6 June 2022
+
+<details><summary>Why should you consider BCG?</summary>
+<p>
+
+- career aspiration, work life balance and remote working
+
+</p>
+</details>
+
 ## Security Engineer, Oracle
 > 2 June 2022
 
@@ -16,12 +43,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -47,6 +74,11 @@ Concise technical questions, also on the soft skills side you will be having som
 9)Hobbies
 10)why should we hire you
 
+## Security Engineer, Datavant
+> 27 May 2022
+
+Mostly behavioral questions, disappointed by the lack of technical questions in the on-site.
+
 ## Security Engineer, Google
 > 26 May 2022
 
@@ -60,12 +92,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -218,12 +250,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -253,17 +285,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
 How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -500,17 +532,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is a project you are most proud of and what was its final result
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1188,12 +1220,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -1552,12 +1584,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3411,17 +3443,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -3769,12 +3801,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -3969,12 +4001,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -4169,12 +4201,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -4436,12 +4468,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5630,10 +5662,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -5641,10 +5673,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -5813,7 +5845,12 @@ What is traceroute? Explain it in details.
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-So tell me about yourself
+Where do you see yourself working in the near future(Something like that)
+
+## Network Security Engineer, Doyen Infosolutions
+> 4 January 2021
+
+Are comfortable  with a 2.5-year bond
 
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
@@ -5823,12 +5860,7 @@ Are  you comfortable in rotational shifts
 ## Network Security Engineer, Doyen Infosolutions
 > 4 January 2021
 
-Where do you see yourself working in the near future(Something like that)
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are comfortable  with a 2.5-year bond
+So tell me about yourself
 
 ## Information Security Engineer, Allstate
 > 4 January 2021
@@ -5879,16 +5911,6 @@ Books I read - GOF design patterns. Less
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-How to secure the database, even if the credential is leaked?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you draw a cloud environment and how to secure it?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 <details><summary>Can you tell me your Thesis?</summary>
 <p>
 
@@ -5900,25 +5922,10 @@ Can you draw a cloud environment and how to secure it?
 ## Cloud Security Engineer, Tokopedia
 > 29 December 2020
 
-Tell me about your personal portfolio website. what stack did you use?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Can you tell me what is your responsibilities on your internship?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
 How to secure the inbound connection?
 
-## Co-Op Security Engineer, Canadian Natural
-> 28 December 2020
+## Cloud Security Engineer, Tokopedia
+> 29 December 2020
 
-Name a time you made a mistake and how did you overcome it?
-
-## Hardware Security Engineer, NVIDIA
-> 23 December 2020
-
-give u a case and ask you find security flaw
+Tell me about your personal portfolio website. what stack did you use?
 
