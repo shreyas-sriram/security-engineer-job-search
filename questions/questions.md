@@ -1,3 +1,74 @@
+## Blockchain Security Engineer, Ant Group
+> 17 June 2022
+
+1. Introduce PoW/PoS/PBFT consensus algorithm.
+2. Introduce crypto wallet.
+
+## Senior Security Engineer, Remote
+> 16 June 2022
+
+What can you give to Remote? 
+Why should we hire you?
+How would you solver a certain situation?
+How would you introduce a new process into the organisation?
+
+## Senior Security Software Engineer, Wind River
+> 15 June 2022
+
+What was your most changeling task in your current job? And they will ask deep details regarding this.
+
+## Senior Security Software Engineer, Wind River
+> 15 June 2022
+
+How will you implement a HA instance between two regions by using kafka and kubernetes clusters.
+
+## Security Automation Developer, Pfizer
+> 15 June 2022
+
+What happens if there is a zero day, how will you help to identify if that vulnerability is being exploited?
+
+## Principal Security Engineer, Citizens
+> 14 June 2022
+
+<details><summary>How do I deal with difficult people?</summary>
+<p>
+
+- I state the facts and explain my position and response
+
+</p>
+</details>
+
+## Security Engineer, State Street
+> 14 June 2022
+
+Old school interview with traditional situation based questions.
+
+## Cyber Security Engineer, AO
+> 14 June 2022
+
+What challenges did you experience and how did you overcome them?
+
+## Security Engineer, PPRO
+> 13 June 2022
+
+How would you hack an API
+
+## Security Engineer, Garrison Technology
+> 13 June 2022
+
+Lambda Captured Object Lifetimes (EXP61-CPP)
+
+## Cyber Security Engineer, Rackspace Technology
+> 12 June 2022
+
+The usual EEoC garbage HR people hide behind these days.
+
+## Junior Infrastructure Security Engineer, B&M Retail
+> 12 June 2022
+
+Pros and cons of certain virtualisation softwares 
+What previous experience of security tooling do you have
+
 ## Cyber Security Engineer, Booz Allen Hamilton
 > 10 June 2022
 
@@ -7,6 +78,11 @@ What is your best tools you used ?
 > 10 June 2022
 
 So many questions were asked.
+
+## Principal Security Software Engineer, Aurora Innovation
+> 7 June 2022
+
+Sum binary digits with Go.
 
 ## Senior Security Engineer, Atlan
 > 7 June 2022
@@ -25,10 +101,20 @@ Deep knowledge around application security, cloud security and infrastructure se
 </p>
 </details>
 
+## Information Security Engineer, Google
+> 4 June 2022
+
+Was asked to write code that could parse specific pieces of information from a log file, and talk through my thought process.
+
 ## Security Engineer, Oracle
 > 2 June 2022
 
 Most questions were typical behavioral questions. The technical peer round was comprised of different troubleshooting scenario questions related to the experience listed on my resume.
+
+## Cyber Security Engineer, Viasat
+> 2 June 2022
+
+Symmetric vs asymmetric keys, port numbers, tcp vs udp, Linux commands, 3 way handshake
 
 ## Security Engineer, Gympass
 > 2 June 2022
@@ -92,12 +178,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -250,12 +336,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -285,7 +371,7 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -295,7 +381,7 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -532,7 +618,7 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -542,7 +628,7 @@ What is a project you are most proud of and what was its final result
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -558,11 +644,6 @@ what steps will you take to eliminate vulnerabilities from a program.
 > 13 April 2022
 
 What is TCP IP handshake
-
-## Security Engineer Principal, Akamai
-> 13 April 2022
-
-Most of question was about security and cryptography.
 
 ## Sr. Security Engineer, Poshmark
 > 13 April 2022
@@ -1220,12 +1301,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -1584,12 +1665,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3801,12 +3882,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -4001,12 +4082,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -4201,12 +4282,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5625,6 +5706,11 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
+Industry standard questions that every candidate expect to be asked
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -5632,11 +5718,6 @@ Name one thing you would implement as a security policy... or something like tha
 
 </p>
 </details>
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
-Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -5662,10 +5743,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
+<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
 <p>
 
-- if it was easy why he didnt clear it himself. None of them was cissp certified
+- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
 
 </p>
 </details>
@@ -5673,10 +5754,10 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 ## Information Security Engineer, Flipkart
 > 15 January 2021
 
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
+<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
 <p>
 
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
+- if it was easy why he didnt clear it himself. None of them was cissp certified
 
 </p>
 </details>
@@ -5703,7 +5784,7 @@ They were asking about my Network background (Firewalls mostly) and  about infor
 </p>
 </details>
 
-## Senior Security Engineer, Bright Health
+## Senior Security Engineer, Bright Health Group
 > 15 January 2021
 
 <details><summary>What motivates you to be inspired? (This one says it all, they are looking for the right candidates not just one that fills a roll).</summary>
@@ -5825,107 +5906,4 @@ Some questions regarding my past projects, then some language specific questions
 > 7 January 2021
 
 Na
-
-## Senior Network Security Engineer, Macquarie Group
-> 6 January 2021
-
-<details><summary>Basic question from network security</summary>
-<p>
-
-- All practical questions
-
-</p>
-</details>
-
-## Information Security Engineer, Google
-> 5 January 2021
-
-What is traceroute? Explain it in details.
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Where do you see yourself working in the near future(Something like that)
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are comfortable  with a 2.5-year bond
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-Are  you comfortable in rotational shifts
-
-## Network Security Engineer, Doyen Infosolutions
-> 4 January 2021
-
-So tell me about yourself
-
-## Information Security Engineer, Allstate
-> 4 January 2021
-
-Simple Straight forward question regarding TPRM
-
-## Software Engineer - Security Response, Microsoft
-> 3 January 2021
-
-I was asked about various web application vulnerabilities and how to mitigate them. The questions were asked form the CWE Top 25 and OWASP Top 10.
-
-## Cyber Security Engineer, Cerner
-> 2 January 2021
-
-No Interview question because I never reached through that process.
-
-## Security Operations Engineer, IBM
-> 2 January 2021
-
-Tell me about yourself, Why do you want to work here? Walk me through your resume, Difference between data at rest and data in transit, Difference between SOC Type 1 and Type 2, Your experience with Programming, Cloud related questions,
-
-## Software Security Engineer, Microsoft
-> 30 December 2020
-
-<details><summary>First interview: explain recursion to a child.
-why microsoft? what news did you hear about us?
-what makes code great?
-
-second interview:
-friendly introduction,  books you read about software engineering.
-question - given an array of 0 1 and '?' print all combinations where '?' is 0 or 1.
-
-second technical interview:
-How does ActionListener work in GUI?
-How does multithreading work? how to synchronize threads?
-How does communication between two computers over a network work?
-How does serialization work?
-There were a lot of weird theoretical esoteric questions like this and the interviewer gave me only 5 minutes to complete a coding question: given a binary tree - scan and save it to a file so that you could restore it.</summary>
-<p>
-
-- Recursion to a child - two mirrors, matryoshka dolls.
-Array with '0' '1' and '?' - Backtracking.
-Books I read - GOF design patterns. Less
-
-</p>
-</details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-<details><summary>Can you tell me your Thesis?</summary>
-<p>
-
-- My thesis was about crypto system and cloud storage, then I explained it
-
-</p>
-</details>
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-How to secure the inbound connection?
-
-## Cloud Security Engineer, Tokopedia
-> 29 December 2020
-
-Tell me about your personal portfolio website. what stack did you use?
 
