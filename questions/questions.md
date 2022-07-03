@@ -1,3 +1,35 @@
+## Security Engineer, Amazon
+> 28 June 2022
+
+<details><summary>Walk me through the javascript of the communication channel a stored XXS attack uses to relay info back to the attacker.</summary>
+<p>
+
+- I dont have Javascipt on my resume and am not a pen tester
+
+</p>
+</details>
+
+## Security Engineer, Workday
+> 28 June 2022
+
+Why do you want to work for workday ?
+
+## Information Security Engineer, Airbnb
+> 28 June 2022
+
+What does belonging mean to you?
+
+## Security Design Engineer, GHD
+> 27 June 2022
+
+<details><summary>basic industry  standards questions and protocols</summary>
+<p>
+
+- answered with my experience and knowldge
+
+</p>
+</details>
+
 ## Security Engineer, VEED.IO
 > 22 June 2022
 
@@ -27,6 +59,11 @@ Describe na time you failed
 > 20 June 2022
 
 A lot, cant remember at this point. But knowledge based and behavioral questions will arrive
+
+## Application Security Engineer, Aptean
+> 18 June 2022
+
+Usual AppSec interview questions, nothing hard
 
 ## Blockchain Security Engineer, Ant Group
 > 17 June 2022
@@ -72,6 +109,11 @@ What happens if there is a zero day, how will you help to identify if that vulne
 
 </p>
 </details>
+
+## Security Engineer, MITRE
+> 14 June 2022
+
+What is your favorite algorithm?
 
 ## Security Engineer, State Street
 > 14 June 2022
@@ -665,17 +707,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is one soft skill you would need to improve in order move to your next role.
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1343,12 +1385,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -1554,6 +1596,11 @@ How would the candidate recommend that AWS be configured?
 > 4 February 2022
 
 How  can a large enterprise apply the principle of least privilege and other best practice in their cloud environments?
+
+## Applications Security Engineer, RPM International
+> 3 February 2022
+
+Can you describe asymmetrical encryption?
 
 ## Security Engineer, Wise
 > 3 February 2022
@@ -4591,12 +4638,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -4735,7 +4782,7 @@ Network Security fundamentals
 Network Security scenarios
 Technical deep dive into NG firewalls, Proxies, Load Balancers & VPNs
 
-## Security Engineer, SonarSource
+## Security Engineer, Sonar
 > 30 March 2021
 
 Had to prepare 20 minutes technical presentation.
@@ -5913,4 +5960,19 @@ Give me an example of a CTF challenge that you worked on
 > 11 January 2021
 
 Have you use ISO27001 before and describe it
+
+## Embedded Security Engineer, ALTEN
+> 11 January 2021
+
+It mainly involved discussing my interests, past experiences with embedded systems. Also as the role is of a consultant, was asked about previous experiences with clients.
+
+## Security Engineer, Microsoft
+> 10 January 2021
+
+Tell me what was the most recent code you wrote?
+
+## Sr. Network Security Engineer, Jane Street
+> 9 January 2021
+
+What is ECN bit used for?
 
