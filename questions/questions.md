@@ -1,3 +1,54 @@
+## Cloud Security Engineer, Nuvemshop
+> 8 July 2022
+
+Contar uma experiencia na carreira, de sucesso ou não que me gostei (ou não) de ter passado.
+
+## Security Engineer, Optiver
+> 7 July 2022
+
+What is a MITM attack ?
+
+## Security Engineer, Amazon
+> 7 July 2022
+
+Tell me about a time...
+
+## Security Engineer, ModivCare
+> 7 July 2022
+
+Scenario based  questions 
+How you secure your network
+
+## Security Engineer, Wise
+> 7 July 2022
+
+You are given more work every day than can be done in a workday. What do you do?
+
+## Security Engineer, Wise
+> 7 July 2022
+
+How do you cope with not reaching your goals due to the team getting more work than can be possibly done?
+
+## Cyber Security Engineer, Navy Exchange
+> 6 July 2022
+
+Experience with ACAS and HBSS.
+
+## Lead Cloud Security Engineer, Realtor.com
+> 3 July 2022
+
+How would you secure a public facing API
+
+## Security Engineer - Governance, Risk & Compliance, DataDome
+> 1 July 2022
+
+typical inteview questions (career, interest, etc) as well as some GRC cybersecurity generic common questions (type of risk treatment, CIA triad, definition of threat, vulnerbaility, risk etc.)
+
+## Security Operations Engineer, Optiver
+> 30 June 2022
+
+System design related to trading
+
 ## Security Engineer, Amazon
 > 28 June 2022
 
@@ -8,11 +59,6 @@
 
 </p>
 </details>
-
-## Security Engineer, Workday
-> 28 June 2022
-
-Why do you want to work for workday ?
 
 ## Information Security Engineer, Airbnb
 > 28 June 2022
@@ -179,6 +225,18 @@ Sum binary digits with Go.
 It was a discussion around the solutions I presented in the assignment.
 Deep knowledge around application security, cloud security and infrastructure security.
 
+## Junior Information Security Engineer, Talon.One
+> 7 June 2022
+
+<details><summary>Mention your contribution to your previous workplace.</summary>
+<p>
+
+- Detecting the loophole like gaps in Password policy and implementing other policies like incident response policy.
+Security awareness training for all employees and a controlled Phishing campaign to help understand the efficiency of the training, Less
+
+</p>
+</details>
+
 ## Security Engineer, Boston Consulting Group
 > 6 June 2022
 
@@ -267,12 +325,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -460,17 +518,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
 Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 What is Authentication vs authorization?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -707,7 +765,7 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -717,7 +775,7 @@ What is one soft skill you would need to improve in order move to your next role
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -4171,12 +4229,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5795,6 +5853,11 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
+Industry standard questions that every candidate expect to be asked
+
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -5802,11 +5865,6 @@ Name one thing you would implement as a security policy... or something like tha
 
 </p>
 </details>
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
-Industry standard questions that every candidate expect to be asked
 
 ## Security Engineer, Cofense
 > 18 January 2021
@@ -5916,63 +5974,4 @@ Be prepared to answer a variety of security situations.
 
 Why Adobe?
 Be prepared to answer a variety of security situations.
-
-## Information Security Engineer, Honey
-> 12 January 2021
-
-Run of the mill security questions.
-
-## Information Security Engineer, Honey
-> 12 January 2021
-
-Run of the mill security questions.
-
-## Network Security Engineer, Capgemini
-> 12 January 2021
-
-STP, VPN,  BGP, OSPF
-
-## Network Security Engineer, Línea Directa
-> 11 January 2021
-
-Has trabajado con ... ? (F5, Palo A, Cisco...)
-
-## Security Engineer, Spotify
-> 11 January 2021
-
-What are your biggest strengths?
-
-What was your biggest failure?
-
-## Cyber Security Engineer, Trustwave
-> 11 January 2021
-
-Describe what are egghunters and their use in exploit development.
-Can you describe the different segments on a debugger?
-How's your proficiency on IDA? Can you describe how you would find bugs on an x86 binary?
-
-## Security Engineer, Flatiron Health
-> 11 January 2021
-
-Give me an example of a CTF challenge that you worked on
-
-## Security Engineer, Ground Control
-> 11 January 2021
-
-Have you use ISO27001 before and describe it
-
-## Embedded Security Engineer, ALTEN
-> 11 January 2021
-
-It mainly involved discussing my interests, past experiences with embedded systems. Also as the role is of a consultant, was asked about previous experiences with clients.
-
-## Security Engineer, Microsoft
-> 10 January 2021
-
-Tell me what was the most recent code you wrote?
-
-## Sr. Network Security Engineer, Jane Street
-> 9 January 2021
-
-What is ECN bit used for?
 
