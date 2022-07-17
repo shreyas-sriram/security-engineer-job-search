@@ -1,7 +1,71 @@
+## Software Engineer- Security, Harvest
+> 15 July 2022
+
+Questions about previous experiences that align with the job description
+
+## Software Engineer- Security, Harvest
+> 15 July 2022
+
+What happens when you click submit when logging in?
+
+## Network Security Engineer, Intercom Enterprises
+> 14 July 2022
+
+Tell me about your responsibility?
+
+## Info Security Engineer, Salesforce
+> 13 July 2022
+
+<details><summary>What are some protocols you'd add to company</summary>
+<p>
+
+- More Authenticators
+
+</p>
+</details>
+
+## Security Engineer, NTT DATA
+> 13 July 2022
+
+<details><summary>Security related and over all IT related.</summary>
+<p>
+
+- Good
+
+</p>
+</details>
+
+## Senior Security Engineer, FIS
+> 12 July 2022
+
+It’s all about security related questions
+
+## Security Engineer, Deriv.com
+> 9 July 2022
+
+Please write a paragraph about two (2) of your direct reports in your most recent job, indicating their position titles, length of service, strengths, shortcomings, and overall work performance.
+
 ## Cloud Security Engineer, Nuvemshop
 > 8 July 2022
 
-Contar uma experiencia na carreira, de sucesso ou não que me gostei (ou não) de ter passado.
+<details><summary>Contar uma experiencia na carreira, de sucesso ou não que me gostei (ou não) de ter passado.</summary>
+<p>
+
+- De forma descontraída com uma experiencia que marcou e muito minha trajetória profissional, graças a Deus marcou pro bem! Less
+
+</p>
+</details>
+
+## Cyber Security Engineer, Foxhole Technology
+> 8 July 2022
+
+<details><summary>Do you live near the office?</summary>
+<p>
+
+- No
+
+</p>
+</details>
 
 ## Security Engineer, Optiver
 > 7 July 2022
@@ -29,6 +93,24 @@ You are given more work every day than can be done in a workday. What do you do?
 
 How do you cope with not reaching your goals due to the team getting more work than can be possibly done?
 
+## Security Engineer, Seven Bridges
+> 6 July 2022
+
+I was asked a good chunk of mixed resume based, scenario based, and behavior based questions. 
+
+1. Do you have any experience with Ansible or xyz tool?
+2. Tell me about your experience with vuln management.
+3. Tell me about how would you patch a critical vuln. General approach especially when having to work together across different teams such as Dev Ops or Software Engineers. How do you handle potential downtime and communicate effectively? How do you assess the risks involved when dealing with other severity levels of vulns such as high, medium, and low?
+4. Trick question regarding what general resource is useful for password management and compliance.
+
+## Junior Security Infrastructure Engineer, Swiss Re
+> 6 July 2022
+
+- Tell me things about your career that aren't in your CV.
+- Tell me why you want to join Swiss Re.
+- Tell me a situation where you did something wrong and how you handled it.
+- Tell me one of your virtues and one of your defects.
+
 ## Cyber Security Engineer, Navy Exchange
 > 6 July 2022
 
@@ -39,10 +121,34 @@ Experience with ACAS and HBSS.
 
 How would you secure a public facing API
 
+## Cyber Security Engineer, Rogers Communications
+> 2 July 2022
+
+<details><summary>What is the security triad?</summary>
+<p>
+
+- Confidentiality, Integrity, Availability
+
+</p>
+</details>
+
+## Security Operations Engineer, Samsara
+> 1 July 2022
+
+Not able to disclose, I signed an NDA.
+
 ## Security Engineer - Governance, Risk & Compliance, DataDome
 > 1 July 2022
 
 typical inteview questions (career, interest, etc) as well as some GRC cybersecurity generic common questions (type of risk treatment, CIA triad, definition of threat, vulnerbaility, risk etc.)
+
+## Application Security Engineer, Roblox
+> 30 June 2022
+
+Online Assessment
+Technical Interviews
+Behavioral Rounds
+Bar Raiser Round.
 
 ## Security Operations Engineer, Optiver
 > 30 June 2022
@@ -325,12 +431,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -518,17 +624,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
+How do you do code reviews? Because that’s not how we do it here
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
 Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 What is Authentication vs authorization?
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
-How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -765,17 +871,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is one soft skill you would need to improve in order move to your next role.
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1443,12 +1549,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -4229,12 +4335,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -4696,12 +4802,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5853,11 +5959,6 @@ Name one thing you would implement as a security policy... or something like tha
 ## Security Engineer Or Contractor Only, Kubota Tractor
 > 18 January 2021
 
-Industry standard questions that every candidate expect to be asked
-
-## Security Engineer Or Contractor Only, Kubota Tractor
-> 18 January 2021
-
 <details><summary>Tell me about yourself ?</summary>
 <p>
 
@@ -5866,112 +5967,13 @@ Industry standard questions that every candidate expect to be asked
 </p>
 </details>
 
+## Security Engineer Or Contractor Only, Kubota Tractor
+> 18 January 2021
+
+Industry standard questions that every candidate expect to be asked
+
 ## Security Engineer, Cofense
 > 18 January 2021
 
 What cloud technologies are you familiar with?
-
-## IT Security Engineer, Virtual1
-> 16 January 2021
-
-They were asking about my Network background (Firewalls mostly) and  about information security standards.
-
-## Cyber Security Engineer, Vistra Energy
-> 15 January 2021
-
-<details><summary>From a security standpoint, iPhone or Android?</summary>
-<p>
-
-- iPhone for security means because they control hardware, and their app store controls software. Less
-
-</p>
-</details>
-
-## Information Security Engineer, Flipkart
-> 15 January 2021
-
-<details><summary>Taunted if i have cleared cissp [world renowned certificate] by just reading one book and was easy to clear just by reading.</summary>
-<p>
-
-- if it was easy why he didnt clear it himself. None of them was cissp certified
-
-</p>
-</details>
-
-## Information Security Engineer, Flipkart
-> 15 January 2021
-
-<details><summary>Tried to showcase that i dont know things and he knows everything</summary>
-<p>
-
-- i tried explaining where he was wrong by logic, he could not give logic to his own question. Less
-
-</p>
-</details>
-
-## Information Security Engineer, Flipkart
-> 15 January 2021
-
-<details><summary>Concern over 4 job switches in 7 year</summary>
-<p>
-
-- again why only employee gets the blame? Arent company also to be blamed. Wont they layoff people? I got it twice so am i to be blamed for their politics? 2009- layoff, corona-layoff, US ban- layoff, no rain -layoff but they wont blame them but us. Ironically Less
-
-</p>
-</details>
-
-## Information Security Engineer, Flipkart
-> 15 January 2021
-
-<details><summary>Concern over gaps in education</summary>
-<p>
-
-- not all are lucky and born with golden spoon. Gaps depend upon financial, emotional and family conditions. Its called struggle in life. Not sure what is the concern as if i had been doing wrong things that would be caught in BGV before hiring. Less
-
-</p>
-</details>
-
-## Senior Security Engineer, Bright Health Group
-> 15 January 2021
-
-<details><summary>What motivates you to be inspired? (This one says it all, they are looking for the right candidates not just one that fills a roll).</summary>
-<p>
-
-- I am inspired by the opportunity to make a difference, I am inspired by needs I can meet and by the challenges that I encounter that help me grow along the way. Less
-
-</p>
-</details>
-
-## Security Engineer, Baidu
-> 14 January 2021
-
-<details><summary>Proposing a sorting algorithm and write a simple code.</summary>
-<p>
-
-- Bubble sort and quick sort algorithm.
-
-</p>
-</details>
-
-## Security Engineer - Junior -/Data Loss Prevention, Capgemini Engineering
-> 13 January 2021
-
-Qual foi o projecto que mais gostei de fazer e sobre o que?
-
-## Cloud Security Engineer, Booz Allen Hamilton
-> 12 January 2021
-
-What my experience with specific technologies were
-
-## Security Engineer Intern, Adobe
-> 12 January 2021
-
-Why Adobe?
-Be prepared to answer a variety of security situations.
-
-## Security Engineer Intern, Adobe
-> 12 January 2021
-
-Why Adobe?
-Be prepared to answer a variety of security situations.
 
