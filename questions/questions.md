@@ -1,3 +1,13 @@
+## Network & Security Engineer, Tata Consultancy Services
+> 4 August 2022
+
+OSPF, Firewall concept , how ssl and 3 handshake works
+
+## Cloud Security Engineer, Adobe
+> 1 August 2022
+
+7 Layer Network OSI model
+
 ## Cloud Security Engineer, Hotstar
 > 28 July 2022
 
@@ -601,6 +611,16 @@ I know the money is low, but it will grow over time. Are you comfortable taking 
 
 How do dynamically secure and store credentials used by a CI/CD pipeline to deploy infrastructure?
 
+## Security Engineer, PayScale
+> 23 May 2022
+
+Do you have any pets? If so, what do you have?
+
+## Security Engineer, PayScale
+> 23 May 2022
+
+Define the difference between risk and vulnerabilities.
+
 ## Network Security Engineer, Wipro
 > 23 May 2022
 
@@ -782,12 +802,12 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1034,12 +1054,12 @@ How would you assess and secure an acquired company and integrate their existing
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -5912,27 +5932,4 @@ Present a project/presentation that is relevant to the job
 > 29 January 2021
 
 We didn't even get to the interview questions.
-
-## Cyber Security Engineer, ByteDance
-> 29 January 2021
-
-Introduce yourself (No follow up questions on this part) 
-what is SQL injection attack?
-what is XSS ?
-what is ping attack ?
-
-## Security Engineer, Subex
-> 29 January 2021
-
-Wen application security, Networking, Malware analysis
-
-## Application Security Engineer, Booking.com
-> 28 January 2021
-
-What are you doing as an App Sec engineer in your company?
-
-## Application Security Engineer, Booking.com
-> 28 January 2021
-
-Your background in App Sec
 
