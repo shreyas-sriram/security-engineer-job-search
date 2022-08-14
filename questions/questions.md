@@ -1,3 +1,22 @@
+## Security Engineer, Amazon
+> 11 August 2022
+
+Threat modelling
+Secure code review
+Authorization
+OWASP Top 10
+
+## Senior Security Engineer - Ethical Hacking, Deltek
+> 10 August 2022
+
+Define Zero Trust Framework and how to apply it in a real world scenario
+
+## Cyber Security Engineer, Robert Bosch
+> 7 August 2022
+
+What does ec2 means? Describe in detail?
+What does IDM means why was it instated?
+
 ## Network & Security Engineer, Tata Consultancy Services
 > 4 August 2022
 
@@ -38,6 +57,11 @@ Least privilege, NIST standards, processes
 
 The interviews were very open, starting from a scenario and adapting it following my answers.
 The coding interview was asking for a code to update the color of a pixel in an image, and of all the piwel touching it in cascade.
+
+## Security Engineer, Bank of America
+> 25 July 2022
+
+Talk about a problem that you solved, and how you approached it.
 
 ## Security Engineer Intern, Seven Bridges
 > 25 July 2022
@@ -97,6 +121,17 @@ Threat model a login form, SOP, CORS etc
 > 20 July 2022
 
 Tell me about your background.
+
+## Application Security Engineer, Citadel Securities
+> 19 July 2022
+
+<details><summary>How do you do threat modeling?</summary>
+<p>
+
+- I have explained describing my thought process of threat modeling whereas I think they were expects g formal threat modeling. Less
+
+</p>
+</details>
 
 ## Security Engineer, SAP
 > 19 July 2022
@@ -599,12 +634,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -807,12 +842,12 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1049,17 +1084,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+What is one soft skill you would need to improve in order move to your next role.
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is a project you are most proud of and what was its final result
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1722,12 +1757,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -4232,62 +4267,6 @@ They were pretty standard questions, tailored to the experience on my resume. Th
 
 Describe a OAuth autnorization flow
 
-## IT Security Engineer, Acuity Insurance
-> 28 June 2021
-
-<details><summary>A common one that seemed to come up a few times was regarding how you view security practices.</summary>
-<p>
-
-- Answering it will various things like, least privilege, layered approach, etc opened a lot of discussion and gave me a chance to show how much I knew about broad best practices or my stance on things in the field. Less
-
-</p>
-</details>
-
-## Information Security Engineer, Iron Mountain
-> 25 June 2021
-
-Mostly asked about my experience based on my resume, and some use cases
-
-## Security Engineer, Nuveo
-> 25 June 2021
-
-Por quê você está saindo da sua última empresa?
-
-## Security Engineer, VMware
-> 25 June 2021
-
-CSRF, SOP, CORS, Path Traversal etc.
-
-## Java Security Developer, Wipro
-> 25 June 2021
-
-Project Architecture with Rest services
-
-## Senior Security Engineer, Everlaw
-> 24 June 2021
-
-What would you do to prevent cross site scripting attacks?
-
-## IT Security Engineer, Socure
-> 24 June 2021
-
-basic cyber security questions and self introduction.
-
-## IT Security Engineer, Socure
-> 24 June 2021
-
-basic cyber security questions and self introduction.
-
-## Concierge Security Engineer, Arctic Wolf
-> 23 June 2021
-
-Have you ever dealt with an X scenario and how did you manage it? (SOC related questions)
-
-## Concierge Security Engineer, Arctic Wolf
-> 23 June 2021
-
-Do you know the MITRE framework?
-
 ## Senior Network and Security Engineer, Cirrus Networks
 > 22 June 2021
 
@@ -4513,12 +4492,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5901,35 +5880,4 @@ What steps would you take to secure an application running on Kubernetes, at eac
 > 1 February 2021
 
 Whether you felt  anytime that the domain you are in is not your cup of tea.
-
-## Application Security Engineer, Armory
-> 1 February 2021
-
-explain about Server side request forgery
-
-## Staff Security Engineer, VMware
-> 1 February 2021
-
-<details><summary>How key is used to sign the msg?</summary>
-<p>
-
-- private key
-
-</p>
-</details>
-
-## Cyber Security Engineer, EY
-> 31 January 2021
-
-Its purely based on technical questions with some programming.
-
-## Cyber Security Engineer, MITRE
-> 31 January 2021
-
-Present a project/presentation that is relevant to the job
-
-## Information Security Engineer, Balyasny Asset Management
-> 29 January 2021
-
-We didn't even get to the interview questions.
 
