@@ -1,3 +1,65 @@
+## Cloud Security Engineer, Netskope
+> 2 September 2022
+
+<details><summary>knowledges in DB, Linux, Networking, Troubleshooting, Docker and Kubernetis</summary>
+<p>
+
+- as far my knowledge was deeper in some topics i did face these questions with as much technical details as possible in order to show my skills on these topics Less
+
+</p>
+</details>
+
+## Security Engineer, Amazon
+> 2 September 2022
+
+All about security.
+Cryptography.
+Attacks.
+
+## Information Security Engineer 3, WEX
+> 1 September 2022
+
+No interview was conducted until now.
+
+## Security Engineer, Paychex
+> 31 August 2022
+
+<details><summary>Questions were regarding the network side and Ports</summary>
+<p>
+
+- I know all these and I have experience in network and security side in my previous job Less
+
+</p>
+</details>
+
+## IT Security Engineer, American Association of Motor Vehicle Administrators
+> 31 August 2022
+
+Tell me about a project that you are proud of?
+
+## Security Engineer, Datavant
+> 30 August 2022
+
+What would you do if you were caught between requirements from engineering teams and compliance?
+
+## Security Operations Engineer, Accenture
+> 29 August 2022
+
+TCP Handshake
+Asymmetric vs Symmetric Encryption
+Linux basic
+Incident Handling process
+
+## Security Engineer, Meta
+> 28 August 2022
+
+Coding interview: build cli command CD
+
+## Cyber Security Engineer, CoinDCX
+> 26 August 2022
+
+Practical knowledge based questions which requires practical and technical knowledge both.
+
 ## Security Engineer, Amazon
 > 26 August 2022
 
@@ -35,6 +97,17 @@ Why did you choose Workhuman?
 Sdlc process 
 Security architecture 
 Completely all the modules of cybersecurity
+
+## Principal Security Engineer, AgentSync
+> 23 August 2022
+
+<details><summary>Have you had to troubleshoot SSO and was it for external clients or internal issues?</summary>
+<p>
+
+- Yes, I had to assist clients with SSO issues for a particular SaaS application. Ive had to more recently assist with these issues internally as well. Less
+
+</p>
+</details>
 
 ## Cyber Security Engineer, Next Ventures
 > 23 August 2022
@@ -143,6 +216,11 @@ Threat modelling
 Secure code review
 Authorization
 OWASP Top 10
+
+## Cyber Security Engineer, Apple
+> 11 August 2022
+
+Can Tell me about yourself
 
 ## Senior Security Engineer - Ethical Hacking, Deltek
 > 10 August 2022
@@ -430,7 +508,7 @@ What is a MITM attack ?
 
 Tell me about a time...
 
-## Security Engineer, ModivCare
+## Security Engineer, Modivcare
 > 7 July 2022
 
 Scenario based  questions 
@@ -1002,17 +1080,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
 How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 What is Authentication vs authorization?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1922,12 +2000,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -2291,12 +2369,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3489,7 +3567,7 @@ What is Second Order SQLi?
 
 what is OWASP TOP 10 ?
 
-## Information Security Engineer, Banyan Data Services
+## Information Security Engineer, Banyan Cloud
 > 16 September 2021
 
 what is called as web application ?
@@ -3976,7 +4054,7 @@ There were no specific technical questions.
 
 The coding assignment was to design a program that sorts teams for a coding competition
 
-## Senior Cyber Security Engineer
+## Senior Cyber Security Engineer, Seattle City Light
 > 7 August 2021
 
 What is CIA?
@@ -4513,12 +4591,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5919,9 +5997,4 @@ Remediation
 > 15 February 2021
 
 Q. security best practises,  behavioral questions in third round
-
-## Security Engineer, Microsoft
-> 15 February 2021
-
-Describe a time where you were getting pressure from a customer.
 
