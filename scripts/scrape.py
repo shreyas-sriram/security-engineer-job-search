@@ -94,8 +94,9 @@ def parse_data(data):
         parsed_data = parsed_data + "\n<p>\n\n"
 
         for answer in answers:
-            parsed_data = parsed_data + "- {}\n".format(answer.get_text())
-            # print(answer.get_text())
+            answer = answer.get_text().replace(" Less", "")
+            parsed_data = parsed_data + "- {}\n".format(answer)
+            # print(answer)
 
         parsed_data = parsed_data + "\n</p>\n</details>"
 
