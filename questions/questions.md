@@ -13,6 +13,11 @@ Security Engineering topics, focused on cloud, infrastructure, application and g
 
 What is CMDB in ServiceNow
 
+## Network Security Engineer, Southern Company
+> 7 September 2022
+
+Networking related questions. IP address and subnet.
+
 ## Cyber Security Engineer, Deimos 
 > 6 September 2022
 
@@ -30,7 +35,7 @@ What is CMDB in ServiceNow
 <details><summary>Do you prefer working as a team or as an individual?</summary>
 <p>
 
-- Both. Depending on the scenario. But team work yields better results due to collaboration Less
+- Both. Depending on the scenario. But team work yields better results due to collaboration
 
 </p>
 </details>
@@ -41,7 +46,7 @@ What is CMDB in ServiceNow
 <details><summary>knowledges in DB, Linux, Networking, Troubleshooting, Docker and Kubernetis</summary>
 <p>
 
-- as far my knowledge was deeper in some topics i did face these questions with as much technical details as possible in order to show my skills on these topics Less
+- as far my knowledge was deeper in some topics i did face these questions with as much technical details as possible in order to show my skills on these topics
 
 </p>
 </details>
@@ -64,7 +69,7 @@ No interview was conducted until now.
 <details><summary>Questions were regarding the network side and Ports</summary>
 <p>
 
-- I know all these and I have experience in network and security side in my previous job Less
+- I know all these and I have experience in network and security side in my previous job
 
 </p>
 </details>
@@ -107,6 +112,11 @@ Tell me about a time when your view on something important was significantly cha
 
 wanted to apply but backed off as it's not a remote first company.
 
+## Network Security Engineer, State Farm
+> 25 August 2022
+
+Is ping a layer 3 or layer 4 protocol?
+
 ## Security Engineer II, Outreach
 > 25 August 2022
 
@@ -118,7 +128,7 @@ bunch of questions about tools I've used... random questions about hashing. Some
 <details><summary>Your Previous job experience that will benefit the job role.</summary>
 <p>
 
-- I provided the similar task what I do from my past jobs (worth mentioning my security skills back ground). Less
+- I provided the similar task what I do from my past jobs (worth mentioning my security skills back ground).
 
 </p>
 </details>
@@ -141,7 +151,7 @@ Completely all the modules of cybersecurity
 <details><summary>Have you had to troubleshoot SSO and was it for external clients or internal issues?</summary>
 <p>
 
-- Yes, I had to assist clients with SSO issues for a particular SaaS application. Ive had to more recently assist with these issues internally as well. Less
+- Yes, I had to assist clients with SSO issues for a particular SaaS application. Ive had to more recently assist with these issues internally as well.
 
 </p>
 </details>
@@ -185,22 +195,22 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -241,7 +251,7 @@ What's the difference between SAML and OAuth/OIDC?
 <details><summary>What is  SQLI & how to fix it?</summary>
 <p>
 
-- SQLI refers to Standard Query Language Injection.  In multiple ways, sqli can be prevented. Less
+- SQLI refers to Standard Query Language Injection.  In multiple ways, sqli can be prevented.
 
 </p>
 </details>
@@ -403,7 +413,7 @@ Tell me about your background.
 <details><summary>How do you do threat modeling?</summary>
 <p>
 
-- I have explained describing my thought process of threat modeling whereas I think they were expects g formal threat modeling. Less
+- I have explained describing my thought process of threat modeling whereas I think they were expects g formal threat modeling.
 
 </p>
 </details>
@@ -524,7 +534,7 @@ Scenario based troubleshooting questions, linux commands and basic networking kn
 <details><summary>Contar uma experiencia na carreira, de sucesso ou não que me gostei (ou não) de ter passado.</summary>
 <p>
 
-- De forma descontraída com uma experiencia que marcou e muito minha trajetória profissional, graças a Deus marcou pro bem! Less
+- De forma descontraída com uma experiencia que marcou e muito minha trajetória profissional, graças a Deus marcou pro bem!
 
 </p>
 </details>
@@ -826,7 +836,7 @@ Deep knowledge around application security, cloud security and infrastructure se
 <p>
 
 - Detecting the loophole like gaps in Password policy and implementing other policies like incident response policy.
-Security awareness training for all employees and a controlled Phishing campaign to help understand the efficiency of the training, Less
+Security awareness training for all employees and a controlled Phishing campaign to help understand the efficiency of the training,
 
 </p>
 </details>
@@ -919,12 +929,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -1001,7 +1011,7 @@ What's the difference between symmetric and asymmetric cryptography
 <details><summary>About my general experience and cloud experience</summary>
 <p>
 
-- I answered them well but they are prob looking for a cheaper engineer as most companies do not want to pay your actual worth. Less
+- I answered them well but they are prob looking for a cheaper engineer as most companies do not want to pay your actual worth.
 
 </p>
 </details>
@@ -1063,7 +1073,7 @@ Sorting elements using heap algorithm.
 <details><summary>Way too many to recall anything specific, it was a barrage of questions.</summary>
 <p>
 
-- Funny thing everyone else in the team, had an easy interview, none had previous cyber experience, IT degree or external security certificates that the manager said they had. Less
+- Funny thing everyone else in the team, had an easy interview, none had previous cyber experience, IT degree or external security certificates that the manager said they had.
 
 </p>
 </details>
@@ -1122,7 +1132,7 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1132,7 +1142,7 @@ How do you do code reviews? Because that’s not how we do it here
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1224,7 +1234,7 @@ Tell me about a time when.. questions
 Where do you see yourself in the next 5 years?</summary>
 <p>
 
-- Since I had major interest in Cybersecurity,  I want to pursue, learn and grow my career in Cybersecurity and this job provides me the platform and the opportunity to improve my skills. Less
+- Since I had major interest in Cybersecurity,  I want to pursue, learn and grow my career in Cybersecurity and this job provides me the platform and the opportunity to improve my skills.
 
 </p>
 </details>
@@ -1293,7 +1303,7 @@ There was a NdA. However you can expect questions related to the job offer.
 <details><summary>What drew you to Honeywell?</summary>
 <p>
 
-- I was initially impressed with their technology and innovation sectors and the variety of fields Honeywell touches. Less
+- I was initially impressed with their technology and innovation sectors and the variety of fields Honeywell touches.
 
 </p>
 </details>
@@ -1336,7 +1346,7 @@ threat model a diagram they show you
 <p>
 
 - Asked questions to understand the architecture first.
-Then provided steps for Threat Modelling, Pen testing, software composition analysis and risk assessment methodologies. Less
+Then provided steps for Threat Modelling, Pen testing, software composition analysis and risk assessment methodologies.
 
 </p>
 </details>
@@ -1369,17 +1379,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is a project you are most proud of and what was its final result
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1427,7 +1437,7 @@ Describe your project, the vulnerabilities you found, and how did you choose the
 <details><summary>How do you keep passwords secure?</summary>
 <p>
 
-- Lots of investigation here of bcrypt and rainbow tables and the value of salting and peppering etc. Less
+- Lots of investigation here of bcrypt and rainbow tables and the value of salting and peppering etc.
 
 </p>
 </details>
@@ -1481,7 +1491,7 @@ Explain a scenario where had to trouble shoot a P1 security incident
 <p>
 
 - Input validation - prefer a allowlist approach. However there are situations where allowlist is not possible and for those cases, denylist can be used.
-Also make sure to encode the output, based on the context. So if the user input is going into html, then do hfml encoding of the data and so on Less
+Also make sure to encode the output, based on the context. So if the user input is going into html, then do hfml encoding of the data and so on
 
 </p>
 </details>
@@ -1492,7 +1502,7 @@ Also make sure to encode the output, based on the context. So if the user input 
 <details><summary>How to remediate Session fixation</summary>
 <p>
 
-- Make sure the application session ids are not guessable, new sessionids are generated after every login Less
+- Make sure the application session ids are not guessable, new sessionids are generated after every login
 
 </p>
 </details>
@@ -1506,7 +1516,7 @@ Also make sure to encode the output, based on the context. So if the user input 
 - Strict transport security when set makes sure the browser doesnt send traffic to domain on http. Always sends the traffic on https. 
 
 It can be set using the strict-transport-security header in the response, which includes a max-age and other directives like includesSubDomains 
-Another way is to get your certs included into the browser’s prelist. Less
+Another way is to get your certs included into the browser’s prelist.
 
 </p>
 </details>
@@ -1528,7 +1538,7 @@ Another way is to get your certs included into the browser’s prelist. Less
 <details><summary>Scenario: describe what issues you might try to identify on a simple login page. 2 text boxes, 2 buttons on the page.</summary>
 <p>
 
-- Sqli, user enumeration, misconfigured endpoint (http), forceful browing to authenticated pages, a low risk self XSS, etc Less
+- Sqli, user enumeration, misconfigured endpoint (http), forceful browing to authenticated pages, a low risk self XSS, etc
 
 </p>
 </details>
@@ -1662,7 +1672,7 @@ Can you tell me about a time on a project where you wished you had done somethin
 <details><summary>Tell me about your experience with your past internship</summary>
 <p>
 
-- I was an intern for VCU engineering as a security intern. I worked on a project to scan to the google playstore and look for malicious applications that request for permission access that does not align with the app's intended purposes. Less
+- I was an intern for VCU engineering as a security intern. I worked on a project to scan to the google playstore and look for malicious applications that request for permission access that does not align with the app's intended purposes.
 
 </p>
 </details>
@@ -1678,7 +1688,7 @@ What is your general approach to assessing the security of an application?
 <details><summary>What port does icmp use.</summary>
 <p>
 
-- I told them that icmp is a protocol, and doesn't use the same notion of ports like tcp/udp.   However, it is often shown as port 0 in certain vendors logs.   It's really a type 0,1,3,8 or some combination of those that they are looking for, not port. Less
+- I told them that icmp is a protocol, and doesn't use the same notion of ports like tcp/udp.   However, it is often shown as port 0 in certain vendors logs.   It's really a type 0,1,3,8 or some combination of those that they are looking for, not port.
 
 </p>
 </details>
@@ -1828,7 +1838,7 @@ What got you interested in security?
 <details><summary>Find security flaws in code</summary>
 <p>
 
-- Looked through code and pointed out what I thought were flaws, and mentioned how developers could improve them. Less
+- Looked through code and pointed out what I thought were flaws, and mentioned how developers could improve them.
 
 </p>
 </details>
@@ -1876,7 +1886,7 @@ A light coding question around parsing a file, secure design, adding security ch
 <details><summary>OAuth vs SAML and details thereof. Java code read for security flaws. AWS architecture.</summary>
 <p>
 
-- Very directly gave technical details you would learn in any technical documentation. Less
+- Very directly gave technical details you would learn in any technical documentation.
 
 </p>
 </details>
@@ -1922,7 +1932,7 @@ SDLC question
 <details><summary>A bunch of technical question and telling me that they have a lot of projects. Good luck finding a person that knows as much as I but know all the technologies and a pie in the sky!</summary>
 <p>
 
-- I answered the questions well. Yes I dont have 5 years of Fortigate experience, it clearly stated this in my resume. Less
+- I answered the questions well. Yes I dont have 5 years of Fortigate experience, it clearly stated this in my resume.
 
 </p>
 </details>
@@ -2228,7 +2238,7 @@ the interviewer asked all the  job processes which I've done in the previous com
 <details><summary>Describe a security incident and how did I handle it.</summary>
 <p>
 
-- I described an incident and detailed the steps I took to identify, react, assemble team, remediate, assess and lessons learned. Less
+- I described an incident and detailed the steps I took to identify, react, assemble team, remediate, assess and lessons learned.
 
 </p>
 </details>
@@ -2249,7 +2259,7 @@ Signed NDA about this for the interview
 <details><summary>How did I handle working with a difficult co-worker?</summary>
 <p>
 
-- I said that communication with the worker was the key to having a better relationship to understand ways to work better together. Less
+- I said that communication with the worker was the key to having a better relationship to understand ways to work better together.
 
 </p>
 </details>
@@ -2297,7 +2307,7 @@ Third what scripting do you use in the routing table?</summary>
 <p>
 
 - I was confused about the bolt word then immediately I recalled some people read V=B .
-Rest all questions were above my IQ. Less
+Rest all questions were above my IQ.
 
 </p>
 </details>
@@ -2403,7 +2413,7 @@ Are you willing to relocate?
 <details><summary>In the coding interview we covered getting information for AWS logs/data in two exercises</summary>
 <p>
 
-- I wrote two functions, one for each exercise.  In the first exercise I added an additional case to cover that wasn't formally expressed in the sample dictionary of data but implied.  This was good because it opened an opportunity to discuss this case as well. Less
+- I wrote two functions, one for each exercise.  In the first exercise I added an additional case to cover that wasn't formally expressed in the sample dictionary of data but implied.  This was good because it opened an opportunity to discuss this case as well.
 
 </p>
 </details>
@@ -2421,12 +2431,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -2449,7 +2459,7 @@ Networking, SDLC, Kubernetes, security fundamentals and aws cloud environment.
 O que você faz ?</summary>
 <p>
 
-- Sou um estudante dedicado que aprende muito rápido e procuro fazer tudo com muito esforço e dedicação Less
+- Sou um estudante dedicado que aprende muito rápido e procuro fazer tudo com muito esforço e dedicação
 
 </p>
 </details>
@@ -2460,7 +2470,7 @@ O que você faz ?</summary>
 <details><summary>In a high level details about devices functionality and path  packet flow regarding VPN and Firepower were asked.</summary>
 <p>
 
-- Cannot reveal the answer as this is a personal technical answer, but I would say everything as according to books and functionalities is a proper answer. :) Less
+- Cannot reveal the answer as this is a personal technical answer, but I would say everything as according to books and functionalities is a proper answer. :)
 
 </p>
 </details>
@@ -2572,7 +2582,7 @@ Describe what this code is doing/ what is the attacker trying to do to obfuscate
 <details><summary>What are the differences between SSL and TLS?</summary>
 <p>
 
-- SSL 3.0 and TLS 1.0 are nearly identical. Otherwise, TLS is the newer standard and the one that should be followed. Less
+- SSL 3.0 and TLS 1.0 are nearly identical. Otherwise, TLS is the newer standard and the one that should be followed.
 
 </p>
 </details>
@@ -2623,7 +2633,7 @@ Q: Where do you see yourself in 1, 3, 5 years?
 Q: What specifically have you contributed to benefit your team/organization</summary>
 <p>
 
-- Gave personal and professional background, specific details on career growth goals for 1, 3, and 5 years, and a specific example of how I contributed to organization success. Less
+- Gave personal and professional background, specific details on career growth goals for 1, 3, and 5 years, and a specific example of how I contributed to organization success.
 
 </p>
 </details>
@@ -2664,7 +2674,7 @@ Q: How to integrate local domain and cloud provider credentials
 <details><summary>Asa packet flow and networking security concepts</summary>
 <p>
 
-- Explained the packet flow through ASA firewall and was strong About the concepts mentioned in my resume Less
+- Explained the packet flow through ASA firewall and was strong About the concepts mentioned in my resume
 
 </p>
 </details>
@@ -2925,7 +2935,7 @@ Recruiter asked about experience in each of the job requirements.
 <details><summary>Describe why you think diversity is important.</summary>
 <p>
 
-- I virtue-signaled with my typical answer that let them know I really do consider harmonious diversity a strength.  (And I do.) Less
+- I virtue-signaled with my typical answer that let them know I really do consider harmonious diversity a strength.  (And I do.)
 
 </p>
 </details>
@@ -2936,7 +2946,7 @@ Recruiter asked about experience in each of the job requirements.
 <details><summary>Describe why you think diversity is important.</summary>
 <p>
 
-- I virtue-signaled with my typical answer that let them know I really do consider harmonious diversity a strength.  (And I do.) Less
+- I virtue-signaled with my typical answer that let them know I really do consider harmonious diversity a strength.  (And I do.)
 
 </p>
 </details>
@@ -3002,7 +3012,7 @@ What is your knowledge on agile projects?
 <details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc. Less
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -3025,7 +3035,7 @@ What is your knowledge on agile projects?
 <p>
 
 - Gave him quantitative and qualitative answers. He didn't like either answer.
-- Look at KPI (key performing indicators) such as spend vs budget, track the volume of changes impacting deliverables, etc. Promote change, get innovated and strategically plan to to avoid spending over budget and Avoiding bottlenecks to name a few. Less
+- Look at KPI (key performing indicators) such as spend vs budget, track the volume of changes impacting deliverables, etc. Promote change, get innovated and strategically plan to to avoid spending over budget and Avoiding bottlenecks to name a few.
 
 </p>
 </details>
@@ -3076,7 +3086,7 @@ How do you tell if a vulnerability has high impact?
 <details><summary>In my opinion expected salary doesn't fit their requirement</summary>
 <p>
 
-- The main problem is that, nobody didn't gave me except reason why I didn't selected Less
+- The main problem is that, nobody didn't gave me except reason why I didn't selected
 
 </p>
 </details>
@@ -3280,7 +3290,7 @@ Tell me about how you would approach a web app for testing.
 <details><summary>Why I was in the hiring process (context: I had joined the previous company just 4,5 months before).</summary>
 <p>
 
-- I did a research about Typeform's history, services, values, philosophy, etc., and not just the position, but the company itself motivated me to try to join Typeform. Less
+- I did a research about Typeform's history, services, values, philosophy, etc., and not just the position, but the company itself motivated me to try to join Typeform.
 
 </p>
 </details>
@@ -3317,7 +3327,7 @@ Never store in clear text
 
 Never allow passwords within connection strings.
 
-Use a key vault for all authentication processes. Less
+Use a key vault for all authentication processes.
 
 </p>
 </details>
@@ -3359,7 +3369,7 @@ What size of systems have you worked on
 <details><summary>What is your salary expectation for this position based on your experience?</summary>
 <p>
 
-- I didn't provide a hard number, because I don't have all the information available to accurately assess the value of a compensation package. Less
+- I didn't provide a hard number, because I don't have all the information available to accurately assess the value of a compensation package.
 
 </p>
 </details>
@@ -3433,7 +3443,7 @@ Describe a situation in which conflict occurred and how you addressed it?
 <details><summary>What was a time you dealt with a stressful situation? How did you overcome this?</summary>
 <p>
 
-- Discussed a specific customer support engagement that was severely escalated. Addressed the issue with clear communication and expectations until resolution. Less
+- Discussed a specific customer support engagement that was severely escalated. Addressed the issue with clear communication and expectations until resolution.
 
 </p>
 </details>
@@ -3630,7 +3640,7 @@ what is called as web application ?
 <details><summary>What interests you in working in software development?</summary>
 <p>
 
-- I got into coding during the summer of 2020 when my internship had been cancelled, and I started to love working on my own mini projects while learning how to code at the same time. I like the work flow of designing, drafting, troubleshooting and then iterating on your work to add features and make it more efficient. Each design challenge is like a puzzle that I get great enjoyment from solving. Working on bigger, more collaborative projects would be beneficial to me as I could improve my understanding of best principles for designing the architecture of a software. Less
+- I got into coding during the summer of 2020 when my internship had been cancelled, and I started to love working on my own mini projects while learning how to code at the same time. I like the work flow of designing, drafting, troubleshooting and then iterating on your work to add features and make it more efficient. Each design challenge is like a puzzle that I get great enjoyment from solving. Working on bigger, more collaborative projects would be beneficial to me as I could improve my understanding of best principles for designing the architecture of a software.
 
 </p>
 </details>
@@ -3662,7 +3672,7 @@ What's one of your greatest challenges.
 <details><summary>what is scalability in cloud?</summary>
 <p>
 
-- scalability is one of the main moto of cloud providers. we can easily scale in or scale out our resources based on our own requirements. Less
+- scalability is one of the main moto of cloud providers. we can easily scale in or scale out our resources based on our own requirements.
 
 </p>
 </details>
@@ -3806,7 +3816,7 @@ def computeXOR(n) :
         return n + 1
  
     # If n%4 gives remainder 3
-    return 0 Less
+    return 0
 
 </p>
 </details>
@@ -4148,7 +4158,7 @@ What is Router vs Switch?
 <details><summary>What is Content Delivery Network</summary>
 <p>
 
-- A CDN (Content Delivery Network) is a highly-distributed platform of servers that helps minimize delays in loading web page content by reducing the physical distance between the server and the user. This helps users around the world view the same high-quality content without slow loading times. Less
+- A CDN (Content Delivery Network) is a highly-distributed platform of servers that helps minimize delays in loading web page content by reducing the physical distance between the server and the user. This helps users around the world view the same high-quality content without slow loading times.
 
 </p>
 </details>
@@ -4169,7 +4179,7 @@ Questions on Networking and and operating systems.
 <details><summary>Using a script of sudo code how would you create a report from two separate log files to concatenate the files together.</summary>
 <p>
 
-- Pull data from log file 1 into a data set.  Pull data from log file 2 into a different data set.  Export results of data set 1 + data set 2. Less
+- Pull data from log file 1 into a data set.  Pull data from log file 2 into a different data set.  Export results of data set 1 + data set 2.
 
 </p>
 </details>
@@ -4328,7 +4338,7 @@ What kind of solutions we can use for controlling users access to Cloud Apps
 <details><summary>What is this ___ attack and How do you prevent it?</summary>
 <p>
 
-- ____ -&gt; I was asked about CSRF and XSS. I gave an example while explaining the vulnerability.I spoke about CORS policy, CSRF tokens etc... Less
+- ____ -&gt; I was asked about CSRF and XSS. I gave an example while explaining the vulnerability.I spoke about CORS policy, CSRF tokens etc...
 
 </p>
 </details>
@@ -4339,7 +4349,7 @@ What kind of solutions we can use for controlling users access to Cloud Apps
 <details><summary>How would you automate security scanning? Describe a role that involved that automation?</summary>
 <p>
 
-- Provided about 4 different examples how I was currently conducting automation via Burp, zap, qualys and snyk Less
+- Provided about 4 different examples how I was currently conducting automation via Burp, zap, qualys and snyk
 
 </p>
 </details>
@@ -4568,7 +4578,7 @@ Describe a OAuth autnorization flow
 <details><summary>A common one that seemed to come up a few times was regarding how you view security practices.</summary>
 <p>
 
-- Answering it will various things like, least privilege, layered approach, etc opened a lot of discussion and gave me a chance to show how much I knew about broad best practices or my stance on things in the field. Less
+- Answering it will various things like, least privilege, layered approach, etc opened a lot of discussion and gave me a chance to show how much I knew about broad best practices or my stance on things in the field.
 
 </p>
 </details>
@@ -4643,12 +4653,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -4721,7 +4731,7 @@ Difference between TCP and UDP.
 <details><summary>If you had a million dollar to fix a vulnerability class, which one would you choose and why?</summary>
 <p>
 
-- Heap based buffer overflows. I’d like to research mitigations that are backward-compatible with the C standard and that don’t require changes to an existing code base. Similar to canaries on the stack. I’d choose that, because this vuln class is frequently exploited and C is not going away any time soon although it’s so old. Less
+- Heap based buffer overflows. I’d like to research mitigations that are backward-compatible with the C standard and that don’t require changes to an existing code base. Similar to canaries on the stack. I’d choose that, because this vuln class is frequently exploited and C is not going away any time soon although it’s so old.
 
 </p>
 </details>
@@ -4747,7 +4757,7 @@ Work experience related questions
 <details><summary>I was asked to walk through the thought process of working with a new API I've never seen before. I was presented an actual API, and was asked to free-form pseudocode a call to it.</summary>
 <p>
 
-- While sharing my screen, I googled the service, scanned the docs, found relevant calls and began scaffolding pseudocode to auth with the API and pull the requested data. Less
+- While sharing my screen, I googled the service, scanned the docs, found relevant calls and began scaffolding pseudocode to auth with the API and pull the requested data.
 
 </p>
 </details>
@@ -4830,7 +4840,7 @@ The question were mainly on Cross site request forgery.
 
 - Hello -  SYN, SYN-ACK, and ACK
 Good Bye -  FIN, FIN-ACK, and ACK
-Rinse and Repeat - RST, RST-ACK and ACK Less
+Rinse and Repeat - RST, RST-ACK and ACK
 
 </p>
 </details>
@@ -4843,12 +4853,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -4907,7 +4917,7 @@ How would you design a distributed web scraper?
 <details><summary>What are your 5 years plans?</summary>
 <p>
 
-- I am aiming to get some certifications in my area such as CISSP, beside of this I am looking to get scripting skills such as Phython. Less
+- I am aiming to get some certifications in my area such as CISSP, beside of this I am looking to get scripting skills such as Phython.
 
 </p>
 </details>
@@ -4929,7 +4939,7 @@ How would you design a distributed web scraper?
 <details><summary>Why you think this position is a good fit for you?</summary>
 <p>
 
-- Based on the job description I found this position is good fit for my technical skills. Less
+- Based on the job description I found this position is good fit for my technical skills.
 
 </p>
 </details>
@@ -4940,7 +4950,7 @@ How would you design a distributed web scraper?
 <details><summary>Why are you leaving your current position?</summary>
 <p>
 
-- Ultimately, I’ve learned a lot in my current role, but I’m looking for the next step where I can continue to grow and use the skills I’ve honed at a company I love, and this opportunity seems to be a great fit.” Less
+- Ultimately, I’ve learned a lot in my current role, but I’m looking for the next step where I can continue to grow and use the skills I’ve honed at a company I love, and this opportunity seems to be a great fit.”
 
 </p>
 </details>
@@ -4973,7 +4983,7 @@ Generic, mostly non-technical questions. Lost my train of thought
 <details><summary>What are some of the problems a workstation may not connect to a network?</summary>
 <p>
 
-- Multiple of things can affect the workstation from not connecting. Such as if it was on the domain, is the IP address correct, is the NIC setup the right way, or if the firewall is blocking it from connecting. Less
+- Multiple of things can affect the workstation from not connecting. Such as if it was on the domain, is the IP address correct, is the NIC setup the right way, or if the firewall is blocking it from connecting.
 
 </p>
 </details>
@@ -5087,7 +5097,7 @@ Penetration Testing of web applications, APIs and thick client applications, thr
 <details><summary>What's important to lead the team?</summary>
 <p>
 
-- To be able to relate to the engineers at a level that makes feel safe and secure. Less
+- To be able to relate to the engineers at a level that makes feel safe and secure.
 
 </p>
 </details>
@@ -5174,7 +5184,7 @@ technical and personal, nothing out of the ordinary
 <details><summary>Q) (After 7 rounds of interview) Would you be able to take another round since the interviewer missed covering an area?</summary>
 <p>
 
-- Should have gone with "I am sorry! At this point, I want to discontinue the interview process". Less
+- Should have gone with "I am sorry! At this point, I want to discontinue the interview process".
 
 </p>
 </details>
@@ -5310,12 +5320,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5353,7 +5363,7 @@ Tell me about a time when you received tough/critical feedback.
 <details><summary>On which OEM's do you have hand's on experies</summary>
 <p>
 
-- Multi vendor OEM like checkpoint , Palo alto , F5 , Juniper PSA , Cisco ISE and Cisco Router Less
+- Multi vendor OEM like checkpoint , Palo alto , F5 , Juniper PSA , Cisco ISE and Cisco Router
 
 </p>
 </details>
@@ -5549,7 +5559,7 @@ How would you set up an email server?
 <details><summary>What will you do to if you handle a customer that knows a little to nothing about technology?</summary>
 <p>
 
-- I would place myself in their place and guide/inform them carefully and clearly. And always put in your mind that they have very little knowledge about technology. Less
+- I would place myself in their place and guide/inform them carefully and clearly. And always put in your mind that they have very little knowledge about technology.
 
 </p>
 </details>
@@ -5582,7 +5592,7 @@ Behavioral questions
 <details><summary>difference between http and https? I applied for it online then I was appointed for an interview. It was occured via Amazon Chime that smiliar to zoom, MS team. I took an hour including technical questions. some questions about generic security and network questions. they were not about cloud aws questions. SAML, SSO, ssl/tls, dns, routing, certficate revocation, etc</summary>
 <p>
 
-- port 80 (http) is not secure, while 443 https is secure since ssl/tls is deployed. Less
+- port 80 (http) is not secure, while 443 https is secure since ssl/tls is deployed.
 
 </p>
 </details>
@@ -5593,7 +5603,7 @@ Behavioral questions
 <details><summary>What is CIA ? give samples? why is it important? I applied for it online then I was appointed for an interview. It was occured via Amazon Chime that smiliar to zoom, MS team. I took an hour including technical questions. some questions about generic security and network questions. they were not about cloud aws questions. SAML, SSO, ssl/tls, dns, routing, certficate revocation, etc</summary>
 <p>
 
-- - confidentially (non-disclosure, encryption), Integrity(hashing-hmac)  and availabitity(resilent DDoS attack) Less
+- - confidentially (non-disclosure, encryption), Integrity(hashing-hmac)  and availabitity(resilent DDoS attack)
 
 </p>
 </details>
@@ -5604,7 +5614,7 @@ Behavioral questions
 <details><summary>certificate revocation. how to check it? why is it required, or fuction?</summary>
 <p>
 
-- there are 2 types of revocation that is dependent on your webbrowser process. please google it. Less
+- there are 2 types of revocation that is dependent on your webbrowser process. please google it.
 
 </p>
 </details>
@@ -5684,7 +5694,7 @@ Communication ability and style (verbally and written)
 <details><summary>Why I wanted to work for Zoom specifically.</summary>
 <p>
 
-- I did my research to make sure the job I was seeking aligned with my values and professional growth goals. I looked in to the CEO, I read about culture and other employee experiences, I researched work/life balance. I also read about the company's revenue and growth metrics and other business's commentaries on the work they do here. I made sure this was a place I would belong and wanted to belong. I also, since I work in information security, researched their outlook and buy-in to security to see if my job is an important asset to the company or if I'd be fighting an uphill battle everyday to prove the worth fo the work I do. Security is obviously a top priority for everyone as Zoom, so it was a match made in infosec heaven. Less
+- I did my research to make sure the job I was seeking aligned with my values and professional growth goals. I looked in to the CEO, I read about culture and other employee experiences, I researched work/life balance. I also read about the company's revenue and growth metrics and other business's commentaries on the work they do here. I made sure this was a place I would belong and wanted to belong. I also, since I work in information security, researched their outlook and buy-in to security to see if my job is an important asset to the company or if I'd be fighting an uphill battle everyday to prove the worth fo the work I do. Security is obviously a top priority for everyone as Zoom, so it was a match made in infosec heaven.
 
 </p>
 </details>
@@ -5976,7 +5986,7 @@ Describe all the mechanisms you would use to find passwords on a powered off dev
 <details><summary>RMF was the main focus /  very technical /</summary>
 <p>
 
-- I answered extremely well     (the internal guy got the job)  just be aware of the scenario interview fodder.  That appears to be a part of their HR Game Less
+- I answered extremely well     (the internal guy got the job)  just be aware of the scenario interview fodder.  That appears to be a part of their HR Game
 
 </p>
 </details>
@@ -5985,15 +5995,4 @@ Describe all the mechanisms you would use to find passwords on a powered off dev
 > 20 February 2021
 
 Can not disclose the questions.
-
-## Senior Applications Security Engineer, Zoom Video Communications
-> 19 February 2021
-
-The most interesting questions were walking them through my process of performing web and mobile application assessments, as well as walking them through exploiting several CVEs I had. 
-Finally there was some C and python code review, looking for standard bugs in C (Largely memory corruption related) and some web specific logic bugs.
-
-## Information Security Engineer, Zoom Video Communications
-> 19 February 2021
-
-I was asked to describe my background and experience how it was relevant to the job.
 
