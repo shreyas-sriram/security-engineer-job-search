@@ -1,3 +1,8 @@
+## Security Engineer, Lokalise
+> 14 September 2022
+
+Mostly just questions about my previous experience, and about the take-home task.
+
 ## Security Engineer, Ubuntu
 > 9 September 2022
 
@@ -115,7 +120,13 @@ wanted to apply but backed off as it's not a remote first company.
 ## Network Security Engineer, State Farm
 > 25 August 2022
 
-Is ping a layer 3 or layer 4 protocol?
+<details><summary>Is ping a layer 3 or layer 4 protocol?</summary>
+<p>
+
+- It's a layer 3, just for anyone who needs that information.
+
+</p>
+</details>
 
 ## Security Engineer II, Outreach
 > 25 August 2022
@@ -195,17 +206,17 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
@@ -929,12 +940,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -1132,17 +1143,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
+What is Authentication vs authorization?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
 Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 How do you do code reviews? Because that’s not how we do it here
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
-What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1379,12 +1390,12 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -2062,12 +2073,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -2431,12 +2442,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3009,10 +3020,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -3020,10 +3031,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -4464,12 +4475,12 @@ What are your contributions on your thesis?
 ## Senior Application Security Engineer, Atlassian
 > 6 July 2021
 
-Explain XSS.
+What is your ideal job like?
 
 ## Senior Application Security Engineer, Atlassian
 > 6 July 2021
 
-What is your ideal job like?
+Explain XSS.
 
 ## Senior Security Engineer, Applications Security, Genesys
 > 5 July 2021
@@ -4653,12 +4664,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -4708,12 +4719,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -4853,12 +4864,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5990,9 +6001,4 @@ Describe all the mechanisms you would use to find passwords on a powered off dev
 
 </p>
 </details>
-
-## Security Software Developer COOP, Nokia
-> 20 February 2021
-
-Can not disclose the questions.
 
