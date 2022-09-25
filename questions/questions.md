@@ -1,3 +1,63 @@
+## Application Security Engineer, HCL Technologies
+> 23 September 2022
+
+SQL injection, xss, card, owasp
+
+## Information Security Engineer, Equinix
+> 23 September 2022
+
+A number of questions from unrelated subject areas.
+
+## Senior Network Cyber Security Engineer, MetLife
+> 21 September 2022
+
+Basic technical questions in Networking and daily troubleshooting scenarios.
+
+## Senior Cloud Security Engineer, Citizens
+> 20 September 2022
+
+Describe your experience with Python.
+
+## Sr Security Engineer, Glassdoor
+> 20 September 2022
+
+I was asked about my experience with AWS, Security experience, familiarity with security tools.  Everything I would expect to be asked based on the job posting.
+
+## Security Engineer, Google
+> 20 September 2022
+
+- questions were asked on Network Security, Routers, Same origin policy, CORS, CSRF, XSS, How to secure Web Applications, Asymmetric vs symmetric encryption, OS security 
+
+Coding question - port scanning
+
+## Security Engineer, Adarma
+> 20 September 2022
+
+What are the different cloud offerings
+
+## Security Engineer, Arctic Wolf
+> 19 September 2022
+
+Defense -in-depth
+Mitre Attack
+Port numbers(21,80,443 etc)
+
+## Cyber Security Engineer, Robert Bosch India
+> 19 September 2022
+
+DBMS, Networking, Cryptography, Network Security
+
+## Network Security Engineer, Wipro
+> 18 September 2022
+
+Most of them are Scenario based and some very basic questions
+
+## Consulting System Engineer - Security, Fortinet
+> 16 September 2022
+
+Perguntas de todos os tipos, sobre conhecimentos técnicos, entre outros.
+Perguntas foram feitas em português, inglês e também em espanhol.
+
 ## Security Engineer, Lokalise
 > 14 September 2022
 
@@ -227,6 +287,11 @@ Mention a few MITRE Attack Techniques from the Tactic they gave me.
 > 20 August 2022
 
 Q: Tell me what you know about Pax8
+
+## Cyber Security Engineer, KloudOne
+> 19 August 2022
+
+How to improve Cloud security ?
 
 ## Security Engineer, Vinted
 > 19 August 2022
@@ -1148,12 +1213,12 @@ What is Authentication vs authorization?
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1422,7 +1487,7 @@ What is TCP IP handshake
 
 Out of bound SSRF, SQLI, RCE, writeups
 
-## Cyber Security Engineer, CSS Corporation
+## Cyber Security Engineer, Movate
 > 12 April 2022
 
 How’s success related to your passion?
@@ -1815,7 +1880,7 @@ Troubleshoot an application that wasn't responding at all
 
 What is the difference between a vulnerability and an exploit?
 
-## Network Security Engineer L2, Javi Systems India Pvt.
+## Network Security Engineer L2, Javi Systems
 > 15 March 2022
 
 <details><summary>Networking concepts, Cisco R & S
@@ -3020,10 +3085,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -3031,10 +3096,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -3595,7 +3660,7 @@ Do you think a 2FA implementation is a perfect/unbreakable solution for all the 
 
 Tell me about yourself and about your work experience?
 
-## Network Security Engineer, CSS Corporation
+## Network Security Engineer, Movate
 > 22 September 2021
 
 Ccna, tcp ip, routing switching
@@ -4475,12 +4540,12 @@ What are your contributions on your thesis?
 ## Senior Application Security Engineer, Atlassian
 > 6 July 2021
 
-What is your ideal job like?
+Explain XSS.
 
 ## Senior Application Security Engineer, Atlassian
 > 6 July 2021
 
-Explain XSS.
+What is your ideal job like?
 
 ## Senior Security Engineer, Applications Security, Genesys
 > 5 July 2021
@@ -4719,12 +4784,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -5331,12 +5396,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5848,7 +5913,7 @@ The questions during the interview were related to the job role and my experienc
 
 What are your threat modeling experiences?
 
-## Network Security Engineer, CSS Corporation
+## Network Security Engineer, Movate
 > 3 March 2021
 
 Basic English reading, writing and listening test in the first round.
@@ -5915,89 +5980,6 @@ Tell me about a time when you took on something you weren’t required to do
 <p>
 
 - Use a stack to load and deload parentheses pairs.
-
-</p>
-</details>
-
-## Security Engineer, 6sense
-> 26 February 2021
-
-Scenario based questions about OWASP security. Mitigations. AWS environments. improvements on overall security structure. SSDLC process, tools specific questions on implementations. DevsecOps. What happens if you type google in the browser and the possible threats.
-
-## Cyber-Security Engineer | Pen Tester, Praetorian
-> 25 February 2021
-
-<details><summary>What is the command-line option to set the source port for a nmap scan?</summary>
-<p>
-
-- -g or --source-port
-
-</p>
-</details>
-
-## Security Research Engineer, SecPod Technologies
-> 24 February 2021
-
-Round 1
-Easy security related questions. Uses of stack. Code for infix to postfix. Regex for identifying CVE numbers
-
-Round 2
-Difference between TCP and UDP. Which to use where. Other easy vulnerability related questions.
-
-Round 3
-HR round. General inquiry into life and future plans.
-
-Round 4
-More or less of round 3. Most difficult problem faced. Why security.
-
-## Security Engineer, Redfin
-> 23 February 2021
-
-Coding interview was the focus.
-
-## Security Engineer, Amazon
-> 23 February 2021
-
-- In my case it was more about coding, code review and situational questions.
-
-## Product Security Engineer, N26
-> 23 February 2021
-
-CTF
-Describe how will you handle when a developer pushes back for security fixes
-
-## Security Engineer, Auxilium Pharmaceuticals
-> 23 February 2021
-
-what is a CSRF and SSRF?
-
-## Cyber Security Threat Engineer, Garmin
-> 23 February 2021
-
-Scenarios, what happens if someone breaks into the site and so on.
-
-## Security Engineer, Amazon
-> 22 February 2021
-
-Explain OWSAP Top 10 and VPN connection
-
-## Network Security Engineer, Capgemini
-> 22 February 2021
-
-Any reason you are changing your job shorttime , we saw your profile very recently you are looking new job
-
-## Security Engineer, Google
-> 22 February 2021
-
-Describe all the mechanisms you would use to find passwords on a powered off device.
-
-## Cyber Security Engineer, Invictus International Consulting
-> 22 February 2021
-
-<details><summary>RMF was the main focus /  very technical /</summary>
-<p>
-
-- I answered extremely well     (the internal guy got the job)  just be aware of the scenario interview fodder.  That appears to be a part of their HR Game
 
 </p>
 </details>
