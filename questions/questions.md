@@ -1,3 +1,53 @@
+## Security Engineer - Penetration Testing, Amazon
+> 7 October 2022
+
+Web authentication,SSRF,CSRF,Scripting,Java code review,XSS,TLS handshake,encryption.Needed to have a very deep understanding of those.
+
+## Security Engineer, MongoDB
+> 6 October 2022
+
+Please describe some projects / initiatives you lead and any challenges that arose during the process.
+
+## Senior Security Engineer, Edward Jones
+> 5 October 2022
+
+Situational questions. Not much technical
+
+## Security Engineer, Amazon
+> 5 October 2022
+
+Q: How do ARP poisoning and DNS poisoning attacks work? Q: Tell me about a hard situation you had in your previous job.
+
+## Security Engineer, 10x Genomics
+> 3 October 2022
+
+The hiring manager will ask you all about the thread and process because it's his expertise :D I'm not sure how much would a Sec Engineer benefit from knowing thread/process while operating the Sec practices. I know it's a piece of it but not all, God! Ask, security questions please, you're not hiring a sys admin. I've had feedback from another friend that their approach to certain positions is not contemporary and they seem to be quite traditional. I will stay away from this company. I felt stressful during the interview.
+
+## Security Engineer, Astranis
+> 3 October 2022
+
+Went over my resume and talked about how great (!) the company is.
+
+## Security Engineer, Blue Shield Of California
+> 3 October 2022
+
+About my current role, how to secure systems, threat modeling.
+
+## Network Security Engineer, Binary Global
+> 3 October 2022
+
+Network basics firewalls packet flow
+
+## Cyber Security Engineer, Robert Bosch India
+> 2 October 2022
+
+project based questions and where do u see yourself in next 5 years
+
+## Cyber Security Engineer, Bayer
+> 1 October 2022
+
+It varies based upon interviewer.
+
 ## Cyber Security Engineer, Lockheed Martin
 > 29 September 2022
 
@@ -7,6 +57,11 @@ Behavioral questions and a couple technical questions about my coding language s
 > 27 September 2022
 
 What cyber security softwares/platforms have you used? What cyber related courses/certs do you plan to obtain before graduating?
+
+## Corporate Security Engineer, Highspot 
+> 27 September 2022
+
+Experience with 2 factor authentication?
 
 ## Security Engineer, 7-Eleven
 > 27 September 2022
@@ -95,6 +150,18 @@ Most of them are Scenario based and some very basic questions
 Perguntas de todos os tipos, sobre conhecimentos técnicos, entre outros.
 Perguntas foram feitas em português, inglês e também em espanhol.
 
+## Associate Cyber Security Engineer, MITRE
+> 16 September 2022
+
+Describe UDP.
+Describe OSI model.
+
+## Blockchain Security Engineer, CertiK
+> 15 September 2022
+
+The motivation of research projects? 
+Smart contract related questions
+
 ## Security Engineer, Lokalise
 > 14 September 2022
 
@@ -104,6 +171,17 @@ Mostly just questions about my previous experience, and about the take-home task
 > 9 September 2022
 
 What is an exceptional thing you have done , starting from highscool?
+
+## Senior Security Engineer, MITRE
+> 8 September 2022
+
+<details><summary>I was asked to create a presentation on a topic and present it.</summary>
+<p>
+
+- I created a presentation and stood up a PoC Demo of my work using FOSS and cloud hosting to demonstrate skill sets.
+
+</p>
+</details>
 
 ## Senior Security Engineer, Trade Republic
 > 8 September 2022
@@ -314,17 +392,17 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
@@ -1004,12 +1082,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -1221,12 +1299,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -1261,12 +1339,12 @@ How do you do code reviews? Because that’s not how we do it here
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1344,6 +1422,11 @@ What have you done in the past
 > 29 April 2022
 
 AppSec implementation, Security best practices, Different type of vulnerabilities and possible mitigation steps, etc
+
+## Blockchain Security Engineer, CertiK
+> 28 April 2022
+
+The first round is simply an LC Easy question; the second round is asking about multiple items on the resume while about the knowledge rigority in PL.
 
 ## Network Security Engineer, Integrity360
 > 27 April 2022
@@ -1503,12 +1586,12 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -2245,6 +2328,11 @@ It was more of a conversation honestly, getting to know me and my experience.
 
 What is a problem i solved affected my job?
 
+## Security Engineer, Quantumscape
+> 16 February 2022
+
+If you want to improve on one thing, what would it be?
+
 ## Senior DevSecOps Engineer: Container Security, Zoom Video Communications
 > 15 February 2022
 
@@ -2555,12 +2643,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3093,6 +3181,11 @@ IP subnetting
 Change management process and incident recovery experience
 Firewall and proxy experience
 
+## Product Security Engineer, DigitalOcean
+> 17 November 2021
+
+Q: Choose one of the OWASP top ten and describe it in detail.
+
 ## Information Security Systems Engineer (ISSE), Raytheon Technologies
 > 16 November 2021
 
@@ -3433,6 +3526,17 @@ What are your salary expectations?
 > 15 October 2021
 
 What is your cyber security related experience?
+
+## Senior Infrastructure & Security Engineer, Stoke Therapuetics
+> 14 October 2021
+
+<details><summary>They asked about my experiences with IT security compliance issues.</summary>
+<p>
+
+- I explained my experience with preparing for a SOC 2 Type 2 audit.
+
+</p>
+</details>
 
 ## Security Engineer, Figma
 > 14 October 2021
@@ -4419,17 +4523,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -4777,12 +4881,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5177,12 +5281,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5898,61 +6002,4 @@ What do you vision yourself to be in 5 years time?
 > 8 March 2021
 
 What are some of your favorite persistence mechanisms for macOS?
-
-## Information Security Engineer, Los Alamos National Laboratory
-> 8 March 2021
-
-<details><summary>What are the steps in RMF.</summary>
-<p>
-
-- I outlined the process of RMF lifecycle
-
-</p>
-</details>
-
-## Security Engineer, Alight Solutions
-> 6 March 2021
-
-OSI models
-Basic CCNA 
-Routing protocols and AD
-
-## Product Security Engineer, Meta
-> 6 March 2021
-
-- Application security related questions
-
-## Principal Cloud Security Engineer, Palo Alto Networks
-> 5 March 2021
-
-n/a
-
-## Network Security Engineer, Fortinet
-> 5 March 2021
-
-Tell me something about yourself
-Why Fortinet
-
-## Security Quality Assurance Engineer, IBM
-> 4 March 2021
-
-All questions around your resume.
-Technical and Behavioral questions. 
-Questions are asked on what you say at the interview.
-They ask you more and more around your answers.
-
-## Security Engineer, Zoom Video Communications
-> 4 March 2021
-
-The questions during the interview were related to the job role and my experience.  They mostly dived into remediating vulnerabilities and lot of follow up questions with different business requirements.
-
-## Security Engineer, Salesforce
-> 4 March 2021
-
-What are your threat modeling experiences?
-
-## Network Security Engineer, Movate
-> 3 March 2021
-
-Basic English reading, writing and listening test in the first round.
 
