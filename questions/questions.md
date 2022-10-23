@@ -1,7 +1,23 @@
+## Security Engineer, SecureData
+> 18 October 2022
+
+What are some of the things you demostrate product knowledge to clients?
+
+## Network Security Engineer, Wipro
+> 13 October 2022
+
+Firewalls, Network Security &amp; Network Architecture
+
 ## Application Security Engineer, SeatGeek
 > 13 October 2022
 
-1. First round was a Vulnerable Web Application Challenge. The time allotted for the round was 1 week and was a take-home test. Along with exploiting the application, a report had to be created for the challenge. 2. For the next round the interview got scheduled but the recruiter informed me that the position has already been filled.
+<details><summary>1. First round was a Vulnerable Web Application Challenge. The time allotted for the round was 1 week and was a take-home test. Along with exploiting the application, a report had to be created for the challenge. 2. For the next round the interview got scheduled but the recruiter informed me that the position has already been filled.</summary>
+<p>
+
+- Created a 10-page report which got me through to the next round.
+
+</p>
+</details>
 
 ## Security Engineer, Amazon
 > 12 October 2022
@@ -21,7 +37,13 @@ Explain some Native Cloud Security Services?
 ## Security DevOps Engineer, eToro Social Trading
 > 10 October 2022
 
-Home project Create a parsing and filtering mechanism to SIEM of Emails via GCP
+<details><summary>Home project Create a parsing and filtering mechanism to SIEM of Emails via GCP</summary>
+<p>
+
+- Created GCP project and pulled all emails from my gmail inbox with Python. Filtered them by certain criteria / ML (optionally) Set up VM for SaS SIEM and via Python module and integrated with it and parsed the filtered mails I declared as SPAM.
+
+</p>
+</details>
 
 ## Security Engineer Associate, Belvo
 > 10 October 2022
@@ -132,7 +154,7 @@ scripting challenge
 
 Security Domains, Culture Fit, Agile
 
-## Application Security Engineer, HCL Technologies
+## Application Security Engineer, HCLTech
 > 23 September 2022
 
 <details><summary>SQL injection, xss, card, owasp</summary>
@@ -219,6 +241,11 @@ Mostly just questions about my previous experience, and about the take-home task
 > 9 September 2022
 
 What is an exceptional thing you have done , starting from highscool?
+
+## Security Engineer, Mindtree
+> 9 September 2022
+
+Interviewer asked me about cyber attacks.
 
 ## Senior Security Engineer, MITRE
 > 8 September 2022
@@ -1352,12 +1379,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -1387,17 +1414,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
 How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 What is Authentication vs authorization?
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1675,6 +1702,11 @@ Out of bound SSRF, SQLI, RCE, writeups
 > 12 April 2022
 
 How’s success related to your passion?
+
+## Security Engineer, South 6
+> 12 April 2022
+
+What is it about this organization that interests you?
 
 ## Security Engineer, Avature
 > 12 April 2022
@@ -2322,12 +2354,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -2696,12 +2728,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -2943,6 +2975,11 @@ Q: How to integrate local domain and cloud provider credentials
 
 </p>
 </details>
+
+## Junior Security Software Engineer, TSS Consultancy
+> 21 December 2021
+
+Owasp top 10, networking fundamental
 
 ## Security Signature Engineer, Qualys
 > 21 December 2021
@@ -3279,10 +3316,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -3290,10 +3327,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -3408,7 +3445,7 @@ Risk assessment process and life cy
 
 Risk assessment process and life cy
 
-## Security Engineer, HCL Technologies
+## Security Engineer, HCLTech
 > 6 November 2021
 
 tools you have worked on mostly on ATP. and how to whitelist and all.
@@ -4939,12 +4976,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -4994,12 +5031,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -5339,12 +5376,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5979,35 +6016,4 @@ Communication ability and style (verbally and written)
 > 16 March 2021
 
 Experiencia laboral previa, conocimientos sobre tecnologías, tareas y responsabilidades del puesto ofrecido
-
-## Senior Cyber Security Engineer, Bluestaq
-> 15 March 2021
-
-<details><summary>A less serious interview question I was asked was Marvel or DC?</summary>
-<p>
-
-- There is no right answer to this question of course but I chose Marvel.
-
-</p>
-</details>
-
-## Security Solutions Engineer, Akamai
-> 14 March 2021
-
-Describe HTTP 1.2 and 2.0
-
-## Security Solutions Engineer, Akamai
-> 14 March 2021
-
-What is the ssl traffic?
-
-## Security Engineer, Flywire
-> 12 March 2021
-
-They asked no typical interview questions. They basically just asked for advice on IR, CTI, SecOps tooling and processes but framed the questions like it was an interview.
-
-## Security Engineer, Very Good Security
-> 12 March 2021
-
-Explain why you want to work at VGS
 
