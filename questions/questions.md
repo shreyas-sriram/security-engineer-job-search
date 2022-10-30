@@ -1,7 +1,92 @@
+## Application Security Engineer, Circle Internet Financial
+> 27 October 2022
+
+Essential security knowledge review and questions like "Why Circle?"
+
+## Security Engineer, GitLab
+> 26 October 2022
+
+How do you respond to incidents?
+
+## Security Engineer, Intel Corporation
+> 26 October 2022
+
+they asked me 3 questions the first one was easy but the solutions requierd 3 nested loops. the secend i dont remember and the third one was finding the angle beetwen the hands of the clock
+
+## Security Engineer, DataDome
+> 26 October 2022
+
+- Why DataDome? - What makes you a good candidate for this role? - Technical questions about the role - Background and usual presentation questions
+
+## Security Operations Engineer, Amazon
+> 25 October 2022
+
+IR, Protocols, Incident handling, Zero day, phishing
+
+## Senior Information Security Engineer, DTE Energy
+> 25 October 2022
+
+Give us an example of an obstacle you ran into and how was it overcome?
+
+## Security Engineer, Farm Credit Bank of Texas
+> 24 October 2022
+
+what is your experience with cloud security.
+
+## Security Engineer, Weights & Biases
+> 24 October 2022
+
+What sort of security signals would you monitor and track at a company?
+
+## Information Security Engineer, Lumen
+> 23 October 2022
+
+What have you done at different situations during previous jobs
+
+## Security Engineer, Meta
+> 23 October 2022
+
+Do you have any experience with privacy engineering?
+
+## Infrastructure Security Engineer, Riot Games
+> 22 October 2022
+
+Tell me about time when your experience at one company was beneficial at another company (something like that).
+
+## Information Security Engineer, Meta
+> 22 October 2022
+
+How would you secure a Data Centre?
+
+## Senior Applications Security Engineer, BigID
+> 21 October 2022
+
+Asked questions mostly related to software composition analysis.
+
+## Security Engineer, Amazon
+> 20 October 2022
+
+how would you handle IR response?
+
+## Senior Information Security Engineer, Aristocrat Technologies
+> 20 October 2022
+
+How would you run an incident/what do you look for.
+
+## Security Engineer, Dante International
+> 19 October 2022
+
+What security measure can be put in place by an organization in order to prevent email spoofing?
+
 ## Security Engineer, SecureData
 > 18 October 2022
 
 What are some of the things you demostrate product knowledge to clients?
+
+## Senior Security Engineer, LeanIX
+> 17 October 2022
+
+From past experience, interviewer was struggling to figure out if I fit 100 percent with the technical requriments whereas I had done far more that what was required for this role.
 
 ## Network Security Engineer, Wipro
 > 13 October 2022
@@ -153,6 +238,11 @@ scripting challenge
 > 23 September 2022
 
 Security Domains, Culture Fit, Agile
+
+## Senior Applications Security Engineer, Bayzat
+> 23 September 2022
+
+What are JWTs used for? Authorization or Authentication?
 
 ## Application Security Engineer, HCLTech
 > 23 September 2022
@@ -417,6 +507,11 @@ Sdlc process
 Security architecture 
 Completely all the modules of cybersecurity
 
+## Security Engineer, Itochu Techno-Solutions
+> 23 August 2022
+
+What kind of projects I have worked on in my previous jobs and how did I accomplish some of the more difficult tasks given.
+
 ## Principal Security Engineer, AgentSync
 > 23 August 2022
 
@@ -467,12 +562,7 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-What I think about ML-based security solutions?
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-How would I harden a Windows/Linux machine.
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
@@ -482,7 +572,12 @@ How directory traversal works and how would i detect it in a SIEM (what logs wou
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
+What I think about ML-based security solutions?
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+How would I harden a Windows/Linux machine.
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -957,11 +1052,6 @@ What does belonging mean to you?
 </p>
 </details>
 
-## Security Engineer, VEED.IO
-> 22 June 2022
-
-Questions were technically related to cloud security.
-
 ## Product Security Engineer, New York Digital Investment Group
 > 22 June 2022
 
@@ -1162,12 +1252,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -1211,12 +1301,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -1379,12 +1469,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -1419,12 +1509,12 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1666,7 +1756,7 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -1676,7 +1766,7 @@ What is one soft skill you would need to improve in order move to your next role
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -2354,12 +2444,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -3090,6 +3180,11 @@ getting an overview of my resume, further questions were asked.
 > 3 December 2021
 
 Basic networking knowledge, port numbers, appliance topology, and more.
+
+## Security Engineer, ITility
+> 3 December 2021
+
+Waarom heb je gekozen voor Itility
 
 ## Devops Security Engineer, HubSpot
 > 2 December 2021
@@ -4618,17 +4713,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -5176,12 +5271,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5376,12 +5471,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5860,160 +5955,4 @@ What is the CIA triad
 
 </p>
 </details>
-
-## Security Engineer, BambooHR
-> 23 March 2021
-
-How would you set up an email server?
-
-## Cloud Security Engineer, Trend Micro
-> 23 March 2021
-
-<details><summary>What will you do to if you handle a customer that knows a little to nothing about technology?</summary>
-<p>
-
-- I would place myself in their place and guide/inform them carefully and clearly. And always put in your mind that they have very little knowledge about technology.
-
-</p>
-</details>
-
-## Cyber Security Engineer, Within3
-> 22 March 2021
-
-Behavioral related questions as well as questions regarding previous experience
-
-## Senior Cyber Security Engineer, SPN Solutions
-> 22 March 2021
-
-What is your experience with scanning?
-
-## Security Engineer, Amazon
-> 21 March 2021
-
-OWASP Top-10 and mitigations
-Basic networking protocols
-Threat Modelling scenarios
-Basic security fundamentals
-Application security basics
-Scenario based security questions
-
-Behavioral questions
-
-## Junior cloud security engineer, Amazon
-> 21 March 2021
-
-<details><summary>difference between http and https? I applied for it online then I was appointed for an interview. It was occured via Amazon Chime that smiliar to zoom, MS team. I took an hour including technical questions. some questions about generic security and network questions. they were not about cloud aws questions. SAML, SSO, ssl/tls, dns, routing, certficate revocation, etc</summary>
-<p>
-
-- port 80 (http) is not secure, while 443 https is secure since ssl/tls is deployed.
-
-</p>
-</details>
-
-## Junior cloud security engineer, Amazon
-> 21 March 2021
-
-<details><summary>What is CIA ? give samples? why is it important? I applied for it online then I was appointed for an interview. It was occured via Amazon Chime that smiliar to zoom, MS team. I took an hour including technical questions. some questions about generic security and network questions. they were not about cloud aws questions. SAML, SSO, ssl/tls, dns, routing, certficate revocation, etc</summary>
-<p>
-
-- - confidentially (non-disclosure, encryption), Integrity(hashing-hmac)  and availabitity(resilent DDoS attack)
-
-</p>
-</details>
-
-## Junior cloud security engineer, Amazon
-> 21 March 2021
-
-<details><summary>certificate revocation. how to check it? why is it required, or fuction?</summary>
-<p>
-
-- there are 2 types of revocation that is dependent on your webbrowser process. please google it.
-
-</p>
-</details>
-
-## Junior cloud security engineer, Amazon
-> 21 March 2021
-
-How does it work when I type www.amazon.com? how does packets go over the internet?
-
-## Junior cloud security engineer, Amazon
-> 21 March 2021
-
-<details><summary>How does ssl/tls work? How about certification. CA authority etc.I applied for it online then I was appointed for an interview. It was occured via Amazon Chime that smiliar to zoom, MS team. I took an hour including technical questions. some questions about generic security and network questions. they were not about cloud aws questions. SAML, SSO, ssl/tls, dns, routing, certficate revocation, etc</summary>
-<p>
-
-- check diffie hellman process. be familar with public private key infrastructure
-
-</p>
-</details>
-
-## Network Security Engineer, Microland
-> 20 March 2021
-
-<details><summary>It was technical like vss and firewall</summary>
-<p>
-
-- yes good
-
-</p>
-</details>
-
-## Cyber Security Engineer, Penn State
-> 19 March 2021
-
-<details><summary>Owasp top 10, csa, firewalls</summary>
-<p>
-
-- Correxrly
-
-</p>
-</details>
-
-## Security Engineer, Milhouse Engineering & Construction
-> 19 March 2021
-
-What tools do you recommend for x?
-
-## Security Engineer, GitHub
-> 18 March 2021
-
-"Tell me about a time you developed a project and how far you worked with that project throughout it's lifecycle"
-
-## Security Engineer, Haven Technologies
-> 17 March 2021
-
-A) Security tools I worked with in the past
-
-## Security Engineer, Amazon
-> 16 March 2021
-
-technology and web fundamentals including cloud
-
-## Offensive Security Engineer, Zoom Video Communications
-> 16 March 2021
-
-If I know the difference between pentesting and red teaming.
-Experience with web app testing tools.
-Scripting/coding experience (in-depth, we actively analyzed code in an exercise)
-Basic security features and capabilities of PC (I said I was not Mac-heavy in experience)
-Attack vectors such as XSS, CSRF, injection, RFI, etc.
-Reporting and findings
-Communication ability and style (verbally and written)
-
-## Offensive Security Engineer, Zoom Video Communications
-> 16 March 2021
-
-<details><summary>Why I wanted to work for Zoom specifically.</summary>
-<p>
-
-- I did my research to make sure the job I was seeking aligned with my values and professional growth goals. I looked in to the CEO, I read about culture and other employee experiences, I researched work/life balance. I also read about the company's revenue and growth metrics and other business's commentaries on the work they do here. I made sure this was a place I would belong and wanted to belong. I also, since I work in information security, researched their outlook and buy-in to security to see if my job is an important asset to the company or if I'd be fighting an uphill battle everyday to prove the worth fo the work I do. Security is obviously a top priority for everyone as Zoom, so it was a match made in infosec heaven.
-
-</p>
-</details>
-
-## Security Engineer, Indra
-> 16 March 2021
-
-Experiencia laboral previa, conocimientos sobre tecnologías, tareas y responsabilidades del puesto ofrecido
 
