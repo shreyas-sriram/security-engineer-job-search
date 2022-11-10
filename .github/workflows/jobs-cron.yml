@@ -1,0 +1,35 @@
+on: push
+  
+  # sample cron job
+  # push:
+  # schedule:
+  #   - cron: "0 0 * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f ./scripts/requirements.txt ]; then pip install -r ./scripts/requirements.txt; fi
+          pip install html5lib
+      - name: Scrape magic
+        run: |
+          rm ./data/* || :
+          python3 ./scripts/jobs.py
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add ./data
+          git commit -m "[bot] scrape-`date`" || exit 0
+          git push --force
