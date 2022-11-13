@@ -1,3 +1,28 @@
+## Senior Security Engineer, Rapid
+> 10 November 2022
+
+Why did you choose RapidAPI?
+
+## Security Engineer, Datavant
+> 9 November 2022
+
+Looking at datavant’s tenets, what would you away about being nice and getting things done or whatever
+
+## Security Engineer, Datavant
+> 9 November 2022
+
+Looking at datavant’s tenets, how wound you go about less rules and getting more done or whatever
+
+## Security Engineer, Datavant
+> 9 November 2022
+
+What would your past supervisors say about you?
+
+## Security Engineer, Datavant
+> 9 November 2022
+
+Tell me …. What is your superpower?
+
 ## Senior Security Engineer
 > 9 November 2022
 
@@ -7,6 +32,11 @@ Mostly ethical hacking and pentesting questions in the web development field. Al
 > 8 November 2022
 
 SDL and cyber security related questions
+
+## Senior Security Engineer, Qualys
+> 6 November 2022
+
+Asked general questions about experience.
 
 ## Senior Security Engineer, Schneider Electric
 > 5 November 2022
@@ -27,6 +57,11 @@ Various technical &amp; security questions ranging from networking, operating sy
 > 1 November 2022
 
 - Implement LRU - [1,1,2,3,3,3,4,4] -&gt; is ordered with in place swaps, reorder to have unique int at the start of the array - k8s ports etc. - General design like Kafka, endpoints etc.
+
+## Network Security Engineer, Puget Sound Energy
+> 31 October 2022
+
+Personality question to see how you deal with people.
 
 ## Security Engineer, ExtraHop Networks
 > 31 October 2022
@@ -1532,12 +1567,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -1572,12 +1607,12 @@ What is Authentication vs authorization?
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -3474,10 +3509,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -3485,10 +3520,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -5189,12 +5224,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -5534,12 +5569,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5796,12 +5831,12 @@ Can you provide some insight into some workplace challenges you have managed and
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Tell me about yourself and how did you come to apply for this position with DNC.
+Various situational questions and how would I handle or what would be my suggestion to improve.
 
 ## Infrastructure Security Engineer, DNC
 > 11 April 2021
 
-Various situational questions and how would I handle or what would be my suggestion to improve.
+Tell me about yourself and how did you come to apply for this position with DNC.
 
 ## Security Engineer, ABB
 > 11 April 2021
@@ -5949,57 +5984,4 @@ Had to prepare 20 minutes technical presentation.
 > 30 March 2021
 
 How will you Connect to France exchange to your new startup?
-
-## Cloud Security Engineer, Verkada
-> 29 March 2021
-
-What is a route reflector for?
-
-## Cloud Security Engineer, Trend Micro Inc.
-> 28 March 2021
-
-<details><summary>Why did I finish college long enough</summary>
-<p>
-
-- Due to financial needs
-
-</p>
-</details>
-
-## Security Engineer, Abhijeet Group
-> 26 March 2021
-
-They asked me about a conflict situation
-
-## Senior Security Engineer, Vertafore
-> 26 March 2021
-
-What made you want to apply at Vertafore?
-
-## Security Engineer, Abbott
-> 26 March 2021
-
-<details><summary>What is asymmetric encryption? Symmetric encryption? How do you send the key to the other end user? What is SSH ? What is a shell? Difference of Nist and Cybersecurity Framework?</summary>
-<p>
-
-- Just do a google search of the most basic Cybersecurity questions
-
-</p>
-</details>
-
-## Security Engineer, emarsys
-> 26 March 2021
-
-Look at our GitHub what would you suggest to improve
-
-## Network Security Engineer, Deloitte
-> 25 March 2021
-
-<details><summary>how is Technical security managed</summary>
-<p>
-
-- Technically
-
-</p>
-</details>
 
