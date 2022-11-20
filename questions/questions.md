@@ -1,3 +1,44 @@
+## Security Engineer Intern, Uber
+> 16 November 2022
+
+Q: Have you done bug bounty before
+
+## Security Engineer, Activision Blizzard
+> 15 November 2022
+
+<details><summary>What is considered a low hanging fruit in security?</summary>
+<p>
+
+- Anything that is a preventable vulnerability that can apply to anything from infrastructure based to user based.
+
+</p>
+</details>
+
+## Information Security Engineer, Safaricom
+> 15 November 2022
+
+They ask the typical questions about the role and what you are expected to do.
+
+## Cyber Security Engineer, ING
+> 14 November 2022
+
+there was technical questions mostly. and some soft skills questions as well.
+
+## Applications Security Engineer, Peloton Interactive
+> 13 November 2022
+
+Tell us about your resume, and how it relates to the job description.
+
+## Network Security Engineer, Norfolk Southern
+> 13 November 2022
+
+Weird tests and lectures about management
+
+## Applications Security Engineer, Revolut
+> 13 November 2022
+
+What is the difference between Authorization and Authentication?
+
 ## Senior Security Engineer, Rapid
 > 10 November 2022
 
@@ -16,27 +57,54 @@ Looking at datavant’s tenets, how wound you go about less rules and getting mo
 ## Security Engineer, Datavant
 > 9 November 2022
 
-What would your past supervisors say about you?
+Tell me …. What is your superpower?
 
 ## Security Engineer, Datavant
 > 9 November 2022
 
-Tell me …. What is your superpower?
+What would your past supervisors say about you?
+
+## Security Engineer, ReliaQuest
+> 9 November 2022
+
+Had networking, Linux, and windows server questions. Most are basic.
 
 ## Senior Security Engineer
 > 9 November 2022
 
 Mostly ethical hacking and pentesting questions in the web development field. Also questions regarding the software development process and security architecture.
 
+## ICS Security Engineer, Airbus
+> 9 November 2022
+
+What was the topic of interest for this job? What technical experience do you have?
+
 ## Cyber Security Engineer, HCL
 > 8 November 2022
 
 SDL and cyber security related questions
 
+## Security Engineer, HighRadius
+> 7 November 2022
+
+<details><summary>Fundamentals of security, Frame works, Next Gen tools</summary>
+<p>
+
+- Good
+
+</p>
+</details>
+
 ## Senior Security Engineer, Qualys
 > 6 November 2022
 
-Asked general questions about experience.
+<details><summary>Asked general questions about experience.</summary>
+<p>
+
+- I am a disabled veteran and HR never followed up with the hiring manager for an interview.
+
+</p>
+</details>
 
 ## Senior Security Engineer, Schneider Electric
 > 5 November 2022
@@ -46,7 +114,13 @@ What was your most difficult customer experience and how did you resolve?
 ## Security Engineer
 > 4 November 2022
 
-What is your expected salary?
+<details><summary>What is your expected salary?</summary>
+<p>
+
+- The salary is negotiable within market average. If you exaggerate your initial offer, you will automatically be rejected without any chance of a counter-offer or any further negotiation
+
+</p>
+</details>
 
 ## Security Engineer, Adarma
 > 3 November 2022
@@ -131,12 +205,24 @@ What have you done at different situations during previous jobs
 ## Security Engineer, Meta
 > 23 October 2022
 
-Do you have any experience with privacy engineering?
+<details><summary>Do you have any experience with privacy engineering?</summary>
+<p>
+
+- No
+
+</p>
+</details>
 
 ## Infrastructure Security Engineer, Riot Games
 > 22 October 2022
 
-Tell me about time when your experience at one company was beneficial at another company (something like that).
+<details><summary>Tell me about time when your experience at one company was beneficial at another company (something like that).</summary>
+<p>
+
+- I talked about two SOC roles I consulted for at two different companies.
+
+</p>
+</details>
 
 ## Information Security Engineer, Meta
 > 22 October 2022
@@ -660,6 +746,11 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Security Engineer, EPAM Systems
@@ -671,11 +762,6 @@ What I think about ML-based security solutions?
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -697,6 +783,11 @@ Tell us something about yourself
 
 What's the difference between SAML and OAuth/OIDC?
 
+## Cloud Security Engineer - Networks, Amazon
+> 16 August 2022
+
+A lot of scenario-based questions covering DNS, DHCP, NAT/PAT, BGP, bandwidth usage, IPSEC, etc.
+
 ## Senior Security Engineer, Informatica
 > 16 August 2022
 
@@ -714,6 +805,11 @@ What's the difference between SAML and OAuth/OIDC?
 - What are common remediation techniques for the vulnerabilities you mentioned?
 - How do you secure an EC2 instance in AWS?
 - What role do you think IaC plays in setting up a secure cloud environment?
+
+## Security Engineer (f/m/d), DeepL
+> 15 August 2022
+
+How do you keep up to date with security related news?
 
 ## Application Security Engineer, Augmedix
 > 13 August 2022
@@ -1350,12 +1446,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -1567,12 +1663,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -1841,6 +1937,11 @@ My strengths and weaknesses because BigID sees the culture as a priority, which 
 
 Basic cloud security questions, not difficult at all.
 
+## Espionage Security Engineer Investigator, Meta
+> 16 April 2022
+
+Questions related to understanding of security.
+
 ## Security Engineer, 10x Genomics
 > 15 April 2022
 
@@ -1854,17 +1955,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+What is a project you are most proud of and what was its final result
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -4811,17 +4912,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -5569,12 +5670,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5908,80 +6009,4 @@ Normal technical question ..some coding and normal HR questions
 > 6 April 2021
 
 What challenges did you face in previous jobs and how did you overcome them?
-
-## Security Engineer, ManTech
-> 5 April 2021
-
-<details><summary>What was my biggest weakness?</summary>
-<p>
-
-- Take on too many tasks at once without finishing one.
-
-</p>
-</details>
-
-## Cyber Security Engineer, Cloudflare
-> 5 April 2021
-
-Explain in detail different  Linux commands, network architecture, etc
-
-## Security Engineer, Tinder
-> 5 April 2021
-
-Generic questions, asking about products and solutions.
-
-## Security Engineer, Deriv.com
-> 4 April 2021
-
-The questions were general security questions, for example, What is SQLi and types, What tools used for pen-testing (SQLmap, Metasploit ...), CIA triad, HTTPs .....
-
-## Security Engineer, Deriv.com
-> 4 April 2021
-
-The questions were general security questions, for example, What is SQLi and types, What tools used for pen-testing (SQLmap, Metasploit ...), CIA triad, HTTPs .....
-
-## Security Engineer, Deriv.com
-> 4 April 2021
-
-The questions were general security questions, for example, What is SQLi and types, What tools used for pen-testing (SQLmap, Metasploit ...), CIA triad, HTTPs .....
-
-## Security Engineer, Deriv.com
-> 4 April 2021
-
-The questions were general security questions, for example, What is SQLi and types, What tools used for pen-testing (SQLmap, Metasploit ...), CIA triad, HTTPs .....
-
-## Data Security Engineer, Block
-> 3 April 2021
-
-It was on of the leetcode hard design problems.
-
-## Presales Cyber Security Engineer, Diyar United
-> 2 April 2021
-
-If the white board in your office was filled with information, would you think of it and give it a thought or ignore it and assume it's not your business?
-
-## Senior Information Security Engineer, Aras
-> 1 April 2021
-
-Technical questions about my level of experience with various tools i.e. SIEM, IDS/IPS, NGFW, Azure AD.
-
-## Senior Cloud Network Security Engineer, Netskope
-> 30 March 2021
-
-Networking basics
-Networking troubleshooting
-Network Design
-Network Security fundamentals
-Network Security scenarios
-Technical deep dive into NG firewalls, Proxies, Load Balancers & VPNs
-
-## Security Engineer, SonarSource
-> 30 March 2021
-
-Had to prepare 20 minutes technical presentation.
-
-## Security Engineer, Optiver
-> 30 March 2021
-
-How will you Connect to France exchange to your new startup?
 
