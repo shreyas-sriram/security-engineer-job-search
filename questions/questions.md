@@ -1,3 +1,48 @@
+## Cloud Security Engineer, Citizens
+> 30 November 2022
+
+Q: What could I bring to the table to help this technical team. Q: Questions about my previous experiences and how I went about resolving issues &amp; finding out technical info. I also asked several questions back to Citizens on company culture, working environment, and the opportunties I had to grow with the company.
+
+## Senior Cyber Security Engineer, Jaguar Land Rover
+> 30 November 2022
+
+Are you OK to be relocated to the UK?
+
+## IT Security Engineer, Workhuman
+> 30 November 2022
+
+what is vulnerability? How would rate a vulnerability?
+
+## IT Security Engineer, Workhuman
+> 30 November 2022
+
+steps for achieving ISO27001 compliance
+
+## IT Security Engineer, Workhuman
+> 30 November 2022
+
+difference between risk and threat?
+
+## Security Engineer, Flexport
+> 28 November 2022
+
+I signed an NDA. But nothing crazy.
+
+## Cyber Security Engineer, Expleo Group
+> 26 November 2022
+
+Is snort the same as wireshark?
+
+## Senior Information Security Engineer, Intel Corporation
+> 25 November 2022
+
+Technical as well as personality questions
+
+## Security Engineer, DeepL
+> 24 November 2022
+
+The questions have covered everything from general views on the state of the art, to technical concepts, to detailed technical issues. The questions arose for the most part from an open conversation.
+
 ## Cyber Security Support Engineer, Trend Micro Inc.
 > 24 November 2022
 
@@ -7,6 +52,11 @@
 > 23 November 2022
 
 What kinds of research projects would you propose as soon as you joined the team.
+
+## Information Security Engineer, MongoDB
+> 23 November 2022
+
+I was asked about my interest on this role and my motivation to be part of the team/role, was asked about the information security concepts, OS related questions and few scenario based questions.
 
 ## Security Engineer, Yext
 > 22 November 2022
@@ -37,6 +87,11 @@ What's the difference between TCP 3 handshake and4handshake
 > 17 November 2022
 
 What previous technical projects have you worked on?
+
+## Application Security Engineer, SeatGeek
+> 16 November 2022
+
+Review source code of application, explain vulnerabilities found.
 
 ## Security Engineer Intern, Uber
 > 16 November 2022
@@ -182,6 +237,11 @@ Personality question to see how you deal with people.
 
 Perform mathematical operations in Python as indicated.
 
+## Security Engineer I, Expedia Group
+> 30 October 2022
+
+Architecture of Splunk. What is zero day attack? What is SSO &amp; SAML? What is a firewall. Difference in stateful and stateless firewall? What is Sql Injection ? Explain Log4j vulnerability? Incident Response Life Cycle? How to do host hardening? What is spoofing? Why are you looking for a change?
+
 ## Cyber Security Engineer, Arcfield
 > 29 October 2022
 
@@ -196,6 +256,11 @@ python/powershell coding
 > 28 October 2022
 
 analyse file
+
+## Sr Security Data Software Engineer, Databricks
+> 28 October 2022
+
+Coding questions were not algorithmic puzzles, but real life usage of calling web apis and processing data.
 
 ## Application Security Engineer, Circle Internet Financial
 > 27 October 2022
@@ -791,6 +856,11 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
@@ -802,11 +872,6 @@ How would I harden a Windows/Linux machine.
 > 20 August 2022
 
 Mention a few MITRE Attack Techniques from the Tactic they gave me.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -1014,6 +1079,16 @@ System design interview question was about designing large scale security system
 > 22 July 2022
 
 In case of security incident what was the first action
+
+## Security Engineer (MTS-1), Nutanix
+> 21 July 2022
+
+Web security (OWASP top 10) related questions.
+Prevention of common attacks.
+Privilege Escalation/Post exploitation.
+Network security.
+
+They showed me a request and response and asked me to find what can go wrong.
 
 ## Security Engineer, Verkada
 > 21 July 2022
@@ -1555,12 +1630,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -1763,12 +1838,12 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1897,6 +1972,11 @@ No interview questions were given.
 
 What experience do you have in AWS?
 
+## iOS Security Engineer, Binance
+> 25 April 2022
+
+Reverse engineering iOS binaries, communications, security vulnerabilities, webviews, cryptography, SSL/TLS implementation and pinning
+
 ## Network Security Engineer, Concentrix
 > 24 April 2022
 
@@ -2015,17 +2095,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+What is one soft skill you would need to improve in order move to your next role.
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is a project you are most proud of and what was its final result
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -2703,12 +2783,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -2909,6 +2989,15 @@ Signed NDA about this for the interview
 
 </p>
 </details>
+
+## Cyber Security Engineer, West End Diagnostic Imaging
+> 5 February 2022
+
+1)Tell me about yourself?
+2)How do you tackle situations under pressure?
+3)How do you resolve a conflict?
+4)Why do you want to work in Healthcare?
+5)Define the values you bring to the organization?
 
 ## Cloud Security Engineer, Guild Education
 > 4 February 2022
@@ -5530,12 +5619,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5912,90 +6001,4 @@ Tell me about your resume.
 > 20 April 2021
 
 Some very basic networking questions (standard ports for certain activities) as well as some basic command line commands (Windows/Linux) for the screening call.
-
-## Cloud Security Engineer, Trend Micro Inc.
-> 20 April 2021
-
-Questions mostly what i have written in my resume and little technical question regarding internet connection
-
-## Security Engineer Intern, Abarca
-> 19 April 2021
-
-What is a wrong impression people have gotten from you and how have you proved them wrong?
-
-## Senior Security Engineer, Cloud &amp;Amp; Infrastructure, Rokt
-> 16 April 2021
-
-It’s making me enter a question here.
-
-## Senior Security Engineer, Orange
-> 16 April 2021
-
-What's your day-to-day work. It's more of an open-ended question to get to know your experience, ...etc.
-
-## Senior Cyber Security Engineer, Ingenicomm
-> 16 April 2021
-
-Typical interview questions. What are you looking for and why?
-
-## Senior Cloud Security Engineer, OutSystems
-> 16 April 2021
-
-What is the key difference in doing security for cloud and On-Prem
-
-## Network Security Engineer, Pentagon System and Services
-> 16 April 2021
-
-Security topics like Network security fundamentals, firewall topologies and some basic concept of Routing and Switching
-
-## Security Incident Response Engineer, Twitch
-> 15 April 2021
-
-Why are you interested in this role? How much do you know about Twitch? A couple scenario questions about how I would approach a security incident.
-
-## Cyber Security Engineer, Raytheon Mission Operations and Services
-> 15 April 2021
-
-Background technologies used in security.
-
-## Cyber Security Engineer, Johns Hopkins University Applied Physics Laboratory
-> 13 April 2021
-
-General questions about prior experience.
-
-## Product Security Engineer, PayPay
-> 13 April 2021
-
-OpenSSL , Docker & Kubernetes, Scenario based questions, Most challenging task faced in my Security perspective career etc etc
-
-## Security Engineer, ShorePoint
-> 12 April 2021
-
-<details><summary>Scenario-based questions for penetration testing/red teaming</summary>
-<p>
-
-- With a scenario-based answer borne from years of experience in this field
-
-</p>
-</details>
-
-## Security Engineer, ShorePoint
-> 12 April 2021
-
-Scenario-based questions for penetration testing/red teaming
-
-## Sr Security Engineer, Included Health
-> 12 April 2021
-
-Can you provide some insight into some workplace challenges you have managed and describe how you handled or solved these issues?
-
-## Infrastructure Security Engineer, DNC
-> 11 April 2021
-
-Tell me about yourself and how did you come to apply for this position with DNC.
-
-## Infrastructure Security Engineer, DNC
-> 11 April 2021
-
-Various situational questions and how would I handle or what would be my suggestion to improve.
 
