@@ -1,3 +1,60 @@
+## Product Security Engineer, Boeing
+> 8 December 2022
+
+Tell me about your background?
+
+## Information Security Engineer, Cisco Systems
+> 8 December 2022
+
+Azure AD scenario based questions.
+
+## Product Security Engineer, Mews
+> 8 December 2022
+
+<details><summary>There was a scenario based question, which asked my thought process and resolution, based on a security incident. Overall it tested my overall understanding around security processes already known.</summary>
+<p>
+
+- My answers were closely tied to NIST security standards and frameworks.
+
+</p>
+</details>
+
+## Cloud Security Engineer, Millicom
+> 7 December 2022
+
+experiencia en el campo y certificaciones acreditadas que poseo en el campo
+
+## Security Engineer, Canonical
+> 6 December 2022
+
+Asked to submit written Interview
+
+## Security Engineer, League
+> 5 December 2022
+
+Why do you want to work for us
+
+## Security Correlation Engineer, IBM
+> 2 December 2022
+
+<details><summary>Azure sentinel and KQL questions</summary>
+<p>
+
+- Based on experience
+
+</p>
+</details>
+
+## Information Security Engineer, SIX
+> 2 December 2022
+
+What is your experience with Linux.
+
+## Cloud Security Engineer, Avnet
+> 2 December 2022
+
+"How would you determine how many jelly beans will fit in a suitcase?"
+
 ## Cloud Security Engineer, Citizens
 > 30 November 2022
 
@@ -27,6 +84,11 @@ difference between risk and threat?
 > 28 November 2022
 
 I signed an NDA. But nothing crazy.
+
+## Application Security Engineer, NetBrain Technologies
+> 28 November 2022
+
+Research Paper explanation on Resume, HTTP vs HTTPS, TCP/IP Overview, Cryptography (Asym and Sym)
 
 ## Cyber Security Engineer, Expleo Group
 > 26 November 2022
@@ -892,6 +954,11 @@ Tell us something about yourself
 > 18 August 2022
 
 I can not remember any specific questions, but I will say it was mostly centered around the technology and projects I have implemented in the past and also what experience I had with the technologies they currently use.
+
+## Security Engineer, Munich Re
+> 17 August 2022
+
+They asked about my cyber security experience.
 
 ## Security Engineer, PetSmart
 > 17 August 2022
@@ -1833,12 +1900,12 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -3166,12 +3233,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -5419,12 +5486,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5931,74 +5998,4 @@ Understanding of Technology
 
 </p>
 </details>
-
-## Security Engineer, The Motley Fool
-> 26 April 2021
-
-Which specific security systems did you personally implement? 
-Which specific security systems did you personally  manage?
-What challenges have you encountered in your prior security work and how did you overcome them?
-
-## Cyber Security Engineer, DataRemote
-> 26 April 2021
-
-technical and personal, nothing out of the ordinary
-
-## Senior Security Engineer, Riot Games
-> 26 April 2021
-
-<details><summary>Q) (After 7 rounds of interview) Would you be able to take another round since the interviewer missed covering an area?</summary>
-<p>
-
-- Should have gone with "I am sorry! At this point, I want to discontinue the interview process".
-
-</p>
-</details>
-
-## Cloud Security Engineer, Verkada
-> 23 April 2021
-
-Asked about my  experience and then specifics on networking
-
-## Senior Cyber Security Engineer, ITSC Secure Solutions
-> 23 April 2021
-
-They talked a lot about culture and how important it was and asked how culture plays a role in previous positions.  They also asked about long term goals and aspirations, and asked about your areas of passion.  They really seemed focused on finding the right person, not just a person that fits the job description.
-
-## Security Engineer, UST
-> 23 April 2021
-
-<details><summary>SIEM tool that I worked with</summary>
-<p>
-
-- Qradar , arcsight
-
-</p>
-</details>
-
-## Infrastructure Security Engineer, N26
-> 23 April 2021
-
-Not much was asked, most of the time was spent arguing (see above).
-
-## Security Engineer, ReliaQuest
-> 22 April 2021
-
-What are the layers of the OSI model and what do they do
-
-## Product Security Engineer, TuSimple
-> 21 April 2021
-
-General questions about my resume.
-Technical questions covering various fields.
-
-## Security Engineer, Ankura
-> 21 April 2021
-
-Tell me about your resume.
-
-## Security Solutions Engineer (Professional Services), Threat Stack
-> 20 April 2021
-
-Some very basic networking questions (standard ports for certain activities) as well as some basic command line commands (Windows/Linux) for the screening call.
 
