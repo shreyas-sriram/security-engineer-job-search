@@ -1,3 +1,39 @@
+## Security Engineer, TOYOTA Connected Corporation
+> 16 December 2022
+
+1. Threat Model 2. Coding 3. Basic owasp top 10
+
+## Endpoint Security Engineer, Atos
+> 15 December 2022
+
+Cómo te manejas cuando hay un problema donde hay que involucrar a más de uno en el equipo
+
+## Cloud Security Engineer, Ozow
+> 15 December 2022
+
+Technical interview covers cybersecurity (mainly AWS) concepts.
+
+## Application Security Engineer, Financeit
+> 14 December 2022
+
+Cant disclose NDA, sorry !
+
+## Senior Application Security Engineer, EcoVadis
+> 12 December 2022
+
+Will you be able to train other employees (share your knowledge)? Are you willing to take care of several security testing solutions that we currently have? In what areas would you like to expand your expertise?
+
+## Senior Security Engineer, Zalando
+> 11 December 2022
+
+<details><summary>Beyond what I could have imagined. Many technical questions (coming from my to-be line manager) had nothing to do with my role and responsibilities.</summary>
+<p>
+
+- The best I could
+
+</p>
+</details>
+
 ## Product Security Engineer, Boeing
 > 8 December 2022
 
@@ -18,6 +54,11 @@ Azure AD scenario based questions.
 
 </p>
 </details>
+
+## Security Engineer, NCS
+> 8 December 2022
+
+Q: Where do you see yourself in 5 years
 
 ## Cloud Security Engineer, Millicom
 > 7 December 2022
@@ -68,12 +109,12 @@ Are you OK to be relocated to the UK?
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-what is vulnerability? How would rate a vulnerability?
+steps for achieving ISO27001 compliance
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-steps for achieving ISO27001 compliance
+what is vulnerability? How would rate a vulnerability?
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
@@ -918,17 +959,17 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
@@ -1697,12 +1738,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -1900,7 +1941,7 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1910,7 +1951,7 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -2162,12 +2203,12 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -2850,12 +2891,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -3233,12 +3274,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3826,10 +3867,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -3837,10 +3878,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -4467,7 +4508,7 @@ what is OWASP TOP 10 ?
 
 what is called as web application ?
 
-## Summer: Software, Platform Or Security Engineer, BP
+## Summer: Software, Platform Or Security Engineer, bp
 > 16 September 2021
 
 <details><summary>What interests you in working in software development?</summary>
@@ -4882,6 +4923,11 @@ It was more about what my relevant experience was in relation to the job I was a
 > 19 August 2021
 
 Describe the difference in Hashing and Cryptography.
+
+## Security Engineer, RiverSafe
+> 19 August 2021
+
+General networking and security questions mostly
 
 ## Application Security Engineer, Checkmarx
 > 18 August 2021
@@ -5486,12 +5532,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5541,12 +5587,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -5686,12 +5732,12 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
@@ -5944,58 +5990,4 @@ questions were related to networking.
 > 30 April 2021
 
 How would you configure security tooling within an AWS account?
-
-## Associate Cyber Security Engineer, Immersive Labs
-> 30 April 2021
-
-Interactive assignment for technical fundamentals
-
-## Associate Cyber Security Engineer, Immersive Labs
-> 30 April 2021
-
-Interactive assignment for technical fundamentals
-
-## Security Engineer, DoorDash
-> 29 April 2021
-
-typical first interview questions. Asked about my back ground and experience in certain areas. Nothing too technical.
-
-## Security Engineer, ClarionDoor
-> 29 April 2021
-
-1. talk about your network security project
-2. talk about AES-ECB, what is the padding attack?
-3. If you have a web server, what ports will you open?
-4. What courses related to security did you have?
-5. How do you secure a web sever on AWS?
-
-## Network Security Engineer, Rackspace Technology
-> 29 April 2021
-
-where u wanna see yourself in next 3-5 years
-
-## Product Security Engineer, Fortress Information Security
-> 28 April 2021
-
-What are the differences and why would you use one set of analysis tools over the other.
-
-## Senior Information Security Engineer, Tinder
-> 28 April 2021
-
-Encryption
-AWS 
-Scenario-based questions
-Coding
-Understanding of Technology
-
-## Network Security Engineer, Doyen Infosolutions
-> 28 April 2021
-
-<details><summary>what have you learnt in your cybersecurity courses?</summary>
-<p>
-
-- I explained brief info about my CEH course and CPTE course.
-
-</p>
-</details>
 
