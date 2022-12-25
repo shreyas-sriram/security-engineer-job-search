@@ -1,3 +1,73 @@
+## Senior Security Engineer, Block
+> 22 December 2022
+
+Design a symmetric key management system and client interfaces.
+
+## Junior Security Engineer, Umlaut
+> 22 December 2022
+
+how did you find your entry to this industry because you dont major inthat subject?
+
+## Senior Security Engineer, Laerdal Labs D.C.
+> 22 December 2022
+
+Na interview questions are unpredictable
+
+## Cloud Security Engineer, Flo Health
+> 21 December 2022
+
+Q: What’s the difference between SIEM and XDR? Q: How do you calculate cyber security ROI?
+
+## Senior Security Engineer, DXC Technology
+> 21 December 2022
+
+Difference between Core XL and Secure XL? SIC Port number What is SNAT? TCP/IP Flags Troubleshooting questons.
+
+## Cyber Security Engineer, Gas South
+> 20 December 2022
+
+Why do you think we should Hire you?
+
+## Security Engineer Intern, Amazon
+> 19 December 2022
+
+7 layers of the OSI model
+
+## Security Engineer, EVBox
+> 18 December 2022
+
+Cloud security is important in their interview
+
+## Security Software Engineer, Hotjar
+> 18 December 2022
+
+Questions were all based on the job description
+
+## Infrastructure Security Engineer, Trade Republic
+> 17 December 2022
+
+Q: What drives you to join Trade Republic?
+
+## Security Engineer, Comerica
+> 16 December 2022
+
+Risk posture and what contributes to overall technology burden.
+
+## Cyber Security Engineer, Amazon
+> 16 December 2022
+
+How do you define risk, vulnerability, and threat, in the context of network security?
+
+## Security Engineer Intern, Amazon
+> 16 December 2022
+
+- OSI layer - cryptography
+
+## Graduate Cyber Security Engineer, Leonardo
+> 16 December 2022
+
+Technical questions about the topic area
+
 ## Security Engineer, TOYOTA Connected Corporation
 > 16 December 2022
 
@@ -345,11 +415,6 @@ Perform mathematical operations in Python as indicated.
 
 Architecture of Splunk. What is zero day attack? What is SSO &amp; SAML? What is a firewall. Difference in stateful and stateless firewall? What is Sql Injection ? Explain Log4j vulnerability? Incident Response Life Cycle? How to do host hardening? What is spoofing? Why are you looking for a change?
 
-## Cyber Security Engineer, Arcfield
-> 29 October 2022
-
-We just discussed my experience, how it would fit the role, etc.
-
 ## Cyber Security Engineer, Optiver
 > 28 October 2022
 
@@ -620,6 +685,11 @@ Explain TLS Handshake in detail
 
 - General OWASP 10 
 - Little coding question
+
+## Network Security Engineer, KPIT Technologies
+> 24 September 2022
+
+General question about network and security.
 
 ## Security Engineer, Optiver
 > 24 September 2022
@@ -969,12 +1039,12 @@ How would I harden a Windows/Linux machine.
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -1906,12 +1976,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -1946,12 +2016,12 @@ How do you do code reviews? Because that’s not how we do it here
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -1993,6 +2063,17 @@ Describe which vulnerabilities you have most enjoyed exploiting in the past.
 > 2 May 2022
 
 Describe which vulnerabilities you have most enjoyed exploiting in the past.
+
+## IT Security Engineer, Colony Brands
+> 2 May 2022
+
+<details><summary>Brief description of my prior employment, strengths/weakness, and what I could bring to the team.</summary>
+<p>
+
+- I translated my military skills to my current position.
+
+</p>
+</details>
 
 ## Security Engineer, Amazon
 > 1 May 2022
@@ -2208,12 +2289,12 @@ How would you assess and secure an acquired company and integrate their existing
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3274,12 +3355,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -5532,12 +5613,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5932,12 +6013,12 @@ I got many questions about firewalls, differences between multiple firewall type
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-What are you looking for in this role?
+Why do you want to leave your current role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
 
-Why do you want to leave your current role?
+What are you looking for in this role?
 
 ## Senior Security Engineer, ServiceNow
 > 8 May 2021
@@ -5959,35 +6040,4 @@ What is PKI and certificate management.
 > 6 May 2021
 
 Describe a situation from past work experience which was difficult .
-
-## Security Engineer, DigitalOcean
-> 6 May 2021
-
-How would you describe a good manager you had worked with in the past?
-
-## Security Consulting Engineer, Cisco Systems
-> 5 May 2021
-
-Penetration Testing of web applications, APIs and thick client applications, threat modelling, cloud security, loggingand monitoring, Patching
-
-## Senior Security Site Reliability Engineer, Arkose Labs
-> 4 May 2021
-
-<details><summary>What's important to lead the team?</summary>
-<p>
-
-- To be able to relate to the engineers at a level that makes feel safe and secure.
-
-</p>
-</details>
-
-## Security Engineer, Synopsys
-> 1 May 2021
-
-questions were related to networking.
-
-## AWS Security Engineer, LetsGetChecked
-> 30 April 2021
-
-How would you configure security tooling within an AWS account?
 
