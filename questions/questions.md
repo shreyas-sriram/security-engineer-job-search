@@ -1,3 +1,34 @@
+## Security Engineer, Google
+> 27 December 2022
+
+There are the normal questions any interviewer/person would ask but for specific technical questions you are asked not to share.
+
+## Security Engineer, Surprise.com
+> 27 December 2022
+
+Can you describe what you are doing in your current job. What is your experience troubleshooting an issue.
+
+## Jr Information Security Engineer, EarthLink Telecommunications
+> 27 December 2022
+
+Explain to me your College Journey and what's you graduation project
+
+## Senior Information Security Engineer, Infosys
+> 23 December 2022
+
+<details><summary>About the technical part and the previous work experience</summary>
+<p>
+
+- Explained on worked areas
+
+</p>
+</details>
+
+## Application Security Engineer, Diconium
+> 23 December 2022
+
+Discussion questions from my CV and tools and projects on which I worked.
+
 ## Senior Security Engineer, Block
 > 22 December 2022
 
@@ -179,12 +210,12 @@ Are you OK to be relocated to the UK?
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-steps for achieving ISO27001 compliance
+what is vulnerability? How would rate a vulnerability?
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-what is vulnerability? How would rate a vulnerability?
+steps for achieving ISO27001 compliance
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
@@ -1039,12 +1070,12 @@ How would I harden a Windows/Linux machine.
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -2011,17 +2042,17 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+
+## Senior Security Engineer, Citi
+> 6 May 2022
+
 How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
 What is Authentication vs authorization?
-
-## Senior Security Engineer, Citi
-> 6 May 2022
-
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -2289,12 +2320,12 @@ How would you assess and secure an acquired company and integrate their existing
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3355,12 +3386,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -3948,10 +3979,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -3959,10 +3990,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -5613,12 +5644,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5668,12 +5699,12 @@ Complete a coding exercise (live).
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain what deep packet analysis is/does.
+Explain the difference between segmentation and isolation.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
 
-Explain the difference between segmentation and isolation.
+Explain what deep packet analysis is/does.
 
 ## Security Operations Engineer II, Qualtrics
 > 15 June 2021
@@ -6014,30 +6045,4 @@ I got many questions about firewalls, differences between multiple firewall type
 > 8 May 2021
 
 Why do you want to leave your current role?
-
-## Senior Security Engineer, ServiceNow
-> 8 May 2021
-
-What are you looking for in this role?
-
-## Senior Security Engineer, ServiceNow
-> 8 May 2021
-
-Where do you see yourself in next 5 years?
-
-## Security Engineer, Salesforce
-> 7 May 2021
-
-OWASP top 10, Remediation techniques and latest vulnerability trend
-
-## Info Security Engineer, Wells Fargo
-> 7 May 2021
-
-Explain data level encryption.
-What is PKI and certificate management.
-
-## Security Engineer, Informatica
-> 6 May 2021
-
-Describe a situation from past work experience which was difficult .
 
