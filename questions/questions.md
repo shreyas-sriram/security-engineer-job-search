@@ -1,3 +1,28 @@
+## Security Engineer, Amazon
+> 5 January 2023
+
+Asked variety of problems including OSI models, hashing, cryptography, what happened after entering a URL, describe some basic attacks (XSS), threat modeling. Even asked a very simple coding question, no need to run the program.
+
+## Senior Security Engineer, Wipro
+> 4 January 2023
+
+Day to day work Recent attacks
+
+## Senior Network Security Engineer, NSEIT
+> 1 January 2023
+
+Questions based on Switching,Vlan,HSRP,STACKING and Firewalls
+
+## Product Security Engineer, Red Hat
+> 1 January 2023
+
+explain how XSS is performed
+
+## Security Engineer, Delek US
+> 30 December 2022
+
+What is the difference between encryption and hashes.
+
 ## Security Engineer, Google
 > 27 December 2022
 
@@ -11,7 +36,13 @@ Can you describe what you are doing in your current job. What is your experience
 ## Jr Information Security Engineer, EarthLink Telecommunications
 > 27 December 2022
 
-Explain to me your College Journey and what's you graduation project
+<details><summary>Explain to me your College Journey and what's you graduation project</summary>
+<p>
+
+- In my college we had a difficulties with teachers that not qualified for some of the important subjects in Communication Engineering like Computer Networking, FTTH and the most important one was the Packet Tracer which the teacher that responsible about, didn't teaches us that, that's when some of the students went and paid for courses to understand. My Graduation project is "Face Detection and Tracking using Open Computer Vision"
+
+</p>
+</details>
 
 ## Senior Information Security Engineer, Infosys
 > 23 December 2022
@@ -28,6 +59,11 @@ Explain to me your College Journey and what's you graduation project
 > 23 December 2022
 
 Discussion questions from my CV and tools and projects on which I worked.
+
+## Offensive Security Engineer, Amazon
+> 22 December 2022
+
+Tell me about a time when ....
 
 ## Senior Security Engineer, Block
 > 22 December 2022
@@ -292,6 +328,11 @@ What's the difference between TCP 3 handshake and4handshake
 
 What previous technical projects have you worked on?
 
+## Application Security Engineer, Surfshark
+> 17 November 2022
+
+Set up a VPN server
+
 ## Application Security Engineer, SeatGeek
 > 16 November 2022
 
@@ -356,12 +397,12 @@ Looking at datavant’s tenets, how wound you go about less rules and getting mo
 ## Security Engineer, Datavant
 > 9 November 2022
 
-What would your past supervisors say about you?
+Tell me …. What is your superpower?
 
 ## Security Engineer, Datavant
 > 9 November 2022
 
-Tell me …. What is your superpower?
+What would your past supervisors say about you?
 
 ## Security Engineer, ReliaQuest
 > 9 November 2022
@@ -1070,12 +1111,12 @@ How would I harden a Windows/Linux machine.
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -1790,12 +1831,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -2007,12 +2048,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -2320,12 +2361,12 @@ How would you assess and secure an acquired company and integrate their existing
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -5286,17 +5327,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -6010,39 +6051,4 @@ Describe your coding ability in several languages
 > 12 May 2021
 
 What are the challenges I've seen in security and what did I want to accomplish in the senior security engineer role at Benchschi.
-
-## Network Security Engineer, Orange Business Services
-> 12 May 2021
-
-What is the routing looping ?
-
-## Network Security Engineer, BMB
-> 11 May 2021
-
-Cisco, F5 , paloalto,forcepoint,ISE,FTD, FMC
-
-## Cyber Security Engineer, Oodle Car Finance
-> 11 May 2021
-
-Is there anything in the interview we could have done to attract you more to the company
-
-## Security Engineer, Clearco
-> 10 May 2021
-
-Describe your experience with SOAR platform, how did you set it up and what are the use-cases?
-
-## Application Security Engineer, MindGeek
-> 9 May 2021
-
-Do you have experience with container security?
-
-## Security Engineer, Cisco Systems
-> 9 May 2021
-
-I got many questions about firewalls, differences between multiple firewall types and IPS/IDS, and other networking-related questions. The Engineer holding my technical interview seemed rather a friendly senior colleague assessing my level of knowledge than someone judging me. There was no technical test for this role.
-
-## Senior Security Engineer, ServiceNow
-> 8 May 2021
-
-Why do you want to leave your current role?
 
