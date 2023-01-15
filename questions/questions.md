@@ -1,3 +1,38 @@
+## Security Engineer, Olo
+> 12 January 2023
+
+If you have to develop an SOC where would you start?
+
+## Cyber Security Threat Engineer, Trend Micro Inc.
+> 12 January 2023
+
+what is DDOS what is encryption what is hashing what is encoding
+
+## Security Engineer, Loadsmart
+> 11 January 2023
+
+Mostly questions about security trends and techniques.
+
+## Senior Information Security Engineer, BMC Software
+> 11 January 2023
+
+How to conduct an ITGC audit?
+
+## Security Engineer, Amazon
+> 11 January 2023
+
+Asked me theoretical definition and process of how PKI works.
+
+## Security DevOps Engineer, Deutsche Telekom
+> 10 January 2023
+
+What did I do at my previous employers
+
+## Offensive Security Engineer process, Halborn
+> 9 January 2023
+
+Proof of Stake vs Proof of Work, Most common attacks in blockchain
+
 ## Security Engineer, Amazon
 > 5 January 2023
 
@@ -1101,17 +1136,17 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
@@ -2083,12 +2118,12 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -2356,12 +2391,12 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3044,12 +3079,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -4246,6 +4281,13 @@ Initial interviews were about my experience, my current role, what are my intere
 
 Some of the technological questions were on topics such as:
 OIDC, SAML, SSO, AWS, S3, etc.
+
+## Full Time Engineer - Cyber Security, Robert Bosch India
+> 29 October 2021
+
+1. Explain the different ways in which a hacker can steal data from a company system.
+2. What do you think of when you hear the word Bosch?
+3. Explain the basic process behind Merge Sort.
 
 ## Information Security Engineer, Infosys
 > 27 October 2021
@@ -5997,58 +6039,4 @@ Create a program that generates all valid strings from phone numbers and keypad.
 > 21 May 2021
 
 Generic, mostly non-technical questions. Lost my train of thought
-
-## Security Engineer, Amazon
-> 20 May 2021
-
-<details><summary>when you type in amazon.com on your browser, explain what happens?</summary>
-<p>
-
-- Then USA amazon shopping portal website opens up.
-
-</p>
-</details>
-
-## Cyber Security Engineer, Forcepoint
-> 20 May 2021
-
-<details><summary>What are some of the problems a workstation may not connect to a network?</summary>
-<p>
-
-- Multiple of things can affect the workstation from not connecting. Such as if it was on the domain, is the IP address correct, is the NIC setup the right way, or if the firewall is blocking it from connecting.
-
-</p>
-</details>
-
-## Security Operations Engineer, Cloudflare
-> 18 May 2021
-
-Q: Tell me about a time you made a mistake - how did you handle that?
-
-## Cyber Security Engineer, Faith Technologies Incorporated
-> 17 May 2021
-
-How do you set up the devscops model?
-What are your recommendations to mature the security posture of the organization?
-How do you fit into the team?
-
-## Information Security Engineer, Blackboard
-> 16 May 2021
-
-Tell us more about your background.
-
-## Cyber Security Engineer, Palo Alto Networks
-> 13 May 2021
-
-Cloud computing
-
-## Application Security Engineer, PrimeRevenue
-> 13 May 2021
-
-Describe your coding ability in several languages
-
-## Senior Security Engineer, BenchSci
-> 12 May 2021
-
-What are the challenges I've seen in security and what did I want to accomplish in the senior security engineer role at Benchschi.
 
