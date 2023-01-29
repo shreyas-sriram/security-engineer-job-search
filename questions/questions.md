@@ -1,3 +1,18 @@
+## Security Engineer, Wisetack
+> 25 January 2023
+
+Please describe the security issue life cycle. Tell me about your experience in the security domain.
+
+## Network Security Engineer, Syndrome Technologies
+> 24 January 2023
+
+cleared 5 rounds of interview and then I was told that their budget was less than my current ctc. wasted one month and 4 rounds of interview time.
+
+## Embedded Hardware Security Engineer, Booz Allen Hamilton
+> 20 January 2023
+
+Process of reverse engineering embedded systems - How would I attack various devices?
+
 ## Security Engineer, Meta
 > 19 January 2023
 
@@ -6,7 +21,13 @@ How do you analysis process injection? If you were designing an EDR to detect in
 ## Security Engineer, Qualys
 > 18 January 2023
 
-TCP handshake and how to close a connection
+<details><summary>TCP handshake and how to close a connection</summary>
+<p>
+
+- Everyone moslty remembers the connection initiation but I was asked about connection termination which I could not answer correctly and that's what is important- the basics!
+
+</p>
+</details>
 
 ## Security Engineer, DoorDash
 > 18 January 2023
@@ -465,6 +486,17 @@ Tell us about your resume, and how it relates to the job description.
 
 Weird tests and lectures about management
 
+## Cyber Security Engineer, Confidential
+> 13 November 2022
+
+<details><summary>Solve a problem that most people would be uncomfortable to answer as the problem is shown unexpected</summary>
+<p>
+
+- I remained calm and asked questions to break the question in smaller logical components and before I could answer I tried to understand the question as much as possible.
+
+</p>
+</details>
+
 ## Applications Security Engineer, Revolut
 > 13 November 2022
 
@@ -488,12 +520,12 @@ Looking at datavant’s tenets, how wound you go about less rules and getting mo
 ## Security Engineer, Datavant
 > 9 November 2022
 
-Tell me …. What is your superpower?
+What would your past supervisors say about you?
 
 ## Security Engineer, Datavant
 > 9 November 2022
 
-What would your past supervisors say about you?
+Tell me …. What is your superpower?
 
 ## Security Engineer, ReliaQuest
 > 9 November 2022
@@ -1192,11 +1224,6 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
 Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
@@ -1208,6 +1235,11 @@ What I think about ML-based security solutions?
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -1922,12 +1954,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -1971,12 +2003,12 @@ Tell us a tool you would use to attack AD
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
+Why do you want to work with our firm?
 
 ## Security Engineer, TEKsystems
 > 24 May 2022
 
-Why do you want to work with our firm?
+I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
 
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
@@ -2174,7 +2206,7 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -2184,7 +2216,7 @@ How do you do code reviews? Because that’s not how we do it here
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -2447,17 +2479,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is one soft skill you would need to improve in order move to your next role.
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
 What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
+What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3135,12 +3167,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -3518,12 +3550,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -5425,17 +5457,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
-Design of security architecture
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
+Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -5783,12 +5815,12 @@ How would SOAP calls be tested in Burp?
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is an XXE injection?
+What is Java Deserialization? How would you find it?
 
 ## Senior Cyber Security Engineer, First Advantage
 > 19 June 2021
 
-What is Java Deserialization? How would you find it?
+What is an XXE injection?
 
 ## Security Engineer, Resideo
 > 18 June 2021
@@ -5983,35 +6015,15 @@ Asked what I knew about Windows endpoints and what I would do to protect them an
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Owasp top10
+Difference between hashing encryption encoding.
 
 ## Cyber Security Engineer, Chronus
 > 28 May 2021
 
-Difference between hashing encryption encoding.
+Owasp top10
 
 ## Applications Security Engineer, Flo Health
 > 28 May 2021
 
 How would you keep vulnerability metrics up to date?
-
-## Lead Security Engineer, Collabera
-> 27 May 2021
-
-How do you deal with conflict.
-
-## Security Engineer, UST
-> 27 May 2021
-
-From basics
-
-## Security Engineer, Plume Design
-> 26 May 2021
-
-Questions around my previous work and setting up secure practices for networking team and so on
-
-## Security Engineer, Synopsys
-> 26 May 2021
-
-CI / CD definitions, techniques applied during SAST
 
