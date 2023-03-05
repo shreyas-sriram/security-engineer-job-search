@@ -1,3 +1,53 @@
+## Security Engineer, Amazon Web Services
+> 1 March 2023
+
+The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of what you're describing. the situation, task, action
+
+## Applications Security Engineer, OpenText
+> 1 March 2023
+
+Technical will have coding questions and few other topics
+
+## Security Operations Engineer, Samsara
+> 28 February 2023
+
+What is your experience with Incident Response?
+
+## Network Security Engineer, Sophos
+> 28 February 2023
+
+dns, dhcp, ipsec , sssl
+
+## Cyber Security Engineer, Bugcrowd
+> 28 February 2023
+
+What's the plan for tomorrow
+
+## Application Security Engineer, Shipt
+> 28 February 2023
+
+Questions ranged from scenario-based to knowledge-based. 1&gt; Questions related to OWasp Top10 and specific vulnerabilities and how they would be mitigated. 2&gt; Given a scenario where you have to convince a developer to patch an issue, how would you go about it? 3&gt;Threat Modeling
+
+## Senior Application Security Engineer, NewDay
+> 27 February 2023
+
+Included chatting through CV, some technical questions relating to the role, some HR questions, and a technical exercise. The technical exercise was left open and allowed you to discuss the problems in front of you, which meant they were assessing your ability to do a job and have the right mindset rather than know specific technologies.
+
+## Junior Cyber Security Engineer, BIP
+> 26 February 2023
+
+Perchè vuoi lavorare con noi?
+
+## Enterprise Security Engineer, Grammarly
+> 25 February 2023
+
+Difference between incident and event. Describe the cyber kill chain.
+
+## Security Engineer, ING
+> 24 February 2023
+
+Technical questions related to cybersecurity.
+
 ## Security Engineer Intern, 1Password
 > 23 February 2023
 
@@ -543,6 +593,11 @@ What is your experience with Linux.
 
 Q: What could I bring to the table to help this technical team. Q: Questions about my previous experiences and how I went about resolving issues &amp; finding out technical info. I also asked several questions back to Citizens on company culture, working environment, and the opportunties I had to grow with the company.
 
+## Security Engineer, Clover
+> 30 November 2022
+
+One of the questions was around my opinion of employee privacy
+
 ## Senior Cyber Security Engineer, Jaguar Land Rover
 > 30 November 2022
 
@@ -551,12 +606,12 @@ Are you OK to be relocated to the UK?
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-steps for achieving ISO27001 compliance
+what is vulnerability? How would rate a vulnerability?
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-what is vulnerability? How would rate a vulnerability?
+steps for achieving ISO27001 compliance
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
@@ -1427,17 +1482,17 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
@@ -1551,7 +1606,7 @@ What would you do in these scenarios to scan your data?
 
 Build a web crawler that collects all links from web pages in o(n) time
 
-## Security Engineer, Sportsbet.com.au
+## Security Engineer, Sportsbet
 > 8 August 2022
 
 ELB default security options
@@ -2687,12 +2742,12 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
-What is a project you are most proud of and what was its final result
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3375,12 +3430,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -3644,7 +3699,7 @@ Rest all questions were above my IQ.
 
 What do you like about us?
 
-## Cyber Security Engineer, Sitel Group
+## Cyber Security Engineer, Foundever™
 > 30 January 2022
 
 <details><summary>What are the three pillars of information security ?</summary>
@@ -4351,10 +4406,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -4362,10 +4417,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -5941,67 +5996,4 @@ They were pretty standard questions, tailored to the experience on my resume. Th
 > 28 June 2021
 
 Describe a OAuth autnorization flow
-
-## IT Security Engineer, Acuity Insurance
-> 28 June 2021
-
-<details><summary>A common one that seemed to come up a few times was regarding how you view security practices.</summary>
-<p>
-
-- Answering it will various things like, least privilege, layered approach, etc opened a lot of discussion and gave me a chance to show how much I knew about broad best practices or my stance on things in the field.
-
-</p>
-</details>
-
-## Information Security Engineer, Iron Mountain
-> 25 June 2021
-
-Mostly asked about my experience based on my resume, and some use cases
-
-## Security Engineer, Nuveo
-> 25 June 2021
-
-Por quê você está saindo da sua última empresa?
-
-## Security Engineer, VMware
-> 25 June 2021
-
-CSRF, SOP, CORS, Path Traversal etc.
-
-## Java Security Developer, Wipro
-> 25 June 2021
-
-Project Architecture with Rest services
-
-## Senior Security Engineer, Everlaw
-> 24 June 2021
-
-What would you do to prevent cross site scripting attacks?
-
-## IT Security Engineer, Socure
-> 24 June 2021
-
-basic cyber security questions and self introduction.
-
-## IT Security Engineer, Socure
-> 24 June 2021
-
-basic cyber security questions and self introduction.
-
-## Concierge Security Engineer, Arctic Wolf
-> 23 June 2021
-
-Have you ever dealt with an X scenario and how did you manage it? (SOC related questions)
-
-## Concierge Security Engineer, Arctic Wolf
-> 23 June 2021
-
-Do you know the MITRE framework?
-
-## Senior Network and Security Engineer, Cirrus Networks
-> 22 June 2021
-
-Routing Protocols - BGP
-SD-WAN Meraki
-Switch port security
 
