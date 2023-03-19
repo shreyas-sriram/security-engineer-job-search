@@ -1,3 +1,48 @@
+## Security Engineer, Deel
+> 14 March 2023
+
+How many years of experience do you have?
+
+## Security Engineer, Hinge Health
+> 14 March 2023
+
+Most interview questions were based on the STAR method and behavioral based.
+
+## Security Engineer, 3M
+> 14 March 2023
+
+Technical questions related to Checkpoint mainly.
+
+## Security Engineer, Amazon
+> 14 March 2023
+
+Leadership principles Threat modeling System designing Code review
+
+## Application Security Engineer, Aircall
+> 13 March 2023
+
+Secops + AppsSec questions mainly.
+
+## Security Engineer, United Airlines
+> 12 March 2023
+
+Networks fundamental questions, network security questions during the technical round.
+
+## Software Engineer- Security, Zscaler
+> 11 March 2023
+
+Explain an initiative you took in your previous company.
+
+## Security Engineer, Grammarly
+> 9 March 2023
+
+1. Can you describe the managerial strengths and weaknesses at your previous and current employers? 2. From your first employer to your current one, can you discuss your manager's assessment of your strengths and weaknesses? 3. Could you describe a project that presented an insurmountable challenge, but that you ultimately overcame? 4. What qualities do you find difficult to work with in colleagues, and how do you handle those situations professionally? 5. Assume that you have set up a cafe. How would you trap people? Like setting by a fake access point, etc. 6. Can you discuss Reflected XSS and potential fixes? 7. How would you go about Threat Modeling for a new application? 8. What steps would you take to secure a newly created AWS account? 9. Could you walk me through your process for utilizing a CVSS calculator in assessing risk? 10. How would you differentiate between Symmetric and Asymmetric encryption? 11. Can you discuss the vulnerabilities present in previous versions of TLS compared to the latest version?
+
+## Junior Cyber Security Engineer, MITRE
+> 8 March 2023
+
+Explain basic components of a command loop.
+
 ## Cyber Security Support Engineer, Darktrace
 > 7 March 2023
 
@@ -38,6 +83,11 @@ They will send a online exam with about 50 questions and you need to answer in a
 
 The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of what you're describing. the situation, task, action
 
+## Security Engineer, Balyasny Asset Management
+> 1 March 2023
+
+Describe your experience with cloud technologies.
+
 ## Applications Security Engineer, OpenText
 > 1 March 2023
 
@@ -47,6 +97,11 @@ Technical will have coding questions and few other topics
 > 28 February 2023
 
 Tell me about yourself. how you handled a difficult situation in your previous job roles?
+
+## Security Engineer, Walt Disney Company
+> 28 February 2023
+
+- What is your management style? - How do you collaborate with your remote team member having emails and slack messages? - What bottlenecks did you have in your last projects, and what did you successfully address? - How to make sure some activity is done? - What do you do in your free time? - How do you work with an unfamiliar project?
 
 ## Security Operations Engineer, Samsara
 > 28 February 2023
@@ -102,6 +157,11 @@ Which flag in the [command] allows you to [do a thing]?
 > 21 February 2023
 
 They ask sql. Xss, xxe
+
+## Security Engineer, Pipe Technologies
+> 19 February 2023
+
+What are you looking for in your next job
 
 ## Security Software Engineer, Microsoft
 > 18 February 2023
@@ -597,6 +657,11 @@ Azure AD scenario based questions.
 </p>
 </details>
 
+## Security Automation Developer, Ameriprise
+> 8 December 2022
+
+encryption vs encoding
+
 ## Security Engineer, NCS
 > 8 December 2022
 
@@ -656,12 +721,12 @@ Are you OK to be relocated to the UK?
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-steps for achieving ISO27001 compliance
+what is vulnerability? How would rate a vulnerability?
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-what is vulnerability? How would rate a vulnerability?
+steps for achieving ISO27001 compliance
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
@@ -760,6 +825,7 @@ Q: Have you done bug bounty before
 <p>
 
 - Anything that is a preventable vulnerability that can apply to anything from infrastructure based to user based.
+- Servers or clients running old operating systems with unpatched applications.
 
 </p>
 </details>
@@ -818,12 +884,12 @@ Looking at datavant’s tenets, how wound you go about less rules and getting mo
 ## Security Engineer, Datavant
 > 9 November 2022
 
-What would your past supervisors say about you?
+Tell me …. What is your superpower?
 
 ## Security Engineer, Datavant
 > 9 November 2022
 
-Tell me …. What is your superpower?
+What would your past supervisors say about you?
 
 ## Security Engineer, ReliaQuest
 > 9 November 2022
@@ -902,11 +968,6 @@ Personality question to see how you deal with people.
 > 31 October 2022
 
 Perform mathematical operations in Python as indicated.
-
-## Security Engineer I, Expedia Group
-> 30 October 2022
-
-Architecture of Splunk. What is zero day attack? What is SSO &amp; SAML? What is a firewall. Difference in stateful and stateless firewall? What is Sql Injection ? Explain Log4j vulnerability? Incident Response Life Cycle? How to do host hardening? What is spoofing? Why are you looking for a change?
 
 ## Cyber Security Engineer, Optiver
 > 28 October 2022
@@ -1532,6 +1593,11 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Security Engineer, EPAM Systems
@@ -1543,11 +1609,6 @@ What I think about ML-based security solutions?
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -2278,12 +2339,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -2803,17 +2864,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+What is a project you are most proud of and what was its final result
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3491,12 +3552,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -4467,10 +4528,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -4478,10 +4539,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -5781,17 +5842,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
+Design of security architecture
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
-Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -5884,113 +5945,4 @@ Recall a time you failed at something?
 8. Explain about deserialization attack
 9. Explain what checks you perform on windows machine to exploit privilege escalation attack
 10. How you will perform pivoting attacks
-
-## Information Security Engineer Intern, Shaw Industries
-> 9 July 2021
-
-Asked about the star method and my experience
-
-## Security Engineer, Salesforce
-> 9 July 2021
-
-Too many tech questions in the get-to-know-you round. That too from googling.
-
-## Network Security Engineer, AceTeam Networks
-> 9 July 2021
-
-tell me about yourself
-career plan
-strength/weakness
-OSI layers
-Problem and solution on WiFi issues
-WiFi 6 questions
-
-## Offensive Security Engineer, Zoom Video Communications
-> 8 July 2021
-
-<details><summary>Hands-on knowledge, scenarios, and code reading.</summary>
-<p>
-
-- Through experience.
-
-</p>
-</details>
-
-## Security Engineer, iOPEX Technologies
-> 8 July 2021
-
-Self introduction, questions regarding our project, have you worked on Iot technology?
-
-## Software Engineer - Cloud Security, Microsoft
-> 8 July 2021
-
-Codility with three different questions. 90 min.
-
-## Software Engineer - Cloud Security, Microsoft
-> 8 July 2021
-
-<details><summary>Design a calculator and do some coding.</summary>
-<p>
-
-- Use a tree
-
-</p>
-</details>
-
-## Software Engineer - Cloud Security, Microsoft
-> 8 July 2021
-
-coding an iterator by yourself
-
-## Cloud Security Engineer, Trend Micro Inc.
-> 7 July 2021
-
-What are your contributions on your thesis?
-
-## Senior Application Security Engineer, Atlassian
-> 6 July 2021
-
-Explain XSS.
-
-## Senior Application Security Engineer, Atlassian
-> 6 July 2021
-
-What is your ideal job like?
-
-## Senior Security Engineer, Applications Security, Genesys
-> 5 July 2021
-
-What is Threat Modeling? 
-Which Threat Modelling process you follow? Explain How do you perform threat modeling?
-What is Application Security Architecture Review? Explain  with an example?
-Application Security Code Review Process? What is your approach in code review?
-What tools you use in Software composition analysis in your organization?
-Explain about Security pipelines used in current organization?
-Which code review tools you use? How much level of manual code review you perform? How do you validate the security issues identified in Code Review Tools?
-Explain Application Penetration Testing Process?
-What is your favourite pentesting tool?
-How you came into developement background?
-Which is your favourite development language? What all tools developed by you?
-What type of common vulnerabilities you encounter when performing security code review?
-Encryption and hashing standards?
-What is cipher suite? How encryption take place in SSL/TLS handshake?
-What is your approach when performing security assessment on development frameworks?
-Have you worked on any SIEM solution? 
-Have you worked on any Monitoring Solutions?
-
-## Information Security Engineer
-> 4 July 2021
-
-Describe yourself professionally and why should we hire you?
-
-## Cyber Security Engineer, BlueCross BlueShield of Tennessee
-> 3 July 2021
-
-<details><summary>I am not allowed to discuss the specific questions, but if you look at the job description it will set you up for success.</summary>
-<p>
-
-- Just be yourself :-)
-
-</p>
-</details>
 
