@@ -1,3 +1,23 @@
+## Email Security Engineer, Check Point Software Technologies
+> 20 March 2023
+
+They asked me to use Codility and complete one of the exercises.
+
+## Security Engineer, HashiCorp
+> 15 March 2023
+
+Third interview was with the Security Engineer. I was told by the recruiter the interview was going to be a behavioral one, but the engineer told me it was a technical one once we started talking. The engineer used to be a frontend developer, so he asked me questions about a project I did using ASP.NET, MySQL, and AWS for a website. What are some SQL queries you used? What are some data types inside MySQL? What version control system did you use to work with your team? How do you establish a connection between your website and the MySQL database? What's the purpose of POST and GET methods for your website?
+
+## Security Engineer, HashiCorp
+> 15 March 2023
+
+The interview with the Security Hiring Manager was a really wholesome conversation with no technical questions. What are your strengths/weaknesses? What would you do if your coworker decided to use Golang over Python (I told him earlier python was my go-to language). Talk to me a little bit about your projects and in which ones you had to implement security.
+
+## Security Engineer, HashiCorp
+> 15 March 2023
+
+Phone screen was a really nice conversation with the recruiter. She asked about me, described the role in more detail, and answered my questions. She did, at some point, ask about my cloud experience (I used AWS for one of my projects). So, judging from both the job description and this question, I could deduce the primary skill they were looking for was cloud experience.
+
 ## Security Engineer, Deel
 > 14 March 2023
 
@@ -8,6 +28,17 @@ How many years of experience do you have?
 
 Most interview questions were based on the STAR method and behavioral based.
 
+## Security Engineer, Pegasystems
+> 14 March 2023
+
+<details><summary>Q: "how would you describe yourself"</summary>
+<p>
+
+- A: "As a motivated individual"
+
+</p>
+</details>
+
 ## Security Engineer, 3M
 > 14 March 2023
 
@@ -16,7 +47,13 @@ Technical questions related to Checkpoint mainly.
 ## Security Engineer, Amazon
 > 14 March 2023
 
-Leadership principles Threat modeling System designing Code review
+<details><summary>Leadership principles Threat modeling System designing Code review</summary>
+<p>
+
+- Scenario based questions. Concepts are the usuals. Owasp top10 etc
+
+</p>
+</details>
 
 ## Application Security Engineer, Aircall
 > 13 March 2023
@@ -41,7 +78,13 @@ Explain an initiative you took in your previous company.
 ## Junior Cyber Security Engineer, MITRE
 > 8 March 2023
 
-Explain basic components of a command loop.
+<details><summary>Explain basic components of a command loop.</summary>
+<p>
+
+- (explained the components, pointing out their location on the diagram they had handy of a unique system they were interested in)
+
+</p>
+</details>
 
 ## Cyber Security Support Engineer, Darktrace
 > 7 March 2023
@@ -162,6 +205,11 @@ They ask sql. Xss, xxe
 > 19 February 2023
 
 What are you looking for in your next job
+
+## IT Security Engineer, Schwarz Dienstleistungen
+> 18 February 2023
+
+Was war ihre größte Schwierigkeit im bisherigen Beruf.
 
 ## Security Software Engineer, Microsoft
 > 18 February 2023
@@ -1186,6 +1234,11 @@ Explain your cloud cyber experience
 
 Q: How do ARP poisoning and DNS poisoning attacks work? Q: Tell me about a hard situation you had in your previous job.
 
+## Security Engineer, SaaS Labs
+> 5 October 2022
+
+application security related
+
 ## Security Engineer, 10x Genomics
 > 3 October 2022
 
@@ -1967,11 +2020,6 @@ How can you define a secure code?
 
 Describe how a malicious bot would attack a website.
 
-## Security Engineer, Deriv.com
-> 9 July 2022
-
-Please write a paragraph about two (2) of your direct reports in your most recent job, indicating their position titles, length of service, strengths, shortcomings, and overall work performance.
-
 ## Cyber Security Engineer, Kuehne+Nagel
 > 8 July 2022
 
@@ -2385,30 +2433,10 @@ What is Asymmetric Cryptography and where is it used
 
 Tell us a tool you would use to attack AD
 
-## Security Engineer, TEKsystems
-> 24 May 2022
-
-I know the money is low, but it will grow over time. Are you comfortable taking a low offer to get your foot in the door with the client?
-
-## Security Engineer, TEKsystems
-> 24 May 2022
-
-Why do you want to work with our firm?
-
 ## Senior Security Engineer, HashiCorp
 > 23 May 2022
 
 How do dynamically secure and store credentials used by a CI/CD pipeline to deploy infrastructure?
-
-## Security Engineer, PayScale
-> 23 May 2022
-
-Do you have any pets? If so, what do you have?
-
-## Security Engineer, PayScale
-> 23 May 2022
-
-Define the difference between risk and vulnerabilities.
 
 ## Network Security Engineer, Wipro
 > 23 May 2022
@@ -2591,12 +2619,12 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -3935,12 +3963,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -5927,22 +5955,4 @@ Could not understand most of the terms
 
 What is cybersecurity?
 Have you done any relevant job?
-
-## Senior Security Engineer, Zoom Video Communications
-> 13 July 2021
-
-Recall a time you failed at something?
-
-## Lead Application Security Engineer, S&P Global
-> 12 July 2021
-
-1. They come with python project, asked to identify bugs in python code
-2. They run the code and asked to how you enumerate application manually without using 3. nmap, dirbuster nor any automation tool.
-4. Explain about Json interoperatable attack
-5. Explain about Dependency confusion attack
-6. Explain about printspool attack 
-7. Explain how can get RFI with only having LFI vulnerability in php application
-8. Explain about deserialization attack
-9. Explain what checks you perform on windows machine to exploit privilege escalation attack
-10. How you will perform pivoting attacks
 
