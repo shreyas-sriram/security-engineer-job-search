@@ -1,7 +1,72 @@
+## Application Security Engineer, Amazon
+> 30 March 2023
+
+STAR Based Questions Code review Threat modelling questions, for ex: Explain the Threat modelling of a vending machine placed in your office or university library
+
+## Systems Security Engineer, Raytheon Technologies
+> 29 March 2023
+
+They asked a bunch of security questions like how would I secure an ATM? Also asked how familiar I was with software documentation.
+
+## Endpoint Security Engineer, Deloitte
+> 26 March 2023
+
+How does an EDR agent detect SQL injection attack on windows endpoint.
+
+## Senior Security Engineer, Coalfire
+> 24 March 2023
+
+Can you describe your experience with the DHS CDM program?
+
+## Cyber Security Engineer, Caelum Research
+> 24 March 2023
+
+Asked about experience and salary expectations
+
+## Cyber Security Engineer, ITCenter
+> 24 March 2023
+
+Questions related to previows jobs and tools that i have learned
+
+## Senior Application Security Engineer, Bayzat
+> 23 March 2023
+
+What do you know abot JWT? How JWT token works?
+
+## Cyber Security Engineer, PwC
+> 22 March 2023
+
+Tell us about a difficult time in your career.
+
+## Cyber Systems Security Engineer, Lockheed Martin
+> 22 March 2023
+
+How would you handle a situation where you and your team lead disagree
+
+## Information Security Engineer, Argonne National Laboratory
+> 22 March 2023
+
+How do work with other groups?
+
+## Senior Cyber Security Engineer, Roblox
+> 21 March 2023
+
+Both challenges were general logic challenges in your programming language of choice, but also not related to security.
+
 ## Email Security Engineer, Check Point Software Technologies
 > 20 March 2023
 
 They asked me to use Codility and complete one of the exercises.
+
+## Senior Application Security Engineer, Alma
+> 18 March 2023
+
+What's the difference between IDS vs Firewall Talk about AWS security protections and best practices How do you tune a firewall What security frameworks do you use Tell me about a time you received difficult feedback, and how did you handle it? How would you, personally, incorporate diversity practices into the workplace? Explain CSRF, CORS, SOP.
+
+## Security Engineer, Software AG
+> 16 March 2023
+
+To check if your programming core fundamentals are strong.
 
 ## Security Engineer, HashiCorp
 > 15 March 2023
@@ -26,7 +91,13 @@ How many years of experience do you have?
 ## Security Engineer, Hinge Health
 > 14 March 2023
 
-Most interview questions were based on the STAR method and behavioral based.
+<details><summary>Most interview questions were based on the STAR method and behavioral based.</summary>
+<p>
+
+- I made sure I knew how to answer STAR questions and prepped examples of what I thought they would ask. My recruiter was also fantastic and really helped to make sure I was fully prepared throughout my interviews.
+
+</p>
+</details>
 
 ## Security Engineer, Pegasystems
 > 14 March 2023
@@ -91,6 +162,11 @@ Explain an initiative you took in your previous company.
 
 Why would I want to work at darktrace
 
+## Security Engineer - Ubuntu, Canonical
+> 7 March 2023
+
+My background in security field
+
 ## Security Engineer, Brex
 > 7 March 2023
 
@@ -105,6 +181,11 @@ Why would I want to work at darktrace
 > 6 March 2023
 
 Active Directory and IT security related questions.
+
+## Security Engineer Intern, Flatiron Health
+> 4 March 2023
+
+Self-intro Parsing json https related sql injection related antivirus related hash function related vulnerbility detection related...
 
 ## Security Engineer, Publix
 > 3 March 2023
@@ -374,6 +455,11 @@ Can you name some root detection mechanims and/or tools to bypass them?
 
 Tell me what happens when you type a URL into a browser?
 
+## Security Engineer, Canonical
+> 30 January 2023
+
+Very strange asks about high school.
+
 ## Senior Security Engineer, AgentSync
 > 25 January 2023
 
@@ -398,6 +484,17 @@ Can I accommodate the mandated hours for the position?
 > 20 January 2023
 
 Process of reverse engineering embedded systems - How would I attack various devices?
+
+## Security Engineer, Canonical
+> 20 January 2023
+
+<details><summary>Written Long Interview: Engineering experience What security products have you worked on before? What were your responsibilities from a technical perspective? What kinds of software projects have you worked on before? Which operating systems, development environments, languages, databases? Would you describe yourself as a high quality coder? Why? Outline your thoughts on open source software development. What is important to get right in open source projects? What open source projects have you worked on? Have you been an open source maintainer, on which projects, and what was your role? How comprehensive would you say your knowledge of a Linux distribution is, from the kernel up? How familiar are you with low-level system architecture, runtimes and Linux distro packaging? How have you gained this knowledge? Outline your thoughts on quality in software development. What practices are most effective to drive improvements in quality? Outline your thoughts on documentation in large software projects. What practices should teams follow? What are great examples of open source docs? Education In high school, how did you rank competitively in maths and hard sciences? Which was your strongest? In high school, how did you rank competitively in languages and the arts? Which was your strongest? Which university and degree did you choose? What others did you consider, and why did you select that one? At university, did you do particularly well at any area of your degree? Overall, what was your degree result and how did that reflect on your ability? In high school and university, what did you achieve that was exceptional? What leadership roles did you take on during your education? Context Outline your thoughts on the mission of Canonical. What is it about the company's purpose and goals which is most appealing to you? What do you see as risky or unappealing? Who are Canonical's key competitors, and how should Canonical set about winning? Why do you most want to work for Canonical? What gets you most excited about this role?</summary>
+<p>
+
+- Like any normal person would do.
+
+</p>
+</details>
 
 ## Security Engineer, Meta
 > 19 January 2023
@@ -932,12 +1029,12 @@ Looking at datavant’s tenets, how wound you go about less rules and getting mo
 ## Security Engineer, Datavant
 > 9 November 2022
 
-Tell me …. What is your superpower?
+What would your past supervisors say about you?
 
 ## Security Engineer, Datavant
 > 9 November 2022
 
-What would your past supervisors say about you?
+Tell me …. What is your superpower?
 
 ## Security Engineer, ReliaQuest
 > 9 November 2022
@@ -1646,22 +1743,22 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
 What I think about ML-based security solutions?
 
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
+How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -2387,12 +2484,12 @@ Basic appsec process and SSH protocol details
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Implement a simple encryption algorithm
+Classic system design question but 10% perf/scaling focus, 90% security focus
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
 
-Classic system design question but 10% perf/scaling focus, 90% security focus
+Implement a simple encryption algorithm
 
 ## Senior Security Engineer, Datadog
 > 30 May 2022
@@ -2624,12 +2721,12 @@ Sql injection? Xss? Why would use Parameterized queries when you’re already im
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+How do you do code reviews? Because that’s not how we do it here
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-How do you do code reviews? Because that’s not how we do it here
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -2892,17 +2989,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 What is one soft skill you would need to improve in order move to your next role.
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3580,12 +3677,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -5870,17 +5967,17 @@ Security, Python, Automation, Detection, Networking.
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
-Design of security architecture
-
-## Security Engineer, Fireblocks
-> 22 July 2021
-
 Scenario based questions
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
 
 Past experience and projects dive deep
+
+## Security Engineer, Fireblocks
+> 22 July 2021
+
+Design of security architecture
 
 ## Security Engineer, Fireblocks
 > 22 July 2021
@@ -5906,53 +6003,4 @@ Email Security features and services for protecting email servers
 > 20 July 2021
 
 What kind of solutions we can use for controlling users access to Cloud Apps
-
-## Security Engineer Intern, Postman
-> 20 July 2021
-
-<details><summary>What is this ___ attack and How do you prevent it?</summary>
-<p>
-
-- ____ -&gt; I was asked about CSRF and XSS. I gave an example while explaining the vulnerability.I spoke about CORS policy, CSRF tokens etc...
-
-</p>
-</details>
-
-## Application Security Engineer, Red Ventures
-> 20 July 2021
-
-<details><summary>How would you automate security scanning? Describe a role that involved that automation?</summary>
-<p>
-
-- Provided about 4 different examples how I was currently conducting automation via Burp, zap, qualys and snyk
-
-</p>
-</details>
-
-## Security Engineer, Collective Health
-> 20 July 2021
-
-Why are you looking for a change?
-
-## Security Software Engineer, SpaceX
-> 20 July 2021
-
-How much do you know about different encryption schemes?
-
-## Applications Security Engineer, Paycom
-> 19 July 2021
-
-Tell me about the OWASP top 10
-
-## Security Engineer, Grab
-> 15 July 2021
-
-Basic security questions and process 
-Could not understand most of the terms
-
-## Cyber Security Engineer, PwC
-> 13 July 2021
-
-What is cybersecurity?
-Have you done any relevant job?
 
