@@ -1,7 +1,42 @@
+## Security Engineer, Citizens Property Insurance
+> 17 April 2023
+
+What's the difference between risk and vulnerability?
+
+## Senior Offensive Security Engineer, Synack
+> 17 April 2023
+
+Why do you want to join the company?
+
+## Security Engineer, Axians
+> 14 April 2023
+
+Quel est votre parcours ? Qu'aimez-vous faire de votre temps libre ?
+
+## Product Security Engineer, Poshmark
+> 14 April 2023
+
+Algorithm based online test on hackerrank, which is not much relevant or helpful at all
+
 ## Security Engineer II, Uber
 > 13 April 2023
 
 The interviewer asked to arrange elements into n buckets with equal or close to equal sum. discussed 2 approaches with the interviewer, and implemented both, however, both approaches yielded the wrong answers. The interviewer looked rigid and did not consider the alternate implementations as a solution or possible solution. Seems the make-or-break criteria was to get the answer correctly, and not how you are approaching the problem.
+
+## Security Engineer II, Choice Hotels
+> 13 April 2023
+
+Why does security interest me?
+
+## Security Engineer Intern, Harness
+> 12 April 2023
+
+Computer network security , basic cryptography techniques , in-depth project knowledge
+
+## Applications Security Engineer, Airwallex
+> 11 April 2023
+
+A team wants to deploy a web service on a traditional EC2 server. How do you secure that service at an application layer, at a host/EC2 layer, and at an infrastructure layer? Now that same application is being deployed using Kubernetes, what specific Kubernetes advice would you give? Explain SSRF, and give an example for how you'd use an SSRF to laterally move through an organisation. Explain CSRF, and how you could protect against it. How do SPF, DKIM & DMARC work? What happens when you type a URL into a browser? What happens when you you compile Java code and run it? Some questions regarding the operations and administration of Azure as an Admin/Operator around Azure DDR, ADP which I rejected. I have no experience in this area, nor does the role require it.
 
 ## Cyber Security Engineer, Leidos
 > 11 April 2023
@@ -57,12 +92,12 @@ Just focus on your skillset and prepare as per your resume
 ## Security Engineer, Canonical
 > 4 April 2023
 
-given a diagram, find the design flaw and suggest a fix
+given some basic C code, review it for errors, vulnerabilities, suggest Threat modeling approach, fixes & rewrite for modularity
 
 ## Security Engineer, Canonical
 > 4 April 2023
 
-given some basic C code, review it for errors, vulnerabilities, suggest Threat modeling approach, fixes & rewrite for modularity
+given a diagram, find the design flaw and suggest a fix
 
 ## Security Engineer, Canonical
 > 4 April 2023
@@ -84,10 +119,20 @@ How many services are currently listening on this system? Packet capture analysi
 
 General questions for first interview. Nothing technical.
 
+## Security Engineer, Populus Financial Group
+> 2 April 2023
+
+Internet protocol and NIST framework
+
 ## Security Engineer, Hyland
 > 31 March 2023
 
 Tell me a bit about your experience.
+
+## Cyber Security Engineer, Waterstons
+> 31 March 2023
+
+What are three things your friends would say about you?
 
 ## Application Security Engineer, Tyler Technologies
 > 31 March 2023
@@ -1039,12 +1084,12 @@ Are you OK to be relocated to the UK?
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-what is vulnerability? How would rate a vulnerability?
+steps for achieving ISO27001 compliance
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
 
-steps for achieving ISO27001 compliance
+what is vulnerability? How would rate a vulnerability?
 
 ## IT Security Engineer, Workhuman
 > 30 November 2022
@@ -1916,6 +1961,11 @@ While I don't want to give specifics, I enjoyed more of the open-ended questions
 ## Security Engineer, EPAM Systems
 > 20 August 2022
 
+Mention a few MITRE Attack Techniques from the Tactic they gave me.
+
+## Security Engineer, EPAM Systems
+> 20 August 2022
+
 How directory traversal works and how would i detect it in a SIEM (what logs would I see and what info in those logs)?
 
 ## Security Engineer, EPAM Systems
@@ -1927,11 +1977,6 @@ What I think about ML-based security solutions?
 > 20 August 2022
 
 How would I harden a Windows/Linux machine.
-
-## Security Engineer, EPAM Systems
-> 20 August 2022
-
-Mention a few MITRE Attack Techniques from the Tactic they gave me.
 
 ## Cyber Security Engineer, Pax8
 > 20 August 2022
@@ -2854,12 +2899,12 @@ How to secure cloud apps
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-What is your work & team structure? (Like why?)
+How many divisions do you have there? (Again why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
 
-How many divisions do you have there? (Again why?)
+What is your work & team structure? (Like why?)
 
 ## Senior Security Engineer, Oracle
 > 6 May 2022
@@ -2889,12 +2934,12 @@ Pick any 1 from OWASP 10 and explain
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
+What is Authentication vs authorization?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
 
-What is Authentication vs authorization?
+Sql injection? Xss? Why would use Parameterized queries when you’re already implementing prepared statements?
 
 ## Senior Security Engineer, Citi
 > 6 May 2022
@@ -3162,17 +3207,17 @@ I had a hacker rank challenge. They they scheduled a 45 mins technical interview
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
+What is a project you are most proud of and what was its final result
+
+## Security Engineer, Millennium Trust Company
+> 14 April 2022
+
 What is one soft skill you would need to improve in order move to your next role.
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
 
 How would you assess and secure an acquired company and integrate their existing applications into the current infrastructure
-
-## Security Engineer, Millennium Trust Company
-> 14 April 2022
-
-What is a project you are most proud of and what was its final result
 
 ## Security Engineer, Millennium Trust Company
 > 14 April 2022
@@ -3850,12 +3895,12 @@ Q: Do I know JavaScript?
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What web vulnerabilities  do you know, describe them.
+What do you expect from Krisp.
 
 ## Product Security Engineer, Krisp
 > 24 February 2022
 
-What do you expect from Krisp.
+What web vulnerabilities  do you know, describe them.
 
 ## Security Engineer Intern, Linode
 > 22 February 2022
@@ -4233,12 +4278,12 @@ What experience do you have with SAP or Workday?
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-What is your weakness and strengths?
+Tell me about your experience with programming.
 
 ## Information Security Analyst, IT Business Analyst, and Network Systems Engineer, Cleco
 > 20 January 2022
 
-Tell me about your experience with programming.
+What is your weakness and strengths?
 
 ## Senior Blockchain Security Engineer, Coinbase
 > 19 January 2022
@@ -4826,10 +4871,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
+<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
 <p>
 
-- Yes
+- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
 
 </p>
 </details>
@@ -4837,10 +4882,10 @@ What is your knowledge on agile projects?
 ## Senior Security Operations Engineer, Netflix
 > 15 November 2021
 
-<details><summary>How would you configure a SIEM to filter out a large amount of events?</summary>
+<details><summary>Did you apply for this position? :( / What is your ideal role?</summary>
 <p>
 
-- Mentioned data models, lookup tables, high IOPs, filtering at ingestion layer, filtering at script layer, etc.
+- Yes
 
 </p>
 </details>
@@ -6017,4 +6062,15 @@ Can you describe what your ideal incident response process would entail?
 > 3 August 2021
 
 Questions on Networking and and operating systems.
+
+## Sr. Security Engineer, Google
+> 2 August 2021
+
+<details><summary>Using a script of sudo code how would you create a report from two separate log files to concatenate the files together.</summary>
+<p>
+
+- Pull data from log file 1 into a data set.  Pull data from log file 2 into a different data set.  Export results of data set 1 + data set 2.
+
+</p>
+</details>
 
