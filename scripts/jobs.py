@@ -24,29 +24,6 @@ LEVER_API = 'https://jobs.lever.co/{}'
 
 KEYWORDS = ['Security', 'Privacy', 'Cybersecurity', 'Infosec', 'Red Team', 'Offensive']
 
-def pinterest():
-    COMPANY = 'pinterest'
-    API = 'https://jobsapi-google.m-cloud.io/api/job/search?&pageSize=30&offset=0&companyName=companies%2F201fe4ec-50f6-4262-92bf-3f1779cdcc41&query=security&orderBy=relevance%20desc'
-
-    res = requests.get(API)
-    if res.status_code != 200:
-        print('Something wrong: {}'.format(res.content))
-        return
-
-    res_json = res.json()
-    f = open('./data/{}.md'.format(COMPANY), 'a+')
-    
-    for result in res_json['searchResults']:
-        job_title = clean_html(result['summary']['job_title_snippet'])
-        job_url = result['job']['url']
-        
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
-        f.write(text_to_write)
-        print(text_to_write)
-
-    f.close()
-    return
-
 def uber():
     COMPANY = 'uber'
     API = 'https://www.uber.com/api/loadSearchJobsResults'
@@ -198,7 +175,6 @@ def netflix():
     f = open('./data/{}.md'.format(COMPANY), 'a+')
 
     for job in listings['positions']:
-        print(job['name'])
         if any(word in job['name'] for word in KEYWORDS):
             job_title = job['name']
             job_location = job['location']
@@ -291,7 +267,6 @@ def ashby(company):
 if __name__ == '__main__':
     misc_companies = [
         netflix,
-        pinterest,
         servicenow,
         # snap, # API changed
         spotify,
@@ -325,6 +300,7 @@ if __name__ == '__main__':
         'lyft', # greenhouse
         'nuro', # greenhouse
         'opendoor', # greenhouse
+        'pinterest', # greenhouse
         'praetorian', # greenhouse
         'qualtrics', # greenhouse
         'reddit', # greenhouse
