@@ -14,6 +14,8 @@ def print_company_header(company):
     print('--------- {} ----------'.format(company))
     print('-------------------------------------------------')
 
+ASHBY_API = 'https://api.ashbyhq.com/posting-api/job-board/{}'
+
 GREENHOUSE = 'https://boards.greenhouse.io/{}/jobs/{}'
 GREENHOUSE_EMBED = 'https://boards.greenhouse.io/embed/job_app?token={}'
 GREENHOUSE_API = 'https://api.greenhouse.io/v1/boards/{}/jobs'
@@ -37,78 +39,6 @@ def pinterest():
     for result in res_json['searchResults']:
         job_title = clean_html(result['summary']['job_title_snippet'])
         job_url = result['job']['url']
-        
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
-        f.write(text_to_write)
-        print(text_to_write)
-
-    f.close()
-    return
-
-def snap():
-    COMPANY = 'snap'
-    API = 'https://www.snap.com/api/jobs'
-
-    res = requests.get(API)
-    if res.status_code != 200:
-        print('Something wrong: {}'.format(res.content))
-        return
-
-    listings = res.json()
-    f = open('./data/{}.md'.format(COMPANY), 'a+')
-
-    for job in listings['data']['Report_Entry']:
-        if any(word in job['title'] for word in KEYWORDS):
-            job_title = job['title']
-            job_url = job['absolute_url']
-            
-            text_to_write = '{} - {}\n\n'.format(job_title, job_url)
-            f.write(text_to_write)
-            print(text_to_write)
-
-    f.close()
-    return
-
-def block():
-    COMPANY = 'block'
-    API = 'https://careers.smartrecruiters.com/Square/?search=security'
-
-    res = requests.get(API)
-    if res.status_code != 200:
-        print('Something wrong: {}'.format(res.content))
-        return
-
-    soup = BeautifulSoup(res.content, 'html5lib')
-    raw_data = soup.find('ul', attrs = {'data-page':'0'}).contents
-
-    f = open('./data/{}.md'.format(COMPANY), 'a+')
-
-    for data in raw_data:
-        job_title = data.find('h4').contents[0]
-        job_url = data.find('a')['href']
-        
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
-        f.write(text_to_write)
-        print(text_to_write)
-
-    f.close()
-    return
-
-def twitter():
-    COMPANY = 'twitter'
-    API = 'https://careers.twitter.com/content/careers-twitter/en/roles.careers.search.json?q=security&location=careers-twitter%3Asr%2Foffice%2Fus%2Fwashington&location=careers-twitter%3Asr%2Foffice%2Fus%2Fsunnyvale&location=careers-twitter%3Asr%2Foffice%2Fus%2Fseattle&location=careers-twitter%3Asr%2Foffice%2Fus%2Fsan-jose&location=careers-twitter%3Asr%2Foffice%2Fus%2Fsan-francisco&location=careers-twitter%3Asr%2Foffice%2Fus%2Fsacramento&location=careers-twitter%3Asr%2Foffice%2Fus%2Fremote-us&location=careers-twitter%3Asr%2Foffice%2Fus%2Foakland&location=careers-twitter%3Asr%2Foffice%2Fus%2Fnew-york-city&location=careers-twitter%3Asr%2Foffice%2Fus%2Fmiami&location=careers-twitter%3Asr%2Foffice%2Fus%2Flos-angeles&location=careers-twitter%3Asr%2Foffice%2Fus%2Fhillsboro-dc&team=&offset=0&limit=50&sortBy=modified&asc=false'
-
-    res = requests.get(API)
-    if res.status_code != 200:
-        print('Something wrong: {}'.format(res.content))
-        return
-
-    listings = res.json()
-    f = open('./data/{}.md'.format(COMPANY), 'a+')
-
-    for job in listings['results']:
-        job_title = job['title']
-        job_url = job['url']
         
         text_to_write = '{} - {}\n\n'.format(job_title, job_url)
         f.write(text_to_write)
@@ -253,6 +183,34 @@ def spotify():
     f.close()
     return
 
+def netflix():
+    COMPANY = 'netflix'
+    # num parameter is really useless; the results returned are always <= 10
+    API = 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&start=0&num=10&query=Security&sort_by=relevance'
+
+    res = requests.get(API)
+    if res.status_code != 200:
+        print('Something wrong: {}'.format(res.content))
+        return
+
+    listings = res.json()
+
+    f = open('./data/{}.md'.format(COMPANY), 'a+')
+
+    for job in listings['positions']:
+        print(job['name'])
+        if any(word in job['name'] for word in KEYWORDS):
+            job_title = job['name']
+            job_location = job['location']
+            job_url = job['canonicalPositionUrl']
+
+            text_to_write = f'{job_title} ({job_location}) - {job_url}\n\n'
+            f.write(text_to_write)
+            print(text_to_write)
+
+    f.close()
+    return
+
 # common API for companies using lever
 def lever(company):
     API = LEVER_API.format(company)
@@ -305,20 +263,45 @@ def greenhouse(company):
     f.close()
     return
 
+# common API for companies using Ashby
+def ashby(company):
+    API = ASHBY_API.format(company)
+
+    res = requests.get(API)
+    if res.status_code != 200:
+        print('Something wrong: {}'.format(res.content))
+        return
+
+    listings = res.json()
+
+    f = open('./data/{}.md'.format(company), 'a+')
+
+    for job in listings['jobs']:
+        if any(word in job['title'] for word in KEYWORDS):
+            job_title = job['title']
+            job_url = job['jobUrl']
+
+            text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+            f.write(text_to_write)
+            print(text_to_write)
+
+    f.close()
+    return
+
 if __name__ == '__main__':
     misc_companies = [
-        block,
+        netflix,
         pinterest,
         servicenow,
-        snap,
+        # snap, # API changed
         spotify,
-        twitter,
         uber,
     ]
 
     greenhouse_companies = [
         'airbnb', # greenhouse
         'airtable', # greenhouse
+        'andurilindustries', # greenhouse
         'appian', # greenhouse
         # 'arcticwolf', # greenhouse
         'asana', # greenhouse
@@ -333,7 +316,7 @@ if __name__ == '__main__':
         'cruise', # greenhouse
         'databricks', # greenhouse
         'datadog', # greenhouse
-        'doordash', # greenhouse
+        'doordashusa', # greenhouse
         'dropbox', # greenhouse
         'flexport', # greenhouse
         'grammarly', # greenhouse
@@ -341,22 +324,24 @@ if __name__ == '__main__':
         'instacart', # greenhouse
         'lyft', # greenhouse
         'nuro', # greenhouse
+        'opendoor', # greenhouse
         'praetorian', # greenhouse
         'qualtrics', # greenhouse
         'reddit', # greenhouse
         'retool', # greenhouse
-        'rippling', # greenhouse
         'robinhood', # greenhouse
         'scaleai', # greenhouse
         'stripe', # greenhouse
+        'verkada', # greenhouse
     ]
 
     lever_companies = [
-        'anduril', # lever
-        'opendoor', # lever
         'plaid', # lever
-        'netflix', # lever
-        'verkada', # lever
+    ]
+
+    ashby_companies = [
+        'openai', # ashby
+        'ramp', # ashby
     ]
     
     # miscellaneous
@@ -373,3 +358,8 @@ if __name__ == '__main__':
     for company in greenhouse_companies:
         print_company_header(company)
         greenhouse(company)
+
+    # ashby
+    for company in ashby_companies:
+        print_company_header(company)
+        ashby(company)
