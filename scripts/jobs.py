@@ -277,6 +277,7 @@ if __name__ == '__main__':
         'airbnb', # greenhouse
         'airtable', # greenhouse
         'andurilindustries', # greenhouse
+        'anthropic', # greenhouse
         'appian', # greenhouse
         # 'arcticwolf', # greenhouse
         'asana', # greenhouse
